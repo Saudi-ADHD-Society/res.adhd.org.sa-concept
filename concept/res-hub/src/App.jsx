@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { BookOpen, Activity, Users, Search, Menu, X, Award, Stethoscope } from 'lucide-react';
 import HomePage, { HomeHero } from './pages/HomePage.jsx';
 import TopicGuidesPage from './pages/evidence-insights/TopicGuidesPage.jsx';
@@ -26,13 +26,41 @@ import IrbRegulationsPage from './pages/governance/IrbRegulationsPage.jsx';
 import IrbProcessPage from './pages/governance/IrbProcessPage.jsx';
 import IrbGuidePage from './pages/governance/IrbGuidePage.jsx';
 
+const DEFAULT_PAGE = 'home';
+
+const getPageFromHash = () => {
+  if (typeof window === 'undefined') return DEFAULT_PAGE;
+  const rawHash = window.location.hash || '';
+  const hash = rawHash.replace('#', '').trim();
+  if (!hash) return DEFAULT_PAGE;
+  return hash;
+};
+
 // --- MAIN APP COMPONENT ---
 
 const App = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const [activeDropdown, setActiveDropdown] = useState(null);
-  const [activePage, setActivePage] = useState('home');
+  const [activePage, setActivePage] = useState(getPageFromHash());
+
+  const navigateToPage = useCallback((pageId, options = {}) => {
+    const { updateHash = false } = options;
+    const targetPage = pageId || DEFAULT_PAGE;
+
+    setActivePage(targetPage);
+    setIsMenuOpen(false);
+    setActiveDropdown(null);
+    window.scrollTo(0, 0);
+
+    if (updateHash && typeof window !== 'undefined') {
+      if (targetPage === DEFAULT_PAGE) {
+        window.location.hash = '';
+      } else {
+        window.location.hash = `#${targetPage}`;
+      }
+    }
+  }, []);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -41,6 +69,19 @@ const App = () => {
     window.addEventListener('scroll', handleScroll);
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
+
+  useEffect(() => {
+    const handleHashChange = () => {
+      const pageId = getPageFromHash();
+      navigateToPage(pageId, { updateHash: false });
+    };
+
+    const initialPage = getPageFromHash();
+    navigateToPage(initialPage, { updateHash: false });
+
+    window.addEventListener('hashchange', handleHashChange);
+    return () => window.removeEventListener('hashchange', handleHashChange);
+  }, [navigateToPage]);
 
   const navStructure = [
     {
@@ -131,10 +172,7 @@ const App = () => {
   ];
 
   const handleNavClick = (pageId) => {
-    setActivePage(pageId);
-    setIsMenuOpen(false);
-    setActiveDropdown(null);
-    window.scrollTo(0, 0);
+    navigateToPage(pageId, { updateHash: true });
   };
 
   const renderContent = () => {
@@ -191,11 +229,16 @@ const App = () => {
         return <IrbGuidePage onNavigate={handleNavClick} />;
       default:
         return (
-        <div className="text-center py-20">
+          <div className="text-center py-20">
             <h2 className="text-2xl font-bold text-slate-300">Content Coming Soon</h2>
             <p className="text-slate-500 mt-2">This section is currently being populated with data.</p>
-            <button onClick={() => setActivePage('home')} className="mt-6 text-emerald-600 font-bold hover:underline">Return Home</button>
-        </div>
+            <button
+              onClick={() => handleNavClick('home')}
+              className="mt-6 text-emerald-600 font-bold hover:underline"
+            >
+              Return Home
+            </button>
+          </div>
         );
     }
   };
@@ -217,7 +260,7 @@ const App = () => {
         <div className="max-w-7xl mx-auto px-4 md:px-8">
           <div className="flex justify-between items-center">
             
-            <div className="flex items-center space-x-3 cursor-pointer" onClick={() => setActivePage('home')}>
+            <div className="flex items-center space-x-3 cursor-pointer" onClick={() => handleNavClick('home')}>
               <div className="w-10 h-10 bg-emerald-600 rounded-lg flex items-center justify-center text-white font-bold text-xl shadow-md">
                 R
               </div>
