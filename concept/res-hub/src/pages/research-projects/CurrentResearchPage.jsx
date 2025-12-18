@@ -60,7 +60,7 @@ const CurrentResearchPage = ({ onNavigate }) => (
           <li>• Co-design workshops with clinicians and families planned</li>
         </ul>
         <button
-          onClick={() => onNavigate('adhd-cpg')}
+          onClick={() => onNavigate('cpg-overview')}
           className="mt-auto inline-flex items-center text-sm font-semibold text-emerald-700 hover:text-emerald-800"
         >
           View ADHD CPG Overview

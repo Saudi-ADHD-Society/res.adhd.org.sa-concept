@@ -14,7 +14,8 @@ import ResearchBriefCpgAdaptationPage from './pages/evidence-insights/ResearchBr
 import ResearchBriefArabWorldPage from './pages/evidence-insights/ResearchBriefArabWorldPage.jsx';
 import CurrentResearchPage from './pages/research-projects/CurrentResearchPage.jsx';
 import ResearchOutputPage from './pages/research-projects/ResearchOutputPage.jsx';
-import CpgPage from './pages/clinical-tools/CpgPage.jsx';
+import CpgOverviewPage from './pages/research-projects/CpgOverviewPage.jsx';
+import CpgContentPage from './pages/clinical-tools/CpgContentPage.jsx';
 import InteractiveScalesPage from './pages/clinical-tools/InteractiveScalesPage.jsx';
 import FunctionalAssessmentPage from './pages/clinical-tools/FunctionalAssessmentPage.jsx';
 import HcpResourcesPage from './pages/clinical-tools/HcpResourcesPage.jsx';
@@ -46,6 +47,7 @@ const PAGE_HIERARCHY = {
   'research-brief-agree-ii': 'research-briefs',
   'research-brief-cpg-adaptation': 'research-briefs',
   'research-brief-arab-world': 'research-briefs',
+  'cpg-overview': 'current-research',
 };
 
 // Get full path for a page (including parent if it's a sub-page)
@@ -196,9 +198,9 @@ const App = () => {
       icon: <Stethoscope size={18} />,
       items: [
         {
-          name: "ADHD CPG Overview",
+          name: "Saudi National ADHD CPG",
           id: "adhd-cpg",
-          desc: "Overview and access to the Saudi National ADHD CPG."
+          desc: "The Saudi National ADHD Clinical Practice Guideline content."
         },
         {
           name: "Rating Scales & Assessment Tools",
@@ -272,10 +274,12 @@ const App = () => {
         return <ResearchBriefArabWorldPage onNavigate={handleNavClick} />;
       case 'current-research':
         return <CurrentResearchPage onNavigate={handleNavClick} />;
+      case 'cpg-overview':
+        return <CpgOverviewPage />;
       case 'research-output':
         return <ResearchOutputPage />;
       case 'adhd-cpg':
-        return <CpgPage />;
+        return <CpgContentPage />;
       case 'interactive-scales':
         return <InteractiveScalesPage />;
       case 'functional-assessment':

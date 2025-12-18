@@ -1,7 +1,7 @@
 import React from 'react';
 import { ExternalLink } from 'lucide-react';
 
-const CpgPage = () => (
+const CpgOverviewPage = () => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
     <div className="flex justify-between items-start">
       <div>
@@ -116,8 +116,8 @@ const CpgPage = () => (
           <div className="font-semibold text-slate-900 mb-1">Training &amp; Awareness</div>
           <p className="text-slate-600">
             Uneven ADHD knowledge and limited familiarity with the CPG in primary care, pediatrics, and school health
-            settings. Participants emphasized the need for role-specific training, simple checklists, and brief “action
-            aids” that make it easier for non-specialists to apply the guideline correctly.
+            settings. Participants emphasized the need for role-specific training, simple checklists, and brief "action
+            aids" that make it easier for non-specialists to apply the guideline correctly.
           </p>
         </div>
 
@@ -156,7 +156,7 @@ const CpgPage = () => (
       <p className="text-slate-600 text-sm md:text-base">
         In addition to the upcoming 2025–2026 major update cycle, the first edition of the Saudi ADHD CPG has already
         undergone a series of minor revisions. These incremental updates were reviewed and approved by the Saudi ADHD
-        Society’s Psychological and Medical Committee and are summarised on the CPG microsite.
+        Society's Psychological and Medical Committee and are summarised on the CPG microsite.
       </p>
 
       <div className="grid md:grid-cols-3 gap-4 text-xs md:text-sm">
@@ -293,4 +293,4 @@ const CpgPage = () => (
   </div>
 );
 
-export default CpgPage;
+export default CpgOverviewPage;

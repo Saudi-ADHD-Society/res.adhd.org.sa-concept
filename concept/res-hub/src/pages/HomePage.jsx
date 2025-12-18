@@ -287,7 +287,7 @@ const HomePage = ({ onNavigate }) => (
              The definitive guide for ADHD diagnosis and management in the Kingdom. Browse by chapter or search specific recommendations.
            </p>
            <div className="flex gap-3 mt-auto">
-             <button onClick={() => onNavigate('adhd-cpg')} className="flex-1 bg-slate-50 hover:bg-slate-100 text-slate-700 border border-slate-200 py-2 rounded-lg text-sm font-semibold transition-colors">
+             <button onClick={() => onNavigate('cpg-overview')} className="flex-1 bg-slate-50 hover:bg-slate-100 text-slate-700 border border-slate-200 py-2 rounded-lg text-sm font-semibold transition-colors">
                View Overview
              </button>
              <button onClick={() => onNavigate('adhd-cpg')} className="flex-1 bg-emerald-50 hover:bg-emerald-100 text-emerald-800 border border-emerald-200 py-2 rounded-lg text-sm font-semibold transition-colors">
