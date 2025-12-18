@@ -1,5 +1,95 @@
 import React from 'react';
-import { ChevronRight, ArrowRight, FileText, Activity, Users, BarChart2, BookOpen } from 'lucide-react';
+import { ChevronRight, ArrowRight, FileText, Activity, Users, BarChart2, BookOpen, Heart, FlaskConical, ClipboardCheck, Globe } from 'lucide-react';
+
+// Topic Guides Data - ordered by publication date (newest first)
+const TOPIC_GUIDES = [
+  {
+    id: 'topic-guide-society',
+    title: 'ADHD & Society: Costs, Policy, Stigma & Advocacy',
+    description: 'Examining the broader social, economic, and policy dimensions of ADHD, including healthcare costs, educational impacts, stigma reduction, and advocacy strategies.',
+    icon: Globe,
+    iconBg: 'bg-teal-100',
+    iconText: 'text-teal-700',
+    iconBgHover: 'bg-teal-600',
+    iconTextHover: 'text-white',
+    publishedDate: '2025-01-15'
+  },
+  {
+    id: 'topic-guide-diagnosis',
+    title: 'Diagnosis & Assessment — Beyond Symptoms: Functioning & Disability',
+    description: 'Understanding the diagnostic process, the importance of functional assessment, and how ADHD relates to disability frameworks in the Saudi context.',
+    icon: ClipboardCheck,
+    iconBg: 'bg-amber-100',
+    iconText: 'text-amber-700',
+    iconBgHover: 'bg-amber-600',
+    iconTextHover: 'text-white',
+    publishedDate: '2025-01-10'
+  },
+  {
+    id: 'topic-guide-treatments',
+    title: 'Evidence-Based Treatments: What Works & What You Should Know',
+    description: 'A comprehensive overview of proven treatments for ADHD, including medication, behavioral interventions, and combined approaches, with practical guidance for families and clinicians.',
+    icon: FlaskConical,
+    iconBg: 'bg-purple-100',
+    iconText: 'text-purple-700',
+    iconBgHover: 'bg-purple-600',
+    iconTextHover: 'text-white',
+    publishedDate: '2025-01-05'
+  },
+  {
+    id: 'topic-guide-health-comorbidity',
+    title: 'Health, Comorbidity & Risk in ADHD',
+    description: 'Exploring the physical and mental health conditions that commonly co-occur with ADHD, risk factors, and strategies for comprehensive care.',
+    icon: Heart,
+    iconBg: 'bg-rose-100',
+    iconText: 'text-rose-700',
+    iconBgHover: 'bg-rose-600',
+    iconTextHover: 'text-white',
+    publishedDate: '2024-12-20'
+  },
+  {
+    id: 'topic-guide-lifespan',
+    title: 'ADHD Across the Lifespan',
+    description: 'Understanding how ADHD presents and evolves from childhood through adolescence, adulthood, and older age, with age-specific considerations for diagnosis and management.',
+    icon: Users,
+    iconBg: 'bg-blue-100',
+    iconText: 'text-blue-700',
+    iconBgHover: 'bg-blue-600',
+    iconTextHover: 'text-white',
+    publishedDate: '2024-12-15'
+  },
+  {
+    id: 'topic-guide-what-is-adhd',
+    title: 'What is ADHD — Myths vs Evidence',
+    description: 'Separating fact from fiction. Evidence-based answers to common questions and misconceptions about ADHD as a neurodevelopmental condition.',
+    icon: BookOpen,
+    iconBg: 'bg-emerald-100',
+    iconText: 'text-emerald-700',
+    iconBgHover: 'bg-emerald-600',
+    iconTextHover: 'text-white',
+    publishedDate: '2024-12-10'
+  }
+];
+
+// Get the latest 3 topic guides
+const getLatestTopicGuides = () => {
+  return TOPIC_GUIDES.slice(0, 3);
+};
+
+// Helper function to get icon classes for a guide
+const getIconClasses = (guide) => {
+  const baseClasses = 'w-12 h-12 rounded-xl flex items-center justify-center mb-6 transition-colors';
+  const hoverClasses = {
+    'bg-teal-100 text-teal-700': 'group-hover:bg-teal-600 group-hover:text-white',
+    'bg-amber-100 text-amber-700': 'group-hover:bg-amber-600 group-hover:text-white',
+    'bg-purple-100 text-purple-700': 'group-hover:bg-purple-600 group-hover:text-white',
+    'bg-rose-100 text-rose-700': 'group-hover:bg-rose-600 group-hover:text-white',
+    'bg-blue-100 text-blue-700': 'group-hover:bg-blue-600 group-hover:text-white',
+    'bg-emerald-100 text-emerald-700': 'group-hover:bg-emerald-600 group-hover:text-white'
+  };
+  const baseColorClass = `${guide.iconBg} ${guide.iconText}`;
+  return `${baseClasses} ${baseColorClass} ${hoverClasses[baseColorClass]}`;
+};
 
 export const HomeHero = ({ onNavigate }) => (
   <header className="relative bg-gradient-to-br from-slate-900 via-emerald-900 to-slate-900 text-white overflow-hidden">
@@ -140,41 +230,25 @@ const HomePage = ({ onNavigate }) => (
       </div>
 
       <div className="grid md:grid-cols-3 gap-8">
-        {/* Guide 1 */}
-        <button onClick={() => onNavigate('topic-guides')} className="group text-left bg-white p-6 rounded-2xl shadow-sm border border-slate-100 hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
-          <div className="w-12 h-12 bg-amber-100 text-amber-700 rounded-xl flex items-center justify-center mb-6 group-hover:bg-amber-600 group-hover:text-white transition-colors">
-            <FileText size={24} />
-          </div>
-          <h3 className="text-lg font-bold text-slate-900 mb-2">Risk-Aware Awareness</h3>
-          <p className="text-sm text-slate-500 mb-4 line-clamp-3">
-            Why "more" awareness isn't always better. Understanding the 'nocebo' effect and how to advocate responsibly without causing diagnostic confusion.
-          </p>
-          <div className="text-sm font-semibold text-emerald-700 flex items-center">Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform"/></div>
-        </button>
-
-        {/* Guide 2 */}
-        <button onClick={() => onNavigate('topic-guides')} className="group text-left bg-white p-6 rounded-2xl shadow-sm border border-slate-100 hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
-          <div className="w-12 h-12 bg-blue-100 text-blue-700 rounded-xl flex items-center justify-center mb-6 group-hover:bg-blue-600 group-hover:text-white transition-colors">
-            <Activity size={24} />
-          </div>
-          <h3 className="text-lg font-bold text-slate-900 mb-2">Is ADHD a Disability?</h3>
-          <p className="text-sm text-slate-500 mb-4 line-clamp-3">
-            Navigating Council of Ministers Decision No. 4. A guide to legal rights, functional impairment, and accessing accommodations in KSA.
-          </p>
-          <div className="text-sm font-semibold text-emerald-700 flex items-center">Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform"/></div>
-        </button>
-
-        {/* Guide 3 */}
-        <button onClick={() => onNavigate('topic-guides')} className="group text-left bg-white p-6 rounded-2xl shadow-sm border border-slate-100 hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
-          <div className="w-12 h-12 bg-purple-100 text-purple-700 rounded-xl flex items-center justify-center mb-6 group-hover:bg-purple-600 group-hover:text-white transition-colors">
-            <Users size={24} />
-          </div>
-          <h3 className="text-lg font-bold text-slate-900 mb-2">The Reality of ADHD</h3>
-          <p className="text-sm text-slate-500 mb-4 line-clamp-3">
-            Debunking myths with the "Harmful Dysfunction" model. Evidence-based responses to social construct arguments.
-          </p>
-          <div className="text-sm font-semibold text-emerald-700 flex items-center">Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform"/></div>
-        </button>
+        {getLatestTopicGuides().map((guide) => {
+          const IconComponent = guide.icon;
+          return (
+            <button
+              key={guide.id}
+              onClick={() => onNavigate(guide.id)}
+              className="group text-left bg-white p-6 rounded-2xl shadow-sm border border-slate-100 hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
+            >
+              <div className={getIconClasses(guide)}>
+                <IconComponent size={24} />
+              </div>
+              <h3 className="text-lg font-bold text-slate-900 mb-2">{guide.title}</h3>
+              <p className="text-sm text-slate-500 mb-4 line-clamp-3">
+                {guide.description}
+              </p>
+              <div className="text-sm font-semibold text-emerald-700 flex items-center">Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform"/></div>
+            </button>
+          );
+        })}
       </div>
     </section>
 
