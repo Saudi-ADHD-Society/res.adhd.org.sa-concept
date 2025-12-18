@@ -1,7 +1,7 @@
 import React from 'react';
-import { ExternalLink } from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 
-const HcpResourcesPage = () => (
+const HcpResourcesPage = ({ onNavigate }) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
     <h2 className="text-3xl font-bold text-slate-900">HCP Resources</h2>
     <div className="bg-indigo-50 border border-indigo-100 rounded-xl p-8">
@@ -10,14 +10,12 @@ const HcpResourcesPage = () => (
             We endorse and provide access to the 208 evidence-based conclusions about the disorder. This statement debunks myths
             and provides a solid foundation for clinical practice.
         </p>
-        <a
-          href="https://hcp.adhd.org.sa/en/the-world-federation-of-adhd-international-consensus-statement/"
-          target="_blank"
-          rel="noreferrer"
+        <button
+          onClick={() => onNavigate('consensus-statement')}
           className="inline-flex items-center px-6 py-3 bg-indigo-600 text-white font-bold rounded-lg hover:bg-indigo-700 transition-colors"
         >
-            Read Consensus Statement <ExternalLink size={16} className="ml-2"/>
-        </a>
+            Read Consensus Statement <ArrowRight size={16} className="ml-2"/>
+        </button>
     </div>
     {/* Placeholder for other resources */}
     <div className="grid md:grid-cols-3 gap-6">

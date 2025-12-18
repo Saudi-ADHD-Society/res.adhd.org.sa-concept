@@ -18,6 +18,7 @@ import CpgPage from './pages/clinical-tools/CpgPage.jsx';
 import InteractiveScalesPage from './pages/clinical-tools/InteractiveScalesPage.jsx';
 import FunctionalAssessmentPage from './pages/clinical-tools/FunctionalAssessmentPage.jsx';
 import HcpResourcesPage from './pages/clinical-tools/HcpResourcesPage.jsx';
+import ConsensusStatementPage from './pages/clinical-tools/ConsensusStatementPage.jsx';
 import ResearchPrioritiesPage from './pages/governance/ResearchPrioritiesPage.jsx';
 import GrantPage from './pages/governance/GrantPage.jsx';
 import IrbPage from './pages/governance/IrbPage.jsx';
@@ -27,13 +28,59 @@ import IrbProcessPage from './pages/governance/IrbProcessPage.jsx';
 import IrbGuidePage from './pages/governance/IrbGuidePage.jsx';
 
 const DEFAULT_PAGE = 'home';
+const BASE_PATH = '/res.adhd.org.sa-concept';
 
-const getPageFromHash = () => {
+// Page hierarchy: maps sub-pages to their parent pages
+const PAGE_HIERARCHY = {
+  'consensus-statement': 'hcp-resources',
+  'irb-overview': 'irb',
+  'irb-regulations': 'irb',
+  'irb-process': 'irb',
+  'irb-guide': 'irb',
+  'topic-guide-what-is-adhd': 'topic-guides',
+  'topic-guide-lifespan': 'topic-guides',
+  'topic-guide-health-comorbidity': 'topic-guides',
+  'topic-guide-treatments': 'topic-guides',
+  'topic-guide-diagnosis': 'topic-guides',
+  'topic-guide-society': 'topic-guides',
+  'research-brief-agree-ii': 'research-briefs',
+  'research-brief-cpg-adaptation': 'research-briefs',
+  'research-brief-arab-world': 'research-briefs',
+};
+
+// Get full path for a page (including parent if it's a sub-page)
+const getPagePath = (pageId) => {
+  if (pageId === DEFAULT_PAGE) return '';
+  const parent = PAGE_HIERARCHY[pageId];
+  if (parent) {
+    return `${parent}/${pageId}`;
+  }
+  return pageId;
+};
+
+// Get page ID from full path (handles nested paths)
+const getPageFromPath = () => {
   if (typeof window === 'undefined') return DEFAULT_PAGE;
-  const rawHash = window.location.hash || '';
-  const hash = rawHash.replace('#', '').trim();
-  if (!hash) return DEFAULT_PAGE;
-  return hash;
+  const pathname = window.location.pathname;
+  // Remove base path and leading/trailing slashes
+  let path = pathname.replace(BASE_PATH, '').replace(/^\/|\/$/g, '');
+  // If there's a hash anchor, extract just the path part (before #)
+  const hashIndex = path.indexOf('#');
+  if (hashIndex !== -1) {
+    path = path.substring(0, hashIndex);
+  }
+  
+  if (!path) return DEFAULT_PAGE;
+  
+  // Check if it's a nested path (parent/sub-page)
+  const parts = path.split('/');
+  if (parts.length === 2) {
+    // It's a nested path like "hcp-resources/consensus-statement"
+    return parts[1]; // Return the sub-page ID
+  }
+  
+  // It's a top-level page
+  return path;
 };
 
 // --- MAIN APP COMPONENT ---
@@ -42,10 +89,10 @@ const App = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const [activeDropdown, setActiveDropdown] = useState(null);
-  const [activePage, setActivePage] = useState(getPageFromHash());
+  const [activePage, setActivePage] = useState(getPageFromPath());
 
   const navigateToPage = useCallback((pageId, options = {}) => {
-    const { updateHash = false } = options;
+    const { updatePath = true } = options;
     const targetPage = pageId || DEFAULT_PAGE;
 
     setActivePage(targetPage);
@@ -53,12 +100,13 @@ const App = () => {
     setActiveDropdown(null);
     window.scrollTo(0, 0);
 
-    if (updateHash && typeof window !== 'undefined') {
-      if (targetPage === DEFAULT_PAGE) {
-        window.location.hash = '';
-      } else {
-        window.location.hash = `#${targetPage}`;
-      }
+    if (updatePath && typeof window !== 'undefined') {
+      const pagePath = getPagePath(targetPage);
+      const newPath = targetPage === DEFAULT_PAGE 
+        ? `${BASE_PATH}/`
+        : `${BASE_PATH}/${pagePath}`;
+      
+      window.history.pushState({ page: targetPage }, '', newPath);
     }
   }, []);
 
@@ -71,16 +119,37 @@ const App = () => {
   }, []);
 
   useEffect(() => {
-    const handleHashChange = () => {
-      const pageId = getPageFromHash();
-      navigateToPage(pageId, { updateHash: false });
+    const handlePopState = (event) => {
+      const pageId = getPageFromPath();
+      navigateToPage(pageId, { updatePath: false });
+      // Scroll to anchor if present
+      setTimeout(() => {
+        const hash = window.location.hash;
+        if (hash) {
+          const element = document.querySelector(hash);
+          if (element) {
+            element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }
+        }
+      }, 100);
     };
 
-    const initialPage = getPageFromHash();
-    navigateToPage(initialPage, { updateHash: false });
+    const initialPage = getPageFromPath();
+    navigateToPage(initialPage, { updatePath: false });
+    
+    // Scroll to anchor if present on initial load
+    setTimeout(() => {
+      const hash = window.location.hash;
+      if (hash) {
+        const element = document.querySelector(hash);
+        if (element) {
+          element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      }
+    }, 100);
 
-    window.addEventListener('hashchange', handleHashChange);
-    return () => window.removeEventListener('hashchange', handleHashChange);
+    window.addEventListener('popstate', handlePopState);
+    return () => window.removeEventListener('popstate', handlePopState);
   }, [navigateToPage]);
 
   const navStructure = [
@@ -172,7 +241,7 @@ const App = () => {
   ];
 
   const handleNavClick = (pageId) => {
-    navigateToPage(pageId, { updateHash: true });
+    navigateToPage(pageId, { updatePath: true });
   };
 
   const renderContent = () => {
@@ -212,7 +281,9 @@ const App = () => {
       case 'functional-assessment':
         return <FunctionalAssessmentPage />;
       case 'hcp-resources':
-        return <HcpResourcesPage />;
+        return <HcpResourcesPage onNavigate={handleNavClick} />;
+      case 'consensus-statement':
+        return <ConsensusStatementPage onNavigate={handleNavClick} />;
       case 'research-priorities':
         return <ResearchPrioritiesPage />;
       case 'ishraq-grant':
