@@ -16,6 +16,15 @@ import CurrentResearchPage from './pages/research-projects/CurrentResearchPage.j
 import ResearchOutputPage from './pages/research-projects/ResearchOutputPage.jsx';
 import CpgOverviewPage from './pages/research-projects/CpgOverviewPage.jsx';
 import CpgContentPage from './pages/clinical-tools/CpgContentPage.jsx';
+import CpgClinicalRecommendationsPage from './pages/clinical-tools/CpgClinicalRecommendationsPage.jsx';
+import CpgStrengthOfRecommendationsPage from './pages/clinical-tools/CpgStrengthOfRecommendationsPage.jsx';
+import CpgClinicalAlgorithmsPage from './pages/clinical-tools/CpgClinicalAlgorithmsPage.jsx';
+import CpgMedicationTablesPage from './pages/clinical-tools/CpgMedicationTablesPage.jsx';
+import CpgRatingScalesPage from './pages/clinical-tools/CpgRatingScalesPage.jsx';
+import CpgTerminologyPage from './pages/clinical-tools/CpgTerminologyPage.jsx';
+import CpgIcdCodesPage from './pages/clinical-tools/CpgIcdCodesPage.jsx';
+import CpgQualityStandardsPage from './pages/clinical-tools/CpgQualityStandardsPage.jsx';
+import CpgGuidelineUpdatesPage from './pages/clinical-tools/CpgGuidelineUpdatesPage.jsx';
 import InteractiveScalesPage from './pages/clinical-tools/InteractiveScalesPage.jsx';
 import FunctionalAssessmentPage from './pages/clinical-tools/FunctionalAssessmentPage.jsx';
 import HcpResourcesPage from './pages/clinical-tools/HcpResourcesPage.jsx';
@@ -48,6 +57,15 @@ const PAGE_HIERARCHY = {
   'research-brief-cpg-adaptation': 'research-briefs',
   'research-brief-arab-world': 'research-briefs',
   'cpg-overview': 'current-research',
+  'cpg-clinical-recommendations': 'adhd-cpg',
+  'cpg-strength-of-recommendations': 'adhd-cpg',
+  'cpg-clinical-algorithms': 'adhd-cpg',
+  'cpg-medication-tables': 'adhd-cpg',
+  'cpg-rating-scales': 'adhd-cpg',
+  'cpg-terminology': 'adhd-cpg',
+  'cpg-icd-codes': 'adhd-cpg',
+  'cpg-quality-standards': 'adhd-cpg',
+  'cpg-guideline-updates': 'adhd-cpg',
 };
 
 // Get full path for a page (including parent if it's a sub-page)
@@ -279,7 +297,25 @@ const App = () => {
       case 'research-output':
         return <ResearchOutputPage />;
       case 'adhd-cpg':
-        return <CpgContentPage />;
+        return <CpgContentPage onNavigate={handleNavClick} />;
+      case 'cpg-clinical-recommendations':
+        return <CpgClinicalRecommendationsPage />;
+      case 'cpg-strength-of-recommendations':
+        return <CpgStrengthOfRecommendationsPage />;
+      case 'cpg-clinical-algorithms':
+        return <CpgClinicalAlgorithmsPage />;
+      case 'cpg-medication-tables':
+        return <CpgMedicationTablesPage />;
+      case 'cpg-rating-scales':
+        return <CpgRatingScalesPage />;
+      case 'cpg-terminology':
+        return <CpgTerminologyPage />;
+      case 'cpg-icd-codes':
+        return <CpgIcdCodesPage />;
+      case 'cpg-quality-standards':
+        return <CpgQualityStandardsPage />;
+      case 'cpg-guideline-updates':
+        return <CpgGuidelineUpdatesPage />;
       case 'interactive-scales':
         return <InteractiveScalesPage />;
       case 'functional-assessment':

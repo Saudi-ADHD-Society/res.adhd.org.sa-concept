@@ -1,6 +1,6 @@
 import React from 'react';
 
-const CpgContentPage = () => (
+const CpgContentPage = ({ onNavigate }) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
     <div>
       <h2 className="text-3xl font-bold text-slate-900">Saudi ADHD Clinical Practice Guidelines (CPG)</h2>
@@ -83,19 +83,64 @@ const CpgContentPage = () => (
     <div className="bg-white border border-slate-200 rounded-xl p-6 shadow-sm">
       <h3 className="text-xl font-bold text-slate-900 mb-4">Guideline contents</h3>
       <div className="grid md:grid-cols-2 gap-3">
-        <ul className="list-disc pl-6 space-y-2 text-slate-600 text-sm md:text-base">
-          <li><strong>Clinical Recommendations</strong></li>
-          <li><strong>Strength of Recommendations</strong></li>
-          <li><strong>Clinical Algorithms</strong></li>
-          <li><strong>Medication Tables</strong></li>
-          <li><strong>Rating Scales</strong></li>
-        </ul>
-        <ul className="list-disc pl-6 space-y-2 text-slate-600 text-sm md:text-base">
-          <li><strong>Terminology</strong></li>
-          <li><strong>ICD Codes</strong></li>
-          <li><strong>Quality Standards</strong></li>
-          <li><strong>Guideline Updates</strong></li>
-        </ul>
+        <div className="space-y-2">
+          <button
+            onClick={() => onNavigate('cpg-clinical-recommendations')}
+            className="block w-full text-left p-3 hover:bg-emerald-50 rounded-lg transition-colors text-slate-600 hover:text-emerald-800 text-sm md:text-base font-semibold"
+          >
+            Clinical Recommendations
+          </button>
+          <button
+            onClick={() => onNavigate('cpg-strength-of-recommendations')}
+            className="block w-full text-left p-3 hover:bg-emerald-50 rounded-lg transition-colors text-slate-600 hover:text-emerald-800 text-sm md:text-base font-semibold"
+          >
+            Strength of Recommendations
+          </button>
+          <button
+            onClick={() => onNavigate('cpg-clinical-algorithms')}
+            className="block w-full text-left p-3 hover:bg-emerald-50 rounded-lg transition-colors text-slate-600 hover:text-emerald-800 text-sm md:text-base font-semibold"
+          >
+            Clinical Algorithms
+          </button>
+          <button
+            onClick={() => onNavigate('cpg-medication-tables')}
+            className="block w-full text-left p-3 hover:bg-emerald-50 rounded-lg transition-colors text-slate-600 hover:text-emerald-800 text-sm md:text-base font-semibold"
+          >
+            Medication Tables
+          </button>
+          <button
+            onClick={() => onNavigate('cpg-rating-scales')}
+            className="block w-full text-left p-3 hover:bg-emerald-50 rounded-lg transition-colors text-slate-600 hover:text-emerald-800 text-sm md:text-base font-semibold"
+          >
+            Rating Scales
+          </button>
+        </div>
+        <div className="space-y-2">
+          <button
+            onClick={() => onNavigate('cpg-terminology')}
+            className="block w-full text-left p-3 hover:bg-emerald-50 rounded-lg transition-colors text-slate-600 hover:text-emerald-800 text-sm md:text-base font-semibold"
+          >
+            Terminology
+          </button>
+          <button
+            onClick={() => onNavigate('cpg-icd-codes')}
+            className="block w-full text-left p-3 hover:bg-emerald-50 rounded-lg transition-colors text-slate-600 hover:text-emerald-800 text-sm md:text-base font-semibold"
+          >
+            ICD Codes
+          </button>
+          <button
+            onClick={() => onNavigate('cpg-quality-standards')}
+            className="block w-full text-left p-3 hover:bg-emerald-50 rounded-lg transition-colors text-slate-600 hover:text-emerald-800 text-sm md:text-base font-semibold"
+          >
+            Quality Standards
+          </button>
+          <button
+            onClick={() => onNavigate('cpg-guideline-updates')}
+            className="block w-full text-left p-3 hover:bg-emerald-50 rounded-lg transition-colors text-slate-600 hover:text-emerald-800 text-sm md:text-base font-semibold"
+          >
+            Guideline Updates
+          </button>
+        </div>
       </div>
     </div>
 
