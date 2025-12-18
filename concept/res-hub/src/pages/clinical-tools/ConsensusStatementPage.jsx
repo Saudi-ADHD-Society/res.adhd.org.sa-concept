@@ -1,8 +1,11 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { ArrowLeft, Search } from 'lucide-react';
 
 const ConsensusStatementPage = ({ onNavigate }) => {
   const [searchQuery, setSearchQuery] = useState('');
+  const [searchResults, setSearchResults] = useState([]);
+  const contentRef = useRef(null);
+  const highlightRefs = useRef([]);
 
   const handleAnchorClick = (e, anchorId) => {
     e.preventDefault();
@@ -11,6 +14,299 @@ const ConsensusStatementPage = ({ onNavigate }) => {
       element.scrollIntoView({ behavior: 'smooth', block: 'start' });
       // Update URL without triggering navigation
       window.history.pushState({}, '', `${window.location.pathname}${anchorId}`);
+    }
+  };
+
+  // Function to extract text content from an element and its children
+  const getTextContent = (element) => {
+    if (!element) return '';
+    // Clone the element to avoid modifying the original
+    const clone = element.cloneNode(true);
+    // Remove script and style elements
+    const scripts = clone.querySelectorAll('script, style');
+    scripts.forEach(el => el.remove());
+    return clone.textContent || clone.innerText || '';
+  };
+
+  // Function to find the parent section for an element
+  const findParentSection = (element) => {
+    let current = element;
+    while (current && current !== document.body) {
+      if (current.tagName === 'SECTION' && current.id) {
+        return current;
+      }
+      current = current.parentElement;
+    }
+    return null;
+  };
+
+  // Function to get section title
+  const getSectionTitle = (section) => {
+    if (!section) return 'Unknown Section';
+    const heading = section.querySelector('h2');
+    return heading ? heading.textContent.trim() : section.id;
+  };
+
+  // Function to create excerpt with context
+  const createExcerpt = (text, keywords, maxLength = 150) => {
+    const lowerText = text.toLowerCase();
+    const lowerKeywords = keywords.map(k => k.toLowerCase());
+    
+    // Find the first occurrence of any keyword
+    let firstIndex = -1;
+    for (const keyword of lowerKeywords) {
+      const index = lowerText.indexOf(keyword);
+      if (index !== -1 && (firstIndex === -1 || index < firstIndex)) {
+        firstIndex = index;
+      }
+    }
+    
+    if (firstIndex === -1) return text.substring(0, maxLength);
+    
+    // Extract context around the keyword
+    const start = Math.max(0, firstIndex - 50);
+    const end = Math.min(text.length, firstIndex + maxLength);
+    let excerpt = text.substring(start, end);
+    
+    if (start > 0) excerpt = '...' + excerpt;
+    if (end < text.length) excerpt = excerpt + '...';
+    
+    return excerpt;
+  };
+
+  // Function to highlight keywords in text (returns React elements)
+  const highlightKeywords = useCallback((text, keywords) => {
+    if (!keywords || keywords.length === 0 || !text) return text;
+    
+    const escapedKeywords = keywords.map(k => k.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+    const regex = new RegExp(`(${escapedKeywords.join('|')})`, 'gi');
+    const parts = text.split(regex);
+    
+    return parts.map((part, index) => {
+      if (!part) return null;
+      const isKeyword = keywords.some(k => 
+        part.toLowerCase() === k.toLowerCase()
+      );
+      return isKeyword ? (
+        <mark key={index} className="bg-yellow-200 text-slate-900 px-1 rounded">
+          {part}
+        </mark>
+      ) : (
+        <React.Fragment key={index}>{part}</React.Fragment>
+      );
+    }).filter(Boolean);
+  }, []);
+
+  // Function to remove highlights (defined first since other functions depend on it)
+  const removeHighlights = useCallback(() => {
+    const contentArea = contentRef.current || document.querySelector('[data-searchable-content]');
+    if (!contentArea) return;
+    
+    const marks = contentArea.querySelectorAll('mark');
+    marks.forEach((mark) => {
+      const parent = mark.parentElement;
+      if (parent) {
+        const textNode = document.createTextNode(mark.textContent);
+        parent.replaceChild(textNode, mark);
+        parent.normalize();
+      }
+    });
+  }, []);
+
+  // Function to highlight keywords in the page (depends on removeHighlights)
+  const highlightKeywordsInPage = useCallback((keywords) => {
+    // First remove existing highlights
+    removeHighlights();
+
+    if (!keywords || keywords.length === 0) return;
+
+    const contentArea = contentRef.current || document.querySelector('[data-searchable-content]');
+    if (!contentArea) return;
+
+    const regex = new RegExp(`(${keywords.map(k => k.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|')})`, 'gi');
+    
+    const walker = document.createTreeWalker(
+      contentArea,
+      NodeFilter.SHOW_TEXT,
+      {
+        acceptNode: (node) => {
+          const parent = node.parentElement;
+          if (parent && (
+            parent.tagName === 'SCRIPT' ||
+            parent.tagName === 'STYLE' ||
+            parent.tagName === 'MARK' ||
+            parent.closest('mark')
+          )) {
+            return NodeFilter.FILTER_REJECT;
+          }
+          return NodeFilter.FILTER_ACCEPT;
+        }
+      }
+    );
+
+    const textNodes = [];
+    let node;
+    while (node = walker.nextNode()) {
+      if (node.textContent.trim().length > 0 && regex.test(node.textContent)) {
+        textNodes.push(node);
+      }
+    }
+
+    // Highlight matches
+    textNodes.forEach((textNode) => {
+      const text = textNode.textContent;
+      const matches = [...text.matchAll(regex)];
+      
+      if (matches.length > 0) {
+        const parent = textNode.parentElement;
+        if (parent && parent.tagName !== 'MARK') {
+          const fragment = document.createDocumentFragment();
+          let lastIndex = 0;
+          
+          matches.forEach((match) => {
+            if (match.index > lastIndex) {
+              fragment.appendChild(document.createTextNode(text.substring(lastIndex, match.index)));
+            }
+            
+            const mark = document.createElement('mark');
+            mark.className = 'bg-yellow-200 text-slate-900 px-1 rounded';
+            mark.textContent = match[0];
+            fragment.appendChild(mark);
+            
+            lastIndex = match.index + match[0].length;
+          });
+          
+          if (lastIndex < text.length) {
+            fragment.appendChild(document.createTextNode(text.substring(lastIndex)));
+          }
+          
+          parent.replaceChild(fragment, textNode);
+        }
+      }
+    });
+  }, [removeHighlights]);
+
+  // Search function (depends on removeHighlights and highlightKeywordsInPage)
+  const performSearch = useCallback((query) => {
+    if (!query || query.trim().length === 0) {
+      setSearchResults([]);
+      removeHighlights();
+      return;
+    }
+
+    const keywords = query.trim().split(/\s+/).filter(k => k.length > 0);
+    if (keywords.length === 0) {
+      setSearchResults([]);
+      removeHighlights();
+      return;
+    }
+
+    const results = [];
+    const contentArea = contentRef.current || document.querySelector('[data-searchable-content]');
+    
+    if (!contentArea) {
+      setSearchResults([]);
+      return;
+    }
+
+    // Get all text nodes and elements with text content
+    const walker = document.createTreeWalker(
+      contentArea,
+      NodeFilter.SHOW_TEXT,
+      {
+        acceptNode: (node) => {
+          // Skip if parent is script, style, or mark (to avoid double highlighting)
+          const parent = node.parentElement;
+          if (parent && (
+            parent.tagName === 'SCRIPT' ||
+            parent.tagName === 'STYLE' ||
+            parent.tagName === 'MARK' ||
+            parent.closest('mark')
+          )) {
+            return NodeFilter.FILTER_REJECT;
+          }
+          return NodeFilter.FILTER_ACCEPT;
+        }
+      }
+    );
+
+    const textNodes = [];
+    let node;
+    while (node = walker.nextNode()) {
+      if (node.textContent.trim().length > 0) {
+        textNodes.push(node);
+      }
+    }
+
+    // Search through text nodes
+    textNodes.forEach((textNode) => {
+      const text = textNode.textContent;
+      const lowerText = text.toLowerCase();
+      
+      // Check if any keyword appears in this text
+      const hasMatch = keywords.some(keyword => 
+        lowerText.includes(keyword.toLowerCase())
+      );
+      
+      if (hasMatch) {
+        const parentSection = findParentSection(textNode.parentElement);
+        const sectionId = parentSection ? parentSection.id : 'consensus-statement-title';
+        const sectionTitle = getSectionTitle(parentSection);
+        const excerpt = createExcerpt(text, keywords);
+        
+        // Check if we already have a result for this section
+        const existingResult = results.find(r => r.sectionId === sectionId);
+        
+        if (!existingResult) {
+          results.push({
+            sectionId,
+            sectionTitle,
+            excerpt,
+            element: textNode.parentElement
+          });
+        }
+      }
+    });
+
+    setSearchResults(results);
+    highlightKeywordsInPage(keywords);
+  }, [removeHighlights, highlightKeywordsInPage]);
+
+  // Effect to perform search when query changes
+  useEffect(() => {
+    if (!searchQuery || searchQuery.trim().length === 0) {
+      setSearchResults([]);
+      removeHighlights();
+      return;
+    }
+
+    const timeoutId = setTimeout(() => {
+      performSearch(searchQuery);
+    }, 300); // Debounce search
+
+    return () => {
+      clearTimeout(timeoutId);
+    };
+  }, [searchQuery, removeHighlights, performSearch]);
+
+  // Cleanup highlights on unmount
+  useEffect(() => {
+    return () => {
+      removeHighlights();
+    };
+  }, [removeHighlights]);
+
+  // Function to scroll to search result
+  const scrollToResult = (sectionId) => {
+    const element = document.getElementById(sectionId);
+    if (element) {
+      element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      // Highlight the section briefly
+      element.style.transition = 'background-color 0.3s';
+      element.style.backgroundColor = '#fef3c7';
+      setTimeout(() => {
+        element.style.backgroundColor = '';
+      }, 2000);
     }
   };
 
@@ -61,7 +357,7 @@ const ConsensusStatementPage = ({ onNavigate }) => {
 
         {/* Search Box */}
         <div className="max-w-2xl mx-auto mb-6">
-          <form className="relative">
+          <form className="relative" onSubmit={(e) => e.preventDefault()}>
             <input
               type="search"
               className="w-full px-4 py-3 pl-10 pr-4 border border-slate-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500"
@@ -71,17 +367,54 @@ const ConsensusStatementPage = ({ onNavigate }) => {
             />
             <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-slate-400" size={20} />
           </form>
+          
+          {/* Search Results */}
+          {searchResults.length > 0 && (
+            <div className="mt-4 bg-white border border-slate-200 rounded-lg shadow-sm p-4 max-h-96 overflow-y-auto">
+              <h3 className="text-sm font-semibold text-slate-900 mb-3">
+                Found {searchResults.length} result{searchResults.length !== 1 ? 's' : ''}
+              </h3>
+              <div className="space-y-3">
+                {searchResults.map((result, index) => (
+                  <div
+                    key={`${result.sectionId}-${index}`}
+                    className="border-b border-slate-100 last:border-b-0 pb-3 last:pb-0"
+                  >
+                    <button
+                      onClick={() => scrollToResult(result.sectionId)}
+                      className="text-left w-full hover:bg-slate-50 p-2 rounded transition-colors"
+                    >
+                      <div className="text-sm font-semibold text-emerald-600 mb-1">
+                        {result.sectionTitle}
+                      </div>
+                      <div className="text-sm text-slate-600 line-clamp-2">
+                        {highlightKeywords(result.excerpt, searchQuery.trim().split(/\s+/).filter(k => k.length > 0))}
+                      </div>
+                    </button>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+          
+          {searchQuery.trim().length > 0 && searchResults.length === 0 && (
+            <div className="mt-4 bg-slate-50 border border-slate-200 rounded-lg p-4">
+              <p className="text-sm text-slate-600 text-center">
+                No results found for "{searchQuery}"
+              </p>
+            </div>
+          )}
         </div>
 
         <p className="text-center text-sm text-slate-500 italic">
-          <strong>Draft Content 11 Dec 2023.</strong> Formatting is incomplete and reference links may not work as expected.
+          <strong>Draft Content</strong> References and reference links to be added.
         </p>
       </div>
 
       {/* Two Column Layout: Content Left, TOC Right */}
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
         {/* Main Content - Wide Left Column */}
-        <div className="lg:col-span-8 space-y-8">
+        <div ref={contentRef} className="lg:col-span-8 space-y-8" data-searchable-content>
         {/* Highlights */}
         <section id="highlights" className="bg-white p-6 rounded-xl border border-slate-200 shadow-sm scroll-mt-20">
           <h2 className="text-2xl font-bold text-slate-900 mb-4">Highlights</h2>
