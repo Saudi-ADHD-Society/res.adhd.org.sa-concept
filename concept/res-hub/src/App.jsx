@@ -265,8 +265,8 @@ const App = () => {
                 R
               </div>
               <div className="leading-tight">
-                <h1 className="font-bold text-slate-900 text-lg tracking-tight">Research & Studies Unit</h1>
-                <p className="text-xs text-slate-500 font-medium">National Knowledge Hub</p>
+                <h1 className="font-bold text-slate-900 text-lg tracking-tight">Research Portal</h1>
+                <p className="text-xs text-slate-500 font-medium">National ADHD Knowledge Hub</p>
               </div>
             </div>
 
