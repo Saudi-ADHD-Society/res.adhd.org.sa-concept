@@ -1,7 +1,7 @@
 import React from 'react';
 import { ExternalLink } from 'lucide-react';
 
-const CpgOverviewPage = () => (
+const CpgOverviewPage = ({ onNavigate }) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
     <div className="flex justify-between items-start">
       <div>
@@ -11,14 +11,12 @@ const CpgOverviewPage = () => (
           and its current 2025–2026 update cycle, with links to the dedicated guideline microsite.
         </p>
       </div>
-      <a
-        href="https://cpg.adhd.org.sa/en/"
-        target="_blank"
-        rel="noreferrer"
+      <button
+        onClick={() => onNavigate('adhd-cpg')}
         className="flex items-center text-emerald-600 font-bold hover:underline"
       >
-        View CPG Microsite <ExternalLink size={16} className="ml-1" />
-      </a>
+        View CPG
+      </button>
     </div>
 
     {/* Current Status Card */}
@@ -279,15 +277,12 @@ const CpgOverviewPage = () => (
           The finalized guideline was first published in 2020, supported by a clinical algorithm, medication tables, and
           implementation tools. It is hosted on a dedicated microsite, with online access to the guideline in Arabic and English as well as downloadable PDFs.
         </p>
-        <a
-          href="https://cpg.adhd.org.sa/en/about/development/"
-          target="_blank"
-          rel="noreferrer"
-          className="inline-flex items-center text-emerald-700 font-semibold text-xs md:text-sm"
+        <button
+          onClick={() => onNavigate('adhd-cpg-about-development')}
+          className="inline-flex items-center text-emerald-700 font-semibold text-xs md:text-sm hover:underline"
         >
           Learn more about the 1st edition development
-          <ExternalLink size={14} className="ml-1" />
-        </a>
+        </button>
       </div>
     </div>
   </div>

@@ -324,7 +324,7 @@ const App = () => {
       case 'current-research':
         return <CurrentResearchPage onNavigate={handleNavClick} />;
       case 'cpg-overview':
-        return <CpgOverviewPage />;
+        return <CpgOverviewPage onNavigate={handleNavClick} />;
       case 'research-output':
         return <ResearchOutputPage />;
       case 'adhd-cpg':
