@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { BookOpen, Activity, Users, Search, Menu, X, Award, Stethoscope } from 'lucide-react';
 import HomePage, { HomeHero } from './pages/HomePage.jsx';
+import EvidenceInsightsPage from './pages/evidence-insights/EvidenceInsightsPage.jsx';
 import TopicGuidesPage from './pages/evidence-insights/TopicGuidesPage.jsx';
 import TopicGuideWhatIsAdhdPage from './pages/evidence-insights/TopicGuideWhatIsAdhdPage.jsx';
 import TopicGuideLifespanPage from './pages/evidence-insights/TopicGuideLifespanPage.jsx';
@@ -14,9 +15,11 @@ import ResearchBriefAgreeIiPage from './pages/evidence-insights/ResearchBriefAgr
 import ResearchBriefCpgAdaptationPage from './pages/evidence-insights/ResearchBriefCpgAdaptationPage.jsx';
 import ResearchBriefArabWorldPage from './pages/evidence-insights/ResearchBriefArabWorldPage.jsx';
 import ResearchBriefGlobalPolicyAccessPage from './pages/evidence-insights/ResearchBriefGlobalPolicyAccessPage.jsx';
+import ResearchProjectsPage from './pages/research-projects/ResearchProjectsPage.jsx';
 import CurrentResearchPage from './pages/research-projects/CurrentResearchPage.jsx';
 import ResearchOutputPage from './pages/research-projects/ResearchOutputPage.jsx';
 import CpgOverviewPage from './pages/research-projects/CpgOverviewPage.jsx';
+import ClinicalToolsPage from './pages/clinical-tools/ClinicalToolsPage.jsx';
 import CpgContentPage from './pages/clinical-tools/CpgContentPage.jsx';
 import CpgClinicalRecommendationsPage from './pages/clinical-tools/CpgClinicalRecommendationsPage.jsx';
 import CpgStrengthOfRecommendationsPage from './pages/clinical-tools/CpgStrengthOfRecommendationsPage.jsx';
@@ -36,6 +39,7 @@ import InteractiveScalesPage from './pages/clinical-tools/InteractiveScalesPage.
 import FunctionalAssessmentPage from './pages/clinical-tools/FunctionalAssessmentPage.jsx';
 import HcpResourcesPage from './pages/clinical-tools/HcpResourcesPage.jsx';
 import ConsensusStatementPage from './pages/clinical-tools/ConsensusStatementPage.jsx';
+import ResearchGovernancePage from './pages/governance/ResearchGovernancePage.jsx';
 import ResearchPrioritiesPage from './pages/governance/ResearchPrioritiesPage.jsx';
 import GrantPage from './pages/governance/GrantPage.jsx';
 import IrbPage from './pages/governance/IrbPage.jsx';
@@ -54,6 +58,7 @@ const PAGE_HIERARCHY = {
   'irb-regulations': 'irb',
   'irb-process': 'irb',
   'irb-guide': 'irb',
+  'topic-guides': 'evidence-insights',
   'topic-guide-what-is-adhd': 'topic-guides',
   'topic-guide-lifespan': 'topic-guides',
   'topic-guide-health-comorbidity': 'topic-guides',
@@ -61,11 +66,15 @@ const PAGE_HIERARCHY = {
   'topic-guide-diagnosis': 'topic-guides',
   'topic-guide-society': 'topic-guides',
   'topic-guide-women-girls': 'topic-guides',
+  'research-briefs': 'evidence-insights',
   'research-brief-agree-ii': 'research-briefs',
   'research-brief-cpg-adaptation': 'research-briefs',
   'research-brief-arab-world': 'research-briefs',
   'research-brief-global-policy-access': 'research-briefs',
-  'cpg-overview': 'current-research',
+  'current-research': 'research-projects',
+  'research-output': 'research-projects',
+  'cpg-overview': 'research-projects',
+  'adhd-cpg': 'clinical-tools',
   'cpg-clinical-recommendations': 'adhd-cpg',
   'cpg-strength-of-recommendations': 'adhd-cpg',
   'cpg-clinical-algorithms': 'adhd-cpg',
@@ -80,6 +89,12 @@ const PAGE_HIERARCHY = {
   'adhd-cpg-about-acknowledgements': 'adhd-cpg-about',
   'adhd-cpg-about-disclaimer': 'adhd-cpg-about',
   'adhd-cpg-about-copyright': 'adhd-cpg-about',
+  'interactive-scales': 'clinical-tools',
+  'functional-assessment': 'clinical-tools',
+  'hcp-resources': 'clinical-tools',
+  'research-priorities': 'research-governance',
+  'ishraq-grant': 'research-governance',
+  'irb': 'research-governance',
 };
 
 // Get full path for a page (including parent if it's a sub-page, handles 3-level nesting)
@@ -305,6 +320,8 @@ const App = () => {
     switch (activePage) {
       case 'home':
         return <HomePage onNavigate={handleNavClick} />;
+      case 'evidence-insights':
+        return <EvidenceInsightsPage onNavigate={handleNavClick} />;
       case 'topic-guides':
         return <TopicGuidesPage onNavigate={handleNavClick} />;
       case 'topic-guide-what-is-adhd':
@@ -331,12 +348,16 @@ const App = () => {
         return <ResearchBriefArabWorldPage onNavigate={handleNavClick} />;
       case 'research-brief-global-policy-access':
         return <ResearchBriefGlobalPolicyAccessPage onNavigate={handleNavClick} />;
+      case 'research-projects':
+        return <ResearchProjectsPage onNavigate={handleNavClick} />;
       case 'current-research':
         return <CurrentResearchPage onNavigate={handleNavClick} />;
       case 'cpg-overview':
         return <CpgOverviewPage onNavigate={handleNavClick} />;
       case 'research-output':
         return <ResearchOutputPage onNavigate={handleNavClick} />;
+      case 'clinical-tools':
+        return <ClinicalToolsPage onNavigate={handleNavClick} />;
       case 'adhd-cpg':
         return <CpgContentPage onNavigate={handleNavClick} />;
       case 'cpg-clinical-recommendations':
@@ -375,6 +396,8 @@ const App = () => {
         return <HcpResourcesPage onNavigate={handleNavClick} />;
       case 'consensus-statement':
         return <ConsensusStatementPage onNavigate={handleNavClick} />;
+      case 'research-governance':
+        return <ResearchGovernancePage onNavigate={handleNavClick} />;
       case 'research-priorities':
         return <ResearchPrioritiesPage onNavigate={handleNavClick} />;
       case 'ishraq-grant':
@@ -434,14 +457,23 @@ const App = () => {
 
             {/* Desktop Menu */}
             <div className="hidden lg:flex items-center space-x-8">
-              {navStructure.map((section, idx) => (
+              {navStructure.map((section, idx) => {
+                const sectionPageId = section.title === 'Evidence & Insights' ? 'evidence-insights' :
+                                     section.title === 'Research Projects' ? 'research-projects' :
+                                     section.title === 'Clinical Tools & Resources' ? 'clinical-tools' :
+                                     section.title === 'Research Governance' ? 'research-governance' : null;
+                
+                return (
                 <div 
                   key={idx}
                   className="relative group"
                   onMouseEnter={() => setActiveDropdown(idx)}
                   onMouseLeave={() => setActiveDropdown(null)}
                 >
-                  <button className="flex items-center space-x-1 py-2 font-medium text-slate-600 hover:text-emerald-700 transition-colors">
+                  <button 
+                    onClick={() => sectionPageId && handleNavClick(sectionPageId)}
+                    className="flex items-center space-x-1 py-2 font-medium text-slate-600 hover:text-emerald-700 transition-colors"
+                  >
                     {section.icon}
                     <span>{section.title}</span>
                   </button>
@@ -478,7 +510,8 @@ const App = () => {
                     </div>
                   </div>
                 </div>
-              ))}
+                );
+              })}
               
               <button className="bg-emerald-600 hover:bg-emerald-700 text-white px-5 py-2 rounded-full text-sm font-semibold transition-all shadow-md hover:shadow-lg flex items-center space-x-2">
                 <Search size={16} />
@@ -496,12 +529,21 @@ const App = () => {
         {isMenuOpen && (
           <div className="lg:hidden absolute top-full left-0 w-full bg-white border-t border-slate-100 shadow-xl h-[calc(100vh-80px)] overflow-y-auto">
             <div className="p-4 space-y-6">
-              {navStructure.map((section, idx) => (
+              {navStructure.map((section, idx) => {
+                const sectionPageId = section.title === 'Evidence & Insights' ? 'evidence-insights' :
+                                     section.title === 'Research Projects' ? 'research-projects' :
+                                     section.title === 'Clinical Tools & Resources' ? 'clinical-tools' :
+                                     section.title === 'Research Governance' ? 'research-governance' : null;
+                
+                return (
                 <div key={idx}>
-                  <h3 className="font-bold text-emerald-800 flex items-center space-x-2 mb-3">
+                  <button
+                    onClick={() => sectionPageId && handleNavClick(sectionPageId)}
+                    className="font-bold text-emerald-800 flex items-center space-x-2 mb-3 w-full text-left hover:text-emerald-900"
+                  >
                     {section.icon}
                     <span>{section.title}</span>
-                  </h3>
+                  </button>
                   <div className="pl-6 space-y-3">
                     {section.items.map((item, i) => (
                       item.external ? (
@@ -528,7 +570,8 @@ const App = () => {
                     ))}
                   </div>
                 </div>
-              ))}
+                );
+              })}
             </div>
           </div>
         )}
