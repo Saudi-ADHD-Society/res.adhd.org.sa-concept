@@ -129,9 +129,59 @@ const CpgContentPage = ({ onNavigate }) => {
             {/* Endorsements */}
             <div id="about-endorsements" className="mb-8 scroll-mt-20">
               <h4 className="text-lg font-bold text-slate-900 mb-3">Endorsements</h4>
-              <p className="text-slate-600 text-sm md:text-base">
-                The Saudi ADHD Clinical Practice Guidelines have been endorsed by relevant professional bodies and healthcare organizations in Saudi Arabia. Endorsement details are available upon request from the Saudi ADHD Society.
+              <p className="text-slate-600 text-sm md:text-base mb-4">
+                This adapted CPG from the Saudi ADHD Society has been critically reviewed and endorsed by the following organizations:
               </p>
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                <a
+                  href="https://shc.gov.sa/en/"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  className="bg-slate-50 border border-slate-200 rounded-lg p-4 text-center hover:bg-emerald-50 hover:border-emerald-300 transition-colors"
+                >
+                  <p className="font-semibold text-slate-900 hover:text-emerald-700">Saudi Health Council</p>
+                </a>
+                <a
+                  href="https://spa.org.sa"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  className="bg-slate-50 border border-slate-200 rounded-lg p-4 text-center hover:bg-emerald-50 hover:border-emerald-300 transition-colors"
+                >
+                  <p className="font-semibold text-slate-900 hover:text-emerald-700">Saudi Psychiatric Association</p>
+                </a>
+                <a
+                  href="https://sps.ksu.edu.sa/en"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  className="bg-slate-50 border border-slate-200 rounded-lg p-4 text-center hover:bg-emerald-50 hover:border-emerald-300 transition-colors"
+                >
+                  <p className="font-semibold text-slate-900 hover:text-emerald-700">Saudi Pharmaceutical Society</p>
+                </a>
+                <a
+                  href="https://spnsociety.org.sa"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  className="bg-slate-50 border border-slate-200 rounded-lg p-4 text-center hover:bg-emerald-50 hover:border-emerald-300 transition-colors"
+                >
+                  <p className="font-semibold text-slate-900 hover:text-emerald-700">Saudi Pediatric Neurology Society</p>
+                </a>
+                <a
+                  href="https://www.saudipeds.org"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  className="bg-slate-50 border border-slate-200 rounded-lg p-4 text-center hover:bg-emerald-50 hover:border-emerald-300 transition-colors"
+                >
+                  <p className="font-semibold text-slate-900 hover:text-emerald-700">Saudi Pediatric Association</p>
+                </a>
+                <a
+                  href="https://sspp-sa.org/?lang=en"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  className="bg-slate-50 border border-slate-200 rounded-lg p-4 text-center hover:bg-emerald-50 hover:border-emerald-300 transition-colors"
+                >
+                  <p className="font-semibold text-slate-900 hover:text-emerald-700">Saudi Society of Professional Psychology</p>
+                </a>
+              </div>
             </div>
 
             {/* Publications */}
