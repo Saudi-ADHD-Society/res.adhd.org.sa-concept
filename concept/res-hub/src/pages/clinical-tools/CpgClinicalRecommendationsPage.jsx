@@ -16,6 +16,64 @@ const CpgClinicalRecommendationsPage = ({ onNavigate }) => {
     }
   };
 
+  const handleUpdateLinkClick = (e, updateId) => {
+    e.preventDefault();
+    
+    // Get base path from current location (future-proof)
+    const basePath = window.location.pathname.split('/').slice(0, 2).join('/') || '/res.adhd.org.sa-concept';
+    const updatesPath = `${basePath}/adhd-cpg/cpg-guideline-updates`;
+    const fullPath = `${updatesPath}#${updateId}`;
+    
+    // Navigate to the Updates page
+    onNavigate('cpg-guideline-updates');
+    
+    // Function to scroll to anchor
+    const scrollToAnchor = () => {
+      const element = document.getElementById(updateId);
+      if (element) {
+        // Update URL with hash
+        window.history.replaceState({}, '', fullPath);
+        // Scroll to element with offset for header
+        const headerOffset = 80;
+        const elementPosition = element.getBoundingClientRect().top;
+        const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
+        
+        window.scrollTo({
+          top: offsetPosition,
+          behavior: 'smooth'
+        });
+        return true;
+      }
+      return false;
+    };
+    
+    // Try scrolling immediately (in case we're already on the page)
+    if (scrollToAnchor()) {
+      return;
+    }
+    
+    // Wait for navigation and page render to complete, then scroll to anchor
+    // Use requestAnimationFrame for better timing
+    let attempts = 0;
+    const maxAttempts = 20; // Try for up to 2 seconds (20 * 100ms)
+    
+    const tryScroll = () => {
+      attempts++;
+      if (scrollToAnchor() || attempts >= maxAttempts) {
+        return;
+      }
+      setTimeout(tryScroll, 100);
+    };
+    
+    setTimeout(tryScroll, 300);
+  };
+
+  // Helper function to get the update link href (future-proof)
+  const getUpdateLinkHref = (updateId) => {
+    const basePath = window.location.pathname.split('/').slice(0, 2).join('/') || '/res.adhd.org.sa-concept';
+    return `${basePath}/adhd-cpg/cpg-guideline-updates#${updateId}`;
+  };
+
   // Function to extract text content from an element and its children
   const getTextContent = (element) => {
     if (!element) return '';
@@ -451,7 +509,7 @@ const CpgClinicalRecommendationsPage = ({ onNavigate }) => {
                   <li>children and young people with mood disorders (for example, anxiety and depression)</li>
                   <li>people with a close family member diagnosed with ADHD</li>
                   <li>people with epilepsy</li>
-                  <li>people with other neurodevelopmental disorders (for example, autism spectrum disorder, tic disorders, intellectual disability and specific learning difficulties). See p24, Early Recognition and Diagnosis, Evidence-Based CPG for Management of Children with ASD (Saudi Health Council, 2022). [<a href="https://cpg.adhd.org.sa/updates/#Update-2022-5" className="text-emerald-700 hover:underline">Update 2022-5</a>] [<a href="https://cpg.adhd.org.sa/updates/#Update-2023-2" className="text-emerald-700 hover:underline">Update 2023-2</a>]</li>
+                  <li>people with other neurodevelopmental disorders (for example, autism spectrum disorder, tic disorders, intellectual disability and specific learning difficulties). See p24, Early Recognition and Diagnosis, Evidence-Based CPG for Management of Children with ASD (Saudi Health Council, 2022). [<a href={getUpdateLinkHref('Update-2022-5')} onClick={(e) => handleUpdateLinkClick(e, 'Update-2022-5')} className="text-emerald-700 hover:underline">Update 2022-5</a>] [<a href={getUpdateLinkHref('Update-2023-2')} onClick={(e) => handleUpdateLinkClick(e, 'Update-2023-2')} className="text-emerald-700 hover:underline">Update 2023-2</a>]</li>
                   <li>adults with mental health conditions</li>
                   <li>people with a history of substance use disorders</li>
                   <li>people known to the youth or adult criminal justice organisations</li>
@@ -859,7 +917,7 @@ const CpgClinicalRecommendationsPage = ({ onNavigate }) => {
                 
                 <p>
                   <a id="rec5.19" className="bookmark text-emerald-700 font-semibold mr-2" href="#rec5.19">5.19</a>
-                  Evidence on the safety and efficacy of transcutaneous electrical stimulation of the trigeminal nerve for attention deficit hyperactivity disorder (ADHD) is inadequate in quality and quantity. Therefore, this procedure should only be used in the context of research. [<a href="https://cpg.adhd.org.sa/updates/#Update-2023-3" className="text-emerald-700 hover:underline">Update 2023-3</a>]
+                  Evidence on the safety and efficacy of transcutaneous electrical stimulation of the trigeminal nerve for attention deficit hyperactivity disorder (ADHD) is inadequate in quality and quantity. Therefore, this procedure should only be used in the context of research. [<a href={getUpdateLinkHref('Update-2023-3')} onClick={(e) => handleUpdateLinkClick(e, 'Update-2023-3')} className="text-emerald-700 hover:underline">Update 2023-3</a>]
                 </p>
               </div>
             </section>
@@ -948,12 +1006,12 @@ const CpgClinicalRecommendationsPage = ({ onNavigate }) => {
                       <li>current medication</li>
                       <li>height and weight (measured and recorded against the normal range for age, height and sex)</li>
                       <li>baseline pulse and blood pressure (measured with an appropriately sized cuff and compared with the normal range for age)</li>
-                      <li>a cardiovascular assessment [<a href="https://cpg.adhd.org.sa/updates/#Update-2022-1a" className="text-emerald-700 hover:underline">Update 2022-1a</a>]</li>
+                      <li>a cardiovascular assessment [<a href={getUpdateLinkHref('Update-2022-1a')} onClick={(e) => handleUpdateLinkClick(e, 'Update-2022-1a')} className="text-emerald-700 hover:underline">Update 2022-1a</a>]</li>
                     </ul>
                   </li>
                 </ul>
                 <p className="mt-2">
-                  An electrocardiogram (ECG) is not needed before starting stimulants, atomoxetine or guanfacine, unless the person has any of the features in recommendation 7.4, or a co-existing condition that is being treated with a medicine that may pose an increased cardiac risk. [<a href="https://cpg.adhd.org.sa/updates/#Update-2022-1b" className="text-emerald-700 hover:underline">Update 2022-1b</a>]
+                  An electrocardiogram (ECG) is not needed before starting stimulants, atomoxetine or guanfacine, unless the person has any of the features in recommendation 7.4, or a co-existing condition that is being treated with a medicine that may pose an increased cardiac risk. [<a href={getUpdateLinkHref('Update-2022-1b')} onClick={(e) => handleUpdateLinkClick(e, 'Update-2022-1b')} className="text-emerald-700 hover:underline">Update 2022-1b</a>]
                 </p>
                 
                 <p>
@@ -981,7 +1039,7 @@ const CpgClinicalRecommendationsPage = ({ onNavigate }) => {
                 
                 <p>
                   <a id="rec7.6" className="bookmark text-emerald-700 font-semibold mr-2" href="#rec7.6">7.6</a>
-                  Offer methylphenidate (either short or long acting) as the first line pharmacological treatment for children aged 5 years and over and young people with ADHD, taking into consideration that this is an off-label use for children aged between 5 and 6 years. [<a href="https://cpg.adhd.org.sa/updates/#Update-2022-2" className="text-emerald-700 hover:underline">Update 2022-2</a>]
+                  Offer methylphenidate (either short or long acting) as the first line pharmacological treatment for children aged 5 years and over and young people with ADHD, taking into consideration that this is an off-label use for children aged between 5 and 6 years. [<a href={getUpdateLinkHref('Update-2022-2')} onClick={(e) => handleUpdateLinkClick(e, 'Update-2022-2')} className="text-emerald-700 hover:underline">Update 2022-2</a>]
                 </p>
                 
                 <p>
@@ -1007,7 +1065,7 @@ const CpgClinicalRecommendationsPage = ({ onNavigate }) => {
                 
                 <p>
                   <a id="rec7.10" className="bookmark text-emerald-700 font-semibold mr-2" href="#rec7.10">7.10</a>
-                  Offer lisdexamfetamine or methylphenidate as first-line pharmacological treatment for adults with ADHD. This is an off-label use of lisdexamfetamine for adults with no ADHD symptoms in childhood. [<a href="https://cpg.adhd.org.sa/updates/#Update-2022-3a" className="text-emerald-700 hover:underline">Update 2022-3a</a>] Not all preparations of methylphenidate are licensed for treating symptoms of ADHD in adults. [<a href="https://cpg.adhd.org.sa/updates/#Update-2022-3b" className="text-emerald-700 hover:underline">Update 2022-3b</a>]
+                  Offer lisdexamfetamine or methylphenidate as first-line pharmacological treatment for adults with ADHD. This is an off-label use of lisdexamfetamine for adults with no ADHD symptoms in childhood. [<a href={getUpdateLinkHref('Update-2022-3a')} onClick={(e) => handleUpdateLinkClick(e, 'Update-2022-3a')} className="text-emerald-700 hover:underline">Update 2022-3a</a>] Not all preparations of methylphenidate are licensed for treating symptoms of ADHD in adults. [<a href={getUpdateLinkHref('Update-2022-3b')} onClick={(e) => handleUpdateLinkClick(e, 'Update-2022-3b')} className="text-emerald-700 hover:underline">Update 2022-3b</a>]
                 </p>
                 
                 <p>
@@ -1056,7 +1114,7 @@ const CpgClinicalRecommendationsPage = ({ onNavigate }) => {
                 
                 <p>
                   <a id="rec7.17" className="bookmark text-emerald-700 font-semibold mr-2" href="#rec7.17">7.17</a>
-                  Offer the same medication choices to people with ADHD and anxiety disorder, tic disorder or autism spectrum disorder as other people with ADHD. See p52, Pharmacological Interventions, Evidence-Based CPG for Management of Children with ASD (Saudi Health Council, 2022). [<a href="https://cpg.adhd.org.sa/updates/#Update-2022-6" className="text-emerald-700 hover:underline">Update 2022-6</a>]
+                  Offer the same medication choices to people with ADHD and anxiety disorder, tic disorder or autism spectrum disorder as other people with ADHD. See p52, Pharmacological Interventions, Evidence-Based CPG for Management of Children with ASD (Saudi Health Council, 2022). [<a href={getUpdateLinkHref('Update-2022-6')} onClick={(e) => handleUpdateLinkClick(e, 'Update-2022-6')} className="text-emerald-700 hover:underline">Update 2022-6</a>]
                 </p>
                 
                 <p>
@@ -1091,7 +1149,7 @@ const CpgClinicalRecommendationsPage = ({ onNavigate }) => {
                 
                 <p>
                   <a id="rec7.21" className="bookmark text-emerald-700 font-semibold mr-2" href="#rec7.21">7.21</a>
-                  Think about using a modified-release preparation of methylphenidate in the morning and an immediate-release preparation of methylphenidate at another time of the day to extend the duration of effect. [<a href="https://cpg.adhd.org.sa/updates/#Update-2023-1" className="text-emerald-700 hover:underline">Update 2023-1</a>]
+                  Think about using a modified-release preparation of methylphenidate in the morning and an immediate-release preparation of methylphenidate at another time of the day to extend the duration of effect. [<a href={getUpdateLinkHref('Update-2023-1')} onClick={(e) => handleUpdateLinkClick(e, 'Update-2023-1')} className="text-emerald-700 hover:underline">Update 2023-1</a>]
                 </p>
                 
                 <p>
@@ -1244,7 +1302,7 @@ const CpgClinicalRecommendationsPage = ({ onNavigate }) => {
                 
                 <p>
                   <a id="rec8.14" className="bookmark text-emerald-700 font-semibold mr-2" href="#rec8.14">8.14</a>
-                  If tics are stimulant related, reduce the stimulant dose, or consider changing to guanfacine (in children aged 5 years and over and young people only), atomoxetine (off-label use for adults with no ADHD symptoms in childhood) [<a href="https://cpg.adhd.org.sa/updates/#Update-2022-4a" className="text-emerald-700 hover:underline">Update 2022-4a</a>], clonidine (off-label use for children) [<a href="https://cpg.adhd.org.sa/updates/#Update-2022-4b" className="text-emerald-700 hover:underline">Update 2022-4b</a>], or stopping medication. Clonidine should only be considered for people under 18 years after advice from a tertiary ADHD service. [<a href="https://cpg.adhd.org.sa/updates/#Update-2022-4c" className="text-emerald-700 hover:underline">Update 2022-4c</a>]
+                  If tics are stimulant related, reduce the stimulant dose, or consider changing to guanfacine (in children aged 5 years and over and young people only), atomoxetine (off-label use for adults with no ADHD symptoms in childhood) [<a href={getUpdateLinkHref('Update-2022-4a')} onClick={(e) => handleUpdateLinkClick(e, 'Update-2022-4a')} className="text-emerald-700 hover:underline">Update 2022-4a</a>], clonidine (off-label use for children) [<a href={getUpdateLinkHref('Update-2022-4b')} onClick={(e) => handleUpdateLinkClick(e, 'Update-2022-4b')} className="text-emerald-700 hover:underline">Update 2022-4b</a>], or stopping medication. Clonidine should only be considered for people under 18 years after advice from a tertiary ADHD service. [<a href={getUpdateLinkHref('Update-2022-4c')} onClick={(e) => handleUpdateLinkClick(e, 'Update-2022-4c')} className="text-emerald-700 hover:underline">Update 2022-4c</a>]
                 </p>
                 
                 <h3 className="text-lg font-bold text-slate-900 mt-6 mb-4">Sexual dysfunction</h3>

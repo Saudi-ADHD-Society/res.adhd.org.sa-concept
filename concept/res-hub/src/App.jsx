@@ -332,7 +332,7 @@ const App = () => {
       case 'adhd-cpg':
         return <CpgContentPage onNavigate={handleNavClick} />;
       case 'cpg-clinical-recommendations':
-        return <CpgClinicalRecommendationsPage />;
+        return <CpgClinicalRecommendationsPage onNavigate={handleNavClick} />;
       case 'cpg-strength-of-recommendations':
         return <CpgStrengthOfRecommendationsPage />;
       case 'cpg-clinical-algorithms':

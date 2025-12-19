@@ -193,15 +193,12 @@ const CpgOverviewPage = ({ onNavigate }) => (
           These minor updates ensure that the Saudi ADHD CPG remains closely aligned with current international
           evidence and safety advice pending the full 2025–2026 revision.
         </p>
-        <a
-          href="https://cpg.adhd.org.sa/en/guideline/updates/"
-          target="_blank"
-          rel="noreferrer"
-          className="inline-flex items-center text-emerald-700 font-semibold text-xs md:text-sm"
+        <button
+          onClick={() => onNavigate('cpg-guideline-updates')}
+          className="inline-flex items-center text-emerald-700 font-semibold text-xs md:text-sm hover:underline"
         >
           View full list of minor updates
-          <ExternalLink size={14} className="ml-1" />
-        </a>
+        </button>
       </div>
     </div>
 
