@@ -1,10 +1,9 @@
 import React from 'react';
+import Breadcrumb from '../../components/Breadcrumb.jsx';
 
 const IrbOverviewPage = ({ onNavigate }) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <div className="text-xs text-slate-500 uppercase tracking-wide">
-      Research Governance / Research Ethics &amp; Local IRB / <span className="font-semibold text-slate-600">IRB Overview &amp; Scope</span>
-    </div>
+    <Breadcrumb onNavigate={onNavigate} />
 
     <header className="space-y-2">
       <h1 className="text-3xl font-bold text-slate-900">IRB Overview &amp; Scope</h1>

@@ -1,8 +1,10 @@
 import React from 'react';
 import { Languages, Users, Activity, FileText, Target, Scale } from 'lucide-react';
+import Breadcrumb from '../../components/Breadcrumb.jsx';
 
-const FunctionalAssessmentPage = () => (
+const FunctionalAssessmentPage = ({ onNavigate }) => (
   <div className="space-y-10 animate-in fade-in slide-in-from-bottom-4 duration-500">
+    <Breadcrumb onNavigate={onNavigate} />
     {/* Hero / Intro */}
     <div className="bg-teal-900 text-teal-50 rounded-2xl px-6 md:px-10 py-8 md:py-10 shadow-sm relative overflow-hidden">
       <div className="absolute -right-10 -bottom-10 w-48 h-48 bg-teal-700/40 rounded-full blur-3xl" aria-hidden="true" />

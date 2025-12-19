@@ -1,8 +1,10 @@
 import React from 'react';
 import { Award } from 'lucide-react';
+import Breadcrumb from '../../components/Breadcrumb.jsx';
 
-const GrantPage = () => (
+const GrantPage = ({ onNavigate }) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
+    <Breadcrumb onNavigate={onNavigate} />
     <div className="bg-emerald-900 text-white p-10 rounded-2xl relative overflow-hidden">
       <div className="relative z-10">
           <h2 className="text-3xl font-bold mb-4">Saudi ADHD Society Research Grant 2024</h2>

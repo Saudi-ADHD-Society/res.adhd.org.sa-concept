@@ -336,25 +336,25 @@ const App = () => {
       case 'cpg-overview':
         return <CpgOverviewPage onNavigate={handleNavClick} />;
       case 'research-output':
-        return <ResearchOutputPage />;
+        return <ResearchOutputPage onNavigate={handleNavClick} />;
       case 'adhd-cpg':
         return <CpgContentPage onNavigate={handleNavClick} />;
       case 'cpg-clinical-recommendations':
         return <CpgClinicalRecommendationsPage onNavigate={handleNavClick} />;
       case 'cpg-strength-of-recommendations':
-        return <CpgStrengthOfRecommendationsPage />;
+        return <CpgStrengthOfRecommendationsPage onNavigate={handleNavClick} />;
       case 'cpg-clinical-algorithms':
-        return <CpgClinicalAlgorithmsPage />;
+        return <CpgClinicalAlgorithmsPage onNavigate={handleNavClick} />;
       case 'cpg-medication-tables':
-        return <CpgMedicationTablesPage />;
+        return <CpgMedicationTablesPage onNavigate={handleNavClick} />;
       case 'cpg-terminology':
-        return <CpgTerminologyPage />;
+        return <CpgTerminologyPage onNavigate={handleNavClick} />;
       case 'cpg-icd-codes':
-        return <CpgIcdCodesPage />;
+        return <CpgIcdCodesPage onNavigate={handleNavClick} />;
       case 'cpg-quality-standards':
-        return <CpgQualityStandardsPage />;
+        return <CpgQualityStandardsPage onNavigate={handleNavClick} />;
       case 'cpg-guideline-updates':
-        return <CpgGuidelineUpdatesPage />;
+        return <CpgGuidelineUpdatesPage onNavigate={handleNavClick} />;
       case 'adhd-cpg-about':
         return <CpgAboutPage onNavigate={handleNavClick} />;
       case 'adhd-cpg-about-development':
@@ -368,17 +368,17 @@ const App = () => {
       case 'adhd-cpg-about-copyright':
         return <CpgAboutCopyrightPage onNavigate={handleNavClick} />;
       case 'interactive-scales':
-        return <InteractiveScalesPage />;
+        return <InteractiveScalesPage onNavigate={handleNavClick} />;
       case 'functional-assessment':
-        return <FunctionalAssessmentPage />;
+        return <FunctionalAssessmentPage onNavigate={handleNavClick} />;
       case 'hcp-resources':
         return <HcpResourcesPage onNavigate={handleNavClick} />;
       case 'consensus-statement':
         return <ConsensusStatementPage onNavigate={handleNavClick} />;
       case 'research-priorities':
-        return <ResearchPrioritiesPage />;
+        return <ResearchPrioritiesPage onNavigate={handleNavClick} />;
       case 'ishraq-grant':
-        return <GrantPage />;
+        return <GrantPage onNavigate={handleNavClick} />;
       case 'irb':
         return <IrbPage onNavigate={handleNavClick} />;
       case 'irb-overview':

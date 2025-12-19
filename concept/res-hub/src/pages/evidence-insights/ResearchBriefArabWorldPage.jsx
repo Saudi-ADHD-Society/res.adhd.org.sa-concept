@@ -1,16 +1,10 @@
 import React from 'react';
 import { Globe, ExternalLink, TrendingUp } from 'lucide-react';
+import Breadcrumb from '../../components/Breadcrumb.jsx';
 
 const ResearchBriefArabWorldPage = ({ onNavigate }) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    {/* Breadcrumb */}
-    <div className="text-sm text-slate-500">
-      <button onClick={() => onNavigate('research-briefs')} className="hover:text-emerald-600">
-        Evidence & Insights / Research Briefs
-      </button>
-      <span className="mx-2">/</span>
-      <span>ADHD in Saudi Arabia & Arab World</span>
-    </div>
+    <Breadcrumb onNavigate={onNavigate} />
 
     {/* Header */}
     <div className="bg-white p-6 rounded-xl border border-slate-200 shadow-sm">

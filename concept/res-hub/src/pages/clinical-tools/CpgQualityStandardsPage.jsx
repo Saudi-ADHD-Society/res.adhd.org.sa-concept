@@ -1,7 +1,9 @@
 import React from 'react';
+import Breadcrumb from '../../components/Breadcrumb.jsx';
 
-const CpgQualityStandardsPage = () => (
+const CpgQualityStandardsPage = ({ onNavigate }) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
+    <Breadcrumb onNavigate={onNavigate} />
     <div>
       <h2 className="text-3xl font-bold text-slate-900">Quality Standards</h2>
       <p className="text-slate-500 mt-2">

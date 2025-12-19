@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { ArrowLeft, Search } from 'lucide-react';
+import Breadcrumb from '../../components/Breadcrumb.jsx';
 
 const ConsensusStatementPage = ({ onNavigate }) => {
   const [searchQuery, setSearchQuery] = useState('');
@@ -312,14 +313,7 @@ const ConsensusStatementPage = ({ onNavigate }) => {
 
   return (
     <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-      {/* Breadcrumb */}
-      <div className="text-sm text-slate-500">
-        <button onClick={() => onNavigate('hcp-resources')} className="hover:text-emerald-600">
-          Clinical Tools & Resources / HCP Resources
-        </button>
-        <span className="mx-2">/</span>
-        <span>International Consensus Statement</span>
-      </div>
+      <Breadcrumb onNavigate={onNavigate} />
 
       {/* Header */}
       <div id="consensus-statement-title" className="bg-white p-6 rounded-xl border border-slate-200 shadow-sm scroll-mt-20">

@@ -1,6 +1,7 @@
 import React from 'react';
 import { ExternalLink } from 'lucide-react';
 import ipgrpReceipt from '../../assets/ipgrp-registration-receipt.png';
+import Breadcrumb from '../../components/Breadcrumb.jsx';
 
 const CpgAboutDevelopmentPage = ({ onNavigate }) => {
   const handleAnchorClick = (e, anchorId) => {
@@ -14,18 +15,7 @@ const CpgAboutDevelopmentPage = ({ onNavigate }) => {
 
   return (
     <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-      {/* Breadcrumb */}
-      <div className="text-sm text-slate-500">
-        <button onClick={() => onNavigate('adhd-cpg')} className="hover:text-emerald-600">
-          Clinical Tools & Resources / Saudi National ADHD CPG
-        </button>
-        <span className="mx-2">/</span>
-        <button onClick={() => onNavigate('adhd-cpg-about')} className="hover:text-emerald-600">
-          About the Guideline
-        </button>
-        <span className="mx-2">/</span>
-        <span>Development</span>
-      </div>
+      <Breadcrumb onNavigate={onNavigate} />
 
       {/* Two Column Layout: Content Left, Sections Right */}
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">

@@ -1,19 +1,9 @@
 import React from 'react';
+import Breadcrumb from '../../components/Breadcrumb.jsx';
 
 const CpgAboutDisclaimerPage = ({ onNavigate }) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    {/* Breadcrumb */}
-    <div className="text-sm text-slate-500">
-      <button onClick={() => onNavigate('adhd-cpg')} className="hover:text-emerald-600">
-        Clinical Tools & Resources / Saudi National ADHD CPG
-      </button>
-      <span className="mx-2">/</span>
-      <button onClick={() => onNavigate('adhd-cpg-about')} className="hover:text-emerald-600">
-        About the Guideline
-      </button>
-      <span className="mx-2">/</span>
-      <span>Disclaimer</span>
-    </div>
+    <Breadcrumb onNavigate={onNavigate} />
 
     {/* Content */}
     <div className="bg-white border border-slate-200 rounded-xl p-6 shadow-sm">

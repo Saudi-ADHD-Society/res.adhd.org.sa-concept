@@ -1,16 +1,10 @@
 import React from 'react';
 import { BookOpen, AlertTriangle, CheckCircle2, Globe2, Brain, Activity, Pill } from 'lucide-react';
+import Breadcrumb from '../../components/Breadcrumb.jsx';
 
 const TopicGuideWhatIsAdhdPage = ({ onNavigate }) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    {/* Breadcrumb */}
-    <div className="text-sm text-slate-500">
-      <button onClick={() => onNavigate('topic-guides')} className="hover:text-emerald-600">
-        Evidence & Insights / Topic Guides
-      </button>
-      <span className="mx-2">/</span>
-      <span>What is ADHD — Myths vs Evidence</span>
-    </div>
+    <Breadcrumb onNavigate={onNavigate} />
 
     {/* Header */}
     <div className="bg-white p-6 rounded-xl border border-slate-200 shadow-sm">

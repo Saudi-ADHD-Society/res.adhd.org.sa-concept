@@ -1,5 +1,6 @@
 import React, { useRef } from 'react';
 import { Heart, Brain, BookOpen, Activity, AlertTriangle, Shield, Users } from 'lucide-react';
+import Breadcrumb from '../../components/Breadcrumb.jsx';
 
 const TopicGuideHealthComorbidityPage = ({ onNavigate }) => {
   const mentalHealthRef = useRef(null);
@@ -14,14 +15,7 @@ const TopicGuideHealthComorbidityPage = ({ onNavigate }) => {
 
   return (
     <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-      {/* Breadcrumb */}
-      <div className="text-sm text-slate-500">
-        <button onClick={() => onNavigate('topic-guides')} className="hover:text-emerald-600">
-          Evidence & Insights / Topic Guides
-        </button>
-        <span className="mx-2">/</span>
-        <span>Health, Comorbidity &amp; Risk in ADHD</span>
-      </div>
+      <Breadcrumb onNavigate={onNavigate} />
 
       {/* Header */}
       <div className="bg-white p-6 rounded-xl border border-slate-200 shadow-sm">

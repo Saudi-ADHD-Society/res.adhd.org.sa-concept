@@ -1,4 +1,5 @@
 import React from 'react';
+import Breadcrumb from '../../components/Breadcrumb.jsx';
 
 const CpgContentPage = ({ onNavigate }) => {
   const handleAnchorClick = (e, anchorId) => {
@@ -12,6 +13,7 @@ const CpgContentPage = ({ onNavigate }) => {
 
   return (
     <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
+      <Breadcrumb onNavigate={onNavigate} />
       {/* Header */}
       <div>
         <h2 className="text-3xl font-bold text-slate-900">Saudi ADHD Clinical Practice Guidelines (CPG)</h2>

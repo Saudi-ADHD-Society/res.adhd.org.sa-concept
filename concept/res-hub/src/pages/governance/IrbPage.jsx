@@ -1,4 +1,5 @@
 import React from 'react';
+import Breadcrumb from '../../components/Breadcrumb.jsx';
 
 const irbMembers = [
   {
@@ -36,6 +37,7 @@ const irbMembers = [
 
 const IrbPage = ({ onNavigate }) => (
   <div className="space-y-10 animate-in fade-in slide-in-from-bottom-4 duration-500">
+    <Breadcrumb onNavigate={onNavigate} />
     {/* Overview Hero */}
     <div className="bg-slate-50 border border-slate-200 rounded-2xl p-8 md:p-10">
       <h2 className="text-3xl font-bold text-slate-900 mb-3">Research Ethics &amp; Local IRB</h2>

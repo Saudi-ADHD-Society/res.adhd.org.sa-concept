@@ -1,5 +1,6 @@
 import React from 'react';
 import { ExternalLink } from 'lucide-react';
+import Breadcrumb from '../../components/Breadcrumb.jsx';
 
 const publications = [
   {
@@ -95,11 +96,12 @@ const publications = [
   }
 ];
 
-const ResearchOutputPage = () => {
+const ResearchOutputPage = ({ onNavigate }) => {
   const sortedPublications = [...publications].sort((a, b) => b.year - a.year);
 
   return (
     <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
+      <Breadcrumb onNavigate={onNavigate} />
       <div className="flex justify-between items-end">
         <div>
           <h2 className="text-3xl font-bold text-slate-900">Saudi ADHD Society Research Output &amp; Publications</h2>

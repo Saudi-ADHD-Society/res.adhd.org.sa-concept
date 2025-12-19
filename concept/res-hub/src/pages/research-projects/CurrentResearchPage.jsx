@@ -1,8 +1,10 @@
 import React from 'react';
 import { Activity, FlaskConical, Calendar, ArrowRight, BookOpen, BarChart2 } from 'lucide-react';
+import Breadcrumb from '../../components/Breadcrumb.jsx';
 
 const CurrentResearchPage = ({ onNavigate }) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
+    <Breadcrumb onNavigate={onNavigate} />
     <div className="flex items-start justify-between">
       <div>
         <h2 className="text-3xl font-bold text-slate-900">Current Research Projects</h2>
