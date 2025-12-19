@@ -26,6 +26,12 @@ const getPageFromPath = () => {
     return `adhd-cpg-about-${segment}`;
   }
   
+  // Handle 3-level paths like "clinical-tools/hcp-resources/consensus-statement"
+  // The page ID is always the last segment
+  if (parts.length === 3) {
+    return parts[2];
+  }
+  
   // Handle 2-level paths like "hcp-resources/consensus-statement" or "adhd-cpg/about"
   if (parts.length === 2) {
     if (parts[0] === 'adhd-cpg' && parts[1] === 'about') {
