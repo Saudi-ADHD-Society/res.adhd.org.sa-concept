@@ -286,7 +286,7 @@ const CpgContentPage = ({ onNavigate }) => {
                   Medication Tables
                 </button>
                 <button
-                  onClick={() => onNavigate('cpg-rating-scales')}
+                  onClick={() => onNavigate('interactive-scales')}
                   className="block w-full text-left p-2 hover:bg-emerald-50 rounded-lg transition-colors text-slate-600 hover:text-emerald-800 text-sm font-semibold"
                 >
                   Rating Scales

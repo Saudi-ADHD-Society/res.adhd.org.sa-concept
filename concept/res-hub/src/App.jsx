@@ -20,7 +20,6 @@ import CpgClinicalRecommendationsPage from './pages/clinical-tools/CpgClinicalRe
 import CpgStrengthOfRecommendationsPage from './pages/clinical-tools/CpgStrengthOfRecommendationsPage.jsx';
 import CpgClinicalAlgorithmsPage from './pages/clinical-tools/CpgClinicalAlgorithmsPage.jsx';
 import CpgMedicationTablesPage from './pages/clinical-tools/CpgMedicationTablesPage.jsx';
-import CpgRatingScalesPage from './pages/clinical-tools/CpgRatingScalesPage.jsx';
 import CpgTerminologyPage from './pages/clinical-tools/CpgTerminologyPage.jsx';
 import CpgIcdCodesPage from './pages/clinical-tools/CpgIcdCodesPage.jsx';
 import CpgQualityStandardsPage from './pages/clinical-tools/CpgQualityStandardsPage.jsx';
@@ -67,7 +66,6 @@ const PAGE_HIERARCHY = {
   'cpg-strength-of-recommendations': 'adhd-cpg',
   'cpg-clinical-algorithms': 'adhd-cpg',
   'cpg-medication-tables': 'adhd-cpg',
-  'cpg-rating-scales': 'adhd-cpg',
   'cpg-terminology': 'adhd-cpg',
   'cpg-icd-codes': 'adhd-cpg',
   'cpg-quality-standards': 'adhd-cpg',
@@ -341,8 +339,6 @@ const App = () => {
         return <CpgClinicalAlgorithmsPage />;
       case 'cpg-medication-tables':
         return <CpgMedicationTablesPage />;
-      case 'cpg-rating-scales':
-        return <CpgRatingScalesPage />;
       case 'cpg-terminology':
         return <CpgTerminologyPage />;
       case 'cpg-icd-codes':
