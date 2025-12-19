@@ -77,6 +77,7 @@ const PAGE_HIERARCHY = {
   'adhd-cpg-about-publications': 'adhd-cpg-about',
   'adhd-cpg-about-acknowledgements': 'adhd-cpg-about',
   'adhd-cpg-about-disclaimer': 'adhd-cpg-about',
+  'adhd-cpg-about-copyright': 'adhd-cpg-about',
 };
 
 // Get full path for a page (including parent if it's a sub-page, handles 3-level nesting)
@@ -360,6 +361,8 @@ const App = () => {
         return <CpgAboutAcknowledgementsPage onNavigate={handleNavClick} />;
       case 'adhd-cpg-about-disclaimer':
         return <CpgAboutDisclaimerPage onNavigate={handleNavClick} />;
+      case 'adhd-cpg-about-copyright':
+        return <CpgAboutCopyrightPage onNavigate={handleNavClick} />;
       case 'interactive-scales':
         return <InteractiveScalesPage />;
       case 'functional-assessment':

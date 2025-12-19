@@ -328,13 +328,12 @@ const CpgContentPage = ({ onNavigate }) => {
                   </button>
                 </li>
                 <li>
-                  <a 
-                    href="#about-copyright" 
-                    onClick={(e) => handleAnchorClick(e, '#about-copyright')} 
-                    className="hover:text-emerald-600 transition-colors block"
+                  <button
+                    onClick={() => onNavigate('adhd-cpg-about-copyright')}
+                    className="hover:text-emerald-600 transition-colors block text-left w-full"
                   >
                     Copyright
-                  </a>
+                  </button>
                 </li>
               </ul>
             </div>
