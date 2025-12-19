@@ -1,4 +1,6 @@
 import React from 'react';
+import { ExternalLink } from 'lucide-react';
+import ipgrpReceipt from '../../assets/ipgrp-registration-receipt.png';
 
 const CpgAboutDevelopmentPage = ({ onNavigate }) => {
   const handleAnchorClick = (e, anchorId) => {
@@ -530,12 +532,60 @@ const CpgAboutDevelopmentPage = ({ onNavigate }) => {
             </div>
           </section>
 
+          {/* Guideline Registration */}
+          <section id="guideline-registration" className="bg-white border border-slate-200 rounded-xl p-6 shadow-sm scroll-mt-20">
+            <h2 className="text-2xl font-bold text-slate-900 mb-4">Guideline Registration</h2>
+            <p className="text-slate-600 text-sm md:text-base mb-4">
+              Following publication of the first edition, the Evidence-based clinical practice guideline for Management of Attention Deficit Hyperactivity Disorder (ADHD) in Saudi Arabia was registered with the International Practice Guideline Registry Platform (IPGRP) on 23 November 2021.
+            </p>
+            <div className="space-y-4">
+              <div className="bg-slate-50 border border-slate-200 rounded-lg p-4">
+                <p className="text-slate-700 text-sm md:text-base mb-2">
+                  <strong>Registration Number:</strong> IPGRP-2021CN379
+                </p>
+                <p className="text-slate-700 text-sm md:text-base mb-3">
+                  <strong>Registration Date:</strong> 23 November 2021
+                </p>
+                <a
+                  href="https://www.guidelines-registry.org/guid/1332"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="inline-flex items-center text-emerald-700 font-semibold hover:underline"
+                >
+                  View IPGRP registration record
+                  <ExternalLink size={14} className="ml-1" />
+                </a>
+              </div>
+              <div className="border border-slate-200 rounded-lg p-4 bg-white">
+                <img 
+                  src={ipgrpReceipt} 
+                  alt="IPGRP Protocol Registration Receipt for the Saudi National ADHD CPG" 
+                  className="w-full max-w-2xl mx-auto rounded-lg shadow-sm"
+                />
+                <p className="text-xs text-slate-500 text-center mt-2">
+                  Protocol Registration Receipt issued by the International Practice Guideline Registry Platform (IPGRP)
+                </p>
+              </div>
+            </div>
+          </section>
+
           {/* Plan for Scheduled Review and Update */}
           <section id="plan-for-scheduled-review-and-update" className="bg-white border border-slate-200 rounded-xl p-6 shadow-sm scroll-mt-20">
             <h2 className="text-2xl font-bold text-slate-900 mb-4">Plan for Scheduled Review and Update</h2>
-            <p className="text-slate-600 text-sm md:text-base">
+            <p className="text-slate-600 text-sm md:text-base mb-4">
               The group has decided for the next review of this adapted CPG to be after <strong>four years</strong> from the publication date (July 2020) which should be on (July 2024) after checking for updates in the Source CPG, consultation of expert opinion on the changes needed for updating according to the newest evidence and recommendations published in this area in addition to the implementation and evaluation results at relevant healthcare organizations in the Kingdom.
             </p>
+            <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-3 pt-2 border-t border-slate-100">
+              <p className="text-xs md:text-sm text-slate-500 max-w-2xl">
+                For information about the current 2025–2026 major update cycle and the ongoing development process, see the CPG Research Project page.
+              </p>
+              <button
+                onClick={() => onNavigate('cpg-overview')}
+                className="inline-flex items-center text-emerald-700 font-semibold text-xs md:text-sm hover:underline"
+              >
+                View Saudi National ADHD CPG Overview
+              </button>
+            </div>
           </section>
 
           {/* List of Funding Sources */}
@@ -621,6 +671,11 @@ const CpgAboutDevelopmentPage = ({ onNavigate }) => {
               <li>
                 <a href="#adaptation-process-methodology" onClick={(e) => handleAnchorClick(e, '#adaptation-process-methodology')} className="hover:text-emerald-600 transition-colors block">
                   Adaptation Process Methodology
+                </a>
+              </li>
+              <li>
+                <a href="#guideline-registration" onClick={(e) => handleAnchorClick(e, '#guideline-registration')} className="hover:text-emerald-600 transition-colors block">
+                  Guideline Registration
                 </a>
               </li>
               <li>
