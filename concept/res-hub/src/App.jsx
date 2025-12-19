@@ -8,6 +8,7 @@ import TopicGuideHealthComorbidityPage from './pages/evidence-insights/TopicGuid
 import TopicGuideTreatmentsPage from './pages/evidence-insights/TopicGuideTreatmentsPage.jsx';
 import TopicGuideDiagnosisPage from './pages/evidence-insights/TopicGuideDiagnosisPage.jsx';
 import TopicGuideSocietyPage from './pages/evidence-insights/TopicGuideSocietyPage.jsx';
+import TopicGuideWomenGirlsPage from './pages/evidence-insights/ResearchBriefWomenGirlsPage.jsx';
 import ResearchBriefsPage from './pages/evidence-insights/ResearchBriefsPage.jsx';
 import ResearchBriefAgreeIiPage from './pages/evidence-insights/ResearchBriefAgreeIiPage.jsx';
 import ResearchBriefCpgAdaptationPage from './pages/evidence-insights/ResearchBriefCpgAdaptationPage.jsx';
@@ -59,10 +60,10 @@ const PAGE_HIERARCHY = {
   'topic-guide-treatments': 'topic-guides',
   'topic-guide-diagnosis': 'topic-guides',
   'topic-guide-society': 'topic-guides',
+  'topic-guide-women-girls': 'topic-guides',
   'research-brief-agree-ii': 'research-briefs',
   'research-brief-cpg-adaptation': 'research-briefs',
   'research-brief-arab-world': 'research-briefs',
-  'research-brief-women-girls': 'research-briefs',
   'cpg-overview': 'current-research',
   'cpg-clinical-recommendations': 'adhd-cpg',
   'cpg-strength-of-recommendations': 'adhd-cpg',
@@ -317,6 +318,8 @@ const App = () => {
         return <TopicGuideDiagnosisPage onNavigate={handleNavClick} />;
       case 'topic-guide-society':
         return <TopicGuideSocietyPage onNavigate={handleNavClick} />;
+      case 'topic-guide-women-girls':
+        return <TopicGuideWomenGirlsPage onNavigate={handleNavClick} />;
       case 'research-briefs':
         return <ResearchBriefsPage onNavigate={handleNavClick} />;
       case 'research-brief-agree-ii':
@@ -325,8 +328,6 @@ const App = () => {
         return <ResearchBriefCpgAdaptationPage onNavigate={handleNavClick} />;
       case 'research-brief-arab-world':
         return <ResearchBriefArabWorldPage onNavigate={handleNavClick} />;
-      case 'research-brief-women-girls':
-        return <ResearchBriefWomenGirlsPage onNavigate={handleNavClick} />;
       case 'current-research':
         return <CurrentResearchPage onNavigate={handleNavClick} />;
       case 'cpg-overview':

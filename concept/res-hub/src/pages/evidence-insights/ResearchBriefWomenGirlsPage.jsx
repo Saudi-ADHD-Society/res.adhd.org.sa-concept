@@ -1,12 +1,12 @@
 import React from 'react';
-import { Users, ArrowLeft, ArrowRight, ExternalLink } from 'lucide-react';
+import { Users, ExternalLink } from 'lucide-react';
 
-const ResearchBriefWomenGirlsPage = ({ onNavigate }) => (
+const TopicGuideWomenGirlsPage = ({ onNavigate }) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
     {/* Breadcrumb */}
     <div className="text-sm text-slate-500">
-      <button onClick={() => onNavigate('research-briefs')} className="hover:text-emerald-600">
-        Evidence & Insights / Research Briefs
+      <button onClick={() => onNavigate('topic-guides')} className="hover:text-emerald-600">
+        Evidence & Insights / Topic Guides
       </button>
       <span className="mx-2">/</span>
       <span>ADHD in Women & Girls</span>
@@ -16,10 +16,10 @@ const ResearchBriefWomenGirlsPage = ({ onNavigate }) => (
     <div className="bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
       <div className="flex items-center space-x-2 text-pink-600 text-sm font-bold mb-3">
         <Users size={16} />
-        <span>Expert Consensus Statement</span>
+        <span>Topic Guide</span>
       </div>
       <h1 className="text-3xl font-bold text-slate-900 mb-4">
-        ADHD in Women & Girls: Identification and Treatment Considerations (Evidence Summary)
+        ADHD in Women & Girls: Identification and Treatment Considerations
       </h1>
       <p className="text-slate-600 mb-4">
         Perhaps as a result of the stereotype of ADHD being that of a disruptive young boy<sup className="text-emerald-700">1</sup>, ADHD is thought to be under-recognised in girls and women<sup className="text-emerald-700">2</sup>. The following recommendations by expert consensus to aid in the identification and treatment of ADHD in girls and women were published by Young et al. in 2020<sup className="text-emerald-700">1</sup>.
@@ -146,23 +146,16 @@ const ResearchBriefWomenGirlsPage = ({ onNavigate }) => (
 
     {/* Navigation */}
     <div className="bg-slate-50 border border-slate-200 rounded-xl p-6">
-      <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
+      <div className="flex justify-between items-center">
         <button
-          onClick={() => onNavigate('research-brief-arab-world')}
-          className="flex items-center text-emerald-700 font-semibold hover:text-emerald-800"
-        >
-          <ArrowLeft size={16} className="mr-2" />
-          Previous: ADHD in Saudi Arabia & Arab World
-        </button>
-        <button
-          onClick={() => onNavigate('research-briefs')}
+          onClick={() => onNavigate('topic-guides')}
           className="text-emerald-700 font-semibold hover:text-emerald-800"
         >
-          Back to Research Briefs
+          Back to Topic Guides
         </button>
       </div>
     </div>
   </div>
 );
 
-export default ResearchBriefWomenGirlsPage;
+export default TopicGuideWomenGirlsPage;

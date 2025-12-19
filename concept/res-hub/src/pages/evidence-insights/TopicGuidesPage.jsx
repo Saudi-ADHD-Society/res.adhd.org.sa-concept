@@ -124,6 +124,26 @@ const TopicGuidesPage = ({ onNavigate }) => (
           Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" />
         </div>
       </button>
+
+      {/* Guide 7: ADHD in Women & Girls */}
+      <button
+        onClick={() => onNavigate('topic-guide-women-girls')}
+        className="group text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
+      >
+        <div className="w-12 h-12 bg-pink-100 text-pink-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-pink-600 group-hover:text-white transition-colors">
+          <Users size={24} />
+        </div>
+        <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-emerald-700 transition-colors">
+          ADHD in Women &amp; Girls: Identification &amp; Treatment
+        </h3>
+        <p className="text-sm text-slate-600 mb-4 line-clamp-3">
+          Consensus-based guidance on recognising and managing ADHD in girls and women, including diagnostic interview
+          nuances and pharmacological and non-pharmacological treatment considerations across the lifespan.
+        </p>
+        <div className="text-sm font-semibold text-emerald-700 flex items-center">
+          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" />
+        </div>
+      </button>
     </div>
   </div>
 );
