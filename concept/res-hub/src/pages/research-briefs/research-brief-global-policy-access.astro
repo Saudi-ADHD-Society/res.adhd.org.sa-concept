@@ -1,0 +1,12 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ResearchBriefGlobalPolicyAccessPage from '../../react-pages/evidence-insights/ResearchBriefGlobalPolicyAccessPage.jsx';
+
+const basePath = import.meta.env.BASE_URL;
+---
+
+<BaseLayout title="Global Policy & Access - Research Portal">
+  <main class="max-w-7xl mx-auto px-4 md:px-8 py-10 min-h-[60vh]">
+    <ResearchBriefGlobalPolicyAccessPage client:load basePath={basePath} />
+  </main>
+</BaseLayout>

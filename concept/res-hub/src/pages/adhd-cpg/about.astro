@@ -1,0 +1,12 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import CpgAboutPage from '../../react-pages/clinical-tools/CpgAboutPage.jsx';
+
+const basePath = import.meta.env.BASE_URL;
+---
+
+<BaseLayout title="About the Guideline - Research Portal">
+  <main class="max-w-7xl mx-auto px-4 md:px-8 py-10 min-h-[60vh]">
+    <CpgAboutPage client:load basePath={basePath} />
+  </main>
+</BaseLayout>

@@ -1,0 +1,28 @@
+---
+import Navigation from '../components/Navigation';
+import Footer from '../components/Footer';
+
+const { title = 'Research Portal - National ADHD Knowledge Hub', description = 'The Research Unit of the Saudi ADHD Society' } = Astro.props;
+const basePath = import.meta.env.BASE_URL;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <meta name="robots" content="noindex, nofollow" />
+    <link rel="icon" type="image/svg+xml" href={`${basePath}favicon.svg`} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <div class="min-h-screen bg-slate-50 font-sans text-slate-800">
+      <Navigation client:load basePath={basePath} />
+      
+      <slot />
+      
+      <Footer client:load basePath={basePath} />
+    </div>
+  </body>
+</html>

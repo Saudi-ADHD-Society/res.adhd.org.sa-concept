@@ -1,51 +1,10 @@
 import React from 'react';
 import { ChevronRight, Home } from 'lucide-react';
+import { getHref } from '../utils/navigation';
 
-const DEFAULT_PAGE = 'home';
 const BASE_PATH = '/res.adhd.org.sa-concept';
 
-// Get page ID from full path (handles nested paths up to 3 levels)
-const getPageFromPath = () => {
-  if (typeof window === 'undefined') return DEFAULT_PAGE;
-  const pathname = window.location.pathname;
-  // Remove base path and leading/trailing slashes
-  let path = pathname.replace(BASE_PATH, '').replace(/^\/|\/$/g, '');
-  // If there's a hash anchor, extract just the path part (before #)
-  const hashIndex = path.indexOf('#');
-  if (hashIndex !== -1) {
-    path = path.substring(0, hashIndex);
-  }
-  
-  if (!path) return DEFAULT_PAGE;
-  
-  const parts = path.split('/');
-  
-  // Handle 3-level paths like "adhd-cpg/about/development"
-  if (parts.length === 3 && parts[0] === 'adhd-cpg' && parts[1] === 'about') {
-    const segment = parts[2];
-    return `adhd-cpg-about-${segment}`;
-  }
-  
-  // Handle 3-level paths like "clinical-tools/hcp-resources/consensus-statement"
-  // The page ID is always the last segment
-  if (parts.length === 3) {
-    return parts[2];
-  }
-  
-  // Handle 2-level paths like "hcp-resources/consensus-statement" or "adhd-cpg/about"
-  if (parts.length === 2) {
-    if (parts[0] === 'adhd-cpg' && parts[1] === 'about') {
-      return 'adhd-cpg-about';
-    }
-    return parts[1]; // Return the sub-page ID
-  }
-  
-  // It's a top-level page
-  return path;
-};
-
 // Page hierarchy: maps sub-pages to their parent pages
-// Keep this in sync with PAGE_HIERARCHY in App.jsx
 const PAGE_HIERARCHY = {
   'consensus-statement': 'hcp-resources',
   'irb-overview': 'irb',
@@ -167,6 +126,29 @@ const PAGE_NAMES = {
   'irb-guide': 'IRB Guide',
 };
 
+// Map page IDs to their URL paths
+const getPagePath = (pageId) => {
+  if (pageId === 'home') return '/';
+  
+  // Handle 3-level paths for about pages
+  if (pageId.startsWith('adhd-cpg-about-')) {
+    const segment = pageId.replace('adhd-cpg-about-', '');
+    return `/adhd-cpg/about/${segment}`;
+  }
+  
+  if (pageId === 'adhd-cpg-about') {
+    return '/adhd-cpg/about';
+  }
+  
+  const parent = PAGE_HIERARCHY[pageId];
+  if (parent) {
+    const parentPath = getPagePath(parent);
+    return `${parentPath}/${pageId}`;
+  }
+  
+  return `/${pageId}`;
+};
+
 // Get section title for a page
 const getSectionTitle = (pageId) => {
   return NAV_SECTIONS[pageId] || null;
@@ -194,6 +176,7 @@ const buildBreadcrumbTrail = (pageId) => {
       trail.unshift({
         id: currentPageId,
         name: pageName,
+        path: getPagePath(currentPageId),
       });
     }
     
@@ -209,6 +192,7 @@ const buildBreadcrumbTrail = (pageId) => {
       trail.unshift({
         id: trail[0].id, // Link to the top-level page in the section
         name: sectionTitle,
+        path: getPagePath(trail[0].id),
         isSection: true,
       });
     }
@@ -217,33 +201,83 @@ const buildBreadcrumbTrail = (pageId) => {
   return trail;
 };
 
-const Breadcrumb = ({ pageId: pageIdProp, onNavigate }) => {
-  // Get pageId from prop or URL
-  const pageId = pageIdProp || getPageFromPath();
+// Get page ID from current URL path
+const getPageIdFromPath = (pathname, basePath) => {
+  let path = pathname.replace(basePath, '').replace(/^\/|\/$/g, '');
   
+  if (!path) return 'home';
+  
+  const parts = path.split('/');
+  
+  // Handle 3-level paths like "adhd-cpg/about/development"
+  if (parts.length === 3 && parts[0] === 'adhd-cpg' && parts[1] === 'about') {
+    return `adhd-cpg-about-${parts[2]}`;
+  }
+  
+  // Handle 3-level paths like "clinical-tools/hcp-resources/consensus-statement"
+  if (parts.length === 3) {
+    return parts[2];
+  }
+  
+  // Handle 2-level paths like "hcp-resources/consensus-statement" or "adhd-cpg/about"
+  if (parts.length === 2) {
+    if (parts[0] === 'adhd-cpg' && parts[1] === 'about') {
+      return 'adhd-cpg-about';
+    }
+    return parts[1];
+  }
+  
+  // It's a top-level page
+  return path;
+};
+
+const Breadcrumb = ({ pageId: pageIdProp, basePath = BASE_PATH }) => {
+  const [currentPageId, setCurrentPageId] = React.useState(() => {
+    if (typeof window !== 'undefined') {
+      return getPageIdFromPath(window.location.pathname, basePath);
+    }
+    return pageIdProp || 'home';
+  });
+  const [mounted, setMounted] = React.useState(false);
+
+  React.useEffect(() => {
+    setMounted(true);
+    const updatePageId = () => {
+      setCurrentPageId(getPageIdFromPath(window.location.pathname, basePath));
+    };
+    updatePageId(); // Set initial value on mount
+    window.addEventListener('popstate', updatePageId);
+    return () => window.removeEventListener('popstate', updatePageId);
+  }, [basePath]);
+
+  // Don't render during SSR
+  if (!mounted) {
+    return null;
+  }
+
   // Don't show breadcrumb on home page
-  if (pageId === 'home') {
+  if (currentPageId === 'home') {
     return null;
   }
   
-  const trail = buildBreadcrumbTrail(pageId);
+  const trail = buildBreadcrumbTrail(currentPageId);
   
   if (trail.length === 0) {
     return null;
   }
-  
+
   return (
     <nav className="text-sm text-slate-500 mb-4" aria-label="Breadcrumb">
       <ol className="flex items-center space-x-2 flex-wrap">
         <li>
-          <button
-            onClick={() => onNavigate('home')}
+          <a
+            href={getHref('home', basePath)}
             className="hover:text-emerald-600 transition-colors flex items-center"
             aria-label="Home"
           >
             <Home size={14} className="mr-1" />
             <span>Home</span>
-          </button>
+          </a>
         </li>
         {trail.map((item, index) => (
           <li key={item.id} className="flex items-center">
@@ -253,12 +287,12 @@ const Breadcrumb = ({ pageId: pageIdProp, onNavigate }) => {
                 {item.name}
               </span>
             ) : (
-              <button
-                onClick={() => onNavigate(item.id)}
+              <a
+                href={getHref(item.id, basePath)}
                 className="hover:text-emerald-600 transition-colors"
               >
                 {item.name}
-              </button>
+              </a>
             )}
           </li>
         ))}
