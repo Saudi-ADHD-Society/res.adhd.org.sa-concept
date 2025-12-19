@@ -8,12 +8,11 @@ import TopicGuideHealthComorbidityPage from './pages/evidence-insights/TopicGuid
 import TopicGuideTreatmentsPage from './pages/evidence-insights/TopicGuideTreatmentsPage.jsx';
 import TopicGuideDiagnosisPage from './pages/evidence-insights/TopicGuideDiagnosisPage.jsx';
 import TopicGuideSocietyPage from './pages/evidence-insights/TopicGuideSocietyPage.jsx';
-import TopicGuideWomenGirlsPage from './pages/evidence-insights/ResearchBriefWomenGirlsPage.jsx';
+import TopicGuideWomenGirlsPage from './pages/evidence-insights/TopicGuideWomenGirlsPage.jsx';
 import ResearchBriefsPage from './pages/evidence-insights/ResearchBriefsPage.jsx';
 import ResearchBriefAgreeIiPage from './pages/evidence-insights/ResearchBriefAgreeIiPage.jsx';
 import ResearchBriefCpgAdaptationPage from './pages/evidence-insights/ResearchBriefCpgAdaptationPage.jsx';
 import ResearchBriefArabWorldPage from './pages/evidence-insights/ResearchBriefArabWorldPage.jsx';
-import ResearchBriefWomenGirlsPage from './pages/evidence-insights/ResearchBriefWomenGirlsPage.jsx';
 import CurrentResearchPage from './pages/research-projects/CurrentResearchPage.jsx';
 import ResearchOutputPage from './pages/research-projects/ResearchOutputPage.jsx';
 import CpgOverviewPage from './pages/research-projects/CpgOverviewPage.jsx';
