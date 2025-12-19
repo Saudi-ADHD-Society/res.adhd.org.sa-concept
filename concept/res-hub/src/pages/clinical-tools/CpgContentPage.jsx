@@ -171,20 +171,32 @@ const CpgContentPage = ({ onNavigate }) => {
               <p className="text-slate-600 text-sm md:text-base mb-3">
                 This guideline is intended to support clinical decision-making but does not replace professional judgment. Healthcare professionals should use their clinical expertise and consider individual patient circumstances when applying these recommendations.
               </p>
-              <p className="text-slate-600 text-sm md:text-base">
+              <p className="text-slate-600 text-sm md:text-base mb-3">
                 The guideline does not override the individual responsibility of healthcare professionals to make decisions appropriate to the circumstances of the individual patient, in consultation with the patient and/or their carer or guardian.
               </p>
+              <button
+                onClick={() => onNavigate('adhd-cpg-about-disclaimer')}
+                className="inline-flex items-center text-sm font-semibold text-emerald-700 hover:text-emerald-800"
+              >
+                Read more <span className="ml-1">→</span>
+              </button>
             </div>
 
             {/* Copyright */}
             <div id="about-copyright" className="scroll-mt-20">
               <h4 className="text-lg font-bold text-slate-900 mb-3">Copyright</h4>
               <p className="text-slate-600 text-sm md:text-base mb-3">
-                © Saudi ADHD Society. All rights reserved.
+                This document "Evidence-Based Clinical Practice Guideline for Management of Attention deficit hyperactivity disorder (ADHD) in Saudi Arabia" draws on NICE guidance (UK). © NICE (2018) NG87 Attention deficit hyperactivity disorder: diagnosis and management. Available from <a href="https://www.nice.org.uk/guidance/ng87" target="_blank" rel="noreferrer noopener" className="text-emerald-700 hover:underline">www.nice.org.uk/guidance/ng87</a>. All rights reserved. Subject to <a href="https://www.nice.org.uk/terms-and-conditions#notice-of-rights" target="_blank" rel="noreferrer noopener" className="text-emerald-700 hover:underline">Notice of rights</a>.
               </p>
-              <p className="text-slate-600 text-sm md:text-base">
-                This guideline may be reproduced for educational and non-commercial purposes with appropriate attribution to the Saudi ADHD Society. For commercial use or reproduction requests, please contact the Saudi ADHD Society.
+              <p className="text-slate-600 text-sm md:text-base mb-3">
+                Use of this CPG is governed by the original <a href="https://www.nice.org.uk/terms-and-conditions" target="_blank" rel="noreferrer noopener" className="text-emerald-700 hover:underline">NICE Terms and Conditions</a> and the <a href="https://www.nice.org.uk/re-using-our-content/uk-open-content-licence" target="_blank" rel="noreferrer noopener" className="text-emerald-700 hover:underline">NICE UK Open Content Licence</a>. As the end user, your right to freely use the adapted CPG is covered by a <a href="https://creativecommons.org/licenses/by-nd/4.0/" target="_blank" rel="noreferrer noopener" className="text-emerald-700 hover:underline">Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) licence</a> in as far as this does not conflict with the original terms and conditions.
               </p>
+              <button
+                onClick={() => onNavigate('adhd-cpg-about-copyright')}
+                className="inline-flex items-center text-sm font-semibold text-emerald-700 hover:text-emerald-800"
+              >
+                Read more <span className="ml-1">→</span>
+              </button>
             </div>
           </div>
         </div>
@@ -308,13 +320,12 @@ const CpgContentPage = ({ onNavigate }) => {
                   </a>
                 </li>
                 <li>
-                  <a 
-                    href="#about-disclaimer" 
-                    onClick={(e) => handleAnchorClick(e, '#about-disclaimer')} 
-                    className="hover:text-emerald-600 transition-colors block"
+                  <button
+                    onClick={() => onNavigate('adhd-cpg-about-disclaimer')}
+                    className="hover:text-emerald-600 transition-colors block text-left w-full"
                   >
                     Disclaimer
-                  </a>
+                  </button>
                 </li>
                 <li>
                   <a 

@@ -29,6 +29,8 @@ import CpgAboutPage from './pages/clinical-tools/CpgAboutPage.jsx';
 import CpgAboutDevelopmentPage from './pages/clinical-tools/CpgAboutDevelopmentPage.jsx';
 import CpgAboutPublicationsPage from './pages/clinical-tools/CpgAboutPublicationsPage.jsx';
 import CpgAboutAcknowledgementsPage from './pages/clinical-tools/CpgAboutAcknowledgementsPage.jsx';
+import CpgAboutDisclaimerPage from './pages/clinical-tools/CpgAboutDisclaimerPage.jsx';
+import CpgAboutCopyrightPage from './pages/clinical-tools/CpgAboutCopyrightPage.jsx';
 import InteractiveScalesPage from './pages/clinical-tools/InteractiveScalesPage.jsx';
 import FunctionalAssessmentPage from './pages/clinical-tools/FunctionalAssessmentPage.jsx';
 import HcpResourcesPage from './pages/clinical-tools/HcpResourcesPage.jsx';
@@ -74,6 +76,7 @@ const PAGE_HIERARCHY = {
   'adhd-cpg-about-development': 'adhd-cpg-about',
   'adhd-cpg-about-publications': 'adhd-cpg-about',
   'adhd-cpg-about-acknowledgements': 'adhd-cpg-about',
+  'adhd-cpg-about-disclaimer': 'adhd-cpg-about',
 };
 
 // Get full path for a page (including parent if it's a sub-page, handles 3-level nesting)
@@ -355,6 +358,8 @@ const App = () => {
         return <CpgAboutPublicationsPage onNavigate={handleNavClick} />;
       case 'adhd-cpg-about-acknowledgements':
         return <CpgAboutAcknowledgementsPage onNavigate={handleNavClick} />;
+      case 'adhd-cpg-about-disclaimer':
+        return <CpgAboutDisclaimerPage onNavigate={handleNavClick} />;
       case 'interactive-scales':
         return <InteractiveScalesPage />;
       case 'functional-assessment':
