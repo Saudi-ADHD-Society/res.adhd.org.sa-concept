@@ -86,10 +86,10 @@ const CpgContentPage = ({ onNavigate }) => {
               The guideline is structured to support <strong>real-world clinical decision-making</strong>:
             </p>
             <ul className="list-disc pl-6 space-y-2 text-slate-600 text-sm md:text-base mb-4">
-              <li>Use the <strong>Clinical Algorithm</strong> for step-by-step guidance</li>
-              <li>Refer to <strong>Strength of Recommendations</strong> to understand certainty of evidence</li>
-              <li>Consult <strong>Medication Tables</strong> and <strong>Rating Scales</strong> for practical tools</li>
-              <li>Apply <strong>Quality Standards</strong> to support service development and audit</li>
+              <li>Use the <button onClick={() => onNavigate('cpg-clinical-algorithms')} className="text-emerald-700 hover:text-emerald-800 hover:underline font-semibold">Clinical Algorithm</button> for step-by-step guidance</li>
+              <li>Refer to <button onClick={() => onNavigate('cpg-strength-of-recommendations')} className="text-emerald-700 hover:text-emerald-800 hover:underline font-semibold">Strength of Recommendations</button> to understand certainty of evidence</li>
+              <li>Consult <button onClick={() => onNavigate('cpg-medication-tables')} className="text-emerald-700 hover:text-emerald-800 hover:underline font-semibold">Medication Tables</button> and <button onClick={() => onNavigate('interactive-scales')} className="text-emerald-700 hover:text-emerald-800 hover:underline font-semibold">Rating Scales</button> for practical tools</li>
+              <li>Apply <button onClick={() => onNavigate('cpg-quality-standards')} className="text-emerald-700 hover:text-emerald-800 hover:underline font-semibold">Quality Standards</button> to support service development and audit</li>
             </ul>
             <p className="text-slate-600 text-sm md:text-base">
               The guideline does not replace clinical judgment but is intended to support informed, consistent, and evidence-based care.
