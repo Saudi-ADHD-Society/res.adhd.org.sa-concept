@@ -24,19 +24,54 @@ const CpgMedicationTablesPage = () => {
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
         {/* Main Content - Wide Left Column */}
         <div className="lg:col-span-8 space-y-8">
+          {/* Medication Availability */}
+          <section id="medication-availability" className="bg-white border border-slate-200 rounded-xl p-6 shadow-sm scroll-mt-20">
+            <h2 className="text-2xl font-bold text-slate-900 mb-4">Medication Availability</h2>
+            
+            <div className="space-y-4 text-slate-600 text-sm md:text-base">
+              <p>
+                At the time of the most recent update of this guideline, several pharmacological treatments for ADHD are approved and available in Saudi Arabia through the Saudi Food and Drug Authority (SFDA), including both originator and generic formulations.
+              </p>
+              <p>
+                Currently available medications include:
+              </p>
+              <ul className="list-disc pl-6 space-y-2 text-slate-600">
+                <li>Methylphenidate (e.g. Concerta®, Ritalin®, and approved generic formulations)</li>
+                <li>Lisdexamfetamine dimesylate (e.g. Vyvanse®)</li>
+                <li>Atomoxetine hydrochloride (e.g. Strattera® and approved generic formulations)</li>
+              </ul>
+              <p>
+                Availability of specific brands, formulations, and strengths may vary over time and between healthcare sectors. Prescribers should verify current SFDA approval status and local formulary availability at the point of prescribing.
+              </p>
+              <p>
+                Medication choice should be guided by clinical indication, age, symptom profile, comorbidities, tolerability, patient and family preference, and risk–benefit assessment, in line with the recommendations outlined below.
+              </p>
+            </div>
+          </section>
+
           {/* Children and Young People */}
           <section id="children-and-young-people" className="bg-white border border-slate-200 rounded-xl p-6 shadow-sm scroll-mt-20">
             <h2 className="text-2xl font-bold text-slate-900 mb-4">Children and Young People</h2>
             
             <div className="space-y-4 text-slate-600 text-sm md:text-base mb-6">
               <p>
-                Drug treatment is not recommended for pre-school children with ADHD without a second opinion from an ADHD specialized practitioner. At the time of publication, lisdexamfetamine and dexamfetamine did not have SFDA approval. Informed consent should be obtained and documented.
+                Drug treatment is not recommended for pre-school children with ADHD without a second opinion from a clinician with specialist expertise in ADHD.
               </p>
               <p>
-                Drug treatment is not indicated as the first-line treatment for all school-age children and young people with ADHD. It should be reserved for those with severe symptoms and impairment or for those with moderate levels of impairment who have refused non-drug interventions, or whose symptoms have not responded sufficiently to parent-training/education programmes or group psychological treatment where available.
+                For school-age children and young people, pharmacological treatment is not indicated as first-line treatment for all individuals. Medication should be considered for those with:
+              </p>
+              <ul className="list-disc pl-6 space-y-2 text-slate-600">
+                <li>severe symptoms and functional impairment, or</li>
+                <li>moderate impairment where non-pharmacological interventions have been declined, are unavailable, or have not led to sufficient improvement.</li>
+              </ul>
+              <p>
+                Non-pharmacological interventions (such as parent-training programmes, behavioural interventions, and psychological treatments) should be considered where appropriate and available.
               </p>
               <p>
-                Antipsychotics and tricyclic antidepressants are not recommended for the treatment of ADHD in children and young people.
+                Antipsychotic medications and tricyclic antidepressants are not recommended for the treatment of ADHD in children and young people.
+              </p>
+              <p>
+                Prescribing should follow SFDA-approved indications and age ranges. Where treatment is initiated outside standard age indications or usual practice, this should be supported by a clear clinical rationale, informed consent, and appropriate documentation.
               </p>
             </div>
 
@@ -199,14 +234,22 @@ const CpgMedicationTablesPage = () => {
             
             <div className="space-y-4 text-slate-600 text-sm md:text-base mb-6">
               <p>
-                Drug treatment is the first-line treatment for adults with ADHD with either moderate or severe levels of impairment. Methylphenidate is the first-line drug.
+                For adults with ADHD who experience moderate or severe functional impairment, pharmacological treatment is generally considered first-line, unless the individual prefers a psychological approach or medication is contraindicated.
               </p>
               <p>
-                There is the potential for drug misuse and diversion in adults with ADHD, especially in some settings, such as prison, although there is no strong evidence that this is a significant problem.
+                Methylphenidate is typically recommended as the first-line pharmacological option, with lisdexamfetamine and atomoxetine considered appropriate alternatives based on clinical response, tolerability, comorbidities, and patient preference.
               </p>
               <p>
-                For adults with ADHD, drug treatment should be the first-line treatment unless the person would prefer a psychological approach. (At the time of publication dexamfetamine and lisdexamfetamine did not have SFDA Approval. Informed consent should be obtained and documented.)
+                There is potential for medication misuse or diversion in adults with ADHD, particularly in certain settings; however, current evidence does not suggest this represents a widespread problem when prescribing is appropriately monitored.
               </p>
+              <p>
+                All prescribing should be accompanied by:
+              </p>
+              <ul className="list-disc pl-6 space-y-2 text-slate-600">
+                <li>a documented diagnostic assessment,</li>
+                <li>regular review of treatment response and adverse effects,</li>
+                <li>monitoring for misuse or diversion where clinically indicated.</li>
+              </ul>
             </div>
 
             {/* Table 5: Methylphenidate */}
@@ -328,6 +371,15 @@ const CpgMedicationTablesPage = () => {
             <h2 className="text-xl font-bold text-slate-900 mb-4">Sections</h2>
             <div className="border-t border-slate-200 mb-4"></div>
             <ul className="space-y-2 text-sm text-slate-700">
+              <li>
+                <a 
+                  href="#medication-availability" 
+                  onClick={(e) => handleAnchorClick(e, '#medication-availability')} 
+                  className="hover:text-emerald-600 transition-colors block font-semibold"
+                >
+                  Medication Availability
+                </a>
+              </li>
               <li>
                 <a 
                   href="#children-and-young-people" 
