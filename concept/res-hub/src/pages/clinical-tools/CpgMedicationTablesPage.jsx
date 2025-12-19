@@ -365,6 +365,55 @@ const CpgMedicationTablesPage = ({ onNavigate }) => {
               </div>
             </div>
           </section>
+
+          {/* SFDA Safety Note */}
+          <section id="sfda-safety-note" className="bg-white border border-slate-200 rounded-xl p-6 shadow-sm scroll-mt-20">
+            <h2 className="text-2xl font-bold text-slate-900 mb-4">SFDA Safety Communication: Paediatric Weight Loss Risk with Extended Release Stimulants</h2>
+            
+            <div className="space-y-4 text-slate-600 text-sm md:text-base">
+              <p>
+                The Saudi Food and Drug Authority (SFDA) released a{' '}
+                <a 
+                  href="https://www.sfda.gov.sa/sites/default/files/2025-07/Weight%20Loss%20and%20Growth%20Suppression_Extended-Release%20Stimulants%20for%20ADHD%20%28003%29_0.pdf" 
+                  target="_blank" 
+                  rel="noreferrer noopener"
+                  className="text-emerald-600 hover:text-emerald-700 underline"
+                >
+                  Safety Communication
+                </a>{' '}
+                on 23 July 2025 highlighting the risk of weight loss and growth suppression in children under six years of age who are given extended-release stimulant medications for ADHD.
+              </p>
+              <p>
+                These medications such as methylphenidate (e.g. Concerta, Ritalin, Concentia, Quillivant XR) and lisdexamfetamine (e.g. Vyvanse) are approved in Saudi Arabia for use in children aged six years and older. They are not approved for use in younger children due to insufficient evidence of safety and efficacy in this age group. Nevertheless, recent studies have shown that off-label use in children aged 4 to &lt;6 years results in higher plasma concentrations and more frequent adverse effects, including clinically significant weight loss.
+              </p>
+              <p>
+                The SFDA has therefore mandated a safety labelling update to the local Summary of Product Characteristics (SPC) for all registered extended-release stimulants, explicitly stating that younger children are more vulnerable to systemic exposure and side effects at equivalent doses.
+              </p>
+              <p>
+                <strong>Recommendations for Healthcare Professionals:</strong>
+              </p>
+              <ul className="list-disc pl-6 space-y-2 text-slate-600">
+                <li>Do not prescribe extended-release stimulants to children under 6 years of age.</li>
+                <li>Monitor growth and development closely in all children receiving these medications.</li>
+                <li>Advise caregivers to report any signs of weight loss, appetite suppression, slowed growth, or reduced energy levels.</li>
+              </ul>
+              <p>
+                This safety update reinforces the importance of age-appropriate prescribing and close monitoring of physical development in children being treated for ADHD.
+              </p>
+              <p>
+                To report adverse drug reactions, contact the SFDA's National Pharmacovigilance Centre via{' '}
+                <a 
+                  href="https://ade.sfda.gov.sa" 
+                  target="_blank" 
+                  rel="noreferrer noopener"
+                  className="text-emerald-600 hover:text-emerald-700 underline"
+                >
+                  https://ade.sfda.gov.sa
+                </a>{' '}
+                or call 19999.
+              </p>
+            </div>
+          </section>
         </div>
 
         {/* Navigation - Narrow Right Column */}
@@ -451,6 +500,15 @@ const CpgMedicationTablesPage = ({ onNavigate }) => {
                   className="hover:text-emerald-600 transition-colors block"
                 >
                   Table 7: Dexamfetamine or Lisdexamfetamine
+                </a>
+              </li>
+              <li>
+                <a 
+                  href="#sfda-safety-note" 
+                  onClick={(e) => handleAnchorClick(e, '#sfda-safety-note')} 
+                  className="hover:text-emerald-600 transition-colors block font-semibold"
+                >
+                  SFDA Safety Communication
                 </a>
               </li>
             </ul>
