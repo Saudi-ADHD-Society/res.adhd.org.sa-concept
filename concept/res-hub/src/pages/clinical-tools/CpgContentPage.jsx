@@ -115,9 +115,15 @@ const CpgContentPage = ({ onNavigate }) => {
               <p className="text-slate-600 text-sm md:text-base mb-3">
                 The Saudi ADHD CPG is developed and overseen by the Saudi ADHD Society using a structured, transparent methodology aligned with international guideline development standards.
               </p>
-              <p className="text-slate-600 text-sm md:text-base">
+              <p className="text-slate-600 text-sm md:text-base mb-3">
                 The guideline was developed using the KSU-Modified-ADAPTE methodology, adapting evidence-based recommendations from international guidelines (notably NICE) to the Saudi healthcare context.
               </p>
+              <button
+                onClick={() => onNavigate('adhd-cpg-about-development')}
+                className="inline-flex items-center text-sm font-semibold text-emerald-700 hover:text-emerald-800"
+              >
+                Read more <span className="ml-1">→</span>
+              </button>
             </div>
 
             {/* Endorsements */}
@@ -134,17 +140,29 @@ const CpgContentPage = ({ onNavigate }) => {
               <p className="text-slate-600 text-sm md:text-base mb-3">
                 The guideline is published by the Saudi ADHD Society. The first edition was published in 2020 and registered with King Fahad National Library with ISBN: 978-603-03-4786-5 L.D. no. 1441/12726.
               </p>
-              <p className="text-slate-600 text-sm md:text-base">
+              <p className="text-slate-600 text-sm md:text-base mb-3">
                 A peer-reviewed publication describing the adaptation process is available: Bashiri, F. A., Albatti, T. H., Hamad, M. H., et al. (2021). Adapting evidence-based clinical practice guidelines for people with attention deficit hyperactivity disorder in Saudi Arabia: process and outputs of a national initiative. <em>Child and Adolescent Psychiatry and Mental Health</em>, 15(1), 1–16.
               </p>
+              <button
+                onClick={() => onNavigate('adhd-cpg-about-publications')}
+                className="inline-flex items-center text-sm font-semibold text-emerald-700 hover:text-emerald-800"
+              >
+                Read more <span className="ml-1">→</span>
+              </button>
             </div>
 
             {/* Acknowledgements */}
             <div id="about-acknowledgements" className="mb-8 scroll-mt-20">
               <h4 className="text-lg font-bold text-slate-900 mb-3">Acknowledgements</h4>
-              <p className="text-slate-600 text-sm md:text-base">
+              <p className="text-slate-600 text-sm md:text-base mb-3">
                 The development of this guideline was made possible through the contributions of national and international experts, healthcare professionals, patients, families, and organizations. The Saudi ADHD Society acknowledges all individuals and groups who participated in the guideline development process.
               </p>
+              <button
+                onClick={() => onNavigate('adhd-cpg-about-acknowledgements')}
+                className="inline-flex items-center text-sm font-semibold text-emerald-700 hover:text-emerald-800"
+              >
+                Read more <span className="ml-1">→</span>
+              </button>
             </div>
 
             {/* Disclaimer */}

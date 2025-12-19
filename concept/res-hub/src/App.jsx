@@ -25,6 +25,10 @@ import CpgTerminologyPage from './pages/clinical-tools/CpgTerminologyPage.jsx';
 import CpgIcdCodesPage from './pages/clinical-tools/CpgIcdCodesPage.jsx';
 import CpgQualityStandardsPage from './pages/clinical-tools/CpgQualityStandardsPage.jsx';
 import CpgGuidelineUpdatesPage from './pages/clinical-tools/CpgGuidelineUpdatesPage.jsx';
+import CpgAboutPage from './pages/clinical-tools/CpgAboutPage.jsx';
+import CpgAboutDevelopmentPage from './pages/clinical-tools/CpgAboutDevelopmentPage.jsx';
+import CpgAboutPublicationsPage from './pages/clinical-tools/CpgAboutPublicationsPage.jsx';
+import CpgAboutAcknowledgementsPage from './pages/clinical-tools/CpgAboutAcknowledgementsPage.jsx';
 import InteractiveScalesPage from './pages/clinical-tools/InteractiveScalesPage.jsx';
 import FunctionalAssessmentPage from './pages/clinical-tools/FunctionalAssessmentPage.jsx';
 import HcpResourcesPage from './pages/clinical-tools/HcpResourcesPage.jsx';
@@ -66,19 +70,37 @@ const PAGE_HIERARCHY = {
   'cpg-icd-codes': 'adhd-cpg',
   'cpg-quality-standards': 'adhd-cpg',
   'cpg-guideline-updates': 'adhd-cpg',
+  'adhd-cpg-about': 'adhd-cpg',
+  'adhd-cpg-about-development': 'adhd-cpg-about',
+  'adhd-cpg-about-publications': 'adhd-cpg-about',
+  'adhd-cpg-about-acknowledgements': 'adhd-cpg-about',
 };
 
-// Get full path for a page (including parent if it's a sub-page)
+// Get full path for a page (including parent if it's a sub-page, handles 3-level nesting)
 const getPagePath = (pageId) => {
   if (pageId === DEFAULT_PAGE) return '';
+  
+  // Handle 3-level paths for about pages
+  if (pageId.startsWith('adhd-cpg-about-')) {
+    // Convert 'adhd-cpg-about-development' to 'adhd-cpg/about/development'
+    const segment = pageId.replace('adhd-cpg-about-', '');
+    return `adhd-cpg/about/${segment}`;
+  }
+  
+  if (pageId === 'adhd-cpg-about') {
+    return 'adhd-cpg/about';
+  }
+  
   const parent = PAGE_HIERARCHY[pageId];
   if (parent) {
-    return `${parent}/${pageId}`;
+    const parentPath = getPagePath(parent);
+    return `${parentPath}/${pageId}`;
   }
+  
   return pageId;
 };
 
-// Get page ID from full path (handles nested paths)
+// Get page ID from full path (handles nested paths up to 3 levels)
 const getPageFromPath = () => {
   if (typeof window === 'undefined') return DEFAULT_PAGE;
   const pathname = window.location.pathname;
@@ -92,10 +114,19 @@ const getPageFromPath = () => {
   
   if (!path) return DEFAULT_PAGE;
   
-  // Check if it's a nested path (parent/sub-page)
   const parts = path.split('/');
+  
+  // Handle 3-level paths like "adhd-cpg/about/development"
+  if (parts.length === 3 && parts[0] === 'adhd-cpg' && parts[1] === 'about') {
+    const segment = parts[2];
+    return `adhd-cpg-about-${segment}`;
+  }
+  
+  // Handle 2-level paths like "hcp-resources/consensus-statement" or "adhd-cpg/about"
   if (parts.length === 2) {
-    // It's a nested path like "hcp-resources/consensus-statement"
+    if (parts[0] === 'adhd-cpg' && parts[1] === 'about') {
+      return 'adhd-cpg-about';
+    }
     return parts[1]; // Return the sub-page ID
   }
   
@@ -316,6 +347,14 @@ const App = () => {
         return <CpgQualityStandardsPage />;
       case 'cpg-guideline-updates':
         return <CpgGuidelineUpdatesPage />;
+      case 'adhd-cpg-about':
+        return <CpgAboutPage onNavigate={handleNavClick} />;
+      case 'adhd-cpg-about-development':
+        return <CpgAboutDevelopmentPage onNavigate={handleNavClick} />;
+      case 'adhd-cpg-about-publications':
+        return <CpgAboutPublicationsPage onNavigate={handleNavClick} />;
+      case 'adhd-cpg-about-acknowledgements':
+        return <CpgAboutAcknowledgementsPage onNavigate={handleNavClick} />;
       case 'interactive-scales':
         return <InteractiveScalesPage />;
       case 'functional-assessment':
