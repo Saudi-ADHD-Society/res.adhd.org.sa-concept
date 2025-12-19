@@ -320,20 +320,22 @@ const CpgContentPage = ({ onNavigate }) => {
                   </a>
                 </li>
                 <li>
-                  <button
-                    onClick={() => onNavigate('adhd-cpg-about-disclaimer')}
-                    className="hover:text-emerald-600 transition-colors block text-left w-full"
+                  <a 
+                    href="#about-disclaimer" 
+                    onClick={(e) => handleAnchorClick(e, '#about-disclaimer')} 
+                    className="hover:text-emerald-600 transition-colors block"
                   >
                     Disclaimer
-                  </button>
+                  </a>
                 </li>
                 <li>
-                  <button
-                    onClick={() => onNavigate('adhd-cpg-about-copyright')}
-                    className="hover:text-emerald-600 transition-colors block text-left w-full"
+                  <a 
+                    href="#about-copyright" 
+                    onClick={(e) => handleAnchorClick(e, '#about-copyright')} 
+                    className="hover:text-emerald-600 transition-colors block"
                   >
                     Copyright
-                  </button>
+                  </a>
                 </li>
               </ul>
             </div>
