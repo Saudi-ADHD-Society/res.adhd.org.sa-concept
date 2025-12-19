@@ -1,5 +1,5 @@
 import React from 'react';
-import { Globe, ArrowLeft } from 'lucide-react';
+import { Globe } from 'lucide-react';
 
 const TopicGuideSocietyPage = ({ onNavigate }) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
@@ -80,14 +80,7 @@ const TopicGuideSocietyPage = ({ onNavigate }) => (
 
     {/* Navigation */}
     <div className="bg-slate-50 border border-slate-200 rounded-xl p-6">
-      <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
-        <button
-          onClick={() => onNavigate('topic-guide-diagnosis')}
-          className="flex items-center text-emerald-700 font-semibold hover:text-emerald-800"
-        >
-          <ArrowLeft size={16} className="mr-2" />
-          Previous: Diagnosis &amp; Assessment
-        </button>
+      <div className="flex justify-center">
         <button
           onClick={() => onNavigate('topic-guides')}
           className="text-emerald-700 font-semibold hover:text-emerald-800"

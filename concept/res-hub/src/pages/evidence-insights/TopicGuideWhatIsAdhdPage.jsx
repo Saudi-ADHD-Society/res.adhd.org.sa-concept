@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookOpen, ArrowLeft, ArrowRight, AlertTriangle, CheckCircle2, Globe2, Brain, Activity, Pill } from 'lucide-react';
+import { BookOpen, AlertTriangle, CheckCircle2, Globe2, Brain, Activity, Pill } from 'lucide-react';
 
 const TopicGuideWhatIsAdhdPage = ({ onNavigate }) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
@@ -333,20 +333,12 @@ const TopicGuideWhatIsAdhdPage = ({ onNavigate }) => (
 
     {/* Navigation */}
     <div className="bg-slate-50 border border-slate-200 rounded-xl p-6">
-      <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
+      <div className="flex justify-center">
         <button
           onClick={() => onNavigate('topic-guides')}
-          className="flex items-center text-emerald-700 font-semibold hover:text-emerald-800"
+          className="text-emerald-700 font-semibold hover:text-emerald-800"
         >
-          <ArrowLeft size={16} className="mr-2" />
           Back to Topic Guides
-        </button>
-        <button
-          onClick={() => onNavigate('topic-guide-lifespan')}
-          className="flex items-center text-emerald-700 font-semibold hover:text-emerald-800"
-        >
-          Next: ADHD Across the Lifespan
-          <ArrowRight size={16} className="ml-2" />
         </button>
       </div>
     </div>

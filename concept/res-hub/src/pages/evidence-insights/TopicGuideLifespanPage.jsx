@@ -1,5 +1,5 @@
 import React, { useRef } from 'react';
-import { Users, ArrowLeft, ArrowRight, Baby, GraduationCap, Briefcase, Heart, AlertTriangle } from 'lucide-react';
+import { Users, Baby, GraduationCap, Briefcase, Heart, AlertTriangle } from 'lucide-react';
 
 const TopicGuideLifespanPage = ({ onNavigate }) => {
   const earlyChildhoodRef = useRef(null);
@@ -325,29 +325,13 @@ const TopicGuideLifespanPage = ({ onNavigate }) => {
 
     {/* Navigation */}
     <div className="bg-slate-50 border border-slate-200 rounded-xl p-6">
-      <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
+      <div className="flex justify-center">
         <button
-          onClick={() => onNavigate('topic-guide-what-is-adhd')}
-          className="flex items-center text-emerald-700 font-semibold hover:text-emerald-800"
+          onClick={() => onNavigate('topic-guides')}
+          className="text-emerald-700 font-semibold hover:text-emerald-800"
         >
-          <ArrowLeft size={16} className="mr-2" />
-          Previous: What is ADHD
+          Back to Topic Guides
         </button>
-        <div className="flex gap-4">
-          <button
-            onClick={() => onNavigate('topic-guides')}
-            className="text-emerald-700 font-semibold hover:text-emerald-800"
-          >
-            Back to Topic Guides
-          </button>
-          <button
-            onClick={() => onNavigate('topic-guide-health-comorbidity')}
-            className="flex items-center text-emerald-700 font-semibold hover:text-emerald-800"
-          >
-            Next: Health &amp; Comorbidity
-            <ArrowRight size={16} className="ml-2" />
-          </button>
-        </div>
       </div>
     </div>
   </div>

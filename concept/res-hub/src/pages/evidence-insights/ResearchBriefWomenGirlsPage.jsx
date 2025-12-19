@@ -146,7 +146,7 @@ const TopicGuideWomenGirlsPage = ({ onNavigate }) => (
 
     {/* Navigation */}
     <div className="bg-slate-50 border border-slate-200 rounded-xl p-6">
-      <div className="flex justify-between items-center">
+      <div className="flex justify-center">
         <button
           onClick={() => onNavigate('topic-guides')}
           className="text-emerald-700 font-semibold hover:text-emerald-800"
