@@ -271,10 +271,11 @@ const ResearchBriefArabWorldPage = ({ onNavigate }) => (
           Previous: CPG Adaptation Process
         </button>
         <button
-          onClick={() => onNavigate('research-briefs')}
-          className="text-emerald-700 font-semibold hover:text-emerald-800"
+          onClick={() => onNavigate('research-brief-women-girls')}
+          className="flex items-center text-emerald-700 font-semibold hover:text-emerald-800"
         >
-          Back to Research Briefs
+          Next: ADHD in Women & Girls
+          <ArrowRight size={16} className="ml-2" />
         </button>
       </div>
     </div>

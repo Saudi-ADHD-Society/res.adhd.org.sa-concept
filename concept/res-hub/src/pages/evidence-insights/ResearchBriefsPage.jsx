@@ -70,6 +70,26 @@ const ResearchBriefsPage = ({ onNavigate }) => (
           Read Full Brief <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" />
         </div>
       </button>
+
+      {/* Brief 4: ADHD in Women & Girls */}
+      <button
+        onClick={() => onNavigate('research-brief-women-girls')}
+        className="group text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
+      >
+        <div className="flex items-center space-x-2 text-pink-600 text-sm font-bold mb-3">
+          <FileText size={16} />
+          <span>Expert Consensus Statement</span>
+        </div>
+        <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-emerald-700 transition-colors">
+          ADHD in Women & Girls: Identification and Treatment Considerations
+        </h3>
+        <p className="text-sm text-slate-600 mb-4 line-clamp-3">
+          Expert consensus recommendations for identifying and treating ADHD in girls and women, addressing under-recognition and providing guidance on diagnostic interviews and treatment approaches.
+        </p>
+        <div className="text-sm font-semibold text-emerald-700 flex items-center">
+          Read Full Brief <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" />
+        </div>
+      </button>
     </div>
   </div>
 );
