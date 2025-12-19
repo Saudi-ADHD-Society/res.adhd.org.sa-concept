@@ -70,6 +70,26 @@ const ResearchBriefsPage = ({ onNavigate }) => (
           Read Full Brief <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" />
         </div>
       </button>
+
+      {/* Brief 4: Global Policy & Access */}
+      <button
+        onClick={() => onNavigate('research-brief-global-policy-access')}
+        className="group text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
+      >
+        <div className="flex items-center space-x-2 text-purple-600 text-sm font-bold mb-3">
+          <Globe size={16} />
+          <span>Global Policy & Access</span>
+        </div>
+        <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-emerald-700 transition-colors">
+          Methylphenidate and the WHO Essential Medicines List
+        </h3>
+        <p className="text-sm text-slate-600 mb-4 line-clamp-3">
+          Despite decades of clinical use and substantial evidence, methylphenidate has been repeatedly excluded from the WHO Essential Medicines List. This brief examines the policy debate, professional responses, and implications for global access to ADHD treatment.
+        </p>
+        <div className="text-sm font-semibold text-emerald-700 flex items-center">
+          Read Full Brief <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" />
+        </div>
+      </button>
     </div>
   </div>
 );

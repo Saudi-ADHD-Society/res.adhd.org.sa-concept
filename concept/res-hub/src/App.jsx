@@ -13,6 +13,7 @@ import ResearchBriefsPage from './pages/evidence-insights/ResearchBriefsPage.jsx
 import ResearchBriefAgreeIiPage from './pages/evidence-insights/ResearchBriefAgreeIiPage.jsx';
 import ResearchBriefCpgAdaptationPage from './pages/evidence-insights/ResearchBriefCpgAdaptationPage.jsx';
 import ResearchBriefArabWorldPage from './pages/evidence-insights/ResearchBriefArabWorldPage.jsx';
+import ResearchBriefGlobalPolicyAccessPage from './pages/evidence-insights/ResearchBriefGlobalPolicyAccessPage.jsx';
 import CurrentResearchPage from './pages/research-projects/CurrentResearchPage.jsx';
 import ResearchOutputPage from './pages/research-projects/ResearchOutputPage.jsx';
 import CpgOverviewPage from './pages/research-projects/CpgOverviewPage.jsx';
@@ -63,6 +64,7 @@ const PAGE_HIERARCHY = {
   'research-brief-agree-ii': 'research-briefs',
   'research-brief-cpg-adaptation': 'research-briefs',
   'research-brief-arab-world': 'research-briefs',
+  'research-brief-global-policy-access': 'research-briefs',
   'cpg-overview': 'current-research',
   'cpg-clinical-recommendations': 'adhd-cpg',
   'cpg-strength-of-recommendations': 'adhd-cpg',
@@ -327,6 +329,8 @@ const App = () => {
         return <ResearchBriefCpgAdaptationPage onNavigate={handleNavClick} />;
       case 'research-brief-arab-world':
         return <ResearchBriefArabWorldPage onNavigate={handleNavClick} />;
+      case 'research-brief-global-policy-access':
+        return <ResearchBriefGlobalPolicyAccessPage onNavigate={handleNavClick} />;
       case 'current-research':
         return <CurrentResearchPage onNavigate={handleNavClick} />;
       case 'cpg-overview':
