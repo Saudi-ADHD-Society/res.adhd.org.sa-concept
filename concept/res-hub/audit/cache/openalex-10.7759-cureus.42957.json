@@ -1,0 +1,983 @@
+{
+  "id": "https://openalex.org/W4385575774",
+  "doi": "https://doi.org/10.7759/cureus.42957",
+  "title": "The Prevalence of Video Game Addiction and Its Relation to Anxiety, Depression, and Attention Deficit Hyperactivity Disorder (ADHD) in Children and Adolescents in Saudi Arabia: A Cross-Sectional Study",
+  "display_name": "The Prevalence of Video Game Addiction and Its Relation to Anxiety, Depression, and Attention Deficit Hyperactivity Disorder (ADHD) in Children and Adolescents in Saudi Arabia: A Cross-Sectional Study",
+  "publication_year": 2023,
+  "publication_date": "2023-08-04",
+  "ids": {
+    "openalex": "https://openalex.org/W4385575774",
+    "doi": "https://doi.org/10.7759/cureus.42957",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/37667729"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.7759/cureus.42957",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.7759/cureus.42957",
+    "pdf_url": "https://assets.cureus.com/uploads/original_article/pdf/173219/20230804-2571-1fsuusp.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738950867",
+      "display_name": "Cureus",
+      "issn_l": "2168-8184",
+      "issn": [
+        "2168-8184"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310316779",
+      "host_organization_name": "Cureus, Inc.",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310316779"
+      ],
+      "host_organization_lineage_names": [
+        "Cureus, Inc."
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cureus",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://assets.cureus.com/uploads/original_article/pdf/173219/20230804-2571-1fsuusp.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5025098910",
+        "display_name": "Nader Alrahili",
+        "orcid": "https://orcid.org/0000-0002-9544-3669"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40279923",
+          "display_name": "Islamic University",
+          "ror": "https://ror.org/04j1w0q97",
+          "country_code": "BD",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40279923"
+          ]
+        }
+      ],
+      "countries": [
+        "BD"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nader Alrahili",
+      "raw_affiliation_strings": [
+        " . Family Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+        " . Pediatrics, King Abdullah Pediatric Hospital, Riyadh, SAU",
+        " . Psychiatry,",
+        " . Psychiatry, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+        " College of Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Pediatrics, King Abdullah Pediatric Hospital, Riyadh, SAU",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": " . Family Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Psychiatry,",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": " College of Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Psychiatry, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092596827",
+        "display_name": "Mohammad Alreefi",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40279923",
+          "display_name": "Islamic University",
+          "ror": "https://ror.org/04j1w0q97",
+          "country_code": "BD",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40279923"
+          ]
+        }
+      ],
+      "countries": [
+        "BD"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mohammad Alreefi",
+      "raw_affiliation_strings": [
+        " . Family Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+        " . Pediatrics, King Abdullah Pediatric Hospital, Riyadh, SAU",
+        " . Psychiatry,",
+        " . Psychiatry, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+        " College of Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Psychiatry, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Psychiatry,",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": " College of Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Pediatrics, King Abdullah Pediatric Hospital, Riyadh, SAU",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092596828",
+        "display_name": "Issa M Alkhonain",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40279923",
+          "display_name": "Islamic University",
+          "ror": "https://ror.org/04j1w0q97",
+          "country_code": "BD",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40279923"
+          ]
+        }
+      ],
+      "countries": [
+        "BD"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Issa M Alkhonain",
+      "raw_affiliation_strings": [
+        " . Family Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+        " . Pediatrics, King Abdullah Pediatric Hospital, Riyadh, SAU",
+        " . Psychiatry,",
+        " . Psychiatry, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+        " College of Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Family Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        },
+        {
+          "raw_affiliation_string": " College of Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Psychiatry,",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": " . Psychiatry, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Pediatrics, King Abdullah Pediatric Hospital, Riyadh, SAU",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080805468",
+        "display_name": "Malak Aldakhilallah",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40279923",
+          "display_name": "Islamic University",
+          "ror": "https://ror.org/04j1w0q97",
+          "country_code": "BD",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40279923"
+          ]
+        }
+      ],
+      "countries": [
+        "BD"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Malak Aldakhilallah",
+      "raw_affiliation_strings": [
+        " . Family Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+        " . Pediatrics, King Abdullah Pediatric Hospital, Riyadh, SAU",
+        " . Psychiatry,",
+        " . Psychiatry, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+        " College of Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Psychiatry,",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": " College of Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Pediatrics, King Abdullah Pediatric Hospital, Riyadh, SAU",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": " . Family Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Psychiatry, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5004844895",
+        "display_name": "Jamal Alothaim",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40279923",
+          "display_name": "Islamic University",
+          "ror": "https://ror.org/04j1w0q97",
+          "country_code": "BD",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40279923"
+          ]
+        }
+      ],
+      "countries": [
+        "BD"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Jamal Alothaim",
+      "raw_affiliation_strings": [
+        " . Family Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+        " . Pediatrics, King Abdullah Pediatric Hospital, Riyadh, SAU",
+        " . Psychiatry,",
+        " . Psychiatry, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+        " College of Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Pediatrics, King Abdullah Pediatric Hospital, Riyadh, SAU",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": " College of Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Psychiatry,",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": " . Family Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Psychiatry, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015402374",
+        "display_name": "Abdulwahed Alzahrani",
+        "orcid": "https://orcid.org/0000-0002-3229-0597"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40279923",
+          "display_name": "Islamic University",
+          "ror": "https://ror.org/04j1w0q97",
+          "country_code": "BD",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40279923"
+          ]
+        }
+      ],
+      "countries": [
+        "BD"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Abdulwahed Alzahrani",
+      "raw_affiliation_strings": [
+        " . Family Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+        " . Pediatrics, King Abdullah Pediatric Hospital, Riyadh, SAU",
+        " . Psychiatry,",
+        " . Psychiatry, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+        " College of Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Psychiatry, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        },
+        {
+          "raw_affiliation_string": " College of Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Pediatrics, King Abdullah Pediatric Hospital, Riyadh, SAU",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": " . Psychiatry,",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092596829",
+        "display_name": "Abdulrahman Alshargi",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40279923",
+          "display_name": "Islamic University",
+          "ror": "https://ror.org/04j1w0q97",
+          "country_code": "BD",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40279923"
+          ]
+        }
+      ],
+      "countries": [
+        "BD"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Abdulrahman Alshargi",
+      "raw_affiliation_strings": [
+        " . Family Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+        " . Pediatrics, King Abdullah Pediatric Hospital, Riyadh, SAU",
+        " . Psychiatry,",
+        " . Psychiatry, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+        " College of Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Psychiatry, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Pediatrics, King Abdullah Pediatric Hospital, Riyadh, SAU",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": " College of Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Psychiatry,",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5092596830",
+        "display_name": "Nuran Mazen Baabbad",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I40279923",
+          "display_name": "Islamic University",
+          "ror": "https://ror.org/04j1w0q97",
+          "country_code": "BD",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40279923"
+          ]
+        }
+      ],
+      "countries": [
+        "BD"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nuran Baabbad",
+      "raw_affiliation_strings": [
+        " . Family Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+        " . Pediatrics, King Abdullah Pediatric Hospital, Riyadh, SAU",
+        " . Psychiatry,",
+        " . Psychiatry, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+        " College of Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Family Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Psychiatry, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Pediatrics, King Abdullah Pediatric Hospital, Riyadh, SAU",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": " College of Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU",
+          "institution_ids": [
+            "https://openalex.org/I40279923"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Psychiatry,",
+          "institution_ids": []
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5004844895"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I40279923"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 19.18104514,
+  "has_fulltext": true,
+  "cited_by_count": 20,
+  "citation_normalized_percentile": {
+    "value": 0.98640011,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "15",
+    "issue": "8",
+    "first_page": "e42957",
+    "last_page": "e42957"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10355",
+    "display_name": "Impact of Technology on Adolescents",
+    "score": 0.9987999796867371,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3312",
+      "display_name": "Sociology and Political Science"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10355",
+      "display_name": "Impact of Technology on Adolescents",
+      "score": 0.9987999796867371,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12060",
+      "display_name": "Child Development and Digital Technology",
+      "score": 0.9912999868392944,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/video-game",
+      "display_name": "Video game",
+      "score": 0.6254892349243164
+    },
+    {
+      "id": "https://openalex.org/keywords/addiction",
+      "display_name": "Addiction",
+      "score": 0.6247461438179016
+    },
+    {
+      "id": "https://openalex.org/keywords/anxiety",
+      "display_name": "Anxiety",
+      "score": 0.615507960319519
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.6100723743438721
+    },
+    {
+      "id": "https://openalex.org/keywords/depression",
+      "display_name": "Depression (economics)",
+      "score": 0.533542275428772
+    },
+    {
+      "id": "https://openalex.org/keywords/cross-sectional-study",
+      "display_name": "Cross-sectional study",
+      "score": 0.5165125727653503
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.5081684589385986
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "score": 0.4928724765777588
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.4756990373134613
+    },
+    {
+      "id": "https://openalex.org/keywords/behavioral-addiction",
+      "display_name": "Behavioral addiction",
+      "score": 0.4503811001777649
+    },
+    {
+      "id": "https://openalex.org/keywords/multimedia",
+      "display_name": "Multimedia",
+      "score": 0.12929105758666992
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C3018412434",
+      "wikidata": "https://www.wikidata.org/wiki/Q7889",
+      "display_name": "Video game",
+      "level": 2,
+      "score": 0.6254892349243164
+    },
+    {
+      "id": "https://openalex.org/C48856860",
+      "wikidata": "https://www.wikidata.org/wiki/Q12029",
+      "display_name": "Addiction",
+      "level": 2,
+      "score": 0.6247461438179016
+    },
+    {
+      "id": "https://openalex.org/C558461103",
+      "wikidata": "https://www.wikidata.org/wiki/Q154430",
+      "display_name": "Anxiety",
+      "level": 2,
+      "score": 0.615507960319519
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.6100723743438721
+    },
+    {
+      "id": "https://openalex.org/C2776867660",
+      "wikidata": "https://www.wikidata.org/wiki/Q1814941",
+      "display_name": "Depression (economics)",
+      "level": 2,
+      "score": 0.533542275428772
+    },
+    {
+      "id": "https://openalex.org/C142052008",
+      "wikidata": "https://www.wikidata.org/wiki/Q954027",
+      "display_name": "Cross-sectional study",
+      "level": 2,
+      "score": 0.5165125727653503
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.5081684589385986
+    },
+    {
+      "id": "https://openalex.org/C2780783007",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "level": 2,
+      "score": 0.4928724765777588
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.4756990373134613
+    },
+    {
+      "id": "https://openalex.org/C2777271380",
+      "wikidata": "https://www.wikidata.org/wiki/Q1513352",
+      "display_name": "Behavioral addiction",
+      "level": 3,
+      "score": 0.4503811001777649
+    },
+    {
+      "id": "https://openalex.org/C49774154",
+      "wikidata": "https://www.wikidata.org/wiki/Q131765",
+      "display_name": "Multimedia",
+      "level": 1,
+      "score": 0.12929105758666992
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C139719470",
+      "wikidata": "https://www.wikidata.org/wiki/Q39680",
+      "display_name": "Macroeconomics",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.7759/cureus.42957",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.7759/cureus.42957",
+      "pdf_url": "https://assets.cureus.com/uploads/original_article/pdf/173219/20230804-2571-1fsuusp.pdf",
+      "source": {
+        "id": "https://openalex.org/S2738950867",
+        "display_name": "Cureus",
+        "issn_l": "2168-8184",
+        "issn": [
+          "2168-8184"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310316779",
+        "host_organization_name": "Cureus, Inc.",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310316779"
+        ],
+        "host_organization_lineage_names": [
+          "Cureus, Inc."
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cureus",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:37667729",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37667729",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cureus",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:10475310",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10475310",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10475310/pdf/cureus-0015-00000042957.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Cureus",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.7759/cureus.42957",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.7759/cureus.42957",
+    "pdf_url": "https://assets.cureus.com/uploads/original_article/pdf/173219/20230804-2571-1fsuusp.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738950867",
+      "display_name": "Cureus",
+      "issn_l": "2168-8184",
+      "issn": [
+        "2168-8184"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310316779",
+      "host_organization_name": "Cureus, Inc.",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310316779"
+      ],
+      "host_organization_lineage_names": [
+        "Cureus, Inc."
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cureus",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.75,
+      "display_name": "Good health and well-being",
+      "id": "https://metadata.un.org/sdg/3"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 21,
+  "referenced_works": [
+    "https://openalex.org/W3004514394",
+    "https://openalex.org/W2760248567",
+    "https://openalex.org/W3165080539",
+    "https://openalex.org/W4283653616",
+    "https://openalex.org/W2614669943",
+    "https://openalex.org/W2590601772",
+    "https://openalex.org/W2132322340",
+    "https://openalex.org/W2752852079",
+    "https://openalex.org/W2033442056",
+    "https://openalex.org/W2012972517",
+    "https://openalex.org/W2076685502",
+    "https://openalex.org/W2142894074",
+    "https://openalex.org/W2923980100",
+    "https://openalex.org/W2097016859",
+    "https://openalex.org/W2957614298",
+    "https://openalex.org/W2286543053",
+    "https://openalex.org/W3135914793",
+    "https://openalex.org/W2071074589",
+    "https://openalex.org/W3004678209",
+    "https://openalex.org/W2314751257",
+    "https://openalex.org/W2514003051"
+  ],
+  "related_works": [
+    "https://openalex.org/W4200134070",
+    "https://openalex.org/W2013721540",
+    "https://openalex.org/W2377334017",
+    "https://openalex.org/W3093306580",
+    "https://openalex.org/W3091995835",
+    "https://openalex.org/W2769243276",
+    "https://openalex.org/W4205740184",
+    "https://openalex.org/W2367402799",
+    "https://openalex.org/W2216298368",
+    "https://openalex.org/W2933119455"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

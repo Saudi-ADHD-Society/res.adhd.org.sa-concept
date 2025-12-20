@@ -1,0 +1,728 @@
+{
+  "id": "https://openalex.org/W3025598903",
+  "doi": "https://doi.org/10.52634/mier/2020/v10/i1/1355",
+  "title": "The Prevalence of Attention Deficit Hyperactivity Disorder (ADHD) Among Elementary School Children: The Effect of Certain Demographic Variables",
+  "display_name": "The Prevalence of Attention Deficit Hyperactivity Disorder (ADHD) Among Elementary School Children: The Effect of Certain Demographic Variables",
+  "publication_year": 2021,
+  "publication_date": "2021-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W3025598903",
+    "doi": "https://doi.org/10.52634/mier/2020/v10/i1/1355",
+    "mag": "3025598903"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.52634/mier/2020/v10/i1/1355",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.52634/mier/2020/v10/i1/1355",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2764581731",
+      "display_name": "MIER Journal of Educational Studies Trends & Practices",
+      "issn_l": "0976-8203",
+      "issn": [
+        "0976-8203",
+        "2319-1945"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "MIER Journal of Educational Studies Trends &amp; Practices",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5096852750",
+        "display_name": "Tagreed Ameen Zagzoog",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "None Tagreed Ameen Zagzoog",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5096852751",
+        "display_name": "Rehab Mohammed Samy Elshazly",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "None Rehab Mohammed Samy Elshazly",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5112435368",
+        "display_name": "Mohammad Sayed Said Soliman",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "None Mohammad Sayed Said Soliman",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.77712489,
+  "has_fulltext": false,
+  "cited_by_count": 4,
+  "citation_normalized_percentile": {
+    "value": 0.63868911,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 97
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "75",
+    "last_page": "90"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10537",
+    "display_name": "Attention Deficit Hyperactivity Disorder",
+    "score": 0.9911999702453613,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.9911999702453613,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/impulsivity",
+      "display_name": "Impulsivity",
+      "score": 0.7580382823944092
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "score": 0.7217594385147095
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.5805988907814026
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit",
+      "display_name": "Attention deficit",
+      "score": 0.5335657596588135
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.38341832160949707
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.3658641576766968
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.3565886616706848
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2780319597",
+      "wikidata": "https://www.wikidata.org/wiki/Q1549918",
+      "display_name": "Impulsivity",
+      "level": 2,
+      "score": 0.7580382823944092
+    },
+    {
+      "id": "https://openalex.org/C2780783007",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "level": 2,
+      "score": 0.7217594385147095
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.5805988907814026
+    },
+    {
+      "id": "https://openalex.org/C3017694942",
+      "wikidata": "https://www.wikidata.org/wiki/Q16254243",
+      "display_name": "Attention deficit",
+      "level": 3,
+      "score": 0.5335657596588135
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.38341832160949707
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.3658641576766968
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.3565886616706848
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.52634/mier/2020/v10/i1/1355",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.52634/mier/2020/v10/i1/1355",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764581731",
+        "display_name": "MIER Journal of Educational Studies Trends & Practices",
+        "issn_l": "0976-8203",
+        "issn": [
+          "0976-8203",
+          "2319-1945"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "MIER Journal of Educational Studies Trends &amp; Practices",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality Education",
+      "score": 0.8100000023841858
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W3021421850",
+    "https://openalex.org/W2273708893",
+    "https://openalex.org/W2565069998",
+    "https://openalex.org/W4311161459",
+    "https://openalex.org/W2142077514",
+    "https://openalex.org/W1566344982",
+    "https://openalex.org/W2241928968",
+    "https://openalex.org/W2262413050",
+    "https://openalex.org/W183297272",
+    "https://openalex.org/W2476320308"
+  ],
+  "abstract_inverted_index": {
+    "6": [
+      14
+    ],
+    "13": [
+      16
+    ],
+    "550": [
+      55
+    ],
+    "The": [
+      0,
+      21,
+      77,
+      93,
+      183
+    ],
+    "study": [
+      1,
+      22
+    ],
+    "aimed": [
+      2
+    ],
+    "to": [
+      3,
+      15,
+      90,
+      117,
+      156
+    ],
+    "determine": [
+      4
+    ],
+    "the": [
+      5,
+      25,
+      53,
+      60,
+      65,
+      81,
+      114,
+      120,
+      123,
+      132,
+      135,
+      147,
+      157,
+      160,
+      172
+    ],
+    "prevalence": [
+      6,
+      82,
+      162,
+      174
+    ],
+    "of": [
+      7,
+      27,
+      33,
+      84,
+      113,
+      163
+    ],
+    "ADHD": [
+      8,
+      40,
+      66,
+      85,
+      91,
+      164,
+      181,
+      196
+    ],
+    "symptoms": [
+      9,
+      41,
+      67
+    ],
+    "in": [
+      10,
+      18,
+      59,
+      68,
+      168,
+      176,
+      179
+    ],
+    "Saudi": [
+      11
+    ],
+    "children": [
+      12,
+      56,
+      69
+    ],
+    "aged": [
+      13
+    ],
+    "years": [
+      17,
+      32
+    ],
+    "Jeddah": [
+      19
+    ],
+    "city.": [
+      20
+    ],
+    "also": [
+      23
+    ],
+    "explored": [
+      24
+    ],
+    "effect": [
+      26
+    ],
+    "variables": [
+      28
+    ],
+    "namely": [
+      29
+    ],
+    "teacher's": [
+      30
+    ],
+    "knowledge,": [
+      31
+    ],
+    "experience": [
+      34
+    ],
+    "and": [
+      35,
+      106,
+      127,
+      139,
+      143,
+      151,
+      171,
+      190
+    ],
+    "teachers'": [
+      36,
+      61,
+      188
+    ],
+    "gender": [
+      37,
+      191
+    ],
+    "on": [
+      38,
+      75
+    ],
+    "reported": [
+      39
+    ],
+    "among": [
+      42,
+      86
+    ],
+    "primary": [
+      43
+    ],
+    "grade": [
+      44,
+      158,
+      169,
+      177
+    ],
+    "students.": [
+      45
+    ],
+    "A": [
+      46
+    ],
+    "questionnaire": [
+      47
+    ],
+    "survey": [
+      48
+    ],
+    "methodology": [
+      49
+    ],
+    "was": [
+      50,
+      96,
+      102,
+      109,
+      129,
+      141,
+      153,
+      166,
+      175
+    ],
+    "adopted": [
+      51
+    ],
+    "for": [
+      52,
+      119,
+      131,
+      144
+    ],
+    "study.": [
+      54
+    ],
+    "were": [
+      57
+    ],
+    "included": [
+      58
+    ],
+    "survey.": [
+      62
+    ],
+    "Teachers": [
+      63
+    ],
+    "assessed": [
+      64
+    ],
+    "using": [
+      70
+    ],
+    "an": [
+      71
+    ],
+    "18-item": [
+      72
+    ],
+    "scale": [
+      73
+    ],
+    "based": [
+      74
+    ],
+    "DSM-V.": [
+      76
+    ],
+    "results": [
+      78
+    ],
+    "indicated": [
+      79,
+      186
+    ],
+    "that": [
+      80,
+      187
+    ],
+    "rates": [
+      83
+    ],
+    "school-age": [
+      87
+    ],
+    "differed": [
+      88
+    ],
+    "according": [
+      89
+    ],
+    "subtypes.": [
+      92
+    ],
+    "Inattention": [
+      94,
+      121
+    ],
+    "type": [
+      95,
+      101,
+      108
+    ],
+    "rated": [
+      97,
+      103,
+      110
+    ],
+    "by": [
+      98,
+      104,
+      111
+    ],
+    "35.34%,": [
+      99
+    ],
+    "Hyperactivity/Impulsivity": [
+      100,
+      133
+    ],
+    "28.60%,": [
+      105
+    ],
+    "ADHD-C": [
+      107
+    ],
+    "21.3%": [
+      112
+    ],
+    "respondents.": [
+      115
+    ],
+    "According": [
+      116,
+      155
+    ],
+    "gender,": [
+      118
+    ],
+    "subtype,": [
+      122,
+      134,
+      146
+    ],
+    "ratio": [
+      124,
+      136,
+      148
+    ],
+    "between": [
+      125,
+      137,
+      149
+    ],
+    "boys": [
+      126,
+      138,
+      150
+    ],
+    "girls": [
+      128,
+      140,
+      152
+    ],
+    "1.7:1,": [
+      130
+    ],
+    "2.03:1,": [
+      142
+    ],
+    "combined": [
+      145
+    ],
+    "2.2:1.": [
+      154
+    ],
+    "level,": [
+      159
+    ],
+    "highest": [
+      161
+    ],
+    "overall": [
+      165
+    ],
+    "found": [
+      167
+    ],
+    "three": [
+      170
+    ],
+    "lowest": [
+      173
+    ],
+    "six": [
+      178
+    ],
+    "all": [
+      180
+    ],
+    "types.": [
+      182
+    ],
+    "present": [
+      184
+    ],
+    "findings": [
+      185
+    ],
+    "knowledge": [
+      189
+    ],
+    "(female)": [
+      192
+    ],
+    "successfully": [
+      193
+    ],
+    "predicted": [
+      194
+    ],
+    "teacher-rated": [
+      195
+    ],
+    "status.": [
+      197
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

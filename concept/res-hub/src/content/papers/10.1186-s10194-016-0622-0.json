@@ -64,8 +64,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.1186__s10194-016-0622-0.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.1186__s10194-016-0622-0.pdf",
+    "sourceUrl": "https://thejournalofheadacheandpain.biomedcentral.com/track/pdf/10.1186/s10194-016-0622-0",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

@@ -36,8 +36,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.4236__psych.2013.412139.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.4236__psych.2013.412139.pdf",
+    "sourceUrl": "http://www.scirp.org/journal/PaperDownload.aspx?paperID=40861",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

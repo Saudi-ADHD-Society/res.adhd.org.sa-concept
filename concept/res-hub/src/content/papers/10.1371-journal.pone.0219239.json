@@ -51,8 +51,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.1371__journal.pone.0219239.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.1371__journal.pone.0219239.pdf",
+    "sourceUrl": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0219239&type=printable",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

@@ -33,7 +33,9 @@
     }
   ],
   "access": {
-    "status": "unknown"
+    "status": "open",
+    "sourceUrl": "http://www.ccsenet.org/journal/index.php/ies/article/download/58572/31367",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

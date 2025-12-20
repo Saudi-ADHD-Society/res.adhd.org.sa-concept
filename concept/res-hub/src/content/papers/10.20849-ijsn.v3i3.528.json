@@ -24,8 +24,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.20849__ijsn.v3i3.528.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.20849__ijsn.v3i3.528.pdf",
+    "sourceUrl": "http://journal.julypress.com/index.php/ijsn/article/download/528/398",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

@@ -41,7 +41,9 @@
     }
   ],
   "access": {
-    "status": "unknown"
+    "status": "open",
+    "sourceUrl": "https://doi.org/10.5539/ijps.v8n2p111",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

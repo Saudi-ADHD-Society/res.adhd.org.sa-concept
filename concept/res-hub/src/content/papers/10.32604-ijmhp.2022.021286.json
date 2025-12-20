@@ -35,7 +35,9 @@
     }
   ],
   "access": {
-    "status": "open"
+    "status": "open",
+    "sourceUrl": "https://doi.org/10.32604/ijmhp.2022.021286",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

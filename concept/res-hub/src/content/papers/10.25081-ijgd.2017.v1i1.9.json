@@ -14,8 +14,9 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.25081__ijgd.2017.v1i1.9.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.25081__ijgd.2017.v1i1.9.pdf",
+    "sourceUrl": "https://updatepublishing.com/journal/index.php/ijgd/article/download/5370/4830"
   },
   "visibility": {
     "hidden": false

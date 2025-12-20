@@ -11,7 +11,9 @@
     "import:legacy:no-doi": "node scripts/import-legacy-no-doi-from-csv.mjs",
     "papers:audit": "node scripts/audit-papers.mjs",
     "paper:new": "node scripts/new-paper.mjs",
-    "papers:fetch-crossref": "node scripts/fetch-crossref-metadata.mjs"
+    "papers:fetch-crossref": "node scripts/fetch-crossref-metadata.mjs",
+    "papers:fetch-unpaywall": "node scripts/fetch-unpaywall-metadata.mjs",
+    "papers:enrich": "node scripts/enrich-papers-metadata.mjs"
   },
   "dependencies": {
     "csv-parse": "^6.1.0",

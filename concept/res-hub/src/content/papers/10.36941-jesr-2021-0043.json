@@ -39,7 +39,9 @@
     }
   ],
   "access": {
-    "status": "open"
+    "status": "open",
+    "sourceUrl": "https://www.richtmann.org/journal/index.php/jesr/article/download/12408/12004",
+    "license": "cc-by-nc"
   },
   "visibility": {
     "hidden": false

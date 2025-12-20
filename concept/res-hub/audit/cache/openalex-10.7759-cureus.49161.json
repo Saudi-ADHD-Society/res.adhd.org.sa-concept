@@ -1,0 +1,575 @@
+{
+  "id": "https://openalex.org/W4388846534",
+  "doi": "https://doi.org/10.7759/cureus.49161",
+  "title": "The Prevalence of Risk Factors Among Children Diagnosed With Attention-Deficit/Hyperactivity Disorder, Aged 4–17 Years: A Cross-Sectional Study",
+  "display_name": "The Prevalence of Risk Factors Among Children Diagnosed With Attention-Deficit/Hyperactivity Disorder, Aged 4–17 Years: A Cross-Sectional Study",
+  "publication_year": 2023,
+  "publication_date": "2023-11-21",
+  "ids": {
+    "openalex": "https://openalex.org/W4388846534",
+    "doi": "https://doi.org/10.7759/cureus.49161",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/38130565"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.7759/cureus.49161",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.7759/cureus.49161",
+    "pdf_url": "https://assets.cureus.com/uploads/original_article/pdf/202128/20231121-15526-1hntss6.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738950867",
+      "display_name": "Cureus",
+      "issn_l": "2168-8184",
+      "issn": [
+        "2168-8184"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310316779",
+      "host_organization_name": "Cureus, Inc.",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310316779"
+      ],
+      "host_organization_lineage_names": [
+        "Cureus, Inc."
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cureus",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://assets.cureus.com/uploads/original_article/pdf/202128/20231121-15526-1hntss6.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5014066082",
+        "display_name": "Abeer Zakariyah",
+        "orcid": "https://orcid.org/0000-0003-2798-3927"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210099699",
+          "display_name": "University of Jeddah",
+          "ror": "https://ror.org/015ya8798",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210099699"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Abeer F Zakariyah",
+      "raw_affiliation_strings": [
+        ". Department of Medical Genetics, Faculty of Medicine, University of Jeddah, Jeddah, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": ". Department of Medical Genetics, Faculty of Medicine, University of Jeddah, Jeddah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I4210099699"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5014066082"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210099699"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 1.13369265,
+  "has_fulltext": true,
+  "cited_by_count": 3,
+  "citation_normalized_percentile": {
+    "value": 0.73237376,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 91,
+    "max": 96
+  },
+  "biblio": {
+    "volume": "15",
+    "issue": "11",
+    "first_page": "e49161",
+    "last_page": "e49161"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10537",
+    "display_name": "Attention Deficit Hyperactivity Disorder",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12241",
+      "display_name": "Children's Physical and Motor Development",
+      "score": 0.9387000203132629,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.8167052268981934
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "score": 0.7151161432266235
+    },
+    {
+      "id": "https://openalex.org/keywords/socioeconomic-status",
+      "display_name": "Socioeconomic status",
+      "score": 0.6445813179016113
+    },
+    {
+      "id": "https://openalex.org/keywords/cross-sectional-study",
+      "display_name": "Cross-sectional study",
+      "score": 0.604169487953186
+    },
+    {
+      "id": "https://openalex.org/keywords/pediatrics",
+      "display_name": "Pediatrics",
+      "score": 0.5273666977882385
+    },
+    {
+      "id": "https://openalex.org/keywords/population",
+      "display_name": "Population",
+      "score": 0.5229744911193848
+    },
+    {
+      "id": "https://openalex.org/keywords/observational-study",
+      "display_name": "Observational study",
+      "score": 0.5111847519874573
+    },
+    {
+      "id": "https://openalex.org/keywords/etiology",
+      "display_name": "Etiology",
+      "score": 0.46272459626197815
+    },
+    {
+      "id": "https://openalex.org/keywords/family-income",
+      "display_name": "Family income",
+      "score": 0.4451514482498169
+    },
+    {
+      "id": "https://openalex.org/keywords/birth-weight",
+      "display_name": "Birth weight",
+      "score": 0.43739423155784607
+    },
+    {
+      "id": "https://openalex.org/keywords/pregnancy",
+      "display_name": "Pregnancy",
+      "score": 0.38676729798316956
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.376320481300354
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-health",
+      "display_name": "Environmental health",
+      "score": 0.17494937777519226
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.8167052268981934
+    },
+    {
+      "id": "https://openalex.org/C2780783007",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "level": 2,
+      "score": 0.7151161432266235
+    },
+    {
+      "id": "https://openalex.org/C147077947",
+      "wikidata": "https://www.wikidata.org/wiki/Q1515895",
+      "display_name": "Socioeconomic status",
+      "level": 3,
+      "score": 0.6445813179016113
+    },
+    {
+      "id": "https://openalex.org/C142052008",
+      "wikidata": "https://www.wikidata.org/wiki/Q954027",
+      "display_name": "Cross-sectional study",
+      "level": 2,
+      "score": 0.604169487953186
+    },
+    {
+      "id": "https://openalex.org/C187212893",
+      "wikidata": "https://www.wikidata.org/wiki/Q123028",
+      "display_name": "Pediatrics",
+      "level": 1,
+      "score": 0.5273666977882385
+    },
+    {
+      "id": "https://openalex.org/C2908647359",
+      "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+      "display_name": "Population",
+      "level": 2,
+      "score": 0.5229744911193848
+    },
+    {
+      "id": "https://openalex.org/C23131810",
+      "wikidata": "https://www.wikidata.org/wiki/Q818574",
+      "display_name": "Observational study",
+      "level": 2,
+      "score": 0.5111847519874573
+    },
+    {
+      "id": "https://openalex.org/C137627325",
+      "wikidata": "https://www.wikidata.org/wiki/Q156318",
+      "display_name": "Etiology",
+      "level": 2,
+      "score": 0.46272459626197815
+    },
+    {
+      "id": "https://openalex.org/C2777101753",
+      "wikidata": "https://www.wikidata.org/wiki/Q5433336",
+      "display_name": "Family income",
+      "level": 2,
+      "score": 0.4451514482498169
+    },
+    {
+      "id": "https://openalex.org/C66322754",
+      "wikidata": "https://www.wikidata.org/wiki/Q4128476",
+      "display_name": "Birth weight",
+      "level": 3,
+      "score": 0.43739423155784607
+    },
+    {
+      "id": "https://openalex.org/C2779234561",
+      "wikidata": "https://www.wikidata.org/wiki/Q11995",
+      "display_name": "Pregnancy",
+      "level": 2,
+      "score": 0.38676729798316956
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.376320481300354
+    },
+    {
+      "id": "https://openalex.org/C99454951",
+      "wikidata": "https://www.wikidata.org/wiki/Q932068",
+      "display_name": "Environmental health",
+      "level": 1,
+      "score": 0.17494937777519226
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C50522688",
+      "wikidata": "https://www.wikidata.org/wiki/Q189833",
+      "display_name": "Economic growth",
+      "level": 1,
+      "score": 0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.7759/cureus.49161",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.7759/cureus.49161",
+      "pdf_url": "https://assets.cureus.com/uploads/original_article/pdf/202128/20231121-15526-1hntss6.pdf",
+      "source": {
+        "id": "https://openalex.org/S2738950867",
+        "display_name": "Cureus",
+        "issn_l": "2168-8184",
+        "issn": [
+          "2168-8184"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310316779",
+        "host_organization_name": "Cureus, Inc.",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310316779"
+        ],
+        "host_organization_lineage_names": [
+          "Cureus, Inc."
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cureus",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:38130565",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38130565",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cureus",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:10733893",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10733893",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10733893/pdf/cureus-0015-00000049161.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Cureus",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.7759/cureus.49161",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.7759/cureus.49161",
+    "pdf_url": "https://assets.cureus.com/uploads/original_article/pdf/202128/20231121-15526-1hntss6.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738950867",
+      "display_name": "Cureus",
+      "issn_l": "2168-8184",
+      "issn": [
+        "2168-8184"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310316779",
+      "host_organization_name": "Cureus, Inc.",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310316779"
+      ],
+      "host_organization_lineage_names": [
+        "Cureus, Inc."
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cureus",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/3",
+      "score": 0.5400000214576721,
+      "display_name": "Good health and well-being"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "referenced_works_count": 30,
+  "referenced_works": [
+    "https://openalex.org/W1998594730",
+    "https://openalex.org/W2143445712",
+    "https://openalex.org/W1567805217",
+    "https://openalex.org/W2102388069",
+    "https://openalex.org/W2162012775",
+    "https://openalex.org/W3132099480",
+    "https://openalex.org/W3211486451",
+    "https://openalex.org/W2110102516",
+    "https://openalex.org/W4367155291",
+    "https://openalex.org/W1984551285",
+    "https://openalex.org/W4296736954",
+    "https://openalex.org/W2041549689",
+    "https://openalex.org/W2743323043",
+    "https://openalex.org/W2781226500",
+    "https://openalex.org/W2802755252",
+    "https://openalex.org/W2807447863",
+    "https://openalex.org/W3005830057",
+    "https://openalex.org/W2115039102",
+    "https://openalex.org/W3201531381",
+    "https://openalex.org/W4378072478",
+    "https://openalex.org/W3024968000",
+    "https://openalex.org/W2006126411",
+    "https://openalex.org/W3196154749",
+    "https://openalex.org/W1991441238",
+    "https://openalex.org/W2552255852",
+    "https://openalex.org/W1146151349",
+    "https://openalex.org/W3002126582",
+    "https://openalex.org/W624933545",
+    "https://openalex.org/W2143981793",
+    "https://openalex.org/W2808011097"
+  ],
+  "related_works": [
+    "https://openalex.org/W3148130686",
+    "https://openalex.org/W2882344788",
+    "https://openalex.org/W4294536920",
+    "https://openalex.org/W2037749514",
+    "https://openalex.org/W2061664534",
+    "https://openalex.org/W2159299011",
+    "https://openalex.org/W1913482669",
+    "https://openalex.org/W3035398523",
+    "https://openalex.org/W4387875202",
+    "https://openalex.org/W2032062947"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

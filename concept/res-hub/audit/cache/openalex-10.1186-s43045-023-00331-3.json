@@ -1,0 +1,941 @@
+{
+  "id": "https://openalex.org/W4384464484",
+  "doi": "https://doi.org/10.1186/s43045-023-00331-3",
+  "title": "Burnout and anxiety among parents of children with neurodevelopmental disorders: a cross-sectional study in Saudi Arabia",
+  "display_name": "Burnout and anxiety among parents of children with neurodevelopmental disorders: a cross-sectional study in Saudi Arabia",
+  "publication_year": 2023,
+  "publication_date": "2023-07-16",
+  "ids": {
+    "openalex": "https://openalex.org/W4384464484",
+    "doi": "https://doi.org/10.1186/s43045-023-00331-3"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1186/s43045-023-00331-3",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1186/s43045-023-00331-3",
+    "pdf_url": "https://mecp.springeropen.com/counter/pdf/10.1186/s43045-023-00331-3",
+    "source": {
+      "id": "https://openalex.org/S2764422388",
+      "display_name": "Middle East Current Psychiatry",
+      "issn_l": "2090-5408",
+      "issn": [
+        "2090-5408",
+        "2090-5416"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315671",
+      "host_organization_name": "Lippincott Williams & Wilkins",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315671",
+        "https://openalex.org/P4310318547"
+      ],
+      "host_organization_lineage_names": [
+        "Lippincott Williams & Wilkins",
+        "Wolters Kluwer"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Middle East Current Psychiatry",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://mecp.springeropen.com/counter/pdf/10.1186/s43045-023-00331-3",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5025098910",
+        "display_name": "Nader Alrahili",
+        "orcid": "https://orcid.org/0000-0002-9544-3669"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I240666556",
+          "display_name": "Imam Mohammad ibn Saud Islamic University",
+          "ror": "https://ror.org/05gxjyb39",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I240666556"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Nader Alrahili",
+      "raw_affiliation_strings": [
+        "Department of Clinical Neuroscience, College of Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Clinical Neuroscience, College of Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I240666556"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5025098910"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I240666556"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 4.69056445,
+  "has_fulltext": true,
+  "cited_by_count": 9,
+  "citation_normalized_percentile": {
+    "value": 0.91785876,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "30",
+    "issue": "1",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11632",
+    "display_name": "Family and Disability Support Research",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3203",
+      "display_name": "Clinical Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11632",
+      "display_name": "Family and Disability Support Research",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11060",
+      "display_name": "Infant Development and Preterm Care",
+      "score": 0.9990000128746033,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2735",
+        "display_name": "Pediatrics, Perinatology and Child Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10182",
+      "display_name": "Child and Adolescent Psychosocial and Emotional Development",
+      "score": 0.9970999956130981,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/anxiety",
+      "display_name": "Anxiety",
+      "score": 0.7238256335258484
+    },
+    {
+      "id": "https://openalex.org/keywords/autism-spectrum-disorder",
+      "display_name": "Autism spectrum disorder",
+      "score": 0.6155991554260254
+    },
+    {
+      "id": "https://openalex.org/keywords/psychological-intervention",
+      "display_name": "Psychological intervention",
+      "score": 0.5948443412780762
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.5655012130737305
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.5611048936843872
+    },
+    {
+      "id": "https://openalex.org/keywords/autism",
+      "display_name": "Autism",
+      "score": 0.5020442008972168
+    },
+    {
+      "id": "https://openalex.org/keywords/depression",
+      "display_name": "Depression (economics)",
+      "score": 0.4757011830806732
+    },
+    {
+      "id": "https://openalex.org/keywords/distress",
+      "display_name": "Distress",
+      "score": 0.44904130697250366
+    },
+    {
+      "id": "https://openalex.org/keywords/burnout",
+      "display_name": "Burnout",
+      "score": 0.43529754877090454
+    },
+    {
+      "id": "https://openalex.org/keywords/cognition",
+      "display_name": "Cognition",
+      "score": 0.4340957999229431
+    },
+    {
+      "id": "https://openalex.org/keywords/typically-developing",
+      "display_name": "Typically developing",
+      "score": 0.43271782994270325
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit",
+      "display_name": "Attention deficit",
+      "score": 0.42283719778060913
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.40891626477241516
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "score": 0.3804716467857361
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C558461103",
+      "wikidata": "https://www.wikidata.org/wiki/Q154430",
+      "display_name": "Anxiety",
+      "level": 2,
+      "score": 0.7238256335258484
+    },
+    {
+      "id": "https://openalex.org/C2778538070",
+      "wikidata": "https://www.wikidata.org/wiki/Q1436063",
+      "display_name": "Autism spectrum disorder",
+      "level": 3,
+      "score": 0.6155991554260254
+    },
+    {
+      "id": "https://openalex.org/C27415008",
+      "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+      "display_name": "Psychological intervention",
+      "level": 2,
+      "score": 0.5948443412780762
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.5655012130737305
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.5611048936843872
+    },
+    {
+      "id": "https://openalex.org/C205778803",
+      "wikidata": "https://www.wikidata.org/wiki/Q38404",
+      "display_name": "Autism",
+      "level": 2,
+      "score": 0.5020442008972168
+    },
+    {
+      "id": "https://openalex.org/C2776867660",
+      "wikidata": "https://www.wikidata.org/wiki/Q1814941",
+      "display_name": "Depression (economics)",
+      "level": 2,
+      "score": 0.4757011830806732
+    },
+    {
+      "id": "https://openalex.org/C139265228",
+      "wikidata": "https://www.wikidata.org/wiki/Q5283089",
+      "display_name": "Distress",
+      "level": 2,
+      "score": 0.44904130697250366
+    },
+    {
+      "id": "https://openalex.org/C143916079",
+      "wikidata": "https://www.wikidata.org/wiki/Q2629248",
+      "display_name": "Burnout",
+      "level": 2,
+      "score": 0.43529754877090454
+    },
+    {
+      "id": "https://openalex.org/C169900460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+      "display_name": "Cognition",
+      "level": 2,
+      "score": 0.4340957999229431
+    },
+    {
+      "id": "https://openalex.org/C3020552372",
+      "wikidata": "https://www.wikidata.org/wiki/Q1079090",
+      "display_name": "Typically developing",
+      "level": 3,
+      "score": 0.43271782994270325
+    },
+    {
+      "id": "https://openalex.org/C3017694942",
+      "wikidata": "https://www.wikidata.org/wiki/Q16254243",
+      "display_name": "Attention deficit",
+      "level": 3,
+      "score": 0.42283719778060913
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.40891626477241516
+    },
+    {
+      "id": "https://openalex.org/C2780783007",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "level": 2,
+      "score": 0.3804716467857361
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C139719470",
+      "wikidata": "https://www.wikidata.org/wiki/Q39680",
+      "display_name": "Macroeconomics",
+      "level": 1,
+      "score": 0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1186/s43045-023-00331-3",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1186/s43045-023-00331-3",
+      "pdf_url": "https://mecp.springeropen.com/counter/pdf/10.1186/s43045-023-00331-3",
+      "source": {
+        "id": "https://openalex.org/S2764422388",
+        "display_name": "Middle East Current Psychiatry",
+        "issn_l": "2090-5408",
+        "issn": [
+          "2090-5408",
+          "2090-5416"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310315671",
+        "host_organization_name": "Lippincott Williams & Wilkins",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315671",
+          "https://openalex.org/P4310318547"
+        ],
+        "host_organization_lineage_names": [
+          "Lippincott Williams & Wilkins",
+          "Wolters Kluwer"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Middle East Current Psychiatry",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:6ea7ed77494543a591bcfa57c4940011",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/6ea7ed77494543a591bcfa57c4940011",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Middle East Current Psychiatry, Vol 30, Iss 1, Pp 1-13 (2023)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1186/s43045-023-00331-3",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1186/s43045-023-00331-3",
+    "pdf_url": "https://mecp.springeropen.com/counter/pdf/10.1186/s43045-023-00331-3",
+    "source": {
+      "id": "https://openalex.org/S2764422388",
+      "display_name": "Middle East Current Psychiatry",
+      "issn_l": "2090-5408",
+      "issn": [
+        "2090-5408",
+        "2090-5416"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315671",
+      "host_organization_name": "Lippincott Williams & Wilkins",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315671",
+        "https://openalex.org/P4310318547"
+      ],
+      "host_organization_lineage_names": [
+        "Lippincott Williams & Wilkins",
+        "Wolters Kluwer"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Middle East Current Psychiatry",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.7900000214576721,
+      "display_name": "Quality Education",
+      "id": "https://metadata.un.org/sdg/4"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 56,
+  "referenced_works": [
+    "https://openalex.org/W3137450077",
+    "https://openalex.org/W2969305158",
+    "https://openalex.org/W3135505889",
+    "https://openalex.org/W2807487273",
+    "https://openalex.org/W2054643398",
+    "https://openalex.org/W2533451134",
+    "https://openalex.org/W4255755284",
+    "https://openalex.org/W2033988167",
+    "https://openalex.org/W3094250624",
+    "https://openalex.org/W4312888828",
+    "https://openalex.org/W3040288393",
+    "https://openalex.org/W2010324541",
+    "https://openalex.org/W2134565205",
+    "https://openalex.org/W2039348844",
+    "https://openalex.org/W4255777666",
+    "https://openalex.org/W3118928488",
+    "https://openalex.org/W2039803662",
+    "https://openalex.org/W2126206176",
+    "https://openalex.org/W2966415305",
+    "https://openalex.org/W2917164942",
+    "https://openalex.org/W3006536193",
+    "https://openalex.org/W2986313388",
+    "https://openalex.org/W2022320127",
+    "https://openalex.org/W3020810195",
+    "https://openalex.org/W2804787395",
+    "https://openalex.org/W4206443588",
+    "https://openalex.org/W2408017125",
+    "https://openalex.org/W3110788136",
+    "https://openalex.org/W2752852079",
+    "https://openalex.org/W3036647096",
+    "https://openalex.org/W2069698478",
+    "https://openalex.org/W2792209463",
+    "https://openalex.org/W2002566744",
+    "https://openalex.org/W2014064544",
+    "https://openalex.org/W2074165651",
+    "https://openalex.org/W2109420596",
+    "https://openalex.org/W2410154383",
+    "https://openalex.org/W2935795787",
+    "https://openalex.org/W2800952767",
+    "https://openalex.org/W2095531578",
+    "https://openalex.org/W1903243881",
+    "https://openalex.org/W2588808777",
+    "https://openalex.org/W2171192300",
+    "https://openalex.org/W2111137245",
+    "https://openalex.org/W2913331197",
+    "https://openalex.org/W4307994244",
+    "https://openalex.org/W2055806697",
+    "https://openalex.org/W2058714004",
+    "https://openalex.org/W2120565485",
+    "https://openalex.org/W2165268726",
+    "https://openalex.org/W1600519621",
+    "https://openalex.org/W2270278558",
+    "https://openalex.org/W3112666939",
+    "https://openalex.org/W2296242593",
+    "https://openalex.org/W2152679214",
+    "https://openalex.org/W2346275821"
+  ],
+  "related_works": [
+    "https://openalex.org/W2560376770",
+    "https://openalex.org/W2601840931",
+    "https://openalex.org/W4323870367",
+    "https://openalex.org/W3086995574",
+    "https://openalex.org/W2411826093",
+    "https://openalex.org/W1977730804",
+    "https://openalex.org/W2075883276",
+    "https://openalex.org/W3161954107",
+    "https://openalex.org/W1954825263",
+    "https://openalex.org/W3003579140"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "Background": [
+      1
+    ],
+    "Neurodevelopmental": [
+      2
+    ],
+    "disorders": [
+      3,
+      38,
+      125
+    ],
+    "(NDDs)": [
+      4
+    ],
+    "are": [
+      5
+    ],
+    "disabilities": [
+      6
+    ],
+    "in": [
+      7,
+      13,
+      47
+    ],
+    "brain": [
+      8
+    ],
+    "functioning": [
+      9
+    ],
+    "that": [
+      10
+    ],
+    "cause": [
+      11
+    ],
+    "impairments": [
+      12
+    ],
+    "cognition,": [
+      14
+    ],
+    "communication,": [
+      15
+    ],
+    "behavior,": [
+      16
+    ],
+    "and": [
+      17,
+      30,
+      57,
+      73,
+      77,
+      88,
+      97,
+      108,
+      149,
+      154
+    ],
+    "sometimes": [
+      18
+    ],
+    "motor": [
+      19
+    ],
+    "skills.": [
+      20
+    ],
+    "The": [
+      21
+    ],
+    "goal": [
+      22
+    ],
+    "of": [
+      23,
+      34,
+      42,
+      55,
+      59,
+      81,
+      93,
+      99,
+      106,
+      112,
+      120,
+      130,
+      135,
+      140,
+      158
+    ],
+    "this": [
+      24
+    ],
+    "study": [
+      25
+    ],
+    "was": [
+      26
+    ],
+    "to": [
+      27,
+      40,
+      91,
+      151
+    ],
+    "measure": [
+      28
+    ],
+    "burnout": [
+      29,
+      89
+    ],
+    "anxiety": [
+      31,
+      87,
+      107
+    ],
+    "among": [
+      32
+    ],
+    "parents": [
+      33,
+      41,
+      54,
+      58,
+      92,
+      98,
+      111,
+      134
+    ],
+    "children": [
+      35,
+      43,
+      60,
+      82,
+      100,
+      113,
+      121,
+      141
+    ],
+    "with": [
+      36,
+      44,
+      61,
+      83,
+      101,
+      114,
+      122,
+      142,
+      147
+    ],
+    "neurodevelopmental": [
+      37,
+      124
+    ],
+    "compared": [
+      39
+    ],
+    "typical": [
+      45
+    ],
+    "development": [
+      46
+    ],
+    "Saudi": [
+      48
+    ],
+    "Arabia.": [
+      49
+    ],
+    "Results": [
+      50
+    ],
+    "Four": [
+      51
+    ],
+    "hundred": [
+      52
+    ],
+    "twenty-five": [
+      53
+    ],
+    "healthy": [
+      56
+    ],
+    "NDDs,": [
+      62
+    ],
+    "including": [
+      63
+    ],
+    "attention": [
+      64
+    ],
+    "deficit": [
+      65
+    ],
+    "hyperactivity": [
+      66
+    ],
+    "disorder": [
+      67,
+      71
+    ],
+    "(ADHD),": [
+      68
+    ],
+    "autism": [
+      69
+    ],
+    "spectrum": [
+      70
+    ],
+    "(ASD),": [
+      72
+    ],
+    "intellectual": [
+      74
+    ],
+    "disability": [
+      75
+    ],
+    "(ID),": [
+      76
+    ],
+    "their": [
+      78,
+      156
+    ],
+    "parents.": [
+      79
+    ],
+    "Parents": [
+      80,
+      119,
+      139
+    ],
+    "NDD": [
+      84
+    ],
+    "had": [
+      85
+    ],
+    "more": [
+      86
+    ],
+    "relative": [
+      90
+    ],
+    "typically": [
+      94,
+      136
+    ],
+    "developing": [
+      95,
+      137
+    ],
+    "children,": [
+      96
+    ],
+    "ADHD": [
+      102
+    ],
+    "experienced": [
+      103
+    ],
+    "higher": [
+      104
+    ],
+    "levels": [
+      105
+    ],
+    "depression": [
+      109
+    ],
+    "than": [
+      110,
+      133
+    ],
+    "ASD": [
+      115
+    ],
+    "or": [
+      116
+    ],
+    "ID.": [
+      117
+    ],
+    "Conclusion": [
+      118
+    ],
+    "various": [
+      123
+    ],
+    "face": [
+      126
+    ],
+    "a": [
+      127
+    ],
+    "greater": [
+      128
+    ],
+    "degree": [
+      129
+    ],
+    "psychological": [
+      131
+    ],
+    "distress": [
+      132
+    ],
+    "children.": [
+      138
+    ],
+    "NDDs": [
+      143
+    ],
+    "should": [
+      144
+    ],
+    "be": [
+      145
+    ],
+    "provided": [
+      146
+    ],
+    "interventions": [
+      148
+    ],
+    "resources": [
+      150
+    ],
+    "reduce": [
+      152
+    ],
+    "stress": [
+      153
+    ],
+    "enhance": [
+      155
+    ],
+    "standard": [
+      157
+    ],
+    "living.": [
+      159
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

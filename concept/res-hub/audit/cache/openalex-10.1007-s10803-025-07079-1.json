@@ -1,0 +1,326 @@
+{
+  "id": "https://openalex.org/W4415136749",
+  "doi": "https://doi.org/10.1007/s10803-025-07079-1",
+  "title": "Comparing DSM-5 Pathological Personality Traits in Youths With ADHD, Subthreshold ADHD, and Healthy Controls Using the Personality Inventory for DSM-5 (PID-5): A Network Analysis Study",
+  "display_name": "Comparing DSM-5 Pathological Personality Traits in Youths With ADHD, Subthreshold ADHD, and Healthy Controls Using the Personality Inventory for DSM-5 (PID-5): A Network Analysis Study",
+  "publication_year": 2025,
+  "publication_date": "2025-10-14",
+  "ids": {
+    "openalex": "https://openalex.org/W4415136749",
+    "doi": "https://doi.org/10.1007/s10803-025-07079-1",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/41085933"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/s10803-025-07079-1",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1007/s10803-025-07079-1",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S181451930",
+      "display_name": "Journal of Autism and Developmental Disorders",
+      "issn_l": "0162-3257",
+      "issn": [
+        "0162-3257",
+        "1573-3432"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Autism and Developmental Disorders",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5088840055",
+        "display_name": "Abdullah Alrubaian",
+        "orcid": "https://orcid.org/0000-0002-7733-6931"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I156216236",
+          "display_name": "Qassim University",
+          "ror": "https://ror.org/01wsfe280",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Abdullah Alrubaian",
+      "raw_affiliation_strings": [
+        "Department of Special Education, College of Education, Qassim University, Buraydah, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Special Education, College of Education, Qassim University, Buraydah, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5088840055"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I156216236"
+  ],
+  "apc_list": {
+    "value": 2390,
+    "currency": "EUR",
+    "value_usd": 2990
+  },
+  "apc_paid": null,
+  "fwci": 0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.52501056,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T13283",
+    "display_name": "Mental Health Research Topics",
+    "score": 0.9998000264167786,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3205",
+      "display_name": "Experimental and Cognitive Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T13283",
+      "display_name": "Mental Health Research Topics",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.9969000220298767,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10241",
+      "display_name": "Functional Brain Connectivity Studies",
+      "score": 0.9790999889373779,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [],
+  "concepts": [],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1007/s10803-025-07079-1",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1007/s10803-025-07079-1",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S181451930",
+        "display_name": "Journal of Autism and Developmental Disorders",
+        "issn_l": "0162-3257",
+        "issn": [
+          "0162-3257",
+          "1573-3432"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Autism and Developmental Disorders",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:41085933",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/41085933",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of autism and developmental disorders",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 37,
+  "referenced_works": [
+    "https://openalex.org/W2789862951",
+    "https://openalex.org/W2554969169",
+    "https://openalex.org/W2233703835",
+    "https://openalex.org/W4404558496",
+    "https://openalex.org/W4385190275",
+    "https://openalex.org/W3011680677",
+    "https://openalex.org/W4399134736",
+    "https://openalex.org/W4407808416",
+    "https://openalex.org/W3209407343",
+    "https://openalex.org/W4283805755",
+    "https://openalex.org/W3045713146",
+    "https://openalex.org/W2954062513",
+    "https://openalex.org/W4387971782",
+    "https://openalex.org/W4409888415",
+    "https://openalex.org/W2962989581",
+    "https://openalex.org/W2162896254",
+    "https://openalex.org/W4399800182",
+    "https://openalex.org/W4210918765",
+    "https://openalex.org/W2121891157",
+    "https://openalex.org/W4406765799",
+    "https://openalex.org/W4402313695",
+    "https://openalex.org/W3132731140",
+    "https://openalex.org/W2911482599",
+    "https://openalex.org/W4403014889",
+    "https://openalex.org/W2149736426",
+    "https://openalex.org/W4379052878",
+    "https://openalex.org/W2795059326",
+    "https://openalex.org/W4402013621",
+    "https://openalex.org/W2618011121",
+    "https://openalex.org/W2281828988",
+    "https://openalex.org/W3132099480",
+    "https://openalex.org/W4392359507",
+    "https://openalex.org/W4386853276",
+    "https://openalex.org/W3035215734",
+    "https://openalex.org/W4410243151",
+    "https://openalex.org/W1520557302",
+    "https://openalex.org/W4413117954"
+  ],
+  "related_works": [],
+  "abstract_inverted_index": null,
+  "counts_by_year": [],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-14T00:00:00"
+}

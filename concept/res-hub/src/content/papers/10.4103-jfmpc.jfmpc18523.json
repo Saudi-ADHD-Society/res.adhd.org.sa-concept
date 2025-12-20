@@ -2,7 +2,7 @@
   "doi": "10.4103/jfmpc.jfmpc_185_23",
   "slug": "10.4103-jfmpc.jfmpc18523",
   "title": "Knowledge of and attitude toward attention-deficit/ hyperactivity disorder (ADHD) assessed among primary schoolteachers of Makkah City in Saudi Arabia",
-  "abstract": "<strong>Background</strong>:",
+  "abstract": "A BSTRACT Background: One of the most prevalent pediatric medical conditions is attention-deficit/hyperactivity disorder (ADHD). It is characterized by symptoms of hyperactivity, impulsivity, and/or inattention. The first people to notice a child’s ADHD symptoms are typically their teachers, who may then offer data that are typically helpful in its diagnosis. The purpose of this study was to assess teachers’ knowledge of ADHD, its causes and etiology, as well as the key demographic factors that influence said knowledge. Method: The study was conducted among schoolteachers of primary schools located in different regions of Makkah City, Kingdom of Saudi Arabia. We used a stratified random sampling technique to collect our sample, with the inclusion criteria being teachers who were working in a primary school and who were directly involved in teaching students. Data analysis was performed using the IBM SPSS Statistics software version 21. Results: We received 335 responses to our questionnaire. The age of the participants ranged from 18 to 59 years, with the mean age being 40.2 ± 13.8 years. About 66.9% of teachers were women. Most of the teachers in this sample had a bachelor’s degree (73.4%), and only 21.8% had diplomas. Regarding the years of teaching experience, 34.6% had teaching experience exceeding 20 years, whereas 20.6% had less than five years of teaching experience. Regarding general knowledge of the teachers, (5.4%) of the teachers had a good level of knowledge. Only 63.6% of teachers were aware that ADHD students frequently struggled with task and activity organization, and only 7.5% of teachers had good knowledge of ADHD treatment, compared to 40.9% who had a good awareness of symptoms and diagnosis. Only the teachers’ education level was significantly associated with their knowledge level of ADHD: 25% of teachers with a postgraduate degree had an overall good level of knowledge versus 2.7% of those with a diploma ( P = 0.006) Conclusion: The findings of this study lead to the conclusion that elementary school instructors have an inadequate understanding of ADHD. Some teachers misunderstand the signs and general facts associated with ADHD, thereby indicating the need for further training in this area.",
   "categories": [
     "Uncategorized"
   ],
@@ -49,8 +49,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.4103__jfmpc.jfmpc_185_23.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.4103__jfmpc.jfmpc_185_23.pdf",
+    "sourceUrl": "https://doi.org/10.4103/jfmpc.jfmpc_185_23",
+    "license": "cc-by-nc-sa"
   },
   "visibility": {
     "hidden": false

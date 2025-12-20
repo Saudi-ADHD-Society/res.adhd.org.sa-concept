@@ -2,7 +2,7 @@
   "doi": "10.7759/cureus.79108",
   "slug": "10.7759-cureus.79108",
   "title": "Primary School Teachers' Knowledge and Misconceptions Regarding Attention Deficit Hyperactivity Disorder in the Qassim Region, Saudi Arabia",
-  "abstract": "<strong>Background and objective</strong>",
+  "abstract": "Background and objective Attention deficit hyperactivity disorder (ADHD) is a common neurodevelopmental disorder affecting children's academic and social performance. This study aimed to assess the knowledge and misconceptions of primary school teachers in the Qassim region regarding ADHD. Methodology A cross-sectional study was conducted from March 2024 to October 2024 involving 381 primary school teachers in the Qassim region, Saudi Arabia. Data were collected using a self-administered questionnaire, which included demographic information and a 36-item ADHD knowledge assessment. The collected data were analyzed using SPSS Statistics version 25 (IBM Corp., Armonk, NY). Results Most participants were female (58.8%, n=224) and aged between 41 and 50 (47%, n=147). Most of the teachers had more than 10 years of experience (76.4%, n=291) and taught students in fourth to sixth grades (46.5%, n=177). Overall, 87.4% (n=333) of teachers had heard of ADHD, with social media being the most common source of information (39.6%, n=151). Teachers had moderate knowledge of ADHD symptoms (52.67%, n=201), but general information (29.27%, n=211) and awareness of treatment options (32.87%, n=125) were limited. Significant differences in knowledge were found based on gender, age, experience, and the type of school, with female teachers and those in private schools having higher knowledge levels. Misconceptions, particularly about treatment, were widespread, with many teachers believing in ineffective interventions like dietary changes (87.9%, n=334). Conclusions While teachers in the Qassim region are aware of ADHD, their overall knowledge remains insufficient, especially regarding treatment methods. Providing training programs is essential to enhance teachers' understanding and improve ADHD management in schools.",
   "categories": [
     "Uncategorized"
   ],
@@ -49,8 +49,9 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.7759__cureus.79108.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.7759__cureus.79108.pdf",
+    "sourceUrl": "https://doi.org/10.7759/cureus.79108"
   },
   "visibility": {
     "hidden": false

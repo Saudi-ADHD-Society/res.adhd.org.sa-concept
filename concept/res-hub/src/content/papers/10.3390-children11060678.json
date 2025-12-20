@@ -45,8 +45,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.3390__children11060678.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.3390__children11060678.pdf",
+    "sourceUrl": "https://www.mdpi.com/2227-9067/11/6/678/pdf?version=1717397901",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

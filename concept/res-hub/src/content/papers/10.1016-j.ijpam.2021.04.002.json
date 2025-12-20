@@ -2,7 +2,7 @@
   "doi": "10.1016/j.ijpam.2021.04.002",
   "slug": "10.1016-j.ijpam.2021.04.002",
   "title": "Child and adolescent mental health disorders in the GCC: A systematic review and meta-analysis",
-  "abstract": "<strong>Background</strong>",
+  "abstract": "he magnitude of CAMH has emerged from this region.\r\r\nAims: \r\r\nThis study aimed to report the prevalence rates of CAMH disorders in the GCC through a systematic review of the existing literature followed by a meta-analysis.\r\r\nMethods: \r\r\nA systematic review of the literature from the six GCC countries (Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates) was conducted. The databases used included Scopus, ProQuest, Pubmed, and a final check was performed on Google Scholar to account for any remaining studies that may have still been under review. Meta analytic techniques were then used to estimate prevalence rates of each specific mental disorder, i.e. ADHD, depression, anxiety, stress, eating disorders, and tobacco use disorder.\r\r\nResults: \r\r\nA total of 33 studies from the six countries were included. The pooled prevalence of ADHD as per the Vanderbilt ADHD Diagnostic Rating Scale (VADHDDRS), clinical judgments, Attention Deficit Disorders Evaluation Scale (ADDES), and the Strengths and Difficulties Questionnaire (SDQ) was found to be 13.125%, 13.38%, 26.135%, and 12.83%, respectively. The pooled prevalence of depressive symptoms solicited by the Patient Health Questionnaire (PHQ-9), Depression, Anxiety, and Stress Scale (DASS), and Mini-International Neuropsychiatric Interview for Children and Adolescents (MINI Kid) was 44.684%, 45.09%, and 26.12%, respectively. The pooled prevalence of anxiety according to the DASS and the MINI Kid was 57.04% and 17.27%, respectively, while the pooled prevalence of stress as per the DASS was found to be 43.15%. The pooled prevalence of disordered eating solicited by the Eating Attitudes Test (EAT-26) was 31.55%. Lastly, the pooled prevalence of tobacco use disorder per the Global Youth Tobacco Survey was 19.39%.\r\r\nDiscussion: \r\r\nTo date, this is the first systematic review and meta-analysis of its kind from the GCC. The prevalence rate of CAMH disorders appears to be in the upper range of international trends. The higher rates could be attributed to the existing studies using suboptimal methodological approaches and instruments to solicit the presence of CAMH....",
   "categories": [
     "Uncategorized"
   ],
@@ -39,8 +39,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.1016__j.ijpam.2021.04.002.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.1016__j.ijpam.2021.04.002.pdf",
+    "sourceUrl": "https://doi.org/10.1016/j.ijpam.2021.04.002",
+    "license": "cc-by-nc-nd"
   },
   "visibility": {
     "hidden": false

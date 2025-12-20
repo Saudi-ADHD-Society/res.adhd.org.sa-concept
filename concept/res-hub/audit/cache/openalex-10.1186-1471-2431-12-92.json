@@ -1,0 +1,1449 @@
+{
+  "id": "https://openalex.org/W1992479435",
+  "doi": "https://doi.org/10.1186/1471-2431-12-92",
+  "title": "Effect of physical activity and sun exposure on vitamin D status of Saudi children and adolescents",
+  "display_name": "Effect of physical activity and sun exposure on vitamin D status of Saudi children and adolescents",
+  "publication_year": 2012,
+  "publication_date": "2012-07-03",
+  "ids": {
+    "openalex": "https://openalex.org/W1992479435",
+    "doi": "https://doi.org/10.1186/1471-2431-12-92",
+    "mag": "1992479435",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/22759399"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1186/1471-2431-12-92",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1186/1471-2431-12-92",
+    "pdf_url": "https://bmcpediatr.biomedcentral.com/counter/pdf/10.1186/1471-2431-12-92",
+    "source": {
+      "id": "https://openalex.org/S134535697",
+      "display_name": "BMC Pediatrics",
+      "issn_l": "1471-2431",
+      "issn": [
+        "1471-2431"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320256",
+      "host_organization_name": "BioMed Central",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320256",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "BioMed Central",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "BMC Pediatrics",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://bmcpediatr.biomedcentral.com/counter/pdf/10.1186/1471-2431-12-92",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5110526500",
+        "display_name": "Abdulaziz M. Al-Othman",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28022161",
+          "display_name": "King Saud University",
+          "ror": "https://ror.org/02f81g417",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Abdulaziz Al-Othman",
+      "raw_affiliation_strings": [
+        "Prince Mutaib Chair for Biomarkers of Osteoporosis, King Saud University, Riyadh, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Prince Mutaib Chair for Biomarkers of Osteoporosis, King Saud University, Riyadh, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5004378510",
+        "display_name": "Sara Al-Musharaf",
+        "orcid": "https://orcid.org/0000-0002-7830-1415"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28022161",
+          "display_name": "King Saud University",
+          "ror": "https://ror.org/02f81g417",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sara Al-Musharaf",
+      "raw_affiliation_strings": [
+        "College of Science, King Saud University Women's Section, Riyadh, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Science, King Saud University Women's Section, Riyadh, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079459526",
+        "display_name": "Nasser M. Al‐Daghri",
+        "orcid": "https://orcid.org/0000-0001-5472-1725"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28022161",
+          "display_name": "King Saud University",
+          "ror": "https://ror.org/02f81g417",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nasser M Al-Daghri",
+      "raw_affiliation_strings": [
+        "Prince Mutaib Chair for Biomarkers of Osteoporosis, King Saud University, Riyadh, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Prince Mutaib Chair for Biomarkers of Osteoporosis, King Saud University, Riyadh, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091554971",
+        "display_name": "Soundararajan Krishnaswamy",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28022161",
+          "display_name": "King Saud University",
+          "ror": "https://ror.org/02f81g417",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Soundararajan Krishnaswamy",
+      "raw_affiliation_strings": [
+        "Biomarkers Research Program Biochemistry Department College of Science King Saud University Riyadh Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Biomarkers Research Program Biochemistry Department College of Science King Saud University Riyadh Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5070859352",
+        "display_name": "Deqa S. Yusuf",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28022161",
+          "display_name": "King Saud University",
+          "ror": "https://ror.org/02f81g417",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Deqa S Yusuf",
+      "raw_affiliation_strings": [
+        "Prince Mutaib Chair for Biomarkers of Osteoporosis, King Saud University, Riyadh, Saudi Arabia."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Prince Mutaib Chair for Biomarkers of Osteoporosis, King Saud University, Riyadh, Saudi Arabia.",
+          "institution_ids": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5073172005",
+        "display_name": "Khalid M. Alkharfy",
+        "orcid": "https://orcid.org/0000-0002-9118-5076"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28022161",
+          "display_name": "King Saud University",
+          "ror": "https://ror.org/02f81g417",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Khalid M Alkharfy",
+      "raw_affiliation_strings": [
+        "Prince Mutaib Chair for Biomarkers of Osteoporosis, King Saud University, Riyadh, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Prince Mutaib Chair for Biomarkers of Osteoporosis, King Saud University, Riyadh, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5014170304",
+        "display_name": "Yousef Al‐Saleh",
+        "orcid": "https://orcid.org/0000-0002-5875-0950"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28022161",
+          "display_name": "King Saud University",
+          "ror": "https://ror.org/02f81g417",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yousef Al-Saleh",
+      "raw_affiliation_strings": [
+        "Prince Mutaib Chair for Biomarkers of Osteoporosis, King Saud University, Riyadh, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Prince Mutaib Chair for Biomarkers of Osteoporosis, King Saud University, Riyadh, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5113571628",
+        "display_name": "Omar S. Al‐Attas",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28022161",
+          "display_name": "King Saud University",
+          "ror": "https://ror.org/02f81g417",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Omar S Al-Attas",
+      "raw_affiliation_strings": [
+        "Prince Mutaib Chair for Biomarkers of Osteoporosis, King Saud University, Riyadh, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Prince Mutaib Chair for Biomarkers of Osteoporosis, King Saud University, Riyadh, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5112212706",
+        "display_name": "Majed S. Alokail",
+        "orcid": "https://orcid.org/0000-0001-8147-3499"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28022161",
+          "display_name": "King Saud University",
+          "ror": "https://ror.org/02f81g417",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Majed S Alokail",
+      "raw_affiliation_strings": [
+        "Prince Mutaib Chair for Biomarkers of Osteoporosis, King Saud University, Riyadh, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Prince Mutaib Chair for Biomarkers of Osteoporosis, King Saud University, Riyadh, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5078394757",
+        "display_name": "Osama Moharram",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210134149",
+          "display_name": "King Abdulaziz Hospital",
+          "ror": "https://ror.org/04cjdzt83",
+          "country_code": "SA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210134149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I185163786",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185163786"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I28022161",
+          "display_name": "King Saud University",
+          "ror": "https://ror.org/02f81g417",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Osama Moharram",
+      "raw_affiliation_strings": [
+        "King Abdulaziz University Hospital, King Saud University, Riyadh, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "King Abdulaziz University Hospital, King Saud University, Riyadh, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I185163786",
+            "https://openalex.org/I28022161",
+            "https://openalex.org/I4210134149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5078522603",
+        "display_name": "Shaun Sabico",
+        "orcid": "https://orcid.org/0000-0002-5248-2350"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28022161",
+          "display_name": "King Saud University",
+          "ror": "https://ror.org/02f81g417",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shaun Sabico",
+      "raw_affiliation_strings": [
+        "Biomarkers Research Program Biochemistry Department College of Science King Saud University Riyadh Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Biomarkers Research Program Biochemistry Department College of Science King Saud University Riyadh Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5046164327",
+        "display_name": "George P. Chrousos",
+        "orcid": "https://orcid.org/0000-0002-3098-5264"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210133431",
+          "display_name": "Athens Medical Center",
+          "ror": "https://ror.org/03078rq26",
+          "country_code": "GR",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210133431"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I28022161",
+          "display_name": "King Saud University",
+          "ror": "https://ror.org/02f81g417",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ],
+      "countries": [
+        "GR",
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "George P Chrousos",
+      "raw_affiliation_strings": [
+        "Biomarkers Research Program, Biochemistry Department, College of Science, King Saud University, Riyadh, Saudi Arabia",
+        "First Department of Pediatrics, Athens University Medical School, Athens, Greece"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "First Department of Pediatrics, Athens University Medical School, Athens, Greece",
+          "institution_ids": [
+            "https://openalex.org/I4210133431"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Biomarkers Research Program, Biochemistry Department, College of Science, King Saud University, Riyadh, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 12,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 1690,
+    "currency": "GBP",
+    "value_usd": 2072
+  },
+  "apc_paid": {
+    "value": 1690,
+    "currency": "GBP",
+    "value_usd": 2072
+  },
+  "fwci": 5.65457211,
+  "has_fulltext": true,
+  "cited_by_count": 157,
+  "citation_normalized_percentile": {
+    "value": 0.94863203,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "12",
+    "issue": "1",
+    "first_page": "92",
+    "last_page": "92"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10277",
+    "display_name": "Vitamin D Research Studies",
+    "score": 1,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2734",
+      "display_name": "Pathology and Forensic Medicine"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10277",
+      "display_name": "Vitamin D Research Studies",
+      "score": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2734",
+        "display_name": "Pathology and Forensic Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10010",
+      "display_name": "Obesity, Physical Activity, Diet",
+      "score": 0.9860000014305115,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2739",
+        "display_name": "Public Health, Environmental and Occupational Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11244",
+      "display_name": "Climate Change and Health Impacts",
+      "score": 0.9699000120162964,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2307",
+        "display_name": "Health, Toxicology and Mutagenesis"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.8977429866790771
+    },
+    {
+      "id": "https://openalex.org/keywords/vitamin-d-and-neurology",
+      "display_name": "Vitamin D and neurology",
+      "score": 0.7842033505439758
+    },
+    {
+      "id": "https://openalex.org/keywords/vitamin-d-deficiency",
+      "display_name": "vitamin D deficiency",
+      "score": 0.7427928447723389
+    },
+    {
+      "id": "https://openalex.org/keywords/anthropometry",
+      "display_name": "Anthropometry",
+      "score": 0.6435098052024841
+    },
+    {
+      "id": "https://openalex.org/keywords/context",
+      "display_name": "Context (archaeology)",
+      "score": 0.6057748794555664
+    },
+    {
+      "id": "https://openalex.org/keywords/sun-exposure",
+      "display_name": "Sun exposure",
+      "score": 0.58307284116745
+    },
+    {
+      "id": "https://openalex.org/keywords/vitamin",
+      "display_name": "Vitamin",
+      "score": 0.5118193030357361
+    },
+    {
+      "id": "https://openalex.org/keywords/population",
+      "display_name": "Population",
+      "score": 0.490612655878067
+    },
+    {
+      "id": "https://openalex.org/keywords/cross-sectional-study",
+      "display_name": "Cross-sectional study",
+      "score": 0.46338900923728943
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-activity",
+      "display_name": "Physical activity",
+      "score": 0.4464970827102661
+    },
+    {
+      "id": "https://openalex.org/keywords/physiology",
+      "display_name": "Physiology",
+      "score": 0.38298213481903076
+    },
+    {
+      "id": "https://openalex.org/keywords/pediatrics",
+      "display_name": "Pediatrics",
+      "score": 0.37725430727005005
+    },
+    {
+      "id": "https://openalex.org/keywords/demography",
+      "display_name": "Demography",
+      "score": 0.3699350357055664
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-health",
+      "display_name": "Environmental health",
+      "score": 0.33649328351020813
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.15520432591438293
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-therapy",
+      "display_name": "Physical therapy",
+      "score": 0.12429016828536987
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.8977429866790771
+    },
+    {
+      "id": "https://openalex.org/C124490489",
+      "wikidata": "https://www.wikidata.org/wiki/Q7936963",
+      "display_name": "Vitamin D and neurology",
+      "level": 2,
+      "score": 0.7842033505439758
+    },
+    {
+      "id": "https://openalex.org/C2779740938",
+      "wikidata": "https://www.wikidata.org/wiki/Q4138762",
+      "display_name": "vitamin D deficiency",
+      "level": 3,
+      "score": 0.7427928447723389
+    },
+    {
+      "id": "https://openalex.org/C61427482",
+      "wikidata": "https://www.wikidata.org/wiki/Q6656244",
+      "display_name": "Anthropometry",
+      "level": 2,
+      "score": 0.6435098052024841
+    },
+    {
+      "id": "https://openalex.org/C2779343474",
+      "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+      "display_name": "Context (archaeology)",
+      "level": 2,
+      "score": 0.6057748794555664
+    },
+    {
+      "id": "https://openalex.org/C2994204100",
+      "wikidata": "https://www.wikidata.org/wiki/Q5690942",
+      "display_name": "Sun exposure",
+      "level": 2,
+      "score": 0.58307284116745
+    },
+    {
+      "id": "https://openalex.org/C2776940978",
+      "wikidata": "https://www.wikidata.org/wiki/Q34956",
+      "display_name": "Vitamin",
+      "level": 2,
+      "score": 0.5118193030357361
+    },
+    {
+      "id": "https://openalex.org/C2908647359",
+      "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+      "display_name": "Population",
+      "level": 2,
+      "score": 0.490612655878067
+    },
+    {
+      "id": "https://openalex.org/C142052008",
+      "wikidata": "https://www.wikidata.org/wiki/Q954027",
+      "display_name": "Cross-sectional study",
+      "level": 2,
+      "score": 0.46338900923728943
+    },
+    {
+      "id": "https://openalex.org/C3020255362",
+      "wikidata": "https://www.wikidata.org/wiki/Q747883",
+      "display_name": "Physical activity",
+      "level": 2,
+      "score": 0.4464970827102661
+    },
+    {
+      "id": "https://openalex.org/C42407357",
+      "wikidata": "https://www.wikidata.org/wiki/Q521",
+      "display_name": "Physiology",
+      "level": 1,
+      "score": 0.38298213481903076
+    },
+    {
+      "id": "https://openalex.org/C187212893",
+      "wikidata": "https://www.wikidata.org/wiki/Q123028",
+      "display_name": "Pediatrics",
+      "level": 1,
+      "score": 0.37725430727005005
+    },
+    {
+      "id": "https://openalex.org/C149923435",
+      "wikidata": "https://www.wikidata.org/wiki/Q37732",
+      "display_name": "Demography",
+      "level": 1,
+      "score": 0.3699350357055664
+    },
+    {
+      "id": "https://openalex.org/C99454951",
+      "wikidata": "https://www.wikidata.org/wiki/Q932068",
+      "display_name": "Environmental health",
+      "level": 1,
+      "score": 0.33649328351020813
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.15520432591438293
+    },
+    {
+      "id": "https://openalex.org/C1862650",
+      "wikidata": "https://www.wikidata.org/wiki/Q186005",
+      "display_name": "Physical therapy",
+      "level": 1,
+      "score": 0.12429016828536987
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C16005928",
+      "wikidata": "https://www.wikidata.org/wiki/Q171171",
+      "display_name": "Dermatology",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000293",
+      "descriptor_name": "Adolescent",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000367",
+      "descriptor_name": "Age Factors",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015415",
+      "descriptor_name": "Biomarkers",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002112",
+      "descriptor_name": "Calcifediol",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002112",
+      "descriptor_name": "Calcifediol",
+      "qualifier_ui": "Q000172",
+      "qualifier_name": "deficiency",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003430",
+      "descriptor_name": "Cross-Sectional Studies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015444",
+      "descriptor_name": "Exercise",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006306",
+      "descriptor_name": "Health Surveys",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016014",
+      "descriptor_name": "Linear Models",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015995",
+      "descriptor_name": "Prevalence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012529",
+      "descriptor_name": "Saudi Arabia",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013472",
+      "descriptor_name": "Sunlight",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011795",
+      "descriptor_name": "Surveys and Questionnaires",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014808",
+      "descriptor_name": "Vitamin D Deficiency",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014808",
+      "descriptor_name": "Vitamin D Deficiency",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014808",
+      "descriptor_name": "Vitamin D Deficiency",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014808",
+      "descriptor_name": "Vitamin D Deficiency",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000293",
+      "descriptor_name": "Adolescent",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000367",
+      "descriptor_name": "Age Factors",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015415",
+      "descriptor_name": "Biomarkers",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002112",
+      "descriptor_name": "Calcifediol",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002112",
+      "descriptor_name": "Calcifediol",
+      "qualifier_ui": "Q000172",
+      "qualifier_name": "deficiency",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003430",
+      "descriptor_name": "Cross-Sectional Studies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015444",
+      "descriptor_name": "Exercise",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006306",
+      "descriptor_name": "Health Surveys",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016014",
+      "descriptor_name": "Linear Models",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015995",
+      "descriptor_name": "Prevalence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012529",
+      "descriptor_name": "Saudi Arabia",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013472",
+      "descriptor_name": "Sunlight",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011795",
+      "descriptor_name": "Surveys and Questionnaires",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014808",
+      "descriptor_name": "Vitamin D Deficiency",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014808",
+      "descriptor_name": "Vitamin D Deficiency",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014808",
+      "descriptor_name": "Vitamin D Deficiency",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014808",
+      "descriptor_name": "Vitamin D Deficiency",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.1186/1471-2431-12-92",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1186/1471-2431-12-92",
+      "pdf_url": "https://bmcpediatr.biomedcentral.com/counter/pdf/10.1186/1471-2431-12-92",
+      "source": {
+        "id": "https://openalex.org/S134535697",
+        "display_name": "BMC Pediatrics",
+        "issn_l": "1471-2431",
+        "issn": [
+          "1471-2431"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320256",
+        "host_organization_name": "BioMed Central",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320256",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "BioMed Central",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "BMC Pediatrics",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:22759399",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/22759399",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "BMC pediatrics",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:85596ea04fa8475c9e1515b7137db4c5",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/85596ea04fa8475c9e1515b7137db4c5",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "BMC Pediatrics, Vol 12, Iss 1, p 92 (2012)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:europepmc.org:2409428",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3407533",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1186/1471-2431-12-92",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1186/1471-2431-12-92",
+    "pdf_url": "https://bmcpediatr.biomedcentral.com/counter/pdf/10.1186/1471-2431-12-92",
+    "source": {
+      "id": "https://openalex.org/S134535697",
+      "display_name": "BMC Pediatrics",
+      "issn_l": "1471-2431",
+      "issn": [
+        "1471-2431"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320256",
+      "host_organization_name": "BioMed Central",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320256",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "BioMed Central",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "BMC Pediatrics",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.7099999785423279,
+      "display_name": "Good health and well-being",
+      "id": "https://metadata.un.org/sdg/3"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 37,
+  "referenced_works": [
+    "https://openalex.org/W2099665543",
+    "https://openalex.org/W2134433004",
+    "https://openalex.org/W1873390252",
+    "https://openalex.org/W2117248473",
+    "https://openalex.org/W4246904347",
+    "https://openalex.org/W59680413",
+    "https://openalex.org/W2094910330",
+    "https://openalex.org/W2070578120",
+    "https://openalex.org/W2102040662",
+    "https://openalex.org/W2151659722",
+    "https://openalex.org/W2143930786",
+    "https://openalex.org/W2106402853",
+    "https://openalex.org/W2123362883",
+    "https://openalex.org/W2007320947",
+    "https://openalex.org/W2053655867",
+    "https://openalex.org/W1983822947",
+    "https://openalex.org/W2150032379",
+    "https://openalex.org/W2111597383",
+    "https://openalex.org/W2015901165",
+    "https://openalex.org/W2059933368",
+    "https://openalex.org/W2032231316",
+    "https://openalex.org/W2107621770",
+    "https://openalex.org/W2009014827",
+    "https://openalex.org/W2168388047",
+    "https://openalex.org/W2171987230",
+    "https://openalex.org/W1974079847",
+    "https://openalex.org/W1975731268",
+    "https://openalex.org/W2040634878",
+    "https://openalex.org/W4229759935",
+    "https://openalex.org/W2135417065",
+    "https://openalex.org/W2161217361",
+    "https://openalex.org/W1991248970",
+    "https://openalex.org/W2165238790",
+    "https://openalex.org/W1885086184",
+    "https://openalex.org/W2041335704",
+    "https://openalex.org/W1967625629",
+    "https://openalex.org/W1819523455"
+  ],
+  "related_works": [
+    "https://openalex.org/W2625838919",
+    "https://openalex.org/W2083120593",
+    "https://openalex.org/W1992257425",
+    "https://openalex.org/W2954986383",
+    "https://openalex.org/W2099774748",
+    "https://openalex.org/W2041633931",
+    "https://openalex.org/W3008221163",
+    "https://openalex.org/W1819605542",
+    "https://openalex.org/W2109123827",
+    "https://openalex.org/W2513617289"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 17
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 17
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2013,
+      "cited_by_count": 5
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

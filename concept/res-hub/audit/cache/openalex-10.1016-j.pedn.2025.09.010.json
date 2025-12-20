@@ -1,0 +1,531 @@
+{
+  "id": "https://openalex.org/W4414283419",
+  "doi": "https://doi.org/10.1016/j.pedn.2025.09.010",
+  "title": "Caring under pressure: The relationship of caregivers’ stress, mental health, and self-efficacy in ADHD households",
+  "display_name": "Caring under pressure: The relationship of caregivers’ stress, mental health, and self-efficacy in ADHD households",
+  "publication_year": 2025,
+  "publication_date": "2025-09-17",
+  "ids": {
+    "openalex": "https://openalex.org/W4414283419",
+    "doi": "https://doi.org/10.1016/j.pedn.2025.09.010",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/40966836"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.pedn.2025.09.010",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.pedn.2025.09.010",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S119745230",
+      "display_name": "Journal of Pediatric Nursing",
+      "issn_l": "0882-5963",
+      "issn": [
+        "0882-5963",
+        "1532-8449"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Pediatric Nursing",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5062011949",
+        "display_name": "Mahmoud Abdelwahab Khedr",
+        "orcid": "https://orcid.org/0000-0003-3437-3764"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210107237",
+          "display_name": "King Salman Center for Disability Research",
+          "ror": "https://ror.org/01ht2b307",
+          "country_code": "SA",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210107237"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mahmoud Abdelwahab Khedr",
+      "raw_affiliation_strings": [
+        "College of Nursing, University of Hafr Albatin, Hafr Albatin, Saudi Arabia; King Salman Center for Disability Research, Riyadh 11614, Saudi Arabia. Electronic address: mkhader@uhb.edu.sa."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Nursing, University of Hafr Albatin, Hafr Albatin, Saudi Arabia; King Salman Center for Disability Research, Riyadh 11614, Saudi Arabia. Electronic address: mkhader@uhb.edu.sa.",
+          "institution_ids": [
+            "https://openalex.org/I4210107237"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5028118261",
+        "display_name": "Nada Alqarawi",
+        "orcid": "https://orcid.org/0000-0002-1814-2248"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I156216236",
+          "display_name": "Qassim University",
+          "ror": "https://ror.org/01wsfe280",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nada Alqarawi",
+      "raw_affiliation_strings": [
+        "Department of Psychiatric and Mental Health, and Community Health, College of Nursing, Qassim University, Buraydah, Qassim, Saudi Arabia. Electronic address: n.alqarawi@qu.edu.sa."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychiatric and Mental Health, and Community Health, College of Nursing, Qassim University, Buraydah, Qassim, Saudi Arabia. Electronic address: n.alqarawi@qu.edu.sa.",
+          "institution_ids": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5112846891",
+        "display_name": "R Hussein",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I192398990",
+          "display_name": "Zagazig University",
+          "ror": "https://ror.org/053g6we49",
+          "country_code": "EG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I192398990"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I156216236",
+          "display_name": "Qassim University",
+          "ror": "https://ror.org/01wsfe280",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ],
+      "countries": [
+        "EG",
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rasha Mohammed Hussein",
+      "raw_affiliation_strings": [
+        "Department of Psychiatric and Mental Health, and Community Health, College of Nursing, Qassim University, Buraydah, Qassim, Saudi Arabia; Department of psychiatric and mental health nursing, Faculty of Nursing, Zagazig University, Zagazig, Egypt. Electronic address: RM.Ahmed@qu.edu.sa."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychiatric and Mental Health, and Community Health, College of Nursing, Qassim University, Buraydah, Qassim, Saudi Arabia; Department of psychiatric and mental health nursing, Faculty of Nursing, Zagazig University, Zagazig, Egypt. Electronic address: RM.Ahmed@qu.edu.sa.",
+          "institution_ids": [
+            "https://openalex.org/I156216236",
+            "https://openalex.org/I192398990"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 3620,
+    "currency": "USD",
+    "value_usd": 3620
+  },
+  "apc_paid": null,
+  "fwci": 0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.52392331,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "85",
+    "issue": null,
+    "first_page": "467",
+    "last_page": "476"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10537",
+    "display_name": "Attention Deficit Hyperactivity Disorder",
+    "score": 0.9916999936103821,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.9916999936103821,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11632",
+      "display_name": "Family and Disability Support Research",
+      "score": 0.9581999778747559,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13207",
+      "display_name": "Youth Substance Use and School Attendance",
+      "score": 0.9538000226020813,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [],
+  "concepts": [],
+  "mesh": [
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020377",
+      "descriptor_name": "Self Efficacy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003430",
+      "descriptor_name": "Cross-Sectional Studies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017028",
+      "descriptor_name": "Caregivers",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013315",
+      "descriptor_name": "Stress, Psychological",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013315",
+      "descriptor_name": "Stress, Psychological",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001289",
+      "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+      "qualifier_ui": "Q000451",
+      "qualifier_name": "nursing",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001289",
+      "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001289",
+      "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012529",
+      "descriptor_name": "Saudi Arabia",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008603",
+      "descriptor_name": "Mental Health",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008875",
+      "descriptor_name": "Middle Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011795",
+      "descriptor_name": "Surveys and Questionnaires",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000223",
+      "descriptor_name": "Adaptation, Psychological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.pedn.2025.09.010",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.pedn.2025.09.010",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S119745230",
+        "display_name": "Journal of Pediatric Nursing",
+        "issn_l": "0882-5963",
+        "issn": [
+          "0882-5963",
+          "1532-8449"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Pediatric Nursing",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:40966836",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40966836",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of pediatric nursing",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 39,
+  "referenced_works": [
+    "https://openalex.org/W4393168577",
+    "https://openalex.org/W4220998747",
+    "https://openalex.org/W4399665630",
+    "https://openalex.org/W3007261591",
+    "https://openalex.org/W4384464484",
+    "https://openalex.org/W4385700849",
+    "https://openalex.org/W1973272516",
+    "https://openalex.org/W3084906797",
+    "https://openalex.org/W3204106449",
+    "https://openalex.org/W4407603356",
+    "https://openalex.org/W4383819894",
+    "https://openalex.org/W4206819973",
+    "https://openalex.org/W3111258775",
+    "https://openalex.org/W4283462631",
+    "https://openalex.org/W3108750908",
+    "https://openalex.org/W4405728306",
+    "https://openalex.org/W2761514107",
+    "https://openalex.org/W2143185273",
+    "https://openalex.org/W2119696319",
+    "https://openalex.org/W2945984716",
+    "https://openalex.org/W3155547379",
+    "https://openalex.org/W4386438975",
+    "https://openalex.org/W4399725670",
+    "https://openalex.org/W4404209236",
+    "https://openalex.org/W3024648078",
+    "https://openalex.org/W4312046245",
+    "https://openalex.org/W4220786282",
+    "https://openalex.org/W3137852105",
+    "https://openalex.org/W3136447919",
+    "https://openalex.org/W3200987042",
+    "https://openalex.org/W4307283623",
+    "https://openalex.org/W4403560518",
+    "https://openalex.org/W2765967258",
+    "https://openalex.org/W4293586167",
+    "https://openalex.org/W4385070411",
+    "https://openalex.org/W4400352057",
+    "https://openalex.org/W4399283695",
+    "https://openalex.org/W2129558137",
+    "https://openalex.org/W2212401464"
+  ],
+  "related_works": [],
+  "abstract_inverted_index": null,
+  "counts_by_year": [],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

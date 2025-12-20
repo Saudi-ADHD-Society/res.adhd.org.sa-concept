@@ -1,0 +1,1583 @@
+{
+  "id": "https://openalex.org/W4408619303",
+  "doi": "https://doi.org/10.1111/jpm.13171",
+  "title": "The Role of Perceived Social Support in the Association Between Stress and Creativity Self‐Efficacy Among Adolescents With Attention Deficit Hyperactivity Disorder",
+  "display_name": "The Role of Perceived Social Support in the Association Between Stress and Creativity Self‐Efficacy Among Adolescents With Attention Deficit Hyperactivity Disorder",
+  "publication_year": 2025,
+  "publication_date": "2025-03-19",
+  "ids": {
+    "openalex": "https://openalex.org/W4408619303",
+    "doi": "https://doi.org/10.1111/jpm.13171",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/40105304"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1111/jpm.13171",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1111/jpm.13171",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S92129386",
+      "display_name": "Journal of Psychiatric and Mental Health Nursing",
+      "issn_l": "1351-0126",
+      "issn": [
+        "1351-0126",
+        "1365-2850"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Psychiatric and Mental Health Nursing",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5086288142",
+        "display_name": "Mohamed Hussein Ramadan Atta",
+        "orcid": "https://orcid.org/0000-0002-5518-0892"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I84524832",
+          "display_name": "Alexandria University",
+          "ror": "https://ror.org/00mzz1w90",
+          "country_code": "EG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I84524832"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I142608572",
+          "display_name": "Prince Sattam Bin Abdulaziz University",
+          "ror": "https://ror.org/04jt46d36",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I142608572"
+          ]
+        }
+      ],
+      "countries": [
+        "EG",
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mohamed Hussein Ramadan Atta",
+      "raw_affiliation_strings": [
+        "Nursing Department, College of Applied Medical Sciences Prince Sattam Bin Abdulaziz University  Wadi Addawasir Saudi Arabia",
+        "Psychiatric and Mental Health Nursing Department, Faculty of Nursing Alexandria University  Alexandria Egypt"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Psychiatric and Mental Health Nursing Department, Faculty of Nursing Alexandria University  Alexandria Egypt",
+          "institution_ids": [
+            "https://openalex.org/I84524832"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Nursing Department, College of Applied Medical Sciences Prince Sattam Bin Abdulaziz University  Wadi Addawasir Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I142608572"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107978239",
+        "display_name": "Shaimaa Mohamed Amin",
+        "orcid": "https://orcid.org/0000-0001-9467-3211"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I169744251",
+          "display_name": "Damanhour University",
+          "ror": "https://ror.org/03svthf85",
+          "country_code": "EG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I169744251"
+          ]
+        }
+      ],
+      "countries": [
+        "EG"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shaimaa Mohamed Amin",
+      "raw_affiliation_strings": [
+        "Community Health Nursing Department, Faculty of Nursing Damanhur University  Damanhur Egypt"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Community Health Nursing Department, Faculty of Nursing Damanhur University  Damanhur Egypt",
+          "institution_ids": [
+            "https://openalex.org/I169744251"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5069207019",
+        "display_name": "Nagwa Ibrahim Hamad",
+        "orcid": "https://orcid.org/0000-0002-5133-4620"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I84524832",
+          "display_name": "Alexandria University",
+          "ror": "https://ror.org/00mzz1w90",
+          "country_code": "EG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I84524832"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210096041",
+          "display_name": "Riyadh Elm University",
+          "ror": "https://ror.org/00rz3mr26",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210096041"
+          ]
+        }
+      ],
+      "countries": [
+        "EG",
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nagwa Ibrahim Mohamed Hamad",
+      "raw_affiliation_strings": [
+        "College of Nursing Riyadh Elm University  Riyadh Saudi Arabia",
+        "Pediatric Nursing Department, Faculty of Nursing Alexandria University  Alexandria Egypt"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Nursing Riyadh Elm University  Riyadh Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I4210096041"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Pediatric Nursing Department, Faculty of Nursing Alexandria University  Alexandria Egypt",
+          "institution_ids": [
+            "https://openalex.org/I84524832"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057989573",
+        "display_name": "Ahmed Abdellah Othman",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I97455420",
+          "display_name": "Sohag University",
+          "ror": "https://ror.org/02wgx3e98",
+          "country_code": "EG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I97455420"
+          ]
+        }
+      ],
+      "countries": [
+        "EG"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ahmed Abdellah Othman",
+      "raw_affiliation_strings": [
+        "Nursing Administration Department, Faculty of Nursing Sohag University  Egypt"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Nursing Administration Department, Faculty of Nursing Sohag University  Egypt",
+          "institution_ids": [
+            "https://openalex.org/I97455420"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5023909387",
+        "display_name": "Yahia Mohamed Sayed",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I89466785",
+          "display_name": "Minia University",
+          "ror": "https://ror.org/02hcv4z63",
+          "country_code": "EG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I89466785"
+          ]
+        }
+      ],
+      "countries": [
+        "EG"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yahia Mohamed Sayed",
+      "raw_affiliation_strings": [
+        "Pediatric Nursing Department, Faculty of Nursing Minia University  Egypt"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Pediatric Nursing Department, Faculty of Nursing Minia University  Egypt",
+          "institution_ids": [
+            "https://openalex.org/I89466785"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003549325",
+        "display_name": "Hanan Salem Sanad",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I89466785",
+          "display_name": "Minia University",
+          "ror": "https://ror.org/02hcv4z63",
+          "country_code": "EG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I89466785"
+          ]
+        }
+      ],
+      "countries": [
+        "EG"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hanan Salem Sanad",
+      "raw_affiliation_strings": [
+        "Psychiatric and Mental Health Nursing Department, Faculty of Nursing Minia University  Minia Egypt"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Psychiatric and Mental Health Nursing Department, Faculty of Nursing Minia University  Minia Egypt",
+          "institution_ids": [
+            "https://openalex.org/I89466785"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5005311807",
+        "display_name": "Ahmed Abdelwahab Ibrahim El‐Sayed",
+        "orcid": "https://orcid.org/0000-0001-9124-0808"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I84524832",
+          "display_name": "Alexandria University",
+          "ror": "https://ror.org/00mzz1w90",
+          "country_code": "EG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I84524832"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210149130",
+          "display_name": "Dar Al Uloom University",
+          "ror": "https://ror.org/03myd1n81",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210149130"
+          ]
+        }
+      ],
+      "countries": [
+        "EG",
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ahmed Abdelwahab Ibrahim El‐Sayed",
+      "raw_affiliation_strings": [
+        "Nursing Administration Department, Faculty of Nursing Alexandria University  Alexandria Egypt",
+        "Nursing Department, College of Pharmacy and Applied Medical Sciences Dar Al Uloom University  Riyadh Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Nursing Administration Department, Faculty of Nursing Alexandria University  Alexandria Egypt",
+          "institution_ids": [
+            "https://openalex.org/I84524832"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Nursing Department, College of Pharmacy and Applied Medical Sciences Dar Al Uloom University  Riyadh Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I4210149130"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 7,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 4430,
+    "currency": "USD",
+    "value_usd": 4430
+  },
+  "apc_paid": null,
+  "fwci": 9.42641846,
+  "has_fulltext": false,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.92808439,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 95,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "32",
+    "issue": "4",
+    "first_page": "897",
+    "last_page": "909"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10537",
+    "display_name": "Attention Deficit Hyperactivity Disorder",
+    "score": 0.9998000264167786,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12258",
+      "display_name": "Perfectionism, Procrastination, Anxiety Studies",
+      "score": 0.9749000072479248,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12241",
+      "display_name": "Children's Physical and Motor Development",
+      "score": 0.9377999901771545,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/creativity",
+      "display_name": "Creativity",
+      "score": 0.8168854713439941
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.7984708547592163
+    },
+    {
+      "id": "https://openalex.org/keywords/social-support",
+      "display_name": "Social support",
+      "score": 0.635700523853302
+    },
+    {
+      "id": "https://openalex.org/keywords/psychological-resilience",
+      "display_name": "Psychological resilience",
+      "score": 0.5873327851295471
+    },
+    {
+      "id": "https://openalex.org/keywords/self-efficacy",
+      "display_name": "Self-efficacy",
+      "score": 0.5572898387908936
+    },
+    {
+      "id": "https://openalex.org/keywords/mediation",
+      "display_name": "Mediation",
+      "score": 0.5351883172988892
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.5297530889511108
+    },
+    {
+      "id": "https://openalex.org/keywords/association",
+      "display_name": "Association (psychology)",
+      "score": 0.5254018902778625
+    },
+    {
+      "id": "https://openalex.org/keywords/developmental-psychology",
+      "display_name": "Developmental psychology",
+      "score": 0.4824422001838684
+    },
+    {
+      "id": "https://openalex.org/keywords/protective-factor",
+      "display_name": "Protective factor",
+      "score": 0.4144389033317566
+    },
+    {
+      "id": "https://openalex.org/keywords/social-psychology",
+      "display_name": "Social psychology",
+      "score": 0.2330886721611023
+    },
+    {
+      "id": "https://openalex.org/keywords/psychotherapist",
+      "display_name": "Psychotherapist",
+      "score": 0.12849873304367065
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.11050251126289368
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C11012388",
+      "wikidata": "https://www.wikidata.org/wiki/Q170658",
+      "display_name": "Creativity",
+      "level": 2,
+      "score": 0.8168854713439941
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.7984708547592163
+    },
+    {
+      "id": "https://openalex.org/C2778087770",
+      "wikidata": "https://www.wikidata.org/wiki/Q2297111",
+      "display_name": "Social support",
+      "level": 2,
+      "score": 0.635700523853302
+    },
+    {
+      "id": "https://openalex.org/C137176749",
+      "wikidata": "https://www.wikidata.org/wiki/Q4105337",
+      "display_name": "Psychological resilience",
+      "level": 2,
+      "score": 0.5873327851295471
+    },
+    {
+      "id": "https://openalex.org/C110131835",
+      "wikidata": "https://www.wikidata.org/wiki/Q1153659",
+      "display_name": "Self-efficacy",
+      "level": 2,
+      "score": 0.5572898387908936
+    },
+    {
+      "id": "https://openalex.org/C179420905",
+      "wikidata": "https://www.wikidata.org/wiki/Q223871",
+      "display_name": "Mediation",
+      "level": 2,
+      "score": 0.5351883172988892
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.5297530889511108
+    },
+    {
+      "id": "https://openalex.org/C142853389",
+      "wikidata": "https://www.wikidata.org/wiki/Q744778",
+      "display_name": "Association (psychology)",
+      "level": 2,
+      "score": 0.5254018902778625
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.4824422001838684
+    },
+    {
+      "id": "https://openalex.org/C97928714",
+      "wikidata": "https://www.wikidata.org/wiki/Q7251376",
+      "display_name": "Protective factor",
+      "level": 2,
+      "score": 0.4144389033317566
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0.2330886721611023
+    },
+    {
+      "id": "https://openalex.org/C542102704",
+      "wikidata": "https://www.wikidata.org/wiki/Q183257",
+      "display_name": "Psychotherapist",
+      "level": 1,
+      "score": 0.12849873304367065
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.11050251126289368
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001289",
+      "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000293",
+      "descriptor_name": "Adolescent",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020377",
+      "descriptor_name": "Self Efficacy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012944",
+      "descriptor_name": "Social Support",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003430",
+      "descriptor_name": "Cross-Sectional Studies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003405",
+      "descriptor_name": "Creativity",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013315",
+      "descriptor_name": "Stress, Psychological",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001289",
+      "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000293",
+      "descriptor_name": "Adolescent",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020377",
+      "descriptor_name": "Self Efficacy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012944",
+      "descriptor_name": "Social Support",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003430",
+      "descriptor_name": "Cross-Sectional Studies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003405",
+      "descriptor_name": "Creativity",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013315",
+      "descriptor_name": "Stress, Psychological",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1111/jpm.13171",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1111/jpm.13171",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S92129386",
+        "display_name": "Journal of Psychiatric and Mental Health Nursing",
+        "issn_l": "1351-0126",
+        "issn": [
+          "1351-0126",
+          "1365-2850"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Psychiatric and Mental Health Nursing",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:40105304",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40105304",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of psychiatric and mental health nursing",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 63,
+  "referenced_works": [
+    "https://openalex.org/W4390539988",
+    "https://openalex.org/W2045308690",
+    "https://openalex.org/W4283578680",
+    "https://openalex.org/W42779687",
+    "https://openalex.org/W4247665917",
+    "https://openalex.org/W4405511077",
+    "https://openalex.org/W2601226027",
+    "https://openalex.org/W2745645812",
+    "https://openalex.org/W1948841565",
+    "https://openalex.org/W4210559424",
+    "https://openalex.org/W4390242749",
+    "https://openalex.org/W4403185761",
+    "https://openalex.org/W4384820679",
+    "https://openalex.org/W4399883298",
+    "https://openalex.org/W4309715207",
+    "https://openalex.org/W4281290436",
+    "https://openalex.org/W3216810353",
+    "https://openalex.org/W2330527182",
+    "https://openalex.org/W4404886636",
+    "https://openalex.org/W4406333337",
+    "https://openalex.org/W4403265031",
+    "https://openalex.org/W3126286835",
+    "https://openalex.org/W4385294533",
+    "https://openalex.org/W2791753912",
+    "https://openalex.org/W4392607683",
+    "https://openalex.org/W4403478783",
+    "https://openalex.org/W2077399175",
+    "https://openalex.org/W2626933449",
+    "https://openalex.org/W3091783736",
+    "https://openalex.org/W4300963121",
+    "https://openalex.org/W2069042525",
+    "https://openalex.org/W3161821935",
+    "https://openalex.org/W4392386620",
+    "https://openalex.org/W4323362400",
+    "https://openalex.org/W4214883966",
+    "https://openalex.org/W2999776285",
+    "https://openalex.org/W2044994232",
+    "https://openalex.org/W4401523666",
+    "https://openalex.org/W4403138243",
+    "https://openalex.org/W2167160025",
+    "https://openalex.org/W2980506987",
+    "https://openalex.org/W1909971050",
+    "https://openalex.org/W2295273399",
+    "https://openalex.org/W4402832506",
+    "https://openalex.org/W4366428502",
+    "https://openalex.org/W4294741437",
+    "https://openalex.org/W4312046245",
+    "https://openalex.org/W3011843785",
+    "https://openalex.org/W2890348363",
+    "https://openalex.org/W2169121996",
+    "https://openalex.org/W3185038649",
+    "https://openalex.org/W4391514798",
+    "https://openalex.org/W4283363118",
+    "https://openalex.org/W4401589630",
+    "https://openalex.org/W2030863659",
+    "https://openalex.org/W4391449422",
+    "https://openalex.org/W1583857162",
+    "https://openalex.org/W3136424557",
+    "https://openalex.org/W3138671067",
+    "https://openalex.org/W2922182075",
+    "https://openalex.org/W4210521536",
+    "https://openalex.org/W4403050270",
+    "https://openalex.org/W4406892992"
+  ],
+  "related_works": [
+    "https://openalex.org/W2315158864",
+    "https://openalex.org/W2033838484",
+    "https://openalex.org/W2100155883",
+    "https://openalex.org/W4205885984",
+    "https://openalex.org/W2582778397",
+    "https://openalex.org/W4389902647",
+    "https://openalex.org/W2909587114",
+    "https://openalex.org/W2472450580",
+    "https://openalex.org/W3049755408",
+    "https://openalex.org/W1935071710"
+  ],
+  "abstract_inverted_index": {
+    "305": [
+      91
+    ],
+    "ABSTRACT": [
+      0
+    ],
+    "Introduction": [
+      1
+    ],
+    "Adolescents": [
+      2
+    ],
+    "with": [
+      3,
+      46,
+      65,
+      90,
+      94,
+      137,
+      152,
+      210,
+      255,
+      270
+    ],
+    "attention": [
+      4
+    ],
+    "deficit": [
+      5
+    ],
+    "hyperactivity": [
+      6
+    ],
+    "disorder": [
+      7
+    ],
+    "(ADHD)": [
+      8
+    ],
+    "face": [
+      9
+    ],
+    "significant": [
+      10
+    ],
+    "challenges": [
+      11
+    ],
+    "related": [
+      12
+    ],
+    "to": [
+      13,
+      68,
+      119
+    ],
+    "stress,": [
+      14,
+      56
+    ],
+    "inattention": [
+      15
+    ],
+    "and": [
+      16,
+      34,
+      60,
+      67,
+      81,
+      110,
+      129,
+      170,
+      204,
+      217,
+      230,
+      275,
+      288
+    ],
+    "impulsivity,": [
+      17
+    ],
+    "which": [
+      18
+    ],
+    "can": [
+      19,
+      283
+    ],
+    "impair": [
+      20
+    ],
+    "their": [
+      21
+    ],
+    "creativity": [
+      22,
+      42,
+      61,
+      82,
+      153,
+      171,
+      180,
+      206,
+      244
+    ],
+    "self‐efficacy.": [
+      23,
+      83
+    ],
+    "Social": [
+      24,
+      115,
+      162
+    ],
+    "support": [
+      25,
+      59,
+      75,
+      149,
+      163,
+      200,
+      235,
+      266,
+      282
+    ],
+    "is": [
+      26
+    ],
+    "a": [
+      27,
+      225
+    ],
+    "critical": [
+      28
+    ],
+    "protective": [
+      29
+    ],
+    "factor": [
+      30
+    ],
+    "that": [
+      31
+    ],
+    "mitigates": [
+      32,
+      237
+    ],
+    "stress": [
+      33,
+      80,
+      169,
+      178,
+      203,
+      242,
+      287
+    ],
+    "enhances": [
+      35
+    ],
+    "resilience,": [
+      36,
+      285
+    ],
+    "yet": [
+      37
+    ],
+    "its": [
+      38,
+      247
+    ],
+    "role": [
+      39,
+      72,
+      197
+    ],
+    "in": [
+      40,
+      76,
+      201,
+      221,
+      249
+    ],
+    "fostering": [
+      41
+    ],
+    "self‐efficacy": [
+      43,
+      62,
+      154,
+      207
+    ],
+    "among": [
+      44,
+      63,
+      208
+    ],
+    "adolescents": [
+      45,
+      64,
+      92,
+      209,
+      254,
+      269
+    ],
+    "ADHD": [
+      47,
+      66,
+      95
+    ],
+    "remains": [
+      48
+    ],
+    "underexplored.": [
+      49
+    ],
+    "Aim": [
+      50
+    ],
+    "To": [
+      51
+    ],
+    "examine": [
+      52
+    ],
+    "the": [
+      53,
+      70,
+      77,
+      103,
+      166,
+      174,
+      195,
+      238,
+      278
+    ],
+    "levels": [
+      54
+    ],
+    "of": [
+      55,
+      73,
+      113,
+      177,
+      198,
+      241,
+      280
+    ],
+    "perceived": [
+      57,
+      147
+    ],
+    "social": [
+      58,
+      74,
+      148,
+      199,
+      234,
+      265,
+      281
+    ],
+    "explore": [
+      69
+    ],
+    "mediating": [
+      71
+    ],
+    "relationship": [
+      78,
+      167
+    ],
+    "between": [
+      79,
+      168
+    ],
+    "Methods": [
+      84
+    ],
+    "A": [
+      85
+    ],
+    "cross‐sectional": [
+      86
+    ],
+    "study": [
+      87
+    ],
+    "was": [
+      88,
+      134
+    ],
+    "conducted": [
+      89
+    ],
+    "diagnosed": [
+      93
+    ],
+    "from": [
+      96,
+      214
+    ],
+    "six": [
+      97
+    ],
+    "preparatory": [
+      98
+    ],
+    "schools.": [
+      99
+    ],
+    "Validated": [
+      100
+    ],
+    "tools,": [
+      101
+    ],
+    "including": [
+      102
+    ],
+    "Adolescence": [
+      104
+    ],
+    "Stress": [
+      105,
+      133
+    ],
+    "Scale,": [
+      106
+    ],
+    "Creative": [
+      107
+    ],
+    "Self‐Efficacy": [
+      108
+    ],
+    "Scale": [
+      109,
+      112
+    ],
+    "Multidimensional": [
+      111
+    ],
+    "Perceived": [
+      114,
+      233
+    ],
+    "Support,": [
+      116
+    ],
+    "were": [
+      117,
+      124
+    ],
+    "used": [
+      118
+    ],
+    "measure": [
+      120
+    ],
+    "key": [
+      121
+    ],
+    "variables.": [
+      122
+    ],
+    "Data": [
+      123
+    ],
+    "analysed": [
+      125
+    ],
+    "using": [
+      126
+    ],
+    "Pearson": [
+      127
+    ],
+    "correlation": [
+      128
+    ],
+    "mediation": [
+      130
+    ],
+    "analysis.": [
+      131
+    ],
+    "Results": [
+      132
+    ],
+    "negatively": [
+      135
+    ],
+    "correlated": [
+      136,
+      151
+    ],
+    "CSE": [
+      138
+    ],
+    "(": [
+      139,
+      155,
+      181
+    ],
+    "r": [
+      140,
+      156
+    ],
+    "=": [
+      141,
+      157,
+      183,
+      186
+    ],
+    "−0.791,": [
+      142
+    ],
+    "p": [
+      143,
+      159,
+      188
+    ],
+    "&lt;": [
+      144,
+      160,
+      189
+    ],
+    "0.001),": [
+      145
+    ],
+    "while": [
+      146
+    ],
+    "positively": [
+      150
+    ],
+    "0.548,": [
+      158
+    ],
+    "0.001).": [
+      161,
+      190
+    ],
+    "significantly": [
+      164
+    ],
+    "mediated": [
+      165
+    ],
+    "self‐efficacy,": [
+      172,
+      245
+    ],
+    "buffering": [
+      173
+    ],
+    "negative": [
+      175
+    ],
+    "impact": [
+      176,
+      279
+    ],
+    "on": [
+      179,
+      243
+    ],
+    "B": [
+      182
+    ],
+    "−0.149,": [
+      184
+    ],
+    "t": [
+      185
+    ],
+    "7.987,": [
+      187
+    ],
+    "Discussion": [
+      191
+    ],
+    "The": [
+      192
+    ],
+    "findings": [
+      193
+    ],
+    "underscore": [
+      194
+    ],
+    "vital": [
+      196
+    ],
+    "alleviating": [
+      202
+    ],
+    "bolstering": [
+      205
+    ],
+    "ADHD.": [
+      211,
+      256,
+      271
+    ],
+    "Supportive": [
+      212
+    ],
+    "relationships": [
+      213
+    ],
+    "family,": [
+      215
+    ],
+    "peers,": [
+      216
+    ],
+    "mentors": [
+      218
+    ],
+    "enhance": [
+      219,
+      289
+    ],
+    "confidence": [
+      220
+    ],
+    "creative": [
+      222
+    ],
+    "abilities,": [
+      223
+    ],
+    "creating": [
+      224
+    ],
+    "nurturing": [
+      226
+    ],
+    "framework": [
+      227
+    ],
+    "for": [
+      228,
+      253,
+      258,
+      268
+    ],
+    "resilience": [
+      229
+    ],
+    "innovation.": [
+      231
+    ],
+    "Conclusion": [
+      232
+    ],
+    "effectively": [
+      236
+    ],
+    "adverse": [
+      239
+    ],
+    "effects": [
+      240
+    ],
+    "highlighting": [
+      246
+    ],
+    "importance": [
+      248
+    ],
+    "promoting": [
+      250
+    ],
+    "adaptive": [
+      251
+    ],
+    "outcomes": [
+      252
+    ],
+    "Implications": [
+      257
+    ],
+    "Practice": [
+      259
+    ],
+    "Nursing": [
+      260
+    ],
+    "interventions": [
+      261
+    ],
+    "should": [
+      262
+    ],
+    "prioritise": [
+      263
+    ],
+    "strengthening": [
+      264
+    ],
+    "systems": [
+      267
+    ],
+    "Educating": [
+      272
+    ],
+    "families,": [
+      273
+    ],
+    "schools": [
+      274
+    ],
+    "communities": [
+      276
+    ],
+    "about": [
+      277
+    ],
+    "foster": [
+      284
+    ],
+    "reduce": [
+      286
+    ],
+    "creativity.": [
+      290
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

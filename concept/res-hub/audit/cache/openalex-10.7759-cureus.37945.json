@@ -1,0 +1,1073 @@
+{
+  "id": "https://openalex.org/W4366725019",
+  "doi": "https://doi.org/10.7759/cureus.37945",
+  "title": "Knowledge and Awareness of Parents About the Difference Between Attention Deficit Hyperactivity Disorder and Childhood Absence Epilepsy in the Paediatric Population Makkah, Saudi Arabia: A Cross-Sectional Study",
+  "display_name": "Knowledge and Awareness of Parents About the Difference Between Attention Deficit Hyperactivity Disorder and Childhood Absence Epilepsy in the Paediatric Population Makkah, Saudi Arabia: A Cross-Sectional Study",
+  "publication_year": 2023,
+  "publication_date": "2023-04-21",
+  "ids": {
+    "openalex": "https://openalex.org/W4366725019",
+    "doi": "https://doi.org/10.7759/cureus.37945",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/37220468"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.7759/cureus.37945",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.7759/cureus.37945",
+    "pdf_url": "https://assets.cureus.com/uploads/original_article/pdf/150692/20230421-25264-10sse9s.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738950867",
+      "display_name": "Cureus",
+      "issn_l": "2168-8184",
+      "issn": [
+        "2168-8184"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310316779",
+      "host_organization_name": "Cureus, Inc.",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310316779"
+      ],
+      "host_organization_lineage_names": [
+        "Cureus, Inc."
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cureus",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://assets.cureus.com/uploads/original_article/pdf/150692/20230421-25264-10sse9s.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5023652489",
+        "display_name": "Rahaf S Alotaibi",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185163786",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185163786"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I199693650",
+          "display_name": "Umm al-Qura University",
+          "ror": "https://ror.org/01xjqrm90",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rahaf S Alotaibi",
+      "raw_affiliation_strings": [
+        " . Family and Community Medicine, King Abdulaziz University Faculty of Medicine, Jeddah, SAU",
+        " . Medicine, Umm Al-Qura University, Makkah, SAU",
+        " . Neurology, Umm Al-Qura University, Makkah, SAU",
+        " . Surgery, Umm Al-Quraa University, Makkah, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Family and Community Medicine, King Abdulaziz University Faculty of Medicine, Jeddah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I185163786"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Medicine, Umm Al-Qura University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Neurology, Umm Al-Qura University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Surgery, Umm Al-Quraa University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5113061351",
+        "display_name": "Ghadi A Alghamdi",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185163786",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185163786"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I199693650",
+          "display_name": "Umm al-Qura University",
+          "ror": "https://ror.org/01xjqrm90",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ghadi  A Alghamdi",
+      "raw_affiliation_strings": [
+        " . Family and Community Medicine, King Abdulaziz University Faculty of Medicine, Jeddah, SAU",
+        " . Medicine, Umm Al-Qura University, Makkah, SAU",
+        " . Neurology, Umm Al-Qura University, Makkah, SAU",
+        " . Surgery, Umm Al-Quraa University, Makkah, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Medicine, Umm Al-Qura University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Surgery, Umm Al-Quraa University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Neurology, Umm Al-Qura University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine, King Abdulaziz University Faculty of Medicine, Jeddah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I185163786"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5072574259",
+        "display_name": "Anas Alloqmani",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185163786",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185163786"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I199693650",
+          "display_name": "Umm al-Qura University",
+          "ror": "https://ror.org/01xjqrm90",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anas Alloqmani",
+      "raw_affiliation_strings": [
+        " . Family and Community Medicine, King Abdulaziz University Faculty of Medicine, Jeddah, SAU",
+        " . Medicine, Umm Al-Qura University, Makkah, SAU",
+        " . Neurology, Umm Al-Qura University, Makkah, SAU",
+        " . Surgery, Umm Al-Quraa University, Makkah, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Surgery, Umm Al-Quraa University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine, King Abdulaziz University Faculty of Medicine, Jeddah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I185163786"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Medicine, Umm Al-Qura University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Neurology, Umm Al-Qura University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5013473490",
+        "display_name": "Nada S Almuntashiri",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185163786",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185163786"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I199693650",
+          "display_name": "Umm al-Qura University",
+          "ror": "https://ror.org/01xjqrm90",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nada  S Almuntashiri",
+      "raw_affiliation_strings": [
+        " . Family and Community Medicine, King Abdulaziz University Faculty of Medicine, Jeddah, SAU",
+        " . Medicine, Umm Al-Qura University, Makkah, SAU",
+        " . Neurology, Umm Al-Qura University, Makkah, SAU",
+        " . Surgery, Umm Al-Quraa University, Makkah, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Surgery, Umm Al-Quraa University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Medicine, Umm Al-Qura University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Neurology, Umm Al-Qura University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine, King Abdulaziz University Faculty of Medicine, Jeddah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I185163786"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5047043561",
+        "display_name": "Khaled a alharbi",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185163786",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185163786"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I199693650",
+          "display_name": "Umm al-Qura University",
+          "ror": "https://ror.org/01xjqrm90",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Khaled  a alharbi",
+      "raw_affiliation_strings": [
+        " . Family and Community Medicine, King Abdulaziz University Faculty of Medicine, Jeddah, SAU",
+        " . Medicine, Umm Al-Qura University, Makkah, SAU",
+        " . Neurology, Umm Al-Qura University, Makkah, SAU",
+        " . Surgery, Umm Al-Quraa University, Makkah, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Medicine, Umm Al-Qura University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Neurology, Umm Al-Qura University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine, King Abdulaziz University Faculty of Medicine, Jeddah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I185163786"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Surgery, Umm Al-Quraa University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5090603328",
+        "display_name": "Jamil A Samkari",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185163786",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185163786"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I199693650",
+          "display_name": "Umm al-Qura University",
+          "ror": "https://ror.org/01xjqrm90",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jamil A Samkari",
+      "raw_affiliation_strings": [
+        " . Family and Community Medicine, King Abdulaziz University Faculty of Medicine, Jeddah, SAU",
+        " . Medicine, Umm Al-Qura University, Makkah, SAU",
+        " . Neurology, Umm Al-Qura University, Makkah, SAU",
+        " . Surgery, Umm Al-Quraa University, Makkah, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Family and Community Medicine, King Abdulaziz University Faculty of Medicine, Jeddah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I185163786"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Medicine, Umm Al-Qura University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Neurology, Umm Al-Qura University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Surgery, Umm Al-Quraa University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5025517720",
+        "display_name": "Abdullah Tawakul",
+        "orcid": "https://orcid.org/0000-0003-4333-2411"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185163786",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185163786"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I199693650",
+          "display_name": "Umm al-Qura University",
+          "ror": "https://ror.org/01xjqrm90",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Abdullah A Tawakul",
+      "raw_affiliation_strings": [
+        " . Family and Community Medicine, King Abdulaziz University Faculty of Medicine, Jeddah, SAU",
+        " . Medicine, Umm Al-Qura University, Makkah, SAU",
+        " . Neurology, Umm Al-Qura University, Makkah, SAU",
+        " . Surgery, Umm Al-Quraa University, Makkah, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Family and Community Medicine, King Abdulaziz University Faculty of Medicine, Jeddah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I185163786"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Surgery, Umm Al-Quraa University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Medicine, Umm Al-Qura University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Neurology, Umm Al-Qura University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5089116049",
+        "display_name": "Omar Babateen",
+        "orcid": "https://orcid.org/0000-0002-1341-2616"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185163786",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185163786"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I199693650",
+          "display_name": "Umm al-Qura University",
+          "ror": "https://ror.org/01xjqrm90",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Omar Babateen",
+      "raw_affiliation_strings": [
+        " . Family and Community Medicine, King Abdulaziz University Faculty of Medicine, Jeddah, SAU",
+        " . Medicine, Umm Al-Qura University, Makkah, SAU",
+        " . Neurology, Umm Al-Qura University, Makkah, SAU",
+        " . Surgery, Umm Al-Quraa University, Makkah, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Medicine, Umm Al-Qura University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Neurology, Umm Al-Qura University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine, King Abdulaziz University Faculty of Medicine, Jeddah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I185163786"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Surgery, Umm Al-Quraa University, Makkah, SAU",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 1.88948775,
+  "has_fulltext": true,
+  "cited_by_count": 5,
+  "citation_normalized_percentile": {
+    "value": 0.78664464,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "15",
+    "issue": "4",
+    "first_page": "e37945",
+    "last_page": "e37945"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10537",
+    "display_name": "Attention Deficit Hyperactivity Disorder",
+    "score": 0.9995999932289124,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.7370354533195496
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "score": 0.610239565372467
+    },
+    {
+      "id": "https://openalex.org/keywords/impulsivity",
+      "display_name": "Impulsivity",
+      "score": 0.5439394116401672
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit",
+      "display_name": "Attention deficit",
+      "score": 0.5369771122932434
+    },
+    {
+      "id": "https://openalex.org/keywords/inclusion",
+      "display_name": "Inclusion (mineral)",
+      "score": 0.5086913704872131
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.4891541302204132
+    },
+    {
+      "id": "https://openalex.org/keywords/population",
+      "display_name": "Population",
+      "score": 0.48828816413879395
+    },
+    {
+      "id": "https://openalex.org/keywords/cross-sectional-study",
+      "display_name": "Cross-sectional study",
+      "score": 0.46268951892852783
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-health",
+      "display_name": "Environmental health",
+      "score": 0.16019660234451294
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.14303600788116455
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.7370354533195496
+    },
+    {
+      "id": "https://openalex.org/C2780783007",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "level": 2,
+      "score": 0.610239565372467
+    },
+    {
+      "id": "https://openalex.org/C2780319597",
+      "wikidata": "https://www.wikidata.org/wiki/Q1549918",
+      "display_name": "Impulsivity",
+      "level": 2,
+      "score": 0.5439394116401672
+    },
+    {
+      "id": "https://openalex.org/C3017694942",
+      "wikidata": "https://www.wikidata.org/wiki/Q16254243",
+      "display_name": "Attention deficit",
+      "level": 3,
+      "score": 0.5369771122932434
+    },
+    {
+      "id": "https://openalex.org/C109359841",
+      "wikidata": "https://www.wikidata.org/wiki/Q728944",
+      "display_name": "Inclusion (mineral)",
+      "level": 2,
+      "score": 0.5086913704872131
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.4891541302204132
+    },
+    {
+      "id": "https://openalex.org/C2908647359",
+      "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+      "display_name": "Population",
+      "level": 2,
+      "score": 0.48828816413879395
+    },
+    {
+      "id": "https://openalex.org/C142052008",
+      "wikidata": "https://www.wikidata.org/wiki/Q954027",
+      "display_name": "Cross-sectional study",
+      "level": 2,
+      "score": 0.46268951892852783
+    },
+    {
+      "id": "https://openalex.org/C99454951",
+      "wikidata": "https://www.wikidata.org/wiki/Q932068",
+      "display_name": "Environmental health",
+      "level": 1,
+      "score": 0.16019660234451294
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.14303600788116455
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.7759/cureus.37945",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.7759/cureus.37945",
+      "pdf_url": "https://assets.cureus.com/uploads/original_article/pdf/150692/20230421-25264-10sse9s.pdf",
+      "source": {
+        "id": "https://openalex.org/S2738950867",
+        "display_name": "Cureus",
+        "issn_l": "2168-8184",
+        "issn": [
+          "2168-8184"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310316779",
+        "host_organization_name": "Cureus, Inc.",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310316779"
+        ],
+        "host_organization_lineage_names": [
+          "Cureus, Inc."
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cureus",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:37220468",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37220468",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cureus",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:10200272",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10200272",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10200272/pdf/cureus-0015-00000037945.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Cureus",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.7759/cureus.37945",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.7759/cureus.37945",
+    "pdf_url": "https://assets.cureus.com/uploads/original_article/pdf/150692/20230421-25264-10sse9s.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738950867",
+      "display_name": "Cureus",
+      "issn_l": "2168-8184",
+      "issn": [
+        "2168-8184"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310316779",
+      "host_organization_name": "Cureus, Inc.",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310316779"
+      ],
+      "host_organization_lineage_names": [
+        "Cureus, Inc."
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cureus",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Reduced inequalities",
+      "score": 0.6399999856948853,
+      "id": "https://metadata.un.org/sdg/10"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "referenced_works_count": 11,
+  "referenced_works": [
+    "https://openalex.org/W1488048547",
+    "https://openalex.org/W2011619810",
+    "https://openalex.org/W6629228851",
+    "https://openalex.org/W1583209675",
+    "https://openalex.org/W2611036050",
+    "https://openalex.org/W2089876421",
+    "https://openalex.org/W2111998656",
+    "https://openalex.org/W3153619923",
+    "https://openalex.org/W2594387257",
+    "https://openalex.org/W795022070",
+    "https://openalex.org/W2630394330"
+  ],
+  "related_works": [
+    "https://openalex.org/W594889888",
+    "https://openalex.org/W2566218677",
+    "https://openalex.org/W4296850114",
+    "https://openalex.org/W2987722089",
+    "https://openalex.org/W183297272",
+    "https://openalex.org/W2258132442",
+    "https://openalex.org/W4292794535",
+    "https://openalex.org/W2334362947",
+    "https://openalex.org/W2535658575",
+    "https://openalex.org/W2229759830"
+  ],
+  "abstract_inverted_index": {
+    "There": [
+      0
+    ],
+    "is": [
+      1
+    ],
+    "limited": [
+      2
+    ],
+    "awareness": [
+      3,
+      24
+    ],
+    "of": [
+      4
+    ],
+    "the": [
+      5,
+      14
+    ],
+    "difference": [
+      6
+    ],
+    "between": [
+      7
+    ],
+    "(ADHD)": [
+      8
+    ],
+    "and": [
+      9
+    ],
+    "(CAE)": [
+      10
+    ],
+    "among": [
+      11
+    ],
+    "parents": [
+      12
+    ],
+    "in": [
+      13,
+      29
+    ],
+    "pediatric": [
+      15
+    ],
+    "population.": [
+      16
+    ],
+    "These": [
+      17
+    ],
+    "findings": [
+      18
+    ],
+    "highlight": [
+      19
+    ],
+    "an": [
+      20
+    ],
+    "opportunity": [
+      21
+    ],
+    "to": [
+      22
+    ],
+    "raise": [
+      23
+    ],
+    "using": [
+      25
+    ],
+    "well-organized": [
+      26
+    ],
+    "education": [
+      27
+    ],
+    "programs": [
+      28
+    ],
+    "Makkah": [
+      30
+    ],
+    "City.": [
+      31
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

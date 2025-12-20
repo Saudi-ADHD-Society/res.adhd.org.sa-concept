@@ -1,0 +1,881 @@
+{
+  "id": "https://openalex.org/W2770574854",
+  "doi": "https://doi.org/10.13189/ujer.2017.051208",
+  "title": "ADHD in 140 Characters or Less: an Analysis of Twitter Commentary on Attention Deficit Hyperactivity Disorder in Saudi Arabia",
+  "display_name": "ADHD in 140 Characters or Less: an Analysis of Twitter Commentary on Attention Deficit Hyperactivity Disorder in Saudi Arabia",
+  "publication_year": 2017,
+  "publication_date": "2017-12-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2770574854",
+    "doi": "https://doi.org/10.13189/ujer.2017.051208",
+    "mag": "2770574854"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.13189/ujer.2017.051208",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.13189/ujer.2017.051208",
+    "pdf_url": "http://www.hrpub.org/download/20171130/UJER8-19510383.pdf",
+    "source": {
+      "id": "https://openalex.org/S2764394011",
+      "display_name": "Universal Journal of Educational Research",
+      "issn_l": "2332-3205",
+      "issn": [
+        "2332-3205",
+        "2332-3213"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4324001558",
+      "host_organization_name": "Horizon Research Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4324001558"
+      ],
+      "host_organization_lineage_names": [
+        "Horizon Research Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Universal Journal of Educational Research",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "http://www.hrpub.org/download/20171130/UJER8-19510383.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5081807343",
+        "display_name": "Rabab Alharbi",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I153718931",
+          "display_name": "University of Ottawa",
+          "ror": "https://ror.org/03c4mmv16",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I153718931"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Rabab S. Alharbi",
+      "raw_affiliation_strings": [
+        "Faculty of Education, University of Ottawa, Canada"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Education, University of Ottawa, Canada",
+          "institution_ids": [
+            "https://openalex.org/I153718931"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5081807343"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I153718931"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0,
+  "has_fulltext": true,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.22360533,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 94
+  },
+  "biblio": {
+    "volume": "5",
+    "issue": "12",
+    "first_page": "2186",
+    "last_page": "2195"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10537",
+    "display_name": "Attention Deficit Hyperactivity Disorder",
+    "score": 0.9807999730110168,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.9807999730110168,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11519",
+      "display_name": "Digital Mental Health Interventions",
+      "score": 0.9054999947547913,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3202",
+        "display_name": "Applied Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "score": 0.8577955961227417
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.6338355541229248
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit",
+      "display_name": "Attention deficit",
+      "score": 0.5305927991867065
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-disorder",
+      "display_name": "Attention deficit disorder",
+      "score": 0.4692991375923157
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.39341986179351807
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2780783007",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "level": 2,
+      "score": 0.8577955961227417
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.6338355541229248
+    },
+    {
+      "id": "https://openalex.org/C3017694942",
+      "wikidata": "https://www.wikidata.org/wiki/Q16254243",
+      "display_name": "Attention deficit",
+      "level": 3,
+      "score": 0.5305927991867065
+    },
+    {
+      "id": "https://openalex.org/C2994409691",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit disorder",
+      "level": 2,
+      "score": 0.4692991375923157
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.39341986179351807
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.13189/ujer.2017.051208",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.13189/ujer.2017.051208",
+      "pdf_url": "http://www.hrpub.org/download/20171130/UJER8-19510383.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764394011",
+        "display_name": "Universal Journal of Educational Research",
+        "issn_l": "2332-3205",
+        "issn": [
+          "2332-3205",
+          "2332-3213"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4324001558",
+        "host_organization_name": "Horizon Research Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4324001558"
+        ],
+        "host_organization_lineage_names": [
+          "Horizon Research Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Universal Journal of Educational Research",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.13189/ujer.2017.051208",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.13189/ujer.2017.051208",
+    "pdf_url": "http://www.hrpub.org/download/20171130/UJER8-19510383.pdf",
+    "source": {
+      "id": "https://openalex.org/S2764394011",
+      "display_name": "Universal Journal of Educational Research",
+      "issn_l": "2332-3205",
+      "issn": [
+        "2332-3205",
+        "2332-3213"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4324001558",
+      "host_organization_name": "Horizon Research Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4324001558"
+      ],
+      "host_organization_lineage_names": [
+        "Horizon Research Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Universal Journal of Educational Research",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 72,
+  "referenced_works": [
+    "https://openalex.org/W1509797376",
+    "https://openalex.org/W2180176642",
+    "https://openalex.org/W2557153427",
+    "https://openalex.org/W2336678555",
+    "https://openalex.org/W6630850788",
+    "https://openalex.org/W6619497454",
+    "https://openalex.org/W2048598204",
+    "https://openalex.org/W1979689342",
+    "https://openalex.org/W1814023381",
+    "https://openalex.org/W2120333128",
+    "https://openalex.org/W2071717976",
+    "https://openalex.org/W2169722072",
+    "https://openalex.org/W2016501463",
+    "https://openalex.org/W2128516281",
+    "https://openalex.org/W6734646014",
+    "https://openalex.org/W6774347292",
+    "https://openalex.org/W6657765375",
+    "https://openalex.org/W599201068",
+    "https://openalex.org/W220413908",
+    "https://openalex.org/W2160610591",
+    "https://openalex.org/W1973921702",
+    "https://openalex.org/W4255173720",
+    "https://openalex.org/W2409211626",
+    "https://openalex.org/W1586519905",
+    "https://openalex.org/W6650483748",
+    "https://openalex.org/W6680582331",
+    "https://openalex.org/W2145388529",
+    "https://openalex.org/W6830300461",
+    "https://openalex.org/W3196266830",
+    "https://openalex.org/W2149209582",
+    "https://openalex.org/W6656656576",
+    "https://openalex.org/W2171074660",
+    "https://openalex.org/W2071837450",
+    "https://openalex.org/W1576908921",
+    "https://openalex.org/W3132364566",
+    "https://openalex.org/W6658099241",
+    "https://openalex.org/W2168573133",
+    "https://openalex.org/W1970562685",
+    "https://openalex.org/W2098695921",
+    "https://openalex.org/W2036048514",
+    "https://openalex.org/W6607470150",
+    "https://openalex.org/W2008594005",
+    "https://openalex.org/W2144403656",
+    "https://openalex.org/W6643878597",
+    "https://openalex.org/W2069524524",
+    "https://openalex.org/W2118941368",
+    "https://openalex.org/W6821571737",
+    "https://openalex.org/W2106141635",
+    "https://openalex.org/W141852290",
+    "https://openalex.org/W2029733708",
+    "https://openalex.org/W1517190443",
+    "https://openalex.org/W2218051891",
+    "https://openalex.org/W4239985026",
+    "https://openalex.org/W2155225295",
+    "https://openalex.org/W4243845605",
+    "https://openalex.org/W2147329061",
+    "https://openalex.org/W2026129591",
+    "https://openalex.org/W2014614243",
+    "https://openalex.org/W2000200507",
+    "https://openalex.org/W1994304626",
+    "https://openalex.org/W202497502",
+    "https://openalex.org/W2085962221",
+    "https://openalex.org/W4299955896",
+    "https://openalex.org/W2890759841",
+    "https://openalex.org/W4247319154",
+    "https://openalex.org/W2141706476",
+    "https://openalex.org/W2030930102",
+    "https://openalex.org/W4250698083",
+    "https://openalex.org/W4238009820",
+    "https://openalex.org/W1974774606",
+    "https://openalex.org/W2171378884",
+    "https://openalex.org/W2097255267"
+  ],
+  "related_works": [
+    "https://openalex.org/W1566344982",
+    "https://openalex.org/W2561202861",
+    "https://openalex.org/W2262413050",
+    "https://openalex.org/W2929697852",
+    "https://openalex.org/W2094453099",
+    "https://openalex.org/W2131459469",
+    "https://openalex.org/W1979258552",
+    "https://openalex.org/W1983465834",
+    "https://openalex.org/W3029844536",
+    "https://openalex.org/W3198115581"
+  ],
+  "abstract_inverted_index": {
+    "1": [
+      90
+    ],
+    "31": [
+      96
+    ],
+    "141": [
+      115
+    ],
+    "2016": [
+      93
+    ],
+    "2017": [
+      99
+    ],
+    "Internet-based": [
+      0
+    ],
+    "social": [
+      1
+    ],
+    "networks": [
+      2
+    ],
+    "such": [
+      3
+    ],
+    "as": [
+      4,
+      37,
+      139,
+      149
+    ],
+    "Twitter": [
+      5,
+      80
+    ],
+    "are": [
+      6,
+      18,
+      189
+    ],
+    "rapidly": [
+      7
+    ],
+    "gaining": [
+      8
+    ],
+    "popularity": [
+      9
+    ],
+    "among": [
+      10
+    ],
+    "Saudis,": [
+      11
+    ],
+    "and": [
+      12,
+      94,
+      107,
+      121,
+      144,
+      177
+    ],
+    "an": [
+      13,
+      140
+    ],
+    "increasing": [
+      14
+    ],
+    "number": [
+      15
+    ],
+    "of": [
+      16,
+      56,
+      123,
+      142,
+      159,
+      173,
+      186
+    ],
+    "them": [
+      17
+    ],
+    "using": [
+      19,
+      128
+    ],
+    "the": [
+      20,
+      38,
+      42,
+      54,
+      118
+    ],
+    "internet": [
+      21
+    ],
+    "to": [
+      22,
+      68,
+      153
+    ],
+    "source": [
+      23
+    ],
+    "information": [
+      24
+    ],
+    "about": [
+      25,
+      74
+    ],
+    "Attention": [
+      26
+    ],
+    "Deficit": [
+      27
+    ],
+    "Hyperactivity": [
+      28
+    ],
+    "Disorder": [
+      29
+    ],
+    "(ADHD).The": [
+      30
+    ],
+    "Saudi": [
+      31,
+      50,
+      76
+    ],
+    "ADHD": [
+      32,
+      48,
+      57,
+      71,
+      138,
+      148,
+      160,
+      168
+    ],
+    "Society": [
+      33,
+      60,
+      79,
+      135
+    ],
+    "(known": [
+      34
+    ],
+    "in": [
+      35,
+      49,
+      75,
+      114,
+      191
+    ],
+    "English": [
+      36
+    ],
+    "AFTA": [
+      39,
+      59,
+      78,
+      105,
+      134
+    ],
+    "Society)": [
+      40
+    ],
+    "is": [
+      41,
+      72,
+      161,
+      169
+    ],
+    "only": [
+      43
+    ],
+    "charity": [
+      44
+    ],
+    "serving": [
+      45
+    ],
+    "people": [
+      46
+    ],
+    "with": [
+      47,
+      102,
+      147,
+      167
+    ],
+    "Arabia.This": [
+      51
+    ],
+    "article": [
+      52
+    ],
+    "examines": [
+      53
+    ],
+    "representations": [
+      55
+    ],
+    "by": [
+      58,
+      183
+    ],
+    "members": [
+      61
+    ],
+    "on": [
+      62
+    ],
+    "Twitter,": [
+      63
+    ],
+    "because": [
+      64
+    ],
+    "they": [
+      65
+    ],
+    "have": [
+      66
+    ],
+    "come": [
+      67
+    ],
+    "define": [
+      69
+    ],
+    "how": [
+      70
+    ],
+    "talked": [
+      73
+    ],
+    "Arabia.The": [
+      77
+    ],
+    "account": [
+      81
+    ],
+    "(@adhdarabia)": [
+      82
+    ],
+    "has": [
+      83
+    ],
+    "over": [
+      84
+    ],
+    "13,500": [
+      85
+    ],
+    "followers.Tweets": [
+      86
+    ],
+    "posted": [
+      87
+    ],
+    "between": [
+      88
+    ],
+    "December": [
+      89
+    ],
+    "st": [
+      91,
+      97
+    ],
+    ",": [
+      92,
+      98
+    ],
+    "January": [
+      95
+    ],
+    "were": [
+      100,
+      126
+    ],
+    "collected,": [
+      101
+    ],
+    "those": [
+      103
+    ],
+    "announcing": [
+      104
+    ],
+    "events": [
+      106
+    ],
+    "retweets": [
+      108
+    ],
+    "from": [
+      109
+    ],
+    "other": [
+      110
+    ],
+    "accounts": [
+      111
+    ],
+    "eliminated.This": [
+      112
+    ],
+    "resulted": [
+      113
+    ],
+    "tweets": [
+      116,
+      125,
+      136
+    ],
+    "discussing": [
+      117
+    ],
+    "nature,": [
+      119
+    ],
+    "causation,": [
+      120
+    ],
+    "treatment": [
+      122
+    ],
+    "ADHD.These": [
+      124
+    ],
+    "analyzed": [
+      127
+    ],
+    "Foucauldian": [
+      129
+    ],
+    "discourse": [
+      130
+    ],
+    "analysis.Findings": [
+      131
+    ],
+    "reveal": [
+      132
+    ],
+    "that": [
+      133,
+      162
+    ],
+    "construct": [
+      137
+    ],
+    "experience": [
+      141
+    ],
+    "suffering,": [
+      143
+    ],
+    "position": [
+      145
+    ],
+    "children": [
+      146
+    ],
+    "sufferers,": [
+      150
+    ],
+    "often": [
+      151
+    ],
+    "subject": [
+      152
+    ],
+    "additional": [
+      154
+    ],
+    "problems.An": [
+      155
+    ],
+    "alternative": [
+      156
+    ],
+    "discursive": [
+      157
+    ],
+    "construction": [
+      158
+    ],
+    "caring": [
+      163
+    ],
+    "for": [
+      164,
+      175
+    ],
+    "a": [
+      165,
+      170
+    ],
+    "child": [
+      166
+    ],
+    "'different'": [
+      171
+    ],
+    "kind": [
+      172
+    ],
+    "responsibility": [
+      174
+    ],
+    "parents": [
+      176
+    ],
+    "teachers,": [
+      178
+    ],
+    "who": [
+      179
+    ],
+    "must": [
+      180
+    ],
+    "be": [
+      181
+    ],
+    "advised": [
+      182
+    ],
+    "'experts'.The": [
+      184
+    ],
+    "implications": [
+      185
+    ],
+    "these": [
+      187
+    ],
+    "discourses": [
+      188
+    ],
+    "discussed": [
+      190
+    ],
+    "this": [
+      192
+    ],
+    "paper.": [
+      193
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

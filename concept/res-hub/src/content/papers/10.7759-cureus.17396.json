@@ -54,8 +54,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.7759__cureus.17396.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.7759__cureus.17396.pdf",
+    "sourceUrl": "https://www.cureus.com/articles/63688-patterns-of-injuries-among-children-diagnosed-with-attention-deficit-hyperactivity-disorder-in-aseer-region-southwestern-saudi-arabia.pdf",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

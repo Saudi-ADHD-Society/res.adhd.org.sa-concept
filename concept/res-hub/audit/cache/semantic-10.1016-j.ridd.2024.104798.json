@@ -1,0 +1,30 @@
+{
+  "paperId": "037fbf81d42d798311255c487233bfa58c46aaf1",
+  "title": "Examining the effectiveness of a social-play-based programme to reduce symptoms of Attention-Deficit/Hyperactivity Disorder in Saudi elementary school children.",
+  "year": 2024,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.ridd.2024.104798?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.ridd.2024.104798, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "authors": [
+    {
+      "authorId": "2133692687",
+      "name": "A. Alothman"
+    },
+    {
+      "authorId": "5143578",
+      "name": "Hesham Fathy Gadelrab"
+    },
+    {
+      "authorId": "153410864",
+      "name": "M. Ebrahim"
+    },
+    {
+      "authorId": "2311103973",
+      "name": "Naglaa Fathy Abo-Eid"
+    }
+  ],
+  "abstract": null
+}

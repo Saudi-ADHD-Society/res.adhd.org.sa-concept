@@ -29,7 +29,9 @@
     }
   ],
   "access": {
-    "status": "unknown"
+    "status": "open",
+    "sourceUrl": "https://doi.org/10.25259/jmri_26_2021",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

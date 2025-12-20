@@ -39,8 +39,9 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.54905__disssi__v26i130__ms511e2579.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.54905__disssi__v26i130__ms511e2579.pdf",
+    "sourceUrl": "https://www.discoveryjournals.org/medicalscience/current_issue/v26/n130/ms511e2579.pdf"
   },
   "visibility": {
     "hidden": false

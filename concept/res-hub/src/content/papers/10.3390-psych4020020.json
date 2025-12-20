@@ -2,7 +2,7 @@
   "doi": "10.3390/psych4020020",
   "slug": "10.3390-psych4020020",
   "title": "Parental Attitudes and Beliefs toward Attention Deficit Hyperactivity Disorder in Prince Sultan Military Medical City, Riyadh City",
-  "abstract": "<div class=page title=Page 1>",
+  "abstract": "The present study was designed to investigate attitudes and beliefs among parents of patients with attention deficit hyperactivity disorder (ADHD), with regard to symptoms, causes, prognosis, and management. The study was of a cross-sectional descriptive design including 283 parents of patients with ADHD (preschool, primary school, and adolescent). It was conducted at child and adolescent outpatient clinics in Prince Sultan Military Medical City, Riyadh to assess parents’ knowledge, attitudes, treatments, and beliefs regarding ADHD. Among 283 parents, 59.8% believed that diet could improve ADHD symptoms. Approximately 75% of parents believed that ADHD is a form of misbehavior rather than a neurodevelopmental disorder, whereas 55.6% believed that ADHD is a genetic disease. In total, 89% of parents wanted to treat their children by receiving specialist advice and recommendations. A significant and nonsignificant correlation between gender and preschool and primary school was recorded, respectively. However, a positive correlation was recorded between age and caregiver’s education in adolescents. Since parents’ attitudes and perceptions were poor overall, the mismanagement of ADHD was noticed. Furthermore, government-level media campaigns should be implemented to enhance parents’ knowledge and debunk myths in order to improve ADHD management.",
   "categories": [
     "Uncategorized"
   ],
@@ -43,7 +43,9 @@
     }
   ],
   "access": {
-    "status": "unknown"
+    "status": "open",
+    "sourceUrl": "https://www.mdpi.com/2624-8611/4/2/20/pdf?version=1650976799",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

@@ -2,7 +2,7 @@
   "doi": "10.1016/j.sbspro.2015.09.006",
   "slug": "10.1016-j.sbspro.2015.09.006",
   "title": "Combating anxiety and depression among school children and adolescents through student counselling in Saudi Arabia",
-  "abstract": "<div class=page title=Page 1>",
+  "abstract": "Depression and anxiety are serious health problems that can affect a large number of children and adolescents. The literature has identified a high prevalence of depression, anxiety, and stress in Saudi school children and adolescent students. Student counselling practices are effective in helping students with a wide range of social and behavioural problems. The aim of the research study was to conduct an evidence-based review of the literature in order to provide new and innovative approaches to developing and improving student counselling skills, methods, and frameworks in order to directly combat anxiety and depression in Saudi schools. Non-empirical qualitative review of the literature on anxiety and depression and on student counselling in the United Kingdom and in Saudi Arabia. Main Argument: The research study argues that in theory student counsellors in Saudi schools can help to direct address and reduce the existing high prevalence of anxiety and depression in youths and adolescents attending Saudi schools. The research study concludes that student counselling in Saudi schools could potentially help in directly combating and reducing levels of anxiety and depression among Saudi school children and adolescents.",
   "categories": [
     "Uncategorized"
   ],
@@ -14,7 +14,9 @@
     }
   ],
   "access": {
-    "status": "unknown"
+    "status": "open",
+    "sourceUrl": "https://doi.org/10.1016/j.sbspro.2015.09.006",
+    "license": "cc-by-nc-nd"
   },
   "visibility": {
     "hidden": false

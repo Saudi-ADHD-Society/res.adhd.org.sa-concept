@@ -2,7 +2,7 @@
   "doi": "10.1002/mpr.1836",
   "slug": "10.1002-mpr.1836",
   "title": "Lifetime prevalence and age-of-onset distributions of mental disorders in the Saudi National Mental Health Survey",
-  "abstract": "<strong>Objectives</strong>",
+  "abstract": "Abstract Objectives To estimate lifetime prevalence of mental disorders in the Saudi National Mental Health Survey (SNMHS). Methods The SNMHS is a face‐to‐face community epidemiological survey in a nationally representative household sample of citizens ages 15–65 in the Kingdom of Saudi Arabia (KSA) (n = 4,004). The World Health Organization (WHO) Composite International Diagnostic Interview (CIDI) was used to estimate lifetime prevalence of common DSM‐IV mental disorders. Results Estimated lifetime prevalence of any DSM‐IV/CIDI disorder is 34.2% and lifetime morbid risk is 38.0%. Anxiety disorders are by far the most prevalent (23.2%) followed by disruptive behavior (11.2%), mood (9.3%), eating (6.1%), and substance use (4.0%) disorders. Synthetic estimates of cohort effects suggest that prevalence of many disorders has increased in recent cohorts. Onsets typically occur in childhood for a number of anxiety and disruptive behavior disorders and in adolescence or early adulthood for most other disorders, although age‐of‐onset distributions for drug abuse is much later (median age of 31) than in CIDI surveys carried out in other high‐income countries. Conclusions Lifetime mental disorders are highly prevalent in Saudi Arabia and typically have early ages‐of‐onset.",
   "categories": [
     "Uncategorized"
   ],
@@ -58,7 +58,8 @@
     }
   ],
   "access": {
-    "status": "unknown"
+    "status": "open",
+    "sourceUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mpr.1836"
   },
   "visibility": {
     "hidden": false

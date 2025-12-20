@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-12-20T09:26:59.417Z",
+  "stats": {
+    "total": 89,
+    "updated": 27,
+    "skipped": 62,
+    "errors": 0,
+    "abstractsUpdated": 26,
+    "pdfUrlsUpdated": 1
+  },
+  "sourcesUsed": [
+    "openalex",
+    "semantic",
+    "publisher",
+    "grobid"
+  ]
+}

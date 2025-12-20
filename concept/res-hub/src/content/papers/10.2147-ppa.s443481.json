@@ -42,8 +42,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.2147__ppa.s443481.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.2147__ppa.s443481.pdf",
+    "sourceUrl": "https://www.dovepress.com/getfile.php?fileID=96513",
+    "license": "cc-by-nc"
   },
   "visibility": {
     "hidden": false

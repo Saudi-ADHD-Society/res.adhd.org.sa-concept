@@ -1,0 +1,418 @@
+[
+  {
+    "slug": "10.1002-mpr.1836",
+    "doi": "10.1002/mpr.1836",
+    "updates": {
+      "abstract": {
+        "source": "openalex",
+        "confidence": 0.9823008849557522
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.1016-j.actpsy.2025.104693",
+    "doi": "10.1016/j.actpsy.2025.104693",
+    "updates": {
+      "abstract": {
+        "source": "openalex",
+        "confidence": 1
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.1016-j.ajp.2017.03.020",
+    "doi": "10.1016/j.ajp.2017.03.020",
+    "updates": {},
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.1016-j.eurpsy.2017.01.407",
+    "doi": "10.1016/j.eurpsy.2017.01.407",
+    "updates": {
+      "abstract": {
+        "source": "publisher",
+        "confidence": 0.8
+      }
+    },
+    "skipped": [],
+    "errors": [
+      "OpenAlex validation failed: Title similarity too low: 83.2%",
+      "Semantic Scholar validation failed: Title similarity too low: 83.2%"
+    ]
+  },
+  {
+    "slug": "10.1016-j.ijpam.2021.04.002",
+    "doi": "10.1016/j.ijpam.2021.04.002",
+    "updates": {
+      "abstract": {
+        "source": "publisher",
+        "confidence": 0.8
+      }
+    },
+    "skipped": [],
+    "errors": [
+      "OpenAlex validation failed: Title similarity too low: 58.5%"
+    ]
+  },
+  {
+    "slug": "10.1016-j.pedn.2025.09.010",
+    "doi": "10.1016/j.pedn.2025.09.010",
+    "updates": {},
+    "skipped": [
+      "grobid - no local PDF"
+    ],
+    "errors": [
+      "Semantic Scholar: Semantic Scholar error: HTTP 429"
+    ]
+  },
+  {
+    "slug": "10.1016-j.ridd.2024.104798",
+    "doi": "10.1016/j.ridd.2024.104798",
+    "updates": {},
+    "skipped": [
+      "grobid - no local PDF"
+    ],
+    "errors": []
+  },
+  {
+    "slug": "10.1016-j.ridd.2024.104858",
+    "doi": "10.1016/j.ridd.2024.104858",
+    "updates": {},
+    "skipped": [
+      "grobid - no local PDF"
+    ],
+    "errors": [
+      "Semantic Scholar: Semantic Scholar error: HTTP 429"
+    ]
+  },
+  {
+    "slug": "10.1016-j.sbspro.2015.09.006",
+    "doi": "10.1016/j.sbspro.2015.09.006",
+    "updates": {
+      "abstract": {
+        "source": "openalex",
+        "confidence": 1
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.1111-jpm.13171",
+    "doi": "10.1111/jpm.13171",
+    "updates": {
+      "abstract": {
+        "source": "openalex",
+        "confidence": 1
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.1136-jmedgenet-2015-103637",
+    "doi": "10.1136/jmedgenet-2015-103637",
+    "updates": {},
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.1177-0091217420982266",
+    "doi": "10.1177/0091217420982266",
+    "updates": {},
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.1177-10870547241265877",
+    "doi": "10.1177/10870547241265877",
+    "updates": {
+      "abstract": {
+        "source": "openalex",
+        "confidence": 1
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.1186-1471-2431-12-92",
+    "doi": "10.1186/1471-2431-12-92",
+    "updates": {
+      "abstract": {
+        "source": "semantic",
+        "confidence": 0.98989898989899
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.1186-s43045-023-00331-3",
+    "doi": "10.1186/s43045-023-00331-3",
+    "updates": {
+      "abstract": {
+        "source": "openalex",
+        "confidence": 1
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.12816-0058988",
+    "doi": "10.12816/0058988",
+    "updates": {},
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.13189-ujer.2017.051208",
+    "doi": "10.13189/ujer.2017.051208",
+    "updates": {
+      "abstract": {
+        "source": "openalex",
+        "confidence": 1
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.14704-nq.2022.20.6.nq22648",
+    "doi": "10.14704/nq.2022.20.6.nq22648",
+    "updates": {},
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.21474-ijar01-1789",
+    "doi": "10.21474/ijar01/1789",
+    "updates": {
+      "abstract": {
+        "source": "openalex",
+        "confidence": 0.9916666666666667
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.25081-ijgd.2017.v1i1.9",
+    "doi": "10.25081/ijgd.2017.v1i1.9",
+    "updates": {},
+    "skipped": [
+      "grobid - no abstract extracted"
+    ],
+    "errors": [
+      "OpenAlex validation failed: Title similarity too low: 84.9%",
+      "Semantic Scholar validation failed: Title similarity too low: 84.9%"
+    ]
+  },
+  {
+    "slug": "10.3390-psych4020020",
+    "doi": "10.3390/psych4020020",
+    "updates": {
+      "abstract": {
+        "source": "openalex",
+        "confidence": 1
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.4103-aam.aam16322",
+    "doi": "10.4103/aam.aam_163_22",
+    "updates": {
+      "abstract": {
+        "source": "openalex",
+        "confidence": 1
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.4103-jehp.jehp33423",
+    "doi": "10.4103/jehp.jehp_334_23",
+    "updates": {
+      "abstract": {
+        "source": "openalex",
+        "confidence": 1
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.4103-jfmpc.jfmpc18523",
+    "doi": "10.4103/jfmpc.jfmpc_185_23",
+    "updates": {
+      "abstract": {
+        "source": "openalex",
+        "confidence": 1
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.4103-jmsr.jmsr3918",
+    "doi": "10.4103/jmsr.jmsr_39_18",
+    "updates": {},
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.52634-mier-2020-v10-i1-1355",
+    "doi": "10.52634/mier/2020/v10/i1/1355",
+    "updates": {
+      "access.localPdfUrl": {
+        "source": "publisher",
+        "confidence": 0.75
+      }
+    },
+    "skipped": [],
+    "errors": [
+      "Semantic Scholar: Semantic Scholar error: HTTP 429"
+    ]
+  },
+  {
+    "slug": "10.5281-zenodo.3742099",
+    "doi": "10.5281/zenodo.3742099",
+    "updates": {
+      "abstract": {
+        "source": "openalex",
+        "confidence": 1
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.5455-mjhs.2023.03.009",
+    "doi": "10.5455/mjhs.2023.03.009",
+    "updates": {
+      "abstract": {
+        "source": "openalex",
+        "confidence": 1
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.5539-gjhs.v11n3p32",
+    "doi": "10.5539/gjhs.v11n3p32",
+    "updates": {
+      "abstract": {
+        "source": "openalex",
+        "confidence": 1
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.7759-cureus.37945",
+    "doi": "10.7759/cureus.37945",
+    "updates": {
+      "abstract": {
+        "source": "openalex",
+        "confidence": 1
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.7759-cureus.40057",
+    "doi": "10.7759/cureus.40057",
+    "updates": {
+      "abstract": {
+        "source": "openalex",
+        "confidence": 1
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.7759-cureus.42957",
+    "doi": "10.7759/cureus.42957",
+    "updates": {
+      "abstract": {
+        "source": "semantic",
+        "confidence": 1
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.7759-cureus.49161",
+    "doi": "10.7759/cureus.49161",
+    "updates": {
+      "abstract": {
+        "source": "semantic",
+        "confidence": 1
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.7759-cureus.63911",
+    "doi": "10.7759/cureus.63911",
+    "updates": {
+      "abstract": {
+        "source": "openalex",
+        "confidence": 1
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.7759-cureus.70161",
+    "doi": "10.7759/cureus.70161",
+    "updates": {
+      "abstract": {
+        "source": "openalex",
+        "confidence": 1
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.7759-cureus.79108",
+    "doi": "10.7759/cureus.79108",
+    "updates": {
+      "abstract": {
+        "source": "openalex",
+        "confidence": 1
+      }
+    },
+    "skipped": [],
+    "errors": []
+  },
+  {
+    "slug": "10.7759-cureus.91607",
+    "doi": "10.7759/cureus.91607",
+    "updates": {
+      "abstract": {
+        "source": "semantic",
+        "confidence": 1
+      }
+    },
+    "skipped": [],
+    "errors": []
+  }
+]

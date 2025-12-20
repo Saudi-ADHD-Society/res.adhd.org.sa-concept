@@ -19,8 +19,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.4103__jehp.jehp_266_22.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.4103__jehp.jehp_266_22.pdf",
+    "sourceUrl": "https://doi.org/10.4103/jehp.jehp_266_22",
+    "license": "cc-by-nc-sa"
   },
   "visibility": {
     "hidden": false

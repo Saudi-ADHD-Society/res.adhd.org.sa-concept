@@ -1,0 +1,1146 @@
+{
+  "id": "https://openalex.org/W2899036134",
+  "doi": "https://doi.org/10.4103/jmsr.jmsr_39_18",
+  "title": "The association between attention deficit hyperactivity disorder and Legg–Calvé–Perthes disease in tertiary hospital-Riyadh City, Saudi Arabia",
+  "display_name": "The association between attention deficit hyperactivity disorder and Legg–Calvé–Perthes disease in tertiary hospital-Riyadh City, Saudi Arabia",
+  "publication_year": 2018,
+  "publication_date": "2018-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2899036134",
+    "doi": "https://doi.org/10.4103/jmsr.jmsr_39_18",
+    "mag": "2899036134"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.4103/jmsr.jmsr_39_18",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.4103/jmsr.jmsr_39_18",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210174789",
+      "display_name": "Journal of Musculoskeletal Surgery and Research",
+      "issn_l": "2589-1219",
+      "issn": [
+        "2589-1219",
+        "2589-1227"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/P4310320448",
+      "host_organization_name": "Medknow",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320448",
+        "https://openalex.org/P4310318547"
+      ],
+      "host_organization_lineage_names": [
+        "Medknow",
+        "Wolters Kluwer"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Musculoskeletal Surgery and Research",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5102314395",
+        "display_name": "MohammadA Almalki",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2802517405",
+          "display_name": "King Abdulaziz Medical City",
+          "ror": "https://ror.org/009djsq06",
+          "country_code": "SA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2802517405"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "MohammadA Almalki",
+      "raw_affiliation_strings": [
+        "Department of Surgery, Division of Orthopedics, King Abdulaziz Medical City, Riyadh, Al Hars Al Watani, Ar Rimayah, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Surgery, Division of Orthopedics, King Abdulaziz Medical City, Riyadh, Al Hars Al Watani, Ar Rimayah, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I2802517405"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5097732228",
+        "display_name": "MazenA Al-Hunaishel",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210134149",
+          "display_name": "King Abdulaziz Hospital",
+          "ror": "https://ror.org/04cjdzt83",
+          "country_code": "SA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210134149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I185163786",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185163786"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "MazenA Al-Hunaishel",
+      "raw_affiliation_strings": [
+        "Department of Orthopedics, King Abdulaziz University Hospital, Jeddah, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Orthopedics, King Abdulaziz University Hospital, Jeddah, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I185163786",
+            "https://openalex.org/I4210134149"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5112395477",
+        "display_name": "SultanS Almaiman",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185203018",
+          "display_name": "King Saud bin Abdulaziz University for Health Sciences",
+          "ror": "https://ror.org/0149jvn88",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185203018"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "SultanS Almaiman",
+      "raw_affiliation_strings": [
+        "College of Medicine, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, Al Hars Al Watani, Ar Rimayah, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Medicine, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, Al Hars Al Watani, Ar Rimayah, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I185203018"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5108668553",
+        "display_name": "TurkiA Alqahtani",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185203018",
+          "display_name": "King Saud bin Abdulaziz University for Health Sciences",
+          "ror": "https://ror.org/0149jvn88",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185203018"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "TurkiA Alqahtani",
+      "raw_affiliation_strings": [
+        "College of Medicine, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, Al Hars Al Watani, Ar Rimayah, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Medicine, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, Al Hars Al Watani, Ar Rimayah, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I185203018"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5113853206",
+        "display_name": "ZiadS Alsaadi",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185203018",
+          "display_name": "King Saud bin Abdulaziz University for Health Sciences",
+          "ror": "https://ror.org/0149jvn88",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185203018"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "ZiadS Alsaadi",
+      "raw_affiliation_strings": [
+        "College of Medicine, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, Al Hars Al Watani, Ar Rimayah, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Medicine, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, Al Hars Al Watani, Ar Rimayah, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I185203018"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5110582090",
+        "display_name": "BatalM Aldosari",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185203018",
+          "display_name": "King Saud bin Abdulaziz University for Health Sciences",
+          "ror": "https://ror.org/0149jvn88",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185203018"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "BatalM Aldosari",
+      "raw_affiliation_strings": [
+        "College of Medicine, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, Al Hars Al Watani, Ar Rimayah, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Medicine, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, Al Hars Al Watani, Ar Rimayah, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I185203018"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5100977170",
+        "display_name": "ShakerH Alshehri",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I82952536",
+          "display_name": "King Khalid University",
+          "ror": "https://ror.org/052kwzs30",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I82952536"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "ShakerH Al-Shehri",
+      "raw_affiliation_strings": [
+        "Department of Orthopedics, College of Medicine, King Khalid University, Abha, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Orthopedics, College of Medicine, King Khalid University, Abha, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I82952536"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 7,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.18436214,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "2",
+    "issue": "4",
+    "first_page": "156",
+    "last_page": "156"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11097",
+    "display_name": "Cerebral Palsy and Movement Disorders",
+    "score": 0.9983999729156494,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11097",
+      "display_name": "Cerebral Palsy and Movement Disorders",
+      "score": 0.9983999729156494,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11218",
+      "display_name": "Hip disorders and treatments",
+      "score": 0.9961000084877014,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12400",
+      "display_name": "Neurogenetic and Muscular Disorders Research",
+      "score": 0.9348000288009644,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2716",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/legg-calve-perthes-disease",
+      "display_name": "Legg-Calve-Perthes disease",
+      "score": 0.7785764932632446
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.6406310200691223
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "score": 0.6101688146591187
+    },
+    {
+      "id": "https://openalex.org/keywords/pediatrics",
+      "display_name": "Pediatrics",
+      "score": 0.5929184556007385
+    },
+    {
+      "id": "https://openalex.org/keywords/disease",
+      "display_name": "Disease",
+      "score": 0.41846156120300293
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.3354790508747101
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.08587747812271118
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2781057323",
+      "wikidata": "https://www.wikidata.org/wiki/Q1456403",
+      "display_name": "Legg-Calve-Perthes disease",
+      "level": 3,
+      "score": 0.7785764932632446
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.6406310200691223
+    },
+    {
+      "id": "https://openalex.org/C2780783007",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "level": 2,
+      "score": 0.6101688146591187
+    },
+    {
+      "id": "https://openalex.org/C187212893",
+      "wikidata": "https://www.wikidata.org/wiki/Q123028",
+      "display_name": "Pediatrics",
+      "level": 1,
+      "score": 0.5929184556007385
+    },
+    {
+      "id": "https://openalex.org/C2779134260",
+      "wikidata": "https://www.wikidata.org/wiki/Q12136",
+      "display_name": "Disease",
+      "level": 2,
+      "score": 0.41846156120300293
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.3354790508747101
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.08587747812271118
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.4103/jmsr.jmsr_39_18",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.4103/jmsr.jmsr_39_18",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210174789",
+        "display_name": "Journal of Musculoskeletal Surgery and Research",
+        "issn_l": "2589-1219",
+        "issn": [
+          "2589-1219",
+          "2589-1227"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310320448",
+        "host_organization_name": "Medknow",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320448",
+          "https://openalex.org/P4310318547"
+        ],
+        "host_organization_lineage_names": [
+          "Medknow",
+          "Wolters Kluwer"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Musculoskeletal Surgery and Research",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "display_name": "Good health and well-being",
+      "score": 0.6399999856948853,
+      "id": "https://metadata.un.org/sdg/3"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 10,
+  "referenced_works": [
+    "https://openalex.org/W4247665917",
+    "https://openalex.org/W2162012775",
+    "https://openalex.org/W2125832432",
+    "https://openalex.org/W2011619810",
+    "https://openalex.org/W2409211626",
+    "https://openalex.org/W2518301127",
+    "https://openalex.org/W2030728286",
+    "https://openalex.org/W2102388069",
+    "https://openalex.org/W2128947758",
+    "https://openalex.org/W2144403656"
+  ],
+  "related_works": [
+    "https://openalex.org/W3087835410",
+    "https://openalex.org/W61196117",
+    "https://openalex.org/W2287235776",
+    "https://openalex.org/W2596318141",
+    "https://openalex.org/W2321567974",
+    "https://openalex.org/W2584846608",
+    "https://openalex.org/W2314831623",
+    "https://openalex.org/W2034754532",
+    "https://openalex.org/W2407532728",
+    "https://openalex.org/W2039034206"
+  ],
+  "abstract_inverted_index": {
+    "4": [
+      131
+    ],
+    "8": [
+      160
+    ],
+    "9": [
+      136
+    ],
+    "11": [
+      122
+    ],
+    "15": [
+      172
+    ],
+    "19": [
+      133,
+      179
+    ],
+    "34": [
+      165
+    ],
+    "39": [
+      125
+    ],
+    "47": [
+      148
+    ],
+    "50": [
+      64
+    ],
+    "53": [
+      151
+    ],
+    "100": [
+      70
+    ],
+    "Objectives:": [
+      0
+    ],
+    "Legg–Calve–Perthes": [
+      1
+    ],
+    "Disease": [
+      2
+    ],
+    "(LCPD)": [
+      3
+    ],
+    "is": [
+      4,
+      58,
+      225,
+      229
+    ],
+    "a": [
+      5,
+      48,
+      59,
+      210
+    ],
+    "juvenile": [
+      6
+    ],
+    "hip": [
+      7
+    ],
+    "disorder": [
+      8,
+      31
+    ],
+    "in": [
+      9,
+      47,
+      51,
+      99,
+      139,
+      174,
+      181,
+      190,
+      223,
+      244
+    ],
+    "which": [
+      10,
+      228
+    ],
+    "interruption": [
+      11
+    ],
+    "to": [
+      12,
+      38,
+      91,
+      95,
+      132,
+      231
+    ],
+    "the": [
+      13,
+      17,
+      40,
+      78,
+      82,
+      97,
+      107,
+      114,
+      119,
+      140,
+      145,
+      175,
+      182,
+      194,
+      198,
+      219,
+      232,
+      241,
+      245,
+      249
+    ],
+    "blood": [
+      14
+    ],
+    "supply": [
+      15
+    ],
+    "of": [
+      16,
+      81,
+      87,
+      106,
+      221
+    ],
+    "femoral": [
+      18
+    ],
+    "head": [
+      19
+    ],
+    "causes": [
+      20
+    ],
+    "osteonecrosis.": [
+      21
+    ],
+    "Previous": [
+      22
+    ],
+    "studies": [
+      23
+    ],
+    "reported": [
+      24,
+      233,
+      242
+    ],
+    "an": [
+      25
+    ],
+    "association": [
+      26
+    ],
+    "between": [
+      27,
+      42,
+      193
+    ],
+    "attention": [
+      28
+    ],
+    "deficit": [
+      29
+    ],
+    "hyperactivity": [
+      30
+    ],
+    "(ADHD)": [
+      32
+    ],
+    "and": [
+      33,
+      44,
+      69,
+      84,
+      94,
+      124,
+      150,
+      178,
+      197
+    ],
+    "LCPD.": [
+      34
+    ],
+    "This": [
+      35,
+      57
+    ],
+    "study": [
+      36,
+      61,
+      108
+    ],
+    "aimed": [
+      37
+    ],
+    "assess": [
+      39
+    ],
+    "relationship": [
+      41
+    ],
+    "ADHD": [
+      43,
+      93,
+      191,
+      222,
+      237
+    ],
+    "LCPD": [
+      45,
+      208,
+      224
+    ],
+    "disease": [
+      46
+    ],
+    "tertiary": [
+      49
+    ],
+    "hospital": [
+      50
+    ],
+    "Riyadh": [
+      52
+    ],
+    "city,": [
+      53
+    ],
+    "Saudi": [
+      54
+    ],
+    "Arabia.": [
+      55
+    ],
+    "Methods:": [
+      56
+    ],
+    "case–control": [
+      60
+    ],
+    "that": [
+      62,
+      218
+    ],
+    "included": [
+      63
+    ],
+    "case": [
+      65,
+      115,
+      176,
+      195
+    ],
+    "subjects": [
+      66
+    ],
+    "(LCPD": [
+      67
+    ],
+    "group)": [
+      68
+    ],
+    "controls.": [
+      71
+    ],
+    "Both": [
+      72
+    ],
+    "groups": [
+      73
+    ],
+    "underwent": [
+      74
+    ],
+    "clinical": [
+      75
+    ],
+    "assessment": [
+      76
+    ],
+    "by": [
+      77
+    ],
+    "5th": [
+      79
+    ],
+    "edition": [
+      80
+    ],
+    "Diagnostic": [
+      83
+    ],
+    "Statistical": [
+      85
+    ],
+    "Manual": [
+      86
+    ],
+    "Mental": [
+      88
+    ],
+    "Disorders": [
+      89
+    ],
+    "criteria": [
+      90
+    ],
+    "diagnose": [
+      92
+    ],
+    "compare": [
+      96
+    ],
+    "proportions": [
+      98
+    ],
+    "both": [
+      100,
+      163
+    ],
+    "groups.": [
+      101
+    ],
+    "Results:": [
+      102
+    ],
+    "The": [
+      103,
+      127,
+      153
+    ],
+    "age": [
+      104,
+      128,
+      154
+    ],
+    "range": [
+      105,
+      155
+    ],
+    "population": [
+      109
+    ],
+    "was": [
+      110,
+      156,
+      186,
+      238,
+      251
+    ],
+    "4–19": [
+      111
+    ],
+    "years.": [
+      112
+    ],
+    "In": [
+      113,
+      162
+    ],
+    "group,": [
+      116,
+      142
+    ],
+    "we": [
+      117,
+      143
+    ],
+    "collected": [
+      118,
+      144
+    ],
+    "data": [
+      120,
+      146
+    ],
+    "from": [
+      121,
+      130,
+      147
+    ],
+    "females": [
+      123,
+      149
+    ],
+    "males.": [
+      126,
+      152
+    ],
+    "ranged": [
+      129
+    ],
+    "years": [
+      134,
+      158
+    ],
+    "(mean": [
+      135,
+      159
+    ],
+    "years).": [
+      137,
+      161
+    ],
+    "While": [
+      138
+    ],
+    "control": [
+      141,
+      183,
+      199,
+      246
+    ],
+    "4–15": [
+      157
+    ],
+    "groups,": [
+      164
+    ],
+    "children": [
+      166
+    ],
+    "(22.7%)": [
+      167
+    ],
+    "were": [
+      168
+    ],
+    "diagnosed": [
+      169
+    ],
+    "with": [
+      170
+    ],
+    "ADHD,": [
+      171
+    ],
+    "(30%)": [
+      173
+    ],
+    "group": [
+      177,
+      196,
+      200,
+      247
+    ],
+    "(19%)": [
+      180,
+      248
+    ],
+    "group.": [
+      184
+    ],
+    "There": [
+      185
+    ],
+    "no": [
+      187
+    ],
+    "significant": [
+      188,
+      211
+    ],
+    "difference": [
+      189,
+      250
+    ],
+    "incidence": [
+      192
+    ],
+    "(P": [
+      201
+    ],
+    "=": [
+      202,
+      206
+    ],
+    "0.1293,": [
+      203
+    ],
+    "odds": [
+      204
+    ],
+    "ratio": [
+      205
+    ],
+    "1.827).": [
+      207
+    ],
+    "has": [
+      209
+    ],
+    "male": [
+      212
+    ],
+    "predominance": [
+      213
+    ],
+    "(78%).": [
+      214
+    ],
+    "Conclusions:": [
+      215
+    ],
+    "We": [
+      216
+    ],
+    "found": [
+      217
+    ],
+    "prevalence": [
+      220
+    ],
+    "high": [
+      226
+    ],
+    "(30%),": [
+      227
+    ],
+    "comparable": [
+      230
+    ],
+    "literature": [
+      234,
+      243
+    ],
+    "but": [
+      235
+    ],
+    "as": [
+      236
+    ],
+    "higher": [
+      239
+    ],
+    "than": [
+      240
+    ],
+    "statistically": [
+      252
+    ],
+    "insignificant.": [
+      253
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -67,8 +67,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.2147__ndt.s100405.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.2147__ndt.s100405.pdf",
+    "sourceUrl": "https://www.dovepress.com/getfile.php?fileID=29950",
+    "license": "cc-by-nc"
   },
   "visibility": {
     "hidden": false

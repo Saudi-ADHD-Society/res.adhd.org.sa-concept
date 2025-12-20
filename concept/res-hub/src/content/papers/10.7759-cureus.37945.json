@@ -2,7 +2,7 @@
   "doi": "10.7759/cureus.37945",
   "slug": "10.7759-cureus.37945",
   "title": "Knowledge and Awareness of Parents About the Difference Between Attention Deficit Hyperactivity Disorder and Childhood Absence Epilepsy in the Paediatric Population Makkah, Saudi Arabia: A Cross-Sectional Study",
-  "abstract": "<strong>Introduction: </strong>",
+  "abstract": "There is limited awareness of the difference between (ADHD) and (CAE) among parents in the pediatric population. These findings highlight an opportunity to raise awareness using well-organized education programs in Makkah City.",
   "categories": [
     "Uncategorized"
   ],
@@ -49,8 +49,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.7759__cureus.37945.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.7759__cureus.37945.pdf",
+    "sourceUrl": "https://assets.cureus.com/uploads/original_article/pdf/150692/20230421-25264-10sse9s.pdf",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

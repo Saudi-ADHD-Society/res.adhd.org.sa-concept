@@ -1,0 +1,1030 @@
+{
+  "id": "https://openalex.org/W4406940767",
+  "doi": "https://doi.org/10.1016/j.actpsy.2025.104693",
+  "title": "Translation, psychometric evaluation, and network analysis of the parental acceptance and action questionnaire (PAAQ) among Arab parents of children with and without specific learning disability (dyslexia)",
+  "display_name": "Translation, psychometric evaluation, and network analysis of the parental acceptance and action questionnaire (PAAQ) among Arab parents of children with and without specific learning disability (dyslexia)",
+  "publication_year": 2025,
+  "publication_date": "2025-01-29",
+  "ids": {
+    "openalex": "https://openalex.org/W4406940767",
+    "doi": "https://doi.org/10.1016/j.actpsy.2025.104693",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/39884158"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.actpsy.2025.104693",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.actpsy.2025.104693",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S180067919",
+      "display_name": "Acta Psychologica",
+      "issn_l": "0001-6918",
+      "issn": [
+        "0001-6918",
+        "1873-6297"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Acta Psychologica",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1016/j.actpsy.2025.104693",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5013533627",
+        "display_name": "Norah Alkhateeb",
+        "orcid": "https://orcid.org/0000-0002-7931-5608"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I156216236",
+          "display_name": "Qassim University",
+          "ror": "https://ror.org/01wsfe280",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Norah Alkhateeb",
+      "raw_affiliation_strings": [
+        "Department of Special Education, College of education, Qassim University, Saudi Arabia. Electronic address: no.alkhateeb@qu.edu.sa."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Special Education, College of education, Qassim University, Saudi Arabia. Electronic address: no.alkhateeb@qu.edu.sa.",
+          "institution_ids": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5013533627"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I156216236"
+  ],
+  "apc_list": {
+    "value": 1500,
+    "currency": "USD",
+    "value_usd": 1500
+  },
+  "apc_paid": {
+    "value": 1500,
+    "currency": "USD",
+    "value_usd": 1500
+  },
+  "fwci": 0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.02823152,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "253",
+    "issue": null,
+    "first_page": "104693",
+    "last_page": "104693"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T13447",
+    "display_name": "Educational and Psychological Assessments",
+    "score": 0.9987999796867371,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3204",
+      "display_name": "Developmental and Educational Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T13447",
+      "display_name": "Educational and Psychological Assessments",
+      "score": 0.9987999796867371,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10182",
+      "display_name": "Child and Adolescent Psychosocial and Emotional Development",
+      "score": 0.994700014591217,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11632",
+      "display_name": "Family and Disability Support Research",
+      "score": 0.9940999746322632,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.7445070743560791
+    },
+    {
+      "id": "https://openalex.org/keywords/dyslexia",
+      "display_name": "Dyslexia",
+      "score": 0.7169077396392822
+    },
+    {
+      "id": "https://openalex.org/keywords/developmental-psychology",
+      "display_name": "Developmental psychology",
+      "score": 0.5482181310653687
+    },
+    {
+      "id": "https://openalex.org/keywords/learning-disability",
+      "display_name": "Learning disability",
+      "score": 0.511228084564209
+    },
+    {
+      "id": "https://openalex.org/keywords/action",
+      "display_name": "Action (physics)",
+      "score": 0.5106125473976135
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.4042559266090393
+    },
+    {
+      "id": "https://openalex.org/keywords/reading",
+      "display_name": "Reading (process)",
+      "score": 0.106233149766922
+    },
+    {
+      "id": "https://openalex.org/keywords/linguistics",
+      "display_name": "Linguistics",
+      "score": 0.08315876126289368
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.7445070743560791
+    },
+    {
+      "id": "https://openalex.org/C506058694",
+      "wikidata": "https://www.wikidata.org/wiki/Q132971",
+      "display_name": "Dyslexia",
+      "level": 3,
+      "score": 0.7169077396392822
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.5482181310653687
+    },
+    {
+      "id": "https://openalex.org/C15107229",
+      "wikidata": "https://www.wikidata.org/wiki/Q860740",
+      "display_name": "Learning disability",
+      "level": 2,
+      "score": 0.511228084564209
+    },
+    {
+      "id": "https://openalex.org/C2780791683",
+      "wikidata": "https://www.wikidata.org/wiki/Q846785",
+      "display_name": "Action (physics)",
+      "level": 2,
+      "score": 0.5106125473976135
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.4042559266090393
+    },
+    {
+      "id": "https://openalex.org/C554936623",
+      "wikidata": "https://www.wikidata.org/wiki/Q199657",
+      "display_name": "Reading (process)",
+      "level": 2,
+      "score": 0.106233149766922
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.08315876126289368
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011594",
+      "descriptor_name": "Psychometrics",
+      "qualifier_ui": "Q000295",
+      "qualifier_name": "instrumentation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010290",
+      "descriptor_name": "Parents",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011795",
+      "descriptor_name": "Surveys and Questionnaires",
+      "qualifier_ui": "Q000592",
+      "qualifier_name": "standards",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018912",
+      "descriptor_name": "Arabs",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004410",
+      "descriptor_name": "Dyslexia",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016487",
+      "descriptor_name": "Parenting",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005163",
+      "descriptor_name": "Factor Analysis, Statistical",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008875",
+      "descriptor_name": "Middle Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011594",
+      "descriptor_name": "Psychometrics",
+      "qualifier_ui": "Q000295",
+      "qualifier_name": "instrumentation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010290",
+      "descriptor_name": "Parents",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011795",
+      "descriptor_name": "Surveys and Questionnaires",
+      "qualifier_ui": "Q000592",
+      "qualifier_name": "standards",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018912",
+      "descriptor_name": "Arabs",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004410",
+      "descriptor_name": "Dyslexia",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016487",
+      "descriptor_name": "Parenting",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005163",
+      "descriptor_name": "Factor Analysis, Statistical",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008875",
+      "descriptor_name": "Middle Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011594",
+      "descriptor_name": "Psychometrics",
+      "qualifier_ui": "Q000295",
+      "qualifier_name": "instrumentation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011594",
+      "descriptor_name": "Psychometrics",
+      "qualifier_ui": "Q000592",
+      "qualifier_name": "standards",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018912",
+      "descriptor_name": "Arabs",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010290",
+      "descriptor_name": "Parents",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011795",
+      "descriptor_name": "Surveys and Questionnaires",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004410",
+      "descriptor_name": "Dyslexia",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016487",
+      "descriptor_name": "Parenting",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005163",
+      "descriptor_name": "Factor Analysis, Statistical",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008875",
+      "descriptor_name": "Middle Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011594",
+      "descriptor_name": "Psychometrics",
+      "qualifier_ui": "Q000295",
+      "qualifier_name": "instrumentation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011594",
+      "descriptor_name": "Psychometrics",
+      "qualifier_ui": "Q000592",
+      "qualifier_name": "standards",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018912",
+      "descriptor_name": "Arabs",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010290",
+      "descriptor_name": "Parents",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011795",
+      "descriptor_name": "Surveys and Questionnaires",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004410",
+      "descriptor_name": "Dyslexia",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016487",
+      "descriptor_name": "Parenting",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005163",
+      "descriptor_name": "Factor Analysis, Statistical",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008875",
+      "descriptor_name": "Middle Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.actpsy.2025.104693",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.actpsy.2025.104693",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S180067919",
+        "display_name": "Acta Psychologica",
+        "issn_l": "0001-6918",
+        "issn": [
+          "0001-6918",
+          "1873-6297"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Acta Psychologica",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:39884158",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39884158",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Acta psychologica",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:e133b881c9fb4ad08a208a94d1afa6ef",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/e133b881c9fb4ad08a208a94d1afa6ef",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Acta Psychologica, Vol 253, Iss , Pp 104693- (2025)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.actpsy.2025.104693",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.actpsy.2025.104693",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S180067919",
+      "display_name": "Acta Psychologica",
+      "issn_l": "0001-6918",
+      "issn": [
+        "0001-6918",
+        "1873-6297"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Acta Psychologica",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.7699999809265137,
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality Education"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 78,
+  "referenced_works": [
+    "https://openalex.org/W4400511463",
+    "https://openalex.org/W2150941015",
+    "https://openalex.org/W4315629233",
+    "https://openalex.org/W4394010862",
+    "https://openalex.org/W4237428902",
+    "https://openalex.org/W2110449556",
+    "https://openalex.org/W4401620824",
+    "https://openalex.org/W6873888920",
+    "https://openalex.org/W2968964630",
+    "https://openalex.org/W6864363040",
+    "https://openalex.org/W2082245372",
+    "https://openalex.org/W1966524739",
+    "https://openalex.org/W2947198241",
+    "https://openalex.org/W1902157687",
+    "https://openalex.org/W3136334909",
+    "https://openalex.org/W2963120510",
+    "https://openalex.org/W6769580727",
+    "https://openalex.org/W2914890532",
+    "https://openalex.org/W2038347175",
+    "https://openalex.org/W1975627769",
+    "https://openalex.org/W2067271431",
+    "https://openalex.org/W2059970191",
+    "https://openalex.org/W3163449804",
+    "https://openalex.org/W6853144022",
+    "https://openalex.org/W4401656322",
+    "https://openalex.org/W4221109925",
+    "https://openalex.org/W4386407677",
+    "https://openalex.org/W4394981666",
+    "https://openalex.org/W2154817407",
+    "https://openalex.org/W2962989581",
+    "https://openalex.org/W4399650965",
+    "https://openalex.org/W4393861190",
+    "https://openalex.org/W4402425556",
+    "https://openalex.org/W2136409670",
+    "https://openalex.org/W3013608164",
+    "https://openalex.org/W6869887352",
+    "https://openalex.org/W2391304757",
+    "https://openalex.org/W4360801356",
+    "https://openalex.org/W4235891541",
+    "https://openalex.org/W4394602636",
+    "https://openalex.org/W1984646609",
+    "https://openalex.org/W4392671998",
+    "https://openalex.org/W4389965982",
+    "https://openalex.org/W2067135965",
+    "https://openalex.org/W2165738081",
+    "https://openalex.org/W2606260580",
+    "https://openalex.org/W2887450200",
+    "https://openalex.org/W2990219378",
+    "https://openalex.org/W3185335624",
+    "https://openalex.org/W2059629868",
+    "https://openalex.org/W2279571017",
+    "https://openalex.org/W4367299216",
+    "https://openalex.org/W2917473795",
+    "https://openalex.org/W4284682120",
+    "https://openalex.org/W4402476290",
+    "https://openalex.org/W3154057000",
+    "https://openalex.org/W4290727142",
+    "https://openalex.org/W3209965353",
+    "https://openalex.org/W3111613619",
+    "https://openalex.org/W3124883010",
+    "https://openalex.org/W3019104200",
+    "https://openalex.org/W3087099932",
+    "https://openalex.org/W4389130847",
+    "https://openalex.org/W2061935394",
+    "https://openalex.org/W6637601874",
+    "https://openalex.org/W2345483851",
+    "https://openalex.org/W2091048370",
+    "https://openalex.org/W2171104980",
+    "https://openalex.org/W2950903507",
+    "https://openalex.org/W4211027359",
+    "https://openalex.org/W4403877220",
+    "https://openalex.org/W2476439180",
+    "https://openalex.org/W4280593891",
+    "https://openalex.org/W1681695349",
+    "https://openalex.org/W4380871493",
+    "https://openalex.org/W4399640264",
+    "https://openalex.org/W2906253013",
+    "https://openalex.org/W2337636848"
+  ],
+  "related_works": [
+    "https://openalex.org/W2033550741",
+    "https://openalex.org/W3029497955",
+    "https://openalex.org/W2960228290",
+    "https://openalex.org/W630264576",
+    "https://openalex.org/W1491001619",
+    "https://openalex.org/W4241280300",
+    "https://openalex.org/W362809262",
+    "https://openalex.org/W2920739593",
+    "https://openalex.org/W2105550552",
+    "https://openalex.org/W768615581"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0
+    ],
+    "PAAQ": [
+      1
+    ],
+    "is": [
+      2
+    ],
+    "a": [
+      3
+    ],
+    "suitable": [
+      4
+    ],
+    "scale": [
+      5
+    ],
+    "for": [
+      6
+    ],
+    "use": [
+      7
+    ],
+    "with": [
+      8,
+      18
+    ],
+    "Arabic": [
+      9
+    ],
+    "parents,": [
+      10
+    ],
+    "including": [
+      11
+    ],
+    "community": [
+      12
+    ],
+    "samples": [
+      13
+    ],
+    "and": [
+      14
+    ],
+    "parents": [
+      15
+    ],
+    "of": [
+      16
+    ],
+    "children": [
+      17
+    ],
+    "dyslexia.": [
+      19
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

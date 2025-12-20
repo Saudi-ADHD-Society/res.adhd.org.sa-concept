@@ -59,8 +59,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.21474__ijar01__16369.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.21474__ijar01__16369.pdf",
+    "sourceUrl": "https://doi.org/10.21474/ijar01/16369",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

@@ -2,7 +2,7 @@
   "doi": "10.4103/aam.aam_163_22",
   "slug": "10.4103-aam.aam16322",
   "title": "Estimated Prevalence Study of Attention-Deficit/Hyperactivity Disorder among Eastern Province Children in the Kingdom of Saudi Arabia",
-  "abstract": "<strong>Background: </strong>",
+  "abstract": "Background: Studying mental disorders in children is significantly important due to the huge suffering of educational and psychosocial impairments in adult life. Attention-deficit/hyperactivity disorder (ADHD) is considered the most common mental disorder in children, especially in early school-aged children. It manifests in about 8%–12% of children in the world. In Saudi Arabia, it affects 4%–12% of children. Objective: The study aimed to count the number of undiagnosed ADHD cases and the associated risk factors in Eastern Province in Kingdom of Saudi Arabia (KSA). Methods: A cross-sectional study was performed among girls’ and boys’ children aged 6–10 years old in Eastern Province in KSA with a random selection of parents. Sample size is equal to 1658. The assessment was done by an online questionnaire filled it by parents using Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition diagnostic criteria and Connor’s scale of ADHD excluding any developmental or mental disorder at the beginning of the questionnaire. Results: After excluding the participants who were diagnosed with behavioral and growth developmental disorder, the remaining 1430 have been screened for ADHD based on Connor’s scale. 185 of a child out of 1430 were suggested to have ADHD, of which 10 out of them show the signs of ADHD, 76 of them have moderately severe ADHD, and 99 out of them have atypical or severe ADHD based on Connor’s scale of ADHD. The study shows that there is a significant relationship between the positive screening of ADHD and gender males (71.35%), females (28.64%), family history (20.5%), nervous system diseases (4.32%), brain damage from trauma (9.72%), smoking habit of the mother (8.64%), smoking during pregnancy (3.78%), mother exposure to second-hand smoking (42.16%), child exposure to a toxic substance like lead during the early life (1.62%), and the preterm labor (15.13%). However, the study shows there is no significant relationship between the positive screening of ADHD with age, drinking alcohol, and central nervous system infection. Conclusion: The prevalence of undiagnosed ADHD is slightly high. Also, it has many causes of ADHD including gender, smoking, parental psychiatric disorders, and obstetric and pregnancy problems.",
   "categories": [
     "Uncategorized"
   ],
@@ -74,8 +74,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.4103__aam.aam_163_22.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.4103__aam.aam_163_22.pdf",
+    "sourceUrl": "https://doi.org/10.4103/aam.aam_163_22",
+    "license": "cc-by-nc-sa"
   },
   "visibility": {
     "hidden": false

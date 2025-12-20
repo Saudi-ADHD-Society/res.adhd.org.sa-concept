@@ -2,7 +2,7 @@
   "doi": "10.7759/cureus.63911",
   "slug": "10.7759-cureus.63911",
   "title": "Quality of Life Among Saudi Parents of Children With Attention-Deficit/Hyperactivity Disorder: A Cross-Sectional Study",
-  "abstract": "<strong>Background</strong>",
+  "abstract": "Background Attention-deficit/hyperactivity disorder (ADHD) in children can adversely impact parental quality of life (QoL). However, limited research exists among families in Saudi Arabia, especially in understudied regions like Jazan. This study was designed to determine the QoL in parents of children with ADHD in Jazan, Saudi Arabia. Methodology This cross-sectional study was conducted in the Jazan region of Saudi Arabia from June 2023 to December 2023. Online questionnaires were used to collect data from parents of children with ADHD residing in the country. A structured questionnaire was developed in consultation with the National Institute for Children's Health Quality (NICHQ) guidelines. The total sample size was 276. The study participants were recruited through convenient non-random snowballing sampling where the promotion of the questionnaire web link aided in reaching the required sample size of the study. Participants aged more than 18 years, residents of the Jazan area, and both genders were included. R software was used for data analysis. Results The study, involving 275 participants, revealed that 45 (16%) children were diagnosed with ADHD by doctors, with a higher prevalence among males 36 (80%). The NICHQ scale identified ADHD in 50 (18%) participants, with the predominant subtypes being inattentive 28 (56%), hyperactive/impulsive 28 (56%), and combined 19 (38%). The median QoL score was 8.6, with good QoL reported by 51.27% of parents and poor QoL by 48.73%. Gender significantly influenced QoL (p < 0.01), with 57% of males and 43% of females reporting good QoL, while 61% of females and 39% of males reported poor QoL. Oppositional defiant symptoms were significantly associated with poorer QoL (p < 0.05). There was a notable alignment between ADHD diagnoses from parental reports and the NICHQ scale. Conclusions This cross-sectional study found that parents of children with ADHD behaviors, especially those exhibiting oppositional defiant symptoms, experienced significantly lower QoL, particularly in personal fulfillment and psychosocial well-being. The findings emphasize the need for culturally tailored psychosocial interventions in Saudi Arabia to improve parental coping and QoL, benefiting overall family well-being and child outcomes.",
   "categories": [
     "Uncategorized"
   ],
@@ -69,8 +69,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.7759__cureus.63911.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.7759__cureus.63911.pdf",
+    "sourceUrl": "https://assets.cureus.com/uploads/original_article/pdf/266405/20240804-2758470-qewv51.pdf",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

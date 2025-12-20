@@ -1,0 +1,1587 @@
+{
+  "id": "https://openalex.org/W3161049352",
+  "doi": "https://doi.org/10.1016/j.ijpam.2021.04.002",
+  "title": "Child and adolescent mental health disorders in the GCC",
+  "display_name": "Child and adolescent mental health disorders in the GCC",
+  "publication_year": 2021,
+  "publication_date": "2021-05-15",
+  "ids": {
+    "openalex": "https://openalex.org/W3161049352",
+    "doi": "https://doi.org/10.1016/j.ijpam.2021.04.002",
+    "mag": "3161049352",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/34350324"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.ijpam.2021.04.002",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.ijpam.2021.04.002",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2764611280",
+      "display_name": "International Journal of Pediatrics and Adolescent Medicine",
+      "issn_l": "2352-6467",
+      "issn": [
+        "2352-6467"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Pediatrics and Adolescent Medicine",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.ijpam.2021.04.002",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5022449336",
+        "display_name": "Moon Fai Chan",
+        "orcid": "https://orcid.org/0000-0002-2899-3118"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I47818738",
+          "display_name": "Sultan Qaboos University",
+          "ror": "https://ror.org/04wq8zb47",
+          "country_code": "OM",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I47818738"
+          ]
+        }
+      ],
+      "countries": [
+        "OM"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Moon Fai Chan",
+      "raw_affiliation_strings": [
+        "Department of Family Medicine & Public Health, College of Medicine & Health Sciences, Sultan Qaboos University, Muscat, Oman"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Family Medicine & Public Health, College of Medicine & Health Sciences, Sultan Qaboos University, Muscat, Oman",
+          "institution_ids": [
+            "https://openalex.org/I47818738"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5009954020",
+        "display_name": "Rola Al Balushi",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I47818738",
+          "display_name": "Sultan Qaboos University",
+          "ror": "https://ror.org/04wq8zb47",
+          "country_code": "OM",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I47818738"
+          ]
+        }
+      ],
+      "countries": [
+        "OM"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rola Al Balushi",
+      "raw_affiliation_strings": [
+        "Department of Behavioral Medicine, College of Medicine and Health Sciences, Sultan Qaboos University, Muscat, Oman"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Behavioral Medicine, College of Medicine and Health Sciences, Sultan Qaboos University, Muscat, Oman",
+          "institution_ids": [
+            "https://openalex.org/I47818738"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079486962",
+        "display_name": "Maryam Al Falahi",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I47818738",
+          "display_name": "Sultan Qaboos University",
+          "ror": "https://ror.org/04wq8zb47",
+          "country_code": "OM",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I47818738"
+          ]
+        }
+      ],
+      "countries": [
+        "OM"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maryam Al Falahi",
+      "raw_affiliation_strings": [
+        "Department of Behavioral Medicine, College of Medicine and Health Sciences, Sultan Qaboos University, Muscat, Oman"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Behavioral Medicine, College of Medicine and Health Sciences, Sultan Qaboos University, Muscat, Oman",
+          "institution_ids": [
+            "https://openalex.org/I47818738"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5058131373",
+        "display_name": "Sangeetha Mahadevan",
+        "orcid": "https://orcid.org/0000-0002-4601-3806"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I47818738",
+          "display_name": "Sultan Qaboos University",
+          "ror": "https://ror.org/04wq8zb47",
+          "country_code": "OM",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I47818738"
+          ]
+        }
+      ],
+      "countries": [
+        "OM"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sangeetha Mahadevan",
+      "raw_affiliation_strings": [
+        "Department of Behavioral Medicine, College of Medicine and Health Sciences, Sultan Qaboos University, Muscat, Oman"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Behavioral Medicine, College of Medicine and Health Sciences, Sultan Qaboos University, Muscat, Oman",
+          "institution_ids": [
+            "https://openalex.org/I47818738"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055369841",
+        "display_name": "Muna Al Saadoon",
+        "orcid": "https://orcid.org/0000-0003-1643-2150"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I47818738",
+          "display_name": "Sultan Qaboos University",
+          "ror": "https://ror.org/04wq8zb47",
+          "country_code": "OM",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I47818738"
+          ]
+        }
+      ],
+      "countries": [
+        "OM"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Muna Al Saadoon",
+      "raw_affiliation_strings": [
+        "Department of Child Health, College of Medicine and Health Sciences, Sultan Qaboos University, Muscat, Oman"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Child Health, College of Medicine and Health Sciences, Sultan Qaboos University, Muscat, Oman",
+          "institution_ids": [
+            "https://openalex.org/I47818738"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5015252112",
+        "display_name": "Samir Al‐Adawi",
+        "orcid": "https://orcid.org/0000-0002-9858-5582"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I47818738",
+          "display_name": "Sultan Qaboos University",
+          "ror": "https://ror.org/04wq8zb47",
+          "country_code": "OM",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I47818738"
+          ]
+        }
+      ],
+      "countries": [
+        "OM"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Samir Al-Adawi",
+      "raw_affiliation_strings": [
+        "Department of Behavioral Medicine, College of Medicine and Health Sciences, Sultan Qaboos University, Muscat, Oman"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Behavioral Medicine, College of Medicine and Health Sciences, Sultan Qaboos University, Muscat, Oman",
+          "institution_ids": [
+            "https://openalex.org/I47818738"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5015252112"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I47818738"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 5.92631877,
+  "has_fulltext": false,
+  "cited_by_count": 41,
+  "citation_normalized_percentile": {
+    "value": 0.95821965,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "8",
+    "issue": "3",
+    "first_page": "134",
+    "last_page": "145"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10182",
+    "display_name": "Child and Adolescent Psychosocial and Emotional Development",
+    "score": 0.9987999796867371,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3203",
+      "display_name": "Clinical Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10182",
+      "display_name": "Child and Adolescent Psychosocial and Emotional Development",
+      "score": 0.9987999796867371,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.984000027179718,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11577",
+      "display_name": "Cognitive Abilities and Testing",
+      "score": 0.9790999889373779,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.7490189075469971
+    },
+    {
+      "id": "https://openalex.org/keywords/mental-health",
+      "display_name": "Mental health",
+      "score": 0.6189853549003601
+    },
+    {
+      "id": "https://openalex.org/keywords/anxiety",
+      "display_name": "Anxiety",
+      "score": 0.6164617538452148
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.5919298529624939
+    },
+    {
+      "id": "https://openalex.org/keywords/depression",
+      "display_name": "Depression (economics)",
+      "score": 0.49747422337532043
+    },
+    {
+      "id": "https://openalex.org/keywords/strengths-and-difficulties-questionnaire",
+      "display_name": "Strengths and Difficulties Questionnaire",
+      "score": 0.4532013535499573
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.3472770154476166
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.7490189075469971
+    },
+    {
+      "id": "https://openalex.org/C134362201",
+      "wikidata": "https://www.wikidata.org/wiki/Q317309",
+      "display_name": "Mental health",
+      "level": 2,
+      "score": 0.6189853549003601
+    },
+    {
+      "id": "https://openalex.org/C558461103",
+      "wikidata": "https://www.wikidata.org/wiki/Q154430",
+      "display_name": "Anxiety",
+      "level": 2,
+      "score": 0.6164617538452148
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.5919298529624939
+    },
+    {
+      "id": "https://openalex.org/C2776867660",
+      "wikidata": "https://www.wikidata.org/wiki/Q1814941",
+      "display_name": "Depression (economics)",
+      "level": 2,
+      "score": 0.49747422337532043
+    },
+    {
+      "id": "https://openalex.org/C2776793905",
+      "wikidata": "https://www.wikidata.org/wiki/Q7623268",
+      "display_name": "Strengths and Difficulties Questionnaire",
+      "level": 3,
+      "score": 0.4532013535499573
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.3472770154476166
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C139719470",
+      "wikidata": "https://www.wikidata.org/wiki/Q39680",
+      "display_name": "Macroeconomics",
+      "level": 1,
+      "score": 0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.ijpam.2021.04.002",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.ijpam.2021.04.002",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764611280",
+        "display_name": "International Journal of Pediatrics and Adolescent Medicine",
+        "issn_l": "2352-6467",
+        "issn": [
+          "2352-6467"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Journal of Pediatrics and Adolescent Medicine",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:34350324",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/34350324",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International journal of pediatrics & adolescent medicine",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:53cbb7e6cf93449192fee9ef41445edb",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/53cbb7e6cf93449192fee9ef41445edb",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "International Journal of Pediatrics and Adolescent Medicine, Vol 8, Iss 3, Pp 134-145 (2021)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:8319685",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8319685",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Int J Pediatr Adolesc Med",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.ijpam.2021.04.002",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.ijpam.2021.04.002",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2764611280",
+      "display_name": "International Journal of Pediatrics and Adolescent Medicine",
+      "issn_l": "2352-6467",
+      "issn": [
+        "2352-6467"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Pediatrics and Adolescent Medicine",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.800000011920929,
+      "display_name": "Good health and well-being",
+      "id": "https://metadata.un.org/sdg/3"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 85,
+  "referenced_works": [
+    "https://openalex.org/W2917663197",
+    "https://openalex.org/W2118826874",
+    "https://openalex.org/W2294879375",
+    "https://openalex.org/W1983030849",
+    "https://openalex.org/W3019445104",
+    "https://openalex.org/W2170219130",
+    "https://openalex.org/W2991705152",
+    "https://openalex.org/W2155263971",
+    "https://openalex.org/W2157800900",
+    "https://openalex.org/W2171882296",
+    "https://openalex.org/W2901663001",
+    "https://openalex.org/W6770707918",
+    "https://openalex.org/W2184960480",
+    "https://openalex.org/W2943277367",
+    "https://openalex.org/W1966233888",
+    "https://openalex.org/W2783199979",
+    "https://openalex.org/W6686721674",
+    "https://openalex.org/W2015425631",
+    "https://openalex.org/W1503310022",
+    "https://openalex.org/W2910362879",
+    "https://openalex.org/W2323346277",
+    "https://openalex.org/W2468996569",
+    "https://openalex.org/W2125435699",
+    "https://openalex.org/W2107328434",
+    "https://openalex.org/W2015214445",
+    "https://openalex.org/W2057040860",
+    "https://openalex.org/W2944390169",
+    "https://openalex.org/W6629569113",
+    "https://openalex.org/W2577984850",
+    "https://openalex.org/W2092098224",
+    "https://openalex.org/W2587275991",
+    "https://openalex.org/W6760991137",
+    "https://openalex.org/W1844924316",
+    "https://openalex.org/W3027462222",
+    "https://openalex.org/W6630158763",
+    "https://openalex.org/W3019292546",
+    "https://openalex.org/W2957663343",
+    "https://openalex.org/W1990472164",
+    "https://openalex.org/W2161130267",
+    "https://openalex.org/W6610427102",
+    "https://openalex.org/W2171074660",
+    "https://openalex.org/W6768857899",
+    "https://openalex.org/W2115830594",
+    "https://openalex.org/W2128947758",
+    "https://openalex.org/W140464470",
+    "https://openalex.org/W6704508066",
+    "https://openalex.org/W2037600975",
+    "https://openalex.org/W3096134572",
+    "https://openalex.org/W1996595635",
+    "https://openalex.org/W2054302040",
+    "https://openalex.org/W2262175273",
+    "https://openalex.org/W2468112147",
+    "https://openalex.org/W1982913678",
+    "https://openalex.org/W2114142791",
+    "https://openalex.org/W2513663649",
+    "https://openalex.org/W2766203201",
+    "https://openalex.org/W2005561892",
+    "https://openalex.org/W1602893043",
+    "https://openalex.org/W1966906467",
+    "https://openalex.org/W2807300901",
+    "https://openalex.org/W2901209960",
+    "https://openalex.org/W2903431129",
+    "https://openalex.org/W2409211626",
+    "https://openalex.org/W2011619810",
+    "https://openalex.org/W2049401673",
+    "https://openalex.org/W2475922461",
+    "https://openalex.org/W2915536649",
+    "https://openalex.org/W1992928301",
+    "https://openalex.org/W2953089558",
+    "https://openalex.org/W2205536000",
+    "https://openalex.org/W2921586923",
+    "https://openalex.org/W2156098321",
+    "https://openalex.org/W3017274968",
+    "https://openalex.org/W1496028880",
+    "https://openalex.org/W289109531",
+    "https://openalex.org/W2159011576",
+    "https://openalex.org/W3044950964",
+    "https://openalex.org/W3047799364",
+    "https://openalex.org/W2346005919",
+    "https://openalex.org/W3035040477",
+    "https://openalex.org/W2977806905",
+    "https://openalex.org/W2991792334",
+    "https://openalex.org/W3024279143",
+    "https://openalex.org/W4403584248",
+    "https://openalex.org/W1495789847"
+  ],
+  "related_works": [
+    "https://openalex.org/W2049902354",
+    "https://openalex.org/W2113171214",
+    "https://openalex.org/W4283827552",
+    "https://openalex.org/W2131518256",
+    "https://openalex.org/W2010537508",
+    "https://openalex.org/W2089082336",
+    "https://openalex.org/W2964000526",
+    "https://openalex.org/W2378173657",
+    "https://openalex.org/W3104236715",
+    "https://openalex.org/W2326542625"
+  ],
+  "abstract_inverted_index": {
+    "33": [
+      163
+    ],
+    "54": [
+      13
+    ],
+    "Background:": [
+      0
+    ],
+    "The": [
+      1,
+      104,
+      171,
+      211,
+      246,
+      279,
+      327,
+      343
+    ],
+    "Gulf": [
+      2
+    ],
+    "Cooperation": [
+      3
+    ],
+    "Council": [
+      4
+    ],
+    "(GCC),": [
+      5
+    ],
+    "with": [
+      6
+    ],
+    "a": [
+      7,
+      33,
+      68,
+      77,
+      112
+    ],
+    "predominant": [
+      8
+    ],
+    "‘youth": [
+      9
+    ],
+    "bulge’": [
+      10
+    ],
+    "among": [
+      11
+    ],
+    "its": [
+      12,
+      322
+    ],
+    "million": [
+      14
+    ],
+    "people,": [
+      15
+    ],
+    "has": [
+      16,
+      47
+    ],
+    "witnessed": [
+      17
+    ],
+    "an": [
+      18
+    ],
+    "exponential": [
+      19
+    ],
+    "increase": [
+      20
+    ],
+    "in": [
+      21,
+      64,
+      336
+    ],
+    "research": [
+      22
+    ],
+    "pertinent": [
+      23
+    ],
+    "to": [
+      24,
+      37,
+      56,
+      120,
+      139,
+      203,
+      252,
+      276,
+      334,
+      349,
+      359
+    ],
+    "child": [
+      25
+    ],
+    "and": [
+      26,
+      97,
+      111,
+      155,
+      194,
+      197,
+      208,
+      226,
+      230,
+      236,
+      243,
+      255,
+      261,
+      319,
+      357
+    ],
+    "adolescent": [
+      27
+    ],
+    "mental": [
+      28,
+      146
+    ],
+    "health": [
+      29
+    ],
+    "(CAMH).": [
+      30
+    ],
+    "Aside": [
+      31
+    ],
+    "from": [
+      32,
+      49,
+      86,
+      165,
+      324
+    ],
+    "few": [
+      34
+    ],
+    "narrative": [
+      35
+    ],
+    "reviews,": [
+      36
+    ],
+    "date,": [
+      38,
+      312
+    ],
+    "no": [
+      39
+    ],
+    "critical": [
+      40
+    ],
+    "appraisal": [
+      41
+    ],
+    "examining": [
+      42
+    ],
+    "the": [
+      43,
+      58,
+      65,
+      72,
+      84,
+      87,
+      98,
+      166,
+      178,
+      195,
+      219,
+      253,
+      256,
+      265,
+      272,
+      287,
+      295,
+      303,
+      315,
+      325,
+      337,
+      350,
+      361
+    ],
+    "magnitude": [
+      44
+    ],
+    "of": [
+      45,
+      61,
+      71,
+      83,
+      143,
+      162,
+      174,
+      214,
+      249,
+      268,
+      282,
+      298,
+      321,
+      330,
+      340,
+      363
+    ],
+    "CAMH": [
+      46,
+      62,
+      331
+    ],
+    "emerged": [
+      48
+    ],
+    "this": [
+      50,
+      313
+    ],
+    "region.": [
+      51
+    ],
+    "Aims:": [
+      52
+    ],
+    "This": [
+      53
+    ],
+    "study": [
+      54
+    ],
+    "aimed": [
+      55
+    ],
+    "report": [
+      57
+    ],
+    "prevalence": [
+      59,
+      141,
+      173,
+      213,
+      248,
+      267,
+      281,
+      297,
+      328
+    ],
+    "rates": [
+      60,
+      142,
+      345
+    ],
+    "disorders": [
+      63,
+      332
+    ],
+    "GCC": [
+      66,
+      89
+    ],
+    "through": [
+      67
+    ],
+    "systematic": [
+      69,
+      81,
+      317
+    ],
+    "review": [
+      70,
+      82,
+      318
+    ],
+    "existing": [
+      73,
+      351
+    ],
+    "literature": [
+      74,
+      85
+    ],
+    "followed": [
+      75
+    ],
+    "by": [
+      76,
+      218,
+      286
+    ],
+    "meta-analysis.": [
+      78
+    ],
+    "Methods:": [
+      79
+    ],
+    "A": [
+      80,
+      160
+    ],
+    "six": [
+      88,
+      167
+    ],
+    "countries": [
+      90,
+      168
+    ],
+    "(Bahrain,": [
+      91
+    ],
+    "Kuwait,": [
+      92
+    ],
+    "Oman,": [
+      93
+    ],
+    "Qatar,": [
+      94
+    ],
+    "Saudi": [
+      95
+    ],
+    "Arabia,": [
+      96
+    ],
+    "United": [
+      99
+    ],
+    "Arab": [
+      100
+    ],
+    "Emirates)": [
+      101
+    ],
+    "was": [
+      102,
+      115,
+      201,
+      240,
+      259,
+      274,
+      292,
+      308
+    ],
+    "conducted.": [
+      103
+    ],
+    "databases": [
+      105
+    ],
+    "used": [
+      106,
+      138
+    ],
+    "included": [
+      107
+    ],
+    "Scopus,": [
+      108
+    ],
+    "ProQuest,": [
+      109
+    ],
+    "Pubmed,": [
+      110
+    ],
+    "final": [
+      113
+    ],
+    "check": [
+      114
+    ],
+    "performed": [
+      116
+    ],
+    "on": [
+      117
+    ],
+    "Google": [
+      118
+    ],
+    "Scholar": [
+      119
+    ],
+    "account": [
+      121
+    ],
+    "for": [
+      122,
+      234
+    ],
+    "any": [
+      123
+    ],
+    "remaining": [
+      124
+    ],
+    "studies": [
+      125,
+      164,
+      352
+    ],
+    "that": [
+      126
+    ],
+    "may": [
+      127
+    ],
+    "have": [
+      128
+    ],
+    "still": [
+      129
+    ],
+    "been": [
+      130
+    ],
+    "under": [
+      131
+    ],
+    "review.": [
+      132
+    ],
+    "Meta": [
+      133
+    ],
+    "analytic": [
+      134
+    ],
+    "techniques": [
+      135
+    ],
+    "were": [
+      136,
+      169
+    ],
+    "then": [
+      137
+    ],
+    "estimate": [
+      140
+    ],
+    "each": [
+      144
+    ],
+    "specific": [
+      145
+    ],
+    "disorder,": [
+      147
+    ],
+    "i.e.": [
+      148
+    ],
+    "ADHD,": [
+      149
+    ],
+    "depression,": [
+      150
+    ],
+    "anxiety,": [
+      151
+    ],
+    "stress,": [
+      152
+    ],
+    "eating": [
+      153,
+      284
+    ],
+    "disorders,": [
+      154
+    ],
+    "tobacco": [
+      156,
+      299
+    ],
+    "use": [
+      157,
+      300
+    ],
+    "disorder.": [
+      158
+    ],
+    "Results:": [
+      159
+    ],
+    "total": [
+      161
+    ],
+    "included.": [
+      170
+    ],
+    "pooled": [
+      172,
+      212,
+      247,
+      266,
+      280,
+      296
+    ],
+    "ADHD": [
+      175,
+      180
+    ],
+    "as": [
+      176,
+      270
+    ],
+    "per": [
+      177,
+      271,
+      302
+    ],
+    "Vanderbilt": [
+      179
+    ],
+    "Diagnostic": [
+      181
+    ],
+    "Rating": [
+      182
+    ],
+    "Scale": [
+      183,
+      192,
+      228
+    ],
+    "(VADHDDRS)": [
+      184
+    ],
+    ",": [
+      185
+    ],
+    "clinical": [
+      186
+    ],
+    "judgments,": [
+      187
+    ],
+    "Attention": [
+      188
+    ],
+    "Deficit": [
+      189
+    ],
+    "Disorders": [
+      190
+    ],
+    "Evaluation": [
+      191
+    ],
+    "(ADDES),": [
+      193
+    ],
+    "Strengths": [
+      196
+    ],
+    "Difficulties": [
+      198
+    ],
+    "Questionnaire": [
+      199,
+      222
+    ],
+    "(SDQ)": [
+      200
+    ],
+    "found": [
+      202,
+      275
+    ],
+    "be": [
+      204,
+      277,
+      335,
+      347
+    ],
+    "13.125%,": [
+      205
+    ],
+    "13.38%,": [
+      206
+    ],
+    "26.135%,": [
+      207
+    ],
+    "12.83%,": [
+      209
+    ],
+    "respectively.": [
+      210,
+      245
+    ],
+    "depressive": [
+      215
+    ],
+    "symptoms": [
+      216
+    ],
+    "solicited": [
+      217,
+      285
+    ],
+    "Patient": [
+      220
+    ],
+    "Health": [
+      221
+    ],
+    "(PHQ-9),": [
+      223
+    ],
+    "Depression,": [
+      224
+    ],
+    "Anxiety,": [
+      225
+    ],
+    "Stress": [
+      227
+    ],
+    "(DASS),": [
+      229
+    ],
+    "Mini-International": [
+      231
+    ],
+    "Neuropsychiatric": [
+      232
+    ],
+    "Interview": [
+      233
+    ],
+    "Children": [
+      235
+    ],
+    "Adolescents": [
+      237
+    ],
+    "(MINI": [
+      238
+    ],
+    "Kid)": [
+      239
+    ],
+    "44.684%,": [
+      241
+    ],
+    "45.09%,": [
+      242
+    ],
+    "26.12%,": [
+      244
+    ],
+    "anxiety": [
+      250
+    ],
+    "according": [
+      251
+    ],
+    "DASS": [
+      254,
+      273
+    ],
+    "MINI": [
+      257
+    ],
+    "Kid": [
+      258
+    ],
+    "57.04%": [
+      260
+    ],
+    "17.27%,": [
+      262
+    ],
+    "respectively,": [
+      263
+    ],
+    "while": [
+      264
+    ],
+    "stress": [
+      269
+    ],
+    "43.15%.": [
+      278
+    ],
+    "disordered": [
+      283
+    ],
+    "Eating": [
+      288
+    ],
+    "Attitudes": [
+      289
+    ],
+    "Test": [
+      290
+    ],
+    "(EAT-26)": [
+      291
+    ],
+    "31.55%.": [
+      293
+    ],
+    "Lastly,": [
+      294
+    ],
+    "disorder": [
+      301
+    ],
+    "Global": [
+      304
+    ],
+    "Youth": [
+      305
+    ],
+    "Tobacco": [
+      306
+    ],
+    "Survey": [
+      307
+    ],
+    "19.39%.": [
+      309
+    ],
+    "Discussion:": [
+      310
+    ],
+    "To": [
+      311
+    ],
+    "is": [
+      314
+    ],
+    "first": [
+      316
+    ],
+    "meta-analysis": [
+      320
+    ],
+    "kind": [
+      323
+    ],
+    "GCC.": [
+      326
+    ],
+    "rate": [
+      329
+    ],
+    "appears": [
+      333
+    ],
+    "upper": [
+      338
+    ],
+    "range": [
+      339
+    ],
+    "international": [
+      341
+    ],
+    "trends.": [
+      342
+    ],
+    "higher": [
+      344
+    ],
+    "could": [
+      346
+    ],
+    "attributed": [
+      348
+    ],
+    "using": [
+      353
+    ],
+    "suboptimal": [
+      354
+    ],
+    "methodological": [
+      355
+    ],
+    "approaches": [
+      356
+    ],
+    "instruments": [
+      358
+    ],
+    "solicit": [
+      360
+    ],
+    "presence": [
+      362
+    ],
+    "CAMH.": [
+      364
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2021-05-24T00:00:00"
+}

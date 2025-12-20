@@ -1,0 +1,1647 @@
+{
+  "id": "https://openalex.org/W4387447609",
+  "doi": "https://doi.org/10.4103/jfmpc.jfmpc_185_23",
+  "title": "Knowledge of and attitude toward attention-deficit/ hyperactivity disorder (ADHD) assessed among primary schoolteachers of Makkah City in Saudi Arabia",
+  "display_name": "Knowledge of and attitude toward attention-deficit/ hyperactivity disorder (ADHD) assessed among primary schoolteachers of Makkah City in Saudi Arabia",
+  "publication_year": 2023,
+  "publication_date": "2023-10-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4387447609",
+    "doi": "https://doi.org/10.4103/jfmpc.jfmpc_185_23",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/38074242"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.4103/jfmpc.jfmpc_185_23",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.4103/jfmpc.jfmpc_185_23",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2764801637",
+      "display_name": "Journal of Family Medicine and Primary Care",
+      "issn_l": "2249-4863",
+      "issn": [
+        "2249-4863",
+        "2278-7135"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320448",
+      "host_organization_name": "Medknow",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320448",
+        "https://openalex.org/P4310318547"
+      ],
+      "host_organization_lineage_names": [
+        "Medknow",
+        "Wolters Kluwer"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-sa",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Family Medicine and Primary Care",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.4103/jfmpc.jfmpc_185_23",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5006824167",
+        "display_name": "Hadeel Alshareef",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I199693650",
+          "display_name": "Umm al-Qura University",
+          "ror": "https://ror.org/01xjqrm90",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hadeel H. Alshareef",
+      "raw_affiliation_strings": [
+        "Medical Intern, Umm Al-Qura University, SA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Medical Intern, Umm Al-Qura University, SA",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5012234247",
+        "display_name": "Suha R. Elzahrany",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I199693650",
+          "display_name": "Umm al-Qura University",
+          "ror": "https://ror.org/01xjqrm90",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Suha R. Elzahrany",
+      "raw_affiliation_strings": [
+        "Medical Intern, Umm Al-Qura University, SA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Medical Intern, Umm Al-Qura University, SA",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5038221479",
+        "display_name": "Reem Abdullah Alharthi",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I199693650",
+          "display_name": "Umm al-Qura University",
+          "ror": "https://ror.org/01xjqrm90",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Reem Abdullah Alharthi",
+      "raw_affiliation_strings": [
+        "Medical Intern, Umm Al-Qura University, SA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Medical Intern, Umm Al-Qura University, SA",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5093026817",
+        "display_name": "Amal A. Alsulmai",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I199693650",
+          "display_name": "Umm al-Qura University",
+          "ror": "https://ror.org/01xjqrm90",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Amal A. Alsulmai",
+      "raw_affiliation_strings": [
+        "Medical Intern, Umm Al-Qura University, SA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Medical Intern, Umm Al-Qura University, SA",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079174509",
+        "display_name": "Shuaa Aljabri",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I199693650",
+          "display_name": "Umm al-Qura University",
+          "ror": "https://ror.org/01xjqrm90",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shuaa G. Aljabri",
+      "raw_affiliation_strings": [
+        "Medical Intern, Umm Al-Qura University, SA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Medical Intern, Umm Al-Qura University, SA",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5093026818",
+        "display_name": "Ghadeer E. Alamri",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I199693650",
+          "display_name": "Umm al-Qura University",
+          "ror": "https://ror.org/01xjqrm90",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ghadeer E. Alamri",
+      "raw_affiliation_strings": [
+        "Medical Intern, Umm Al-Qura University, SA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Medical Intern, Umm Al-Qura University, SA",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5026821585",
+        "display_name": "Ibrahim Alharbi",
+        "orcid": "https://orcid.org/0000-0002-2406-4311"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I199693650",
+          "display_name": "Umm al-Qura University",
+          "ror": "https://ror.org/01xjqrm90",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ibrahim Alharbi",
+      "raw_affiliation_strings": [
+        "Consultant Pediatric Hematology Oncology, Department of Pediatrics, Umm Al-Qura University, SA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Consultant Pediatric Hematology Oncology, Department of Pediatrics, Umm Al-Qura University, SA",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5054197659",
+        "display_name": "Amal Alkhotani",
+        "orcid": "https://orcid.org/0000-0001-8310-1875"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I199693650",
+          "display_name": "Umm al-Qura University",
+          "ror": "https://ror.org/01xjqrm90",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Amal M. Alkhotani",
+      "raw_affiliation_strings": [
+        "Consultant Neurology, Internal Medicine Department, Umm Al-Qura University, SA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Consultant Neurology, Internal Medicine Department, Umm Al-Qura University, SA",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 450,
+    "currency": "USD",
+    "value_usd": 450
+  },
+  "apc_paid": {
+    "value": 450,
+    "currency": "USD",
+    "value_usd": 450
+  },
+  "fwci": 0.37789755,
+  "has_fulltext": false,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.58610193,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 91,
+    "max": 95
+  },
+  "biblio": {
+    "volume": "12",
+    "issue": "10",
+    "first_page": "2230",
+    "last_page": "2236"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10537",
+    "display_name": "Attention Deficit Hyperactivity Disorder",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12241",
+      "display_name": "Children's Physical and Motor Development",
+      "score": 0.9282000064849854,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.7517932653427124
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "score": 0.622469425201416
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit",
+      "display_name": "Attention deficit",
+      "score": 0.5874492526054382
+    },
+    {
+      "id": "https://openalex.org/keywords/stratified-sampling",
+      "display_name": "Stratified sampling",
+      "score": 0.546072781085968
+    },
+    {
+      "id": "https://openalex.org/keywords/inclusion",
+      "display_name": "Inclusion (mineral)",
+      "score": 0.5141518712043762
+    },
+    {
+      "id": "https://openalex.org/keywords/notice",
+      "display_name": "Notice",
+      "score": 0.499009370803833
+    },
+    {
+      "id": "https://openalex.org/keywords/impulsivity",
+      "display_name": "Impulsivity",
+      "score": 0.4817773997783661
+    },
+    {
+      "id": "https://openalex.org/keywords/bachelor",
+      "display_name": "Bachelor",
+      "score": 0.417320191860199
+    },
+    {
+      "id": "https://openalex.org/keywords/attendance",
+      "display_name": "Attendance",
+      "score": 0.41542887687683105
+    },
+    {
+      "id": "https://openalex.org/keywords/pediatrics",
+      "display_name": "Pediatrics",
+      "score": 0.4029543399810791
+    },
+    {
+      "id": "https://openalex.org/keywords/family-medicine",
+      "display_name": "Family medicine",
+      "score": 0.3638879060745239
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.3561798334121704
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.17813315987586975
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.7517932653427124
+    },
+    {
+      "id": "https://openalex.org/C2780783007",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "level": 2,
+      "score": 0.622469425201416
+    },
+    {
+      "id": "https://openalex.org/C3017694942",
+      "wikidata": "https://www.wikidata.org/wiki/Q16254243",
+      "display_name": "Attention deficit",
+      "level": 3,
+      "score": 0.5874492526054382
+    },
+    {
+      "id": "https://openalex.org/C49898467",
+      "wikidata": "https://www.wikidata.org/wiki/Q1517706",
+      "display_name": "Stratified sampling",
+      "level": 2,
+      "score": 0.546072781085968
+    },
+    {
+      "id": "https://openalex.org/C109359841",
+      "wikidata": "https://www.wikidata.org/wiki/Q728944",
+      "display_name": "Inclusion (mineral)",
+      "level": 2,
+      "score": 0.5141518712043762
+    },
+    {
+      "id": "https://openalex.org/C2779913896",
+      "wikidata": "https://www.wikidata.org/wiki/Q7063001",
+      "display_name": "Notice",
+      "level": 2,
+      "score": 0.499009370803833
+    },
+    {
+      "id": "https://openalex.org/C2780319597",
+      "wikidata": "https://www.wikidata.org/wiki/Q1549918",
+      "display_name": "Impulsivity",
+      "level": 2,
+      "score": 0.4817773997783661
+    },
+    {
+      "id": "https://openalex.org/C2777626052",
+      "wikidata": "https://www.wikidata.org/wiki/Q516445",
+      "display_name": "Bachelor",
+      "level": 2,
+      "score": 0.417320191860199
+    },
+    {
+      "id": "https://openalex.org/C2778173179",
+      "wikidata": "https://www.wikidata.org/wiki/Q25339289",
+      "display_name": "Attendance",
+      "level": 2,
+      "score": 0.41542887687683105
+    },
+    {
+      "id": "https://openalex.org/C187212893",
+      "wikidata": "https://www.wikidata.org/wiki/Q123028",
+      "display_name": "Pediatrics",
+      "level": 1,
+      "score": 0.4029543399810791
+    },
+    {
+      "id": "https://openalex.org/C512399662",
+      "wikidata": "https://www.wikidata.org/wiki/Q3505712",
+      "display_name": "Family medicine",
+      "level": 1,
+      "score": 0.3638879060745239
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.3561798334121704
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.17813315987586975
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C95457728",
+      "wikidata": "https://www.wikidata.org/wiki/Q309",
+      "display_name": "History",
+      "level": 0,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C50522688",
+      "wikidata": "https://www.wikidata.org/wiki/Q189833",
+      "display_name": "Economic growth",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.4103/jfmpc.jfmpc_185_23",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.4103/jfmpc.jfmpc_185_23",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764801637",
+        "display_name": "Journal of Family Medicine and Primary Care",
+        "issn_l": "2249-4863",
+        "issn": [
+          "2249-4863",
+          "2278-7135"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320448",
+        "host_organization_name": "Medknow",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320448",
+          "https://openalex.org/P4310318547"
+        ],
+        "host_organization_lineage_names": [
+          "Medknow",
+          "Wolters Kluwer"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Family Medicine and Primary Care",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:38074242",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38074242",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of family medicine and primary care",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:10706538",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10706538",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10706538/pdf/JFMPC-12-2230.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "J Family Med Prim Care",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:9df20f5b6e73400292d69701c6974511",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/9df20f5b6e73400292d69701c6974511",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Journal of Family Medicine and Primary Care, Vol 12, Iss 10, Pp 2230-2236 (2023)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.4103/jfmpc.jfmpc_185_23",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.4103/jfmpc.jfmpc_185_23",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2764801637",
+      "display_name": "Journal of Family Medicine and Primary Care",
+      "issn_l": "2249-4863",
+      "issn": [
+        "2249-4863",
+        "2278-7135"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320448",
+      "host_organization_name": "Medknow",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320448",
+        "https://openalex.org/P4310318547"
+      ],
+      "host_organization_lineage_names": [
+        "Medknow",
+        "Wolters Kluwer"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-sa",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Family Medicine and Primary Care",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality Education",
+      "score": 0.7400000095367432
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 28,
+  "referenced_works": [
+    "https://openalex.org/W1502167289",
+    "https://openalex.org/W3136500840",
+    "https://openalex.org/W1980918499",
+    "https://openalex.org/W2128947758",
+    "https://openalex.org/W3153619923",
+    "https://openalex.org/W2914432411",
+    "https://openalex.org/W2460381342",
+    "https://openalex.org/W3143188720",
+    "https://openalex.org/W6683060861",
+    "https://openalex.org/W2156099646",
+    "https://openalex.org/W2087540629",
+    "https://openalex.org/W2168573133",
+    "https://openalex.org/W2175657071",
+    "https://openalex.org/W2134732612",
+    "https://openalex.org/W2130067431",
+    "https://openalex.org/W2137683876",
+    "https://openalex.org/W2032407988",
+    "https://openalex.org/W2149209582",
+    "https://openalex.org/W2071341057",
+    "https://openalex.org/W2809531530",
+    "https://openalex.org/W6685630244",
+    "https://openalex.org/W2097105065",
+    "https://openalex.org/W2186808908",
+    "https://openalex.org/W2342665467",
+    "https://openalex.org/W2049030947",
+    "https://openalex.org/W2073949980",
+    "https://openalex.org/W6719000963",
+    "https://openalex.org/W2158580402"
+  ],
+  "related_works": [
+    "https://openalex.org/W3021421850",
+    "https://openalex.org/W2273708893",
+    "https://openalex.org/W2558143208",
+    "https://openalex.org/W2565069998",
+    "https://openalex.org/W4311161459",
+    "https://openalex.org/W2142077514",
+    "https://openalex.org/W1566344982",
+    "https://openalex.org/W2157295589",
+    "https://openalex.org/W2241928968",
+    "https://openalex.org/W2262413050"
+  ],
+  "abstract_inverted_index": {
+    "18": [
+      157
+    ],
+    "20": [
+      204
+    ],
+    "59": [
+      159
+    ],
+    "335": [
+      145
+    ],
+    "A": [
+      0
+    ],
+    "BSTRACT": [
+      1
+    ],
+    "Background:": [
+      2
+    ],
+    "One": [
+      3
+    ],
+    "of": [
+      4,
+      20,
+      52,
+      60,
+      84,
+      91,
+      95,
+      152,
+      172,
+      177,
+      196,
+      213,
+      219,
+      223,
+      230,
+      234,
+      251,
+      256,
+      267,
+      283,
+      286,
+      297,
+      301,
+      313,
+      328
+    ],
+    "the": [
+      5,
+      69,
+      110,
+      135,
+      153,
+      162,
+      178,
+      194,
+      220,
+      224,
+      272,
+      318,
+      333,
+      343
+    ],
+    "most": [
+      6
+    ],
+    "prevalent": [
+      7
+    ],
+    "pediatric": [
+      8
+    ],
+    "medical": [
+      9
+    ],
+    "conditions": [
+      10
+    ],
+    "is": [
+      11,
+      16
+    ],
+    "attention-deficit/hyperactivity": [
+      12
+    ],
+    "disorder": [
+      13
+    ],
+    "(ADHD).": [
+      14
+    ],
+    "It": [
+      15
+    ],
+    "characterized": [
+      17
+    ],
+    "by": [
+      18
+    ],
+    "symptoms": [
+      19,
+      33,
+      268
+    ],
+    "hyperactivity,": [
+      21
+    ],
+    "impulsivity,": [
+      22
+    ],
+    "and/or": [
+      23
+    ],
+    "inattention.": [
+      24
+    ],
+    "The": [
+      25,
+      50,
+      78,
+      150,
+      311
+    ],
+    "first": [
+      26
+    ],
+    "people": [
+      27
+    ],
+    "to": [
+      28,
+      56,
+      105,
+      147,
+      158,
+      260,
+      317
+    ],
+    "notice": [
+      29
+    ],
+    "a": [
+      30,
+      100,
+      119,
+      184,
+      227,
+      264,
+      289,
+      304
+    ],
+    "child’s": [
+      31
+    ],
+    "ADHD": [
+      32,
+      239,
+      257
+    ],
+    "are": [
+      34,
+      44
+    ],
+    "typically": [
+      35,
+      45
+    ],
+    "their": [
+      36,
+      280
+    ],
+    "teachers,": [
+      37,
+      221
+    ],
+    "who": [
+      38,
+      115,
+      123,
+      262
+    ],
+    "may": [
+      39
+    ],
+    "then": [
+      40
+    ],
+    "offer": [
+      41
+    ],
+    "data": [
+      42
+    ],
+    "that": [
+      43,
+      73,
+      238,
+      320
+    ],
+    "helpful": [
+      46
+    ],
+    "in": [
+      47,
+      88,
+      118,
+      127,
+      180,
+      348
+    ],
+    "its": [
+      48,
+      62
+    ],
+    "diagnosis.": [
+      49,
+      270
+    ],
+    "purpose": [
+      51
+    ],
+    "this": [
+      53,
+      181,
+      314,
+      349
+    ],
+    "study": [
+      54,
+      79,
+      315
+    ],
+    "was": [
+      55,
+      80,
+      132,
+      276
+    ],
+    "assess": [
+      57
+    ],
+    "teachers’": [
+      58,
+      273
+    ],
+    "knowledge": [
+      59,
+      218,
+      255,
+      281,
+      298
+    ],
+    "ADHD,": [
+      61,
+      340
+    ],
+    "causes": [
+      63
+    ],
+    "and": [
+      64,
+      122,
+      188,
+      245,
+      248,
+      269,
+      335
+    ],
+    "etiology,": [
+      65
+    ],
+    "as": [
+      66,
+      68
+    ],
+    "well": [
+      67
+    ],
+    "key": [
+      70
+    ],
+    "demographic": [
+      71
+    ],
+    "factors": [
+      72
+    ],
+    "influence": [
+      74
+    ],
+    "said": [
+      75
+    ],
+    "knowledge.": [
+      76,
+      231
+    ],
+    "Method:": [
+      77
+    ],
+    "conducted": [
+      81
+    ],
+    "among": [
+      82
+    ],
+    "schoolteachers": [
+      83
+    ],
+    "primary": [
+      85,
+      120
+    ],
+    "schools": [
+      86
+    ],
+    "located": [
+      87
+    ],
+    "different": [
+      89
+    ],
+    "regions": [
+      90
+    ],
+    "Makkah": [
+      92
+    ],
+    "City,": [
+      93
+    ],
+    "Kingdom": [
+      94
+    ],
+    "Saudi": [
+      96
+    ],
+    "Arabia.": [
+      97
+    ],
+    "We": [
+      98,
+      143
+    ],
+    "used": [
+      99
+    ],
+    "stratified": [
+      101
+    ],
+    "random": [
+      102
+    ],
+    "sampling": [
+      103
+    ],
+    "technique": [
+      104
+    ],
+    "collect": [
+      106
+    ],
+    "our": [
+      107,
+      148
+    ],
+    "sample,": [
+      108
+    ],
+    "with": [
+      109,
+      161,
+      243,
+      279,
+      288,
+      303,
+      339
+    ],
+    "inclusion": [
+      111
+    ],
+    "criteria": [
+      112
+    ],
+    "being": [
+      113,
+      165
+    ],
+    "teachers": [
+      114,
+      173,
+      179,
+      225,
+      235,
+      252,
+      287,
+      331
+    ],
+    "were": [
+      116,
+      124,
+      174,
+      236
+    ],
+    "working": [
+      117
+    ],
+    "school": [
+      121,
+      322
+    ],
+    "directly": [
+      125
+    ],
+    "involved": [
+      126
+    ],
+    "teaching": [
+      128,
+      197,
+      201,
+      214
+    ],
+    "students.": [
+      129
+    ],
+    "Data": [
+      130
+    ],
+    "analysis": [
+      131
+    ],
+    "performed": [
+      133
+    ],
+    "using": [
+      134
+    ],
+    "IBM": [
+      136
+    ],
+    "SPSS": [
+      137
+    ],
+    "Statistics": [
+      138
+    ],
+    "software": [
+      139
+    ],
+    "version": [
+      140
+    ],
+    "21.": [
+      141
+    ],
+    "Results:": [
+      142
+    ],
+    "received": [
+      144
+    ],
+    "responses": [
+      146
+    ],
+    "questionnaire.": [
+      149
+    ],
+    "age": [
+      151,
+      164
+    ],
+    "participants": [
+      154
+    ],
+    "ranged": [
+      155
+    ],
+    "from": [
+      156
+    ],
+    "years,": [
+      160,
+      205
+    ],
+    "mean": [
+      163
+    ],
+    "40.2": [
+      166
+    ],
+    "±": [
+      167
+    ],
+    "13.8": [
+      168
+    ],
+    "years.": [
+      169
+    ],
+    "About": [
+      170
+    ],
+    "66.9%": [
+      171
+    ],
+    "women.": [
+      175
+    ],
+    "Most": [
+      176
+    ],
+    "sample": [
+      182
+    ],
+    "had": [
+      183,
+      191,
+      200,
+      208,
+      226,
+      253,
+      263,
+      292
+    ],
+    "bachelor’s": [
+      185
+    ],
+    "degree": [
+      186,
+      291
+    ],
+    "(73.4%),": [
+      187
+    ],
+    "only": [
+      189,
+      249
+    ],
+    "21.8%": [
+      190
+    ],
+    "diplomas.": [
+      192
+    ],
+    "Regarding": [
+      193,
+      216
+    ],
+    "years": [
+      195,
+      212
+    ],
+    "experience,": [
+      198
+    ],
+    "34.6%": [
+      199
+    ],
+    "experience": [
+      202
+    ],
+    "exceeding": [
+      203
+    ],
+    "whereas": [
+      206
+    ],
+    "20.6%": [
+      207
+    ],
+    "less": [
+      209
+    ],
+    "than": [
+      210
+    ],
+    "five": [
+      211
+    ],
+    "experience.": [
+      215
+    ],
+    "general": [
+      217,
+      336
+    ],
+    "(5.4%)": [
+      222
+    ],
+    "good": [
+      228,
+      254,
+      265,
+      295
+    ],
+    "level": [
+      229,
+      275,
+      282,
+      296
+    ],
+    "Only": [
+      232,
+      271
+    ],
+    "63.6%": [
+      233
+    ],
+    "aware": [
+      237
+    ],
+    "students": [
+      240
+    ],
+    "frequently": [
+      241
+    ],
+    "struggled": [
+      242
+    ],
+    "task": [
+      244
+    ],
+    "activity": [
+      246
+    ],
+    "organization,": [
+      247
+    ],
+    "7.5%": [
+      250
+    ],
+    "treatment,": [
+      258
+    ],
+    "compared": [
+      259
+    ],
+    "40.9%": [
+      261
+    ],
+    "awareness": [
+      266
+    ],
+    "education": [
+      274
+    ],
+    "significantly": [
+      277
+    ],
+    "associated": [
+      278,
+      338
+    ],
+    "ADHD:": [
+      284
+    ],
+    "25%": [
+      285
+    ],
+    "postgraduate": [
+      290
+    ],
+    "an": [
+      293,
+      325
+    ],
+    "overall": [
+      294
+    ],
+    "versus": [
+      299
+    ],
+    "2.7%": [
+      300
+    ],
+    "those": [
+      302
+    ],
+    "diploma": [
+      305
+    ],
+    "(": [
+      306
+    ],
+    "P": [
+      307
+    ],
+    "=": [
+      308
+    ],
+    "0.006)": [
+      309
+    ],
+    "Conclusion:": [
+      310
+    ],
+    "findings": [
+      312
+    ],
+    "lead": [
+      316
+    ],
+    "conclusion": [
+      319
+    ],
+    "elementary": [
+      321
+    ],
+    "instructors": [
+      323
+    ],
+    "have": [
+      324
+    ],
+    "inadequate": [
+      326
+    ],
+    "understanding": [
+      327
+    ],
+    "ADHD.": [
+      329
+    ],
+    "Some": [
+      330
+    ],
+    "misunderstand": [
+      332
+    ],
+    "signs": [
+      334
+    ],
+    "facts": [
+      337
+    ],
+    "thereby": [
+      341
+    ],
+    "indicating": [
+      342
+    ],
+    "need": [
+      344
+    ],
+    "for": [
+      345
+    ],
+    "further": [
+      346
+    ],
+    "training": [
+      347
+    ],
+    "area.": [
+      350
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

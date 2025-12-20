@@ -128,8 +128,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.1186__s13034-020-00351-5.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.1186__s13034-020-00351-5.pdf",
+    "sourceUrl": "https://capmh.biomedcentral.com/track/pdf/10.1186/s13034-020-00351-5",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

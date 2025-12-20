@@ -46,7 +46,9 @@
   ],
   "access": {
     "status": "open",
-    "localPdfUrl": "library/doi__10.3389__fnbeh.2021.686873.pdf"
+    "localPdfUrl": "library/doi__10.3389__fnbeh.2021.686873.pdf",
+    "sourceUrl": "https://www.frontiersin.org/articles/10.3389/fnbeh.2021.686873/pdf",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

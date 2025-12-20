@@ -14,8 +14,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.21608__sero.2017.91733.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.21608__sero.2017.91733.pdf",
+    "sourceUrl": "http://sero.journals.ekb.eg/article_91733_ed2ea0ef7e01f18c7a7873fc097b2227.pdf",
+    "license": "cc-by-nc"
   },
   "visibility": {
     "hidden": false

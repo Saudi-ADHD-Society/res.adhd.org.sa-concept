@@ -68,8 +68,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.1016__j.ijpam.2017.02.003.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.1016__j.ijpam.2017.02.003.pdf",
+    "sourceUrl": "https://doi.org/10.1016/j.ijpam.2017.02.003",
+    "license": "cc-by-nc-nd"
   },
   "visibility": {
     "hidden": false

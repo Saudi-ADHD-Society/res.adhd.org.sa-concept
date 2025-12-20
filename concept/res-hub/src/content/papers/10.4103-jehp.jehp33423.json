@@ -2,7 +2,7 @@
   "doi": "10.4103/jehp.jehp_334_23",
   "slug": "10.4103-jehp.jehp33423",
   "title": "Relationship between attention deficit hyperactive disorders with life satisfaction among medical students in city of Hail, KSA",
-  "abstract": "<strong>Background:</strong>",
+  "abstract": "BACKGROUND: Attention deficit hyperactive disorder (ADHD) begins in childhood, and its symptoms persist into adulthood. Students with ADHD symptoms will be at increased risk of antisocial behavior, depression, and loss of inhibition. This study determines the relationship between ADHD and life satisfaction level among medical students in the city of Hail, KSA. MATERIALS AND METHODS: This is a cross-sectional study that was conducted in a public-sector medical college. A total of 200 students were recruited through stratified cluster sampling. Validated, structured scales of ADHD and life satisfaction were used, and known psychiatric disorders among students were excluded from the study. Correlation and linear regression analyses were used to determine the relationship between ADHD and life satisfaction and identify the determinants of ADHD. P value &lt; 0.05 was considered statistically significant. RESULT: The prevalence rate of ADHD among medical students was 33.3%. Female gender, third-year academic year student, and 21–26-year-old age group were the high-risk groups of ADHD. Inattention ( r = -0.263, P value -0.000) and hyperactivity ( r = -0.260, P value 0.000) were significantly correlated with life satisfaction level, with 92% of the variability in life satisfaction determined by inattention and hyperactivity. CONCLUSION: The burden of ADHD is high among medical students, and it negatively correlates with life satisfaction level. Students' academic and social functioning was affected due to ADHD. There is a need to address this issue with early diagnosis and management of this disorder.",
   "categories": [
     "Uncategorized"
   ],
@@ -29,8 +29,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.4103__jehp.jehp_334_23.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.4103__jehp.jehp_334_23.pdf",
+    "sourceUrl": "https://doi.org/10.4103/jehp.jehp_334_23",
+    "license": "cc-by-nc-sa"
   },
   "visibility": {
     "hidden": false

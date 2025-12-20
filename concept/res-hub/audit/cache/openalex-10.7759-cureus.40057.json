@@ -1,0 +1,1243 @@
+{
+  "id": "https://openalex.org/W4379538063",
+  "doi": "https://doi.org/10.7759/cureus.40057",
+  "title": "Factors Affecting Knowledge of Attention-Deficit Hyperactivity Disorder Among Female Primary Schoolteachers in Taif City, Saudi Arabia",
+  "display_name": "Factors Affecting Knowledge of Attention-Deficit Hyperactivity Disorder Among Female Primary Schoolteachers in Taif City, Saudi Arabia",
+  "publication_year": 2023,
+  "publication_date": "2023-06-06",
+  "ids": {
+    "openalex": "https://openalex.org/W4379538063",
+    "doi": "https://doi.org/10.7759/cureus.40057",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/37425535"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.7759/cureus.40057",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.7759/cureus.40057",
+    "pdf_url": "https://assets.cureus.com/uploads/original_article/pdf/161168/20230606-20985-1rp6e2z.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738950867",
+      "display_name": "Cureus",
+      "issn_l": "2168-8184",
+      "issn": [
+        "2168-8184"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310316779",
+      "host_organization_name": "Cureus, Inc.",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310316779"
+      ],
+      "host_organization_lineage_names": [
+        "Cureus, Inc."
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cureus",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://assets.cureus.com/uploads/original_article/pdf/161168/20230606-20985-1rp6e2z.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5067787216",
+        "display_name": "Razan Alzahrani",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210133001",
+          "display_name": "Ministry of Health",
+          "ror": "https://ror.org/03xh40058",
+          "country_code": "AE",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210133001"
+          ]
+        }
+      ],
+      "countries": [
+        "AE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Razan H Alzahrani",
+      "raw_affiliation_strings": [
+        ". Preventive Medicine, Ministry of Health, Taif, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": ". Preventive Medicine, Ministry of Health, Taif, SAU",
+          "institution_ids": [
+            "https://openalex.org/I4210133001"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5054216619",
+        "display_name": "Nesrin K. Abd El-Fatah",
+        "orcid": "https://orcid.org/0000-0002-7726-7411"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210133001",
+          "display_name": "Ministry of Health",
+          "ror": "https://ror.org/03xh40058",
+          "country_code": "AE",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210133001"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I84524832",
+          "display_name": "Alexandria University",
+          "ror": "https://ror.org/00mzz1w90",
+          "country_code": "EG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I84524832"
+          ]
+        }
+      ],
+      "countries": [
+        "AE",
+        "EG"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Nesrin K Abd El-Fatah",
+      "raw_affiliation_strings": [
+        ". Preventive Medicine, Alexandria University, Alexandria, EGY",
+        ". Preventive Medicine, Ministry of Health, Taif, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": ". Preventive Medicine, Alexandria University, Alexandria, EGY",
+          "institution_ids": [
+            "https://openalex.org/I84524832"
+          ]
+        },
+        {
+          "raw_affiliation_string": ". Preventive Medicine, Ministry of Health, Taif, SAU",
+          "institution_ids": [
+            "https://openalex.org/I4210133001"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5054216619"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210133001",
+    "https://openalex.org/I84524832"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 2.2673853,
+  "has_fulltext": true,
+  "cited_by_count": 6,
+  "citation_normalized_percentile": {
+    "value": 0.82118924,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "15",
+    "issue": "6",
+    "first_page": "e40057",
+    "last_page": "e40057"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10537",
+    "display_name": "Attention Deficit Hyperactivity Disorder",
+    "score": 1,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "score": 0.7018042802810669
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.6409609317779541
+    },
+    {
+      "id": "https://openalex.org/keywords/arabic",
+      "display_name": "Arabic",
+      "score": 0.5547903776168823
+    },
+    {
+      "id": "https://openalex.org/keywords/stratified-sampling",
+      "display_name": "Stratified sampling",
+      "score": 0.5124859809875488
+    },
+    {
+      "id": "https://openalex.org/keywords/cross-sectional-study",
+      "display_name": "Cross-sectional study",
+      "score": 0.44647303223609924
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.4323037564754486
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.40599048137664795
+    },
+    {
+      "id": "https://openalex.org/keywords/family-medicine",
+      "display_name": "Family medicine",
+      "score": 0.3229716718196869
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2780783007",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "level": 2,
+      "score": 0.7018042802810669
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.6409609317779541
+    },
+    {
+      "id": "https://openalex.org/C96455323",
+      "wikidata": "https://www.wikidata.org/wiki/Q13955",
+      "display_name": "Arabic",
+      "level": 2,
+      "score": 0.5547903776168823
+    },
+    {
+      "id": "https://openalex.org/C49898467",
+      "wikidata": "https://www.wikidata.org/wiki/Q1517706",
+      "display_name": "Stratified sampling",
+      "level": 2,
+      "score": 0.5124859809875488
+    },
+    {
+      "id": "https://openalex.org/C142052008",
+      "wikidata": "https://www.wikidata.org/wiki/Q954027",
+      "display_name": "Cross-sectional study",
+      "level": 2,
+      "score": 0.44647303223609924
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.4323037564754486
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.40599048137664795
+    },
+    {
+      "id": "https://openalex.org/C512399662",
+      "wikidata": "https://www.wikidata.org/wiki/Q3505712",
+      "display_name": "Family medicine",
+      "level": 1,
+      "score": 0.3229716718196869
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.7759/cureus.40057",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.7759/cureus.40057",
+      "pdf_url": "https://assets.cureus.com/uploads/original_article/pdf/161168/20230606-20985-1rp6e2z.pdf",
+      "source": {
+        "id": "https://openalex.org/S2738950867",
+        "display_name": "Cureus",
+        "issn_l": "2168-8184",
+        "issn": [
+          "2168-8184"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310316779",
+        "host_organization_name": "Cureus, Inc.",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310316779"
+        ],
+        "host_organization_lineage_names": [
+          "Cureus, Inc."
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cureus",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:37425535",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37425535",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cureus",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:10325820",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10325820",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10325820/pdf/cureus-0015-00000040057.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Cureus",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.7759/cureus.40057",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.7759/cureus.40057",
+    "pdf_url": "https://assets.cureus.com/uploads/original_article/pdf/161168/20230606-20985-1rp6e2z.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738950867",
+      "display_name": "Cureus",
+      "issn_l": "2168-8184",
+      "issn": [
+        "2168-8184"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310316779",
+      "host_organization_name": "Cureus, Inc.",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310316779"
+      ],
+      "host_organization_lineage_names": [
+        "Cureus, Inc."
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cureus",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Quality Education",
+      "score": 0.7599999904632568,
+      "id": "https://metadata.un.org/sdg/4"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 38,
+  "referenced_works": [
+    "https://openalex.org/W200268749",
+    "https://openalex.org/W4366549485",
+    "https://openalex.org/W2110102516",
+    "https://openalex.org/W3161049352",
+    "https://openalex.org/W2011619810",
+    "https://openalex.org/W2186808908",
+    "https://openalex.org/W2128947758",
+    "https://openalex.org/W2914877710",
+    "https://openalex.org/W2914917294",
+    "https://openalex.org/W2041549689",
+    "https://openalex.org/W7045478112",
+    "https://openalex.org/W4213383170",
+    "https://openalex.org/W2037112455",
+    "https://openalex.org/W1551232278",
+    "https://openalex.org/W2561928681",
+    "https://openalex.org/W2158580402",
+    "https://openalex.org/W2175657071",
+    "https://openalex.org/W2149209582",
+    "https://openalex.org/W2914432411",
+    "https://openalex.org/W1491181815",
+    "https://openalex.org/W2071341057",
+    "https://openalex.org/W2809531530",
+    "https://openalex.org/W3143188720",
+    "https://openalex.org/W2908889628",
+    "https://openalex.org/W3046778354",
+    "https://openalex.org/W2685635267",
+    "https://openalex.org/W2069759727",
+    "https://openalex.org/W2516149937",
+    "https://openalex.org/W3033426079",
+    "https://openalex.org/W2342665467",
+    "https://openalex.org/W994148522",
+    "https://openalex.org/W2130067431",
+    "https://openalex.org/W2168573133",
+    "https://openalex.org/W2041466303",
+    "https://openalex.org/W2333579950",
+    "https://openalex.org/W2779225753",
+    "https://openalex.org/W2976673533",
+    "https://openalex.org/W2162012775"
+  ],
+  "related_works": [
+    "https://openalex.org/W2373268560",
+    "https://openalex.org/W1495904142",
+    "https://openalex.org/W4249048193",
+    "https://openalex.org/W2356880469",
+    "https://openalex.org/W2348862395",
+    "https://openalex.org/W3000360420",
+    "https://openalex.org/W2164051890",
+    "https://openalex.org/W2770035612",
+    "https://openalex.org/W1833402893",
+    "https://openalex.org/W2370014976"
+  ],
+  "abstract_inverted_index": {
+    "359": [
+      65
+    ],
+    "Background": [
+      0
+    ],
+    "Attention-deficit": [
+      1
+    ],
+    "hyperactivity": [
+      2
+    ],
+    "disorder": [
+      3
+    ],
+    "(ADHD)": [
+      4
+    ],
+    "is": [
+      5,
+      24,
+      141,
+      257,
+      294
+    ],
+    "a": [
+      6,
+      25,
+      137,
+      169,
+      205,
+      244
+    ],
+    "public": [
+      7
+    ],
+    "health": [
+      8
+    ],
+    "challenge": [
+      9
+    ],
+    "because": [
+      10
+    ],
+    "it": [
+      11,
+      100,
+      256
+    ],
+    "may": [
+      12
+    ],
+    "contribute": [
+      13
+    ],
+    "to": [
+      14,
+      42,
+      260,
+      277
+    ],
+    "academic": [
+      15
+    ],
+    "and": [
+      16,
+      76,
+      79,
+      91,
+      119,
+      132,
+      134,
+      162,
+      179,
+      213,
+      280,
+      291
+    ],
+    "psychological": [
+      17
+    ],
+    "difficulties": [
+      18,
+      191
+    ],
+    "among": [
+      19,
+      49,
+      145,
+      250
+    ],
+    "school": [
+      20
+    ],
+    "children.": [
+      21,
+      166
+    ],
+    "Though": [
+      22
+    ],
+    "ADHD": [
+      23,
+      47,
+      89,
+      95,
+      165,
+      178,
+      202,
+      211,
+      220,
+      249
+    ],
+    "common": [
+      26
+    ],
+    "problem,": [
+      27
+    ],
+    "Taif": [
+      28,
+      54,
+      251
+    ],
+    "teachers'": [
+      29,
+      175,
+      227,
+      262
+    ],
+    "knowledge": [
+      30,
+      48,
+      87,
+      111,
+      127,
+      144,
+      176,
+      195,
+      228,
+      246,
+      263
+    ],
+    "of": [
+      31,
+      85,
+      88,
+      105,
+      112,
+      128,
+      177,
+      207,
+      219,
+      264
+    ],
+    "the": [
+      32,
+      81,
+      86,
+      129,
+      217,
+      285
+    ],
+    "disease": [
+      33
+    ],
+    "has": [
+      34,
+      224
+    ],
+    "never": [
+      35,
+      199
+    ],
+    "been": [
+      36
+    ],
+    "assessed.": [
+      37
+    ],
+    "Therefore,": [
+      38,
+      255
+    ],
+    "this": [
+      39
+    ],
+    "study": [
+      40,
+      61,
+      239
+    ],
+    "aimed": [
+      41
+    ],
+    "determine": [
+      43
+    ],
+    "factors": [
+      44
+    ],
+    "that": [
+      45,
+      103,
+      185,
+      241,
+      297
+    ],
+    "influence": [
+      46
+    ],
+    "female": [
+      50,
+      66,
+      106,
+      186,
+      252
+    ],
+    "primary": [
+      51,
+      107,
+      253
+    ],
+    "schoolteachers": [
+      52,
+      67,
+      108,
+      187
+    ],
+    "in": [
+      53,
+      153,
+      189,
+      210,
+      216
+    ],
+    "City,": [
+      55
+    ],
+    "Saudi": [
+      56
+    ],
+    "Arabia.": [
+      57
+    ],
+    "Methods": [
+      58
+    ],
+    "This": [
+      59
+    ],
+    "cross-sectional": [
+      60
+    ],
+    "was": [
+      62,
+      101,
+      168,
+      243
+    ],
+    "conducted": [
+      63
+    ],
+    "on": [
+      64,
+      248,
+      305
+    ],
+    "recruited": [
+      68
+    ],
+    "by": [
+      69
+    ],
+    "stratified": [
+      70
+    ],
+    "random": [
+      71
+    ],
+    "sampling.": [
+      72
+    ],
+    "Participants": [
+      73
+    ],
+    "self-reported": [
+      74
+    ],
+    "demographic": [
+      75
+    ],
+    "personal": [
+      77
+    ],
+    "data": [
+      78
+    ],
+    "completed": [
+      80
+    ],
+    "validated": [
+      82
+    ],
+    "Arabic": [
+      83
+    ],
+    "version": [
+      84
+    ],
+    "scale": [
+      90
+    ],
+    "teacher's": [
+      92
+    ],
+    "attitude": [
+      93
+    ],
+    "toward": [
+      94
+    ],
+    "questionnaires.": [
+      96
+    ],
+    "Results": [
+      97
+    ],
+    "In": [
+      98,
+      122
+    ],
+    "Taif,": [
+      99
+    ],
+    "determined": [
+      102
+    ],
+    "96.4%": [
+      104
+    ],
+    "had": [
+      109,
+      125,
+      204
+    ],
+    "insufficient": [
+      110
+    ],
+    "ADHD,": [
+      113,
+      161,
+      265,
+      279
+    ],
+    "notably": [
+      114
+    ],
+    "with": [
+      115
+    ],
+    "nature,": [
+      116
+    ],
+    "causes,": [
+      117
+    ],
+    "consequences,": [
+      118
+    ],
+    "treatment": [
+      120
+    ],
+    "knowledge.": [
+      121
+    ],
+    "contrast,": [
+      123
+    ],
+    "40%": [
+      124
+    ],
+    "adequate": [
+      126
+    ],
+    "condition's": [
+      130
+    ],
+    "symptoms": [
+      131
+    ],
+    "diagnosis,": [
+      133
+    ],
+    "97.5%": [
+      135
+    ],
+    "exhibited": [
+      136
+    ],
+    "favorable": [
+      138
+    ],
+    "attitude.": [
+      139,
+      181
+    ],
+    "There": [
+      140,
+      167
+    ],
+    "significantly": [
+      142,
+      193,
+      225
+    ],
+    "higher": [
+      143,
+      194
+    ],
+    "private": [
+      146
+    ],
+    "schoolteachers,": [
+      147
+    ],
+    "those": [
+      148
+    ],
+    "who": [
+      149,
+      156,
+      198
+    ],
+    "freshly": [
+      150
+    ],
+    "graduated,": [
+      151
+    ],
+    "specialize": [
+      152
+    ],
+    "learning": [
+      154,
+      190
+    ],
+    "difficulties,": [
+      155
+    ],
+    "attended": [
+      157
+    ],
+    "any": [
+      158,
+      214
+    ],
+    "course/training": [
+      159
+    ],
+    "about": [
+      160
+    ],
+    "whoever": [
+      163
+    ],
+    "taught": [
+      164,
+      200
+    ],
+    "significant": [
+      170
+    ],
+    "positive": [
+      171
+    ],
+    "weak": [
+      172
+    ],
+    "correlation": [
+      173
+    ],
+    "between": [
+      174
+    ],
+    "their": [
+      180
+    ],
+    "Regression": [
+      182
+    ],
+    "analysis": [
+      183
+    ],
+    "revealed": [
+      184
+    ],
+    "specialized": [
+      188
+    ],
+    "show": [
+      192
+    ],
+    "scores,": [
+      196
+    ],
+    "teachers": [
+      197,
+      222
+    ],
+    "an": [
+      201
+    ],
+    "child": [
+      203
+    ],
+    "reduction": [
+      206
+    ],
+    "94.6": [
+      208
+    ],
+    "%": [
+      209
+    ],
+    "knowledge,": [
+      212
+    ],
+    "increase": [
+      215
+    ],
+    "number": [
+      218
+    ],
+    "children": [
+      221
+    ],
+    "teaches": [
+      223
+    ],
+    "increased": [
+      226
+    ],
+    "(Overall": [
+      229
+    ],
+    "Model:": [
+      230
+    ],
+    "Chi-Square": [
+      231
+    ],
+    "X2=": [
+      232
+    ],
+    "69.514,": [
+      233
+    ],
+    "p": [
+      234
+    ],
+    "<": [
+      235
+    ],
+    "0.000**).": [
+      236
+    ],
+    "Conclusions": [
+      237
+    ],
+    "Our": [
+      238
+    ],
+    "showed": [
+      240
+    ],
+    "there": [
+      242
+    ],
+    "serious": [
+      245
+    ],
+    "gap": [
+      247
+    ],
+    "schoolteachers.": [
+      254
+    ],
+    "strongly": [
+      258
+    ],
+    "recommended": [
+      259,
+      296
+    ],
+    "boost": [
+      261
+    ],
+    "especially": [
+      266
+    ],
+    "at": [
+      267
+    ],
+    "government": [
+      268
+    ],
+    "schools,": [
+      269
+    ],
+    "through": [
+      270,
+      284
+    ],
+    "conducting": [
+      271
+    ],
+    "training": [
+      272
+    ],
+    "courses,": [
+      273
+    ],
+    "distributing": [
+      274
+    ],
+    "leaflets": [
+      275
+    ],
+    "intended": [
+      276
+    ],
+    "address": [
+      278
+    ],
+    "launching": [
+      281
+    ],
+    "awareness": [
+      282
+    ],
+    "campaigns": [
+      283
+    ],
+    "media,": [
+      286,
+      289
+    ],
+    "including": [
+      287
+    ],
+    "social": [
+      288
+    ],
+    "television,": [
+      290
+    ],
+    "radio.": [
+      292
+    ],
+    "It": [
+      293
+    ],
+    "also": [
+      295
+    ],
+    "education": [
+      298
+    ],
+    "faculty": [
+      299
+    ],
+    "curricula": [
+      300
+    ],
+    "should": [
+      301
+    ],
+    "include": [
+      302
+    ],
+    "more": [
+      303
+    ],
+    "information": [
+      304
+    ],
+    "ADHD.": [
+      306
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

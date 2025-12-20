@@ -1,0 +1,1243 @@
+{
+  "id": "https://openalex.org/W4391114166",
+  "doi": "https://doi.org/10.4103/jehp.jehp_334_23",
+  "title": "Relationship between attention deficit hyperactive disorders with life satisfaction among medical students in city of Hail, KSA",
+  "display_name": "Relationship between attention deficit hyperactive disorders with life satisfaction among medical students in city of Hail, KSA",
+  "publication_year": 2023,
+  "publication_date": "2023-12-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4391114166",
+    "doi": "https://doi.org/10.4103/jehp.jehp_334_23",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/38464643"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.4103/jehp.jehp_334_23",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.4103/jehp.jehp_334_23",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2764854573",
+      "display_name": "Journal of Education and Health Promotion",
+      "issn_l": "2277-9531",
+      "issn": [
+        "2277-9531",
+        "2319-6440"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320448",
+      "host_organization_name": "Medknow",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320448",
+        "https://openalex.org/P4310318547"
+      ],
+      "host_organization_lineage_names": [
+        "Medknow",
+        "Wolters Kluwer"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-sa",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Education and Health Promotion",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.4103/jehp.jehp_334_23",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5042927664",
+        "display_name": "Mubashir Zafar",
+        "orcid": "https://orcid.org/0000-0002-7440-0635"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210088963",
+          "display_name": "University of Ha'il",
+          "ror": "https://ror.org/013w98a82",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210088963"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Mubashir Zafar",
+      "raw_affiliation_strings": [
+        "Department of Family and Community Medicine, College of Medicine, University of Hail, Hail, KSA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Family and Community Medicine, College of Medicine, University of Hail, Hail, KSA",
+          "institution_ids": [
+            "https://openalex.org/I4210088963"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5093764510",
+        "display_name": "Alaa Y. S. Alhelali",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210088963",
+          "display_name": "University of Ha'il",
+          "ror": "https://ror.org/013w98a82",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210088963"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alaa Y. S. Alhelali",
+      "raw_affiliation_strings": [
+        "Department of Family and Community Medicine, College of Medicine, University of Hail, Hail, KSA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Family and Community Medicine, College of Medicine, University of Hail, Hail, KSA",
+          "institution_ids": [
+            "https://openalex.org/I4210088963"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5093764511",
+        "display_name": "Mohamed S. M. Alfuwis",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210088963",
+          "display_name": "University of Ha'il",
+          "ror": "https://ror.org/013w98a82",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210088963"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mohamed S. M. Alfuwis",
+      "raw_affiliation_strings": [
+        "Department of Family and Community Medicine, College of Medicine, University of Hail, Hail, KSA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Family and Community Medicine, College of Medicine, University of Hail, Hail, KSA",
+          "institution_ids": [
+            "https://openalex.org/I4210088963"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5093764512",
+        "display_name": "Waleed Z. Al-logan Alshammari",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210088963",
+          "display_name": "University of Ha'il",
+          "ror": "https://ror.org/013w98a82",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210088963"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Waleed Z. Al-logan Alshammari",
+      "raw_affiliation_strings": [
+        "Department of Family and Community Medicine, College of Medicine, University of Hail, Hail, KSA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Family and Community Medicine, College of Medicine, University of Hail, Hail, KSA",
+          "institution_ids": [
+            "https://openalex.org/I4210088963"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5042927664"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210088963"
+  ],
+  "apc_list": {
+    "value": 150,
+    "currency": "USD",
+    "value_usd": 150
+  },
+  "apc_paid": {
+    "value": 150,
+    "currency": "USD",
+    "value_usd": 150
+  },
+  "fwci": 0.37789755,
+  "has_fulltext": false,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.61854648,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 91,
+    "max": 95
+  },
+  "biblio": {
+    "volume": "12",
+    "issue": "1",
+    "first_page": "437",
+    "last_page": "437"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10537",
+    "display_name": "Attention Deficit Hyperactivity Disorder",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10182",
+      "display_name": "Child and Adolescent Psychosocial and Emotional Development",
+      "score": 0.9900000095367432,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12823",
+      "display_name": "Adolescent and Pediatric Healthcare",
+      "score": 0.9886000156402588,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3616",
+        "display_name": "Speech and Hearing"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/life-satisfaction",
+      "display_name": "Life satisfaction",
+      "score": 0.6512099504470825
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "score": 0.616392970085144
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit",
+      "display_name": "Attention deficit",
+      "score": 0.590208888053894
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.5856432318687439
+    },
+    {
+      "id": "https://openalex.org/keywords/depression",
+      "display_name": "Depression (economics)",
+      "score": 0.5143212080001831
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.5020201206207275
+    },
+    {
+      "id": "https://openalex.org/keywords/cluster-sampling",
+      "display_name": "Cluster sampling",
+      "score": 0.4801601767539978
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.46491557359695435
+    },
+    {
+      "id": "https://openalex.org/keywords/cross-sectional-study",
+      "display_name": "Cross-sectional study",
+      "score": 0.46115756034851074
+    },
+    {
+      "id": "https://openalex.org/keywords/stratified-sampling",
+      "display_name": "Stratified sampling",
+      "score": 0.456708163022995
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.30279219150543213
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-health",
+      "display_name": "Environmental health",
+      "score": 0.07943233847618103
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2780945536",
+      "wikidata": "https://www.wikidata.org/wiki/Q1117179",
+      "display_name": "Life satisfaction",
+      "level": 2,
+      "score": 0.6512099504470825
+    },
+    {
+      "id": "https://openalex.org/C2780783007",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "level": 2,
+      "score": 0.616392970085144
+    },
+    {
+      "id": "https://openalex.org/C3017694942",
+      "wikidata": "https://www.wikidata.org/wiki/Q16254243",
+      "display_name": "Attention deficit",
+      "level": 3,
+      "score": 0.590208888053894
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.5856432318687439
+    },
+    {
+      "id": "https://openalex.org/C2776867660",
+      "wikidata": "https://www.wikidata.org/wiki/Q1814941",
+      "display_name": "Depression (economics)",
+      "level": 2,
+      "score": 0.5143212080001831
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.5020201206207275
+    },
+    {
+      "id": "https://openalex.org/C183380357",
+      "wikidata": "https://www.wikidata.org/wiki/Q1776598",
+      "display_name": "Cluster sampling",
+      "level": 3,
+      "score": 0.4801601767539978
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.46491557359695435
+    },
+    {
+      "id": "https://openalex.org/C142052008",
+      "wikidata": "https://www.wikidata.org/wiki/Q954027",
+      "display_name": "Cross-sectional study",
+      "level": 2,
+      "score": 0.46115756034851074
+    },
+    {
+      "id": "https://openalex.org/C49898467",
+      "wikidata": "https://www.wikidata.org/wiki/Q1517706",
+      "display_name": "Stratified sampling",
+      "level": 2,
+      "score": 0.456708163022995
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.30279219150543213
+    },
+    {
+      "id": "https://openalex.org/C99454951",
+      "wikidata": "https://www.wikidata.org/wiki/Q932068",
+      "display_name": "Environmental health",
+      "level": 1,
+      "score": 0.07943233847618103
+    },
+    {
+      "id": "https://openalex.org/C139719470",
+      "wikidata": "https://www.wikidata.org/wiki/Q39680",
+      "display_name": "Macroeconomics",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C542102704",
+      "wikidata": "https://www.wikidata.org/wiki/Q183257",
+      "display_name": "Psychotherapist",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C2908647359",
+      "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+      "display_name": "Population",
+      "level": 2,
+      "score": 0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.4103/jehp.jehp_334_23",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.4103/jehp.jehp_334_23",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764854573",
+        "display_name": "Journal of Education and Health Promotion",
+        "issn_l": "2277-9531",
+        "issn": [
+          "2277-9531",
+          "2319-6440"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320448",
+        "host_organization_name": "Medknow",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320448",
+          "https://openalex.org/P4310318547"
+        ],
+        "host_organization_lineage_names": [
+          "Medknow",
+          "Wolters Kluwer"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Education and Health Promotion",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:38464643",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38464643",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of education and health promotion",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:10920718",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10920718",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10920718/pdf/JEHP-12-437.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "J Educ Health Promot",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.4103/jehp.jehp_334_23",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.4103/jehp.jehp_334_23",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2764854573",
+      "display_name": "Journal of Education and Health Promotion",
+      "issn_l": "2277-9531",
+      "issn": [
+        "2277-9531",
+        "2319-6440"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320448",
+      "host_organization_name": "Medknow",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320448",
+        "https://openalex.org/P4310318547"
+      ],
+      "host_organization_lineage_names": [
+        "Medknow",
+        "Wolters Kluwer"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-sa",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Education and Health Promotion",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 44,
+  "referenced_works": [
+    "https://openalex.org/W1618147074",
+    "https://openalex.org/W6721654524",
+    "https://openalex.org/W2137978956",
+    "https://openalex.org/W2093357372",
+    "https://openalex.org/W2011063704",
+    "https://openalex.org/W2043335624",
+    "https://openalex.org/W2032456307",
+    "https://openalex.org/W1999658900",
+    "https://openalex.org/W2172975921",
+    "https://openalex.org/W2965255255",
+    "https://openalex.org/W2230415452",
+    "https://openalex.org/W2884766935",
+    "https://openalex.org/W2765030473",
+    "https://openalex.org/W2165132973",
+    "https://openalex.org/W2074373409",
+    "https://openalex.org/W2994658704",
+    "https://openalex.org/W2077695865",
+    "https://openalex.org/W2947748408",
+    "https://openalex.org/W2971456025",
+    "https://openalex.org/W2126228578",
+    "https://openalex.org/W2162326286",
+    "https://openalex.org/W1998269363",
+    "https://openalex.org/W2053057964",
+    "https://openalex.org/W1965559966",
+    "https://openalex.org/W1983537262",
+    "https://openalex.org/W1974282775",
+    "https://openalex.org/W140219456",
+    "https://openalex.org/W1636147489",
+    "https://openalex.org/W2060056289",
+    "https://openalex.org/W6658078342",
+    "https://openalex.org/W7073737076",
+    "https://openalex.org/W2058562698",
+    "https://openalex.org/W1980385221",
+    "https://openalex.org/W2093355956",
+    "https://openalex.org/W2026945489",
+    "https://openalex.org/W2075891835",
+    "https://openalex.org/W2891722885",
+    "https://openalex.org/W2068681332",
+    "https://openalex.org/W2919689365",
+    "https://openalex.org/W2029944484",
+    "https://openalex.org/W2016652500",
+    "https://openalex.org/W2396755452",
+    "https://openalex.org/W2478061385",
+    "https://openalex.org/W2110496900"
+  ],
+  "related_works": [
+    "https://openalex.org/W4238714840",
+    "https://openalex.org/W2350123952",
+    "https://openalex.org/W1605393171",
+    "https://openalex.org/W2347668932",
+    "https://openalex.org/W4253598301",
+    "https://openalex.org/W4234665019",
+    "https://openalex.org/W4244267755",
+    "https://openalex.org/W4230157703",
+    "https://openalex.org/W3125555624",
+    "https://openalex.org/W1577199596"
+  ],
+  "abstract_inverted_index": {
+    "200": [
+      71
+    ],
+    "BACKGROUND:": [
+      0
+    ],
+    "Attention": [
+      1
+    ],
+    "deficit": [
+      2
+    ],
+    "hyperactive": [
+      3
+    ],
+    "disorder": [
+      4
+    ],
+    "(ADHD)": [
+      5
+    ],
+    "begins": [
+      6
+    ],
+    "in": [
+      7,
+      46,
+      63,
+      186
+    ],
+    "childhood,": [
+      8
+    ],
+    "and": [
+      9,
+      28,
+      39,
+      84,
+      89,
+      101,
+      113,
+      116,
+      147,
+      165,
+      192,
+      204,
+      214,
+      233
+    ],
+    "its": [
+      10
+    ],
+    "symptoms": [
+      11,
+      18
+    ],
+    "persist": [
+      12
+    ],
+    "into": [
+      13
+    ],
+    "adulthood.": [
+      14
+    ],
+    "Students": [
+      15
+    ],
+    "with": [
+      16,
+      177,
+      181,
+      208,
+      230
+    ],
+    "ADHD": [
+      17,
+      38,
+      83,
+      112,
+      135,
+      198
+    ],
+    "will": [
+      19
+    ],
+    "be": [
+      20
+    ],
+    "at": [
+      21
+    ],
+    "increased": [
+      22
+    ],
+    "risk": [
+      23
+    ],
+    "of": [
+      24,
+      30,
+      49,
+      70,
+      82,
+      120,
+      134,
+      155,
+      183,
+      197,
+      235
+    ],
+    "antisocial": [
+      25
+    ],
+    "behavior,": [
+      26
+    ],
+    "depression,": [
+      27
+    ],
+    "loss": [
+      29
+    ],
+    "inhibition.": [
+      31
+    ],
+    "This": [
+      32,
+      55
+    ],
+    "study": [
+      33,
+      59
+    ],
+    "determines": [
+      34
+    ],
+    "the": [
+      35,
+      47,
+      98,
+      109,
+      118,
+      152,
+      184
+    ],
+    "relationship": [
+      36,
+      110
+    ],
+    "between": [
+      37,
+      111
+    ],
+    "life": [
+      40,
+      85,
+      114,
+      178,
+      187,
+      209
+    ],
+    "satisfaction": [
+      41,
+      86,
+      115,
+      179,
+      188,
+      210
+    ],
+    "level": [
+      42
+    ],
+    "among": [
+      43,
+      93,
+      136,
+      201
+    ],
+    "medical": [
+      44,
+      66,
+      137,
+      202
+    ],
+    "students": [
+      45,
+      72,
+      94,
+      138
+    ],
+    "city": [
+      48
+    ],
+    "Hail,": [
+      50
+    ],
+    "KSA.": [
+      51
+    ],
+    "MATERIALS": [
+      52
+    ],
+    "AND": [
+      53
+    ],
+    "METHODS:": [
+      54
+    ],
+    "is": [
+      56,
+      199,
+      223
+    ],
+    "a": [
+      57,
+      64,
+      224
+    ],
+    "cross-sectional": [
+      58
+    ],
+    "that": [
+      60
+    ],
+    "was": [
+      61,
+      126,
+      139,
+      217
+    ],
+    "conducted": [
+      62
+    ],
+    "public-sector": [
+      65
+    ],
+    "college.": [
+      67
+    ],
+    "A": [
+      68
+    ],
+    "total": [
+      69
+    ],
+    "were": [
+      73,
+      87,
+      95,
+      105,
+      151,
+      174
+    ],
+    "recruited": [
+      74
+    ],
+    "through": [
+      75
+    ],
+    "stratified": [
+      76
+    ],
+    "cluster": [
+      77
+    ],
+    "sampling.": [
+      78
+    ],
+    "Validated,": [
+      79
+    ],
+    "structured": [
+      80
+    ],
+    "scales": [
+      81
+    ],
+    "used,": [
+      88
+    ],
+    "known": [
+      90
+    ],
+    "psychiatric": [
+      91
+    ],
+    "disorders": [
+      92
+    ],
+    "excluded": [
+      96
+    ],
+    "from": [
+      97
+    ],
+    "study.": [
+      99
+    ],
+    "Correlation": [
+      100
+    ],
+    "linear": [
+      102
+    ],
+    "regression": [
+      103
+    ],
+    "analyses": [
+      104
+    ],
+    "used": [
+      106
+    ],
+    "to": [
+      107,
+      220,
+      226
+    ],
+    "determine": [
+      108
+    ],
+    "identify": [
+      117
+    ],
+    "determinants": [
+      119
+    ],
+    "ADHD.": [
+      121,
+      156,
+      221
+    ],
+    "P": [
+      122,
+      162,
+      171
+    ],
+    "value": [
+      123,
+      163,
+      172
+    ],
+    "&lt;": [
+      124
+    ],
+    "0.05": [
+      125
+    ],
+    "considered": [
+      127
+    ],
+    "statistically": [
+      128
+    ],
+    "significant.": [
+      129
+    ],
+    "RESULT:": [
+      130
+    ],
+    "The": [
+      131,
+      195
+    ],
+    "prevalence": [
+      132
+    ],
+    "rate": [
+      133
+    ],
+    "33.3%.": [
+      140
+    ],
+    "Female": [
+      141
+    ],
+    "gender,": [
+      142
+    ],
+    "third-year": [
+      143
+    ],
+    "academic": [
+      144,
+      213
+    ],
+    "year": [
+      145
+    ],
+    "student,": [
+      146
+    ],
+    "21–26-year-old": [
+      148
+    ],
+    "age": [
+      149
+    ],
+    "group": [
+      150
+    ],
+    "high-risk": [
+      153
+    ],
+    "groups": [
+      154
+    ],
+    "Inattention": [
+      157
+    ],
+    "(": [
+      158,
+      167
+    ],
+    "r": [
+      159,
+      168
+    ],
+    "=": [
+      160,
+      169
+    ],
+    "-0.263,": [
+      161
+    ],
+    "-0.000)": [
+      164
+    ],
+    "hyperactivity": [
+      166
+    ],
+    "-0.260,": [
+      170
+    ],
+    "0.000)": [
+      173
+    ],
+    "significantly": [
+      175
+    ],
+    "correlated": [
+      176
+    ],
+    "level,": [
+      180
+    ],
+    "92%": [
+      182
+    ],
+    "variability": [
+      185
+    ],
+    "determined": [
+      189
+    ],
+    "by": [
+      190
+    ],
+    "inattention": [
+      191
+    ],
+    "hyperactivity.": [
+      193
+    ],
+    "CONCLUSION:": [
+      194
+    ],
+    "burden": [
+      196
+    ],
+    "high": [
+      200
+    ],
+    "students,": [
+      203
+    ],
+    "it": [
+      205
+    ],
+    "negatively": [
+      206
+    ],
+    "correlates": [
+      207
+    ],
+    "level.": [
+      211
+    ],
+    "Students'": [
+      212
+    ],
+    "social": [
+      215
+    ],
+    "functioning": [
+      216
+    ],
+    "affected": [
+      218
+    ],
+    "due": [
+      219
+    ],
+    "There": [
+      222
+    ],
+    "need": [
+      225
+    ],
+    "address": [
+      227
+    ],
+    "this": [
+      228,
+      236
+    ],
+    "issue": [
+      229
+    ],
+    "early": [
+      231
+    ],
+    "diagnosis": [
+      232
+    ],
+    "management": [
+      234
+    ],
+    "disorder.": [
+      237
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -39,8 +39,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.4103__jfmpc.jfmpc_183_18.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.4103__jfmpc.jfmpc_183_18.pdf",
+    "sourceUrl": "https://doi.org/10.4103/jfmpc.jfmpc_183_18",
+    "license": "cc-by-nc-sa"
   },
   "visibility": {
     "hidden": false

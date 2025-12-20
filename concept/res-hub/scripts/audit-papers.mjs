@@ -64,7 +64,9 @@ function isMissing(value) {
 function detectMissingFields(paper) {
   const missing = [];
   
-  if (isMissing(paper.abstract)) {
+  // Check if abstract is missing or shorter than 100 characters
+  const abstract = paper.abstract || '';
+  if (isMissing(paper.abstract) || (typeof abstract === 'string' && abstract.trim().length < 100)) {
     missing.push('abstract');
   }
   

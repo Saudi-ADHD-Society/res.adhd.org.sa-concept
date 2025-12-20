@@ -14,8 +14,9 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.5455__ijmsph.2014.120220141.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.5455__ijmsph.2014.120220141.pdf",
+    "sourceUrl": "https://doi.org/10.5455/ijmsph.2014.120220141"
   },
   "visibility": {
     "hidden": false

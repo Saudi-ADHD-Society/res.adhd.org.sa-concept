@@ -77,7 +77,9 @@
     }
   ],
   "access": {
-    "status": "unknown"
+    "status": "open",
+    "sourceUrl": "https://doi.org/10.1097/ypg.0000000000000173",
+    "license": "cc-by-nc-nd"
   },
   "visibility": {
     "hidden": false

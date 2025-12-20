@@ -24,8 +24,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.5144__0256-4947.2012.462.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.5144__0256-4947.2012.462.pdf",
+    "sourceUrl": "https://doi.org/10.5144/0256-4947.2012.462",
+    "license": "cc-by-nc-nd"
   },
   "visibility": {
     "hidden": false

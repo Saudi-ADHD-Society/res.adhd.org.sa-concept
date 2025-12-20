@@ -36,8 +36,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.7575__aiac.alls.v.7n.2p.203.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.7575__aiac.alls.v.7n.2p.203.pdf",
+    "sourceUrl": "https://doi.org/10.7575/aiac.alls.v.7n.2p.203",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

@@ -78,7 +78,9 @@
     }
   ],
   "access": {
-    "status": "unknown"
+    "status": "open",
+    "sourceUrl": "https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-016-1061-6",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

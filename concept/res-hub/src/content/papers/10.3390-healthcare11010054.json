@@ -40,8 +40,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.3390__healthcare11010054.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.3390__healthcare11010054.pdf",
+    "sourceUrl": "https://www.mdpi.com/2227-9032/11/1/54/pdf?version=1671958506",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

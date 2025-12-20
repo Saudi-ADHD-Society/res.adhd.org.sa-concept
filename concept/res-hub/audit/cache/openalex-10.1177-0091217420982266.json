@@ -1,0 +1,1289 @@
+{
+  "id": "https://openalex.org/W3113032297",
+  "doi": "https://doi.org/10.1177/0091217420982266",
+  "title": "Risk factors for ADHD and comorbid psychiatric, academic and behavior problems among primary school students in Jeddah, Saudi Arabia",
+  "display_name": "Risk factors for ADHD and comorbid psychiatric, academic and behavior problems among primary school students in Jeddah, Saudi Arabia",
+  "publication_year": 2020,
+  "publication_date": "2020-12-16",
+  "ids": {
+    "openalex": "https://openalex.org/W3113032297",
+    "doi": "https://doi.org/10.1177/0091217420982266",
+    "mag": "3113032297",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/33327842"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1177/0091217420982266",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1177/0091217420982266",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S48834210",
+      "display_name": "The International Journal of Psychiatry in Medicine",
+      "issn_l": "0091-2174",
+      "issn": [
+        "0091-2174",
+        "1541-3527"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "The International Journal of Psychiatry in Medicine",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5071894654",
+        "display_name": "Faten Al Zaben",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185163786",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185163786"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "F Al Zaben",
+      "raw_affiliation_strings": [
+        "Division of Psychiatry, Department of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Psychiatry, Department of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I185163786"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5044706665",
+        "display_name": "Mohammad Gamal Sehlo",
+        "orcid": "https://orcid.org/0000-0003-1479-4094"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I192398990",
+          "display_name": "Zagazig University",
+          "ror": "https://ror.org/053g6we49",
+          "country_code": "EG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I192398990"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I185163786",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185163786"
+          ]
+        }
+      ],
+      "countries": [
+        "EG",
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M Sehlo",
+      "raw_affiliation_strings": [
+        "Department of Psychiatry, Zagazig University, Shaibet an Nakareyah, Markaz El-Zakazik, Egypt",
+        "Division of Psychiatry, Department of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychiatry, Zagazig University, Shaibet an Nakareyah, Markaz El-Zakazik, Egypt",
+          "institution_ids": [
+            "https://openalex.org/I192398990"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Division of Psychiatry, Department of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I185163786"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5109584188",
+        "display_name": "Waleed Alghamdi",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185163786",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185163786"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "W Alghamdi",
+      "raw_affiliation_strings": [
+        "Division of Psychiatry, Department of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Psychiatry, Department of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I185163786"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5000312211",
+        "display_name": "Haythum O. Tayeb",
+        "orcid": "https://orcid.org/0000-0002-9453-8463"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185163786",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185163786"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "H Tayeb",
+      "raw_affiliation_strings": [
+        "Division of Neurology, Department of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Neurology, Department of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I185163786"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051291492",
+        "display_name": "Doaa Khalifa",
+        "orcid": "https://orcid.org/0000-0001-7750-3309"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107720978",
+          "display_name": "Ain Shams University",
+          "ror": "https://ror.org/00cb9w016",
+          "country_code": "EG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I107720978"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I185163786",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185163786"
+          ]
+        }
+      ],
+      "countries": [
+        "EG",
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "D Khalifa",
+      "raw_affiliation_strings": [
+        "Department of Psychiatry, Ain Shams University, El-Abaseya, Egypt",
+        "Division of Psychiatry, Department of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Psychiatry, Department of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I185163786"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Psychiatry, Ain Shams University, El-Abaseya, Egypt",
+          "institution_ids": [
+            "https://openalex.org/I107720978"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5083430215",
+        "display_name": "Afnan Altowaireb",
+        "orcid": "https://orcid.org/0000-0003-4025-2424"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185163786",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185163786"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "A Altowaireb",
+      "raw_affiliation_strings": [
+        "Division of Psychiatry, Department of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Psychiatry, Department of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I185163786"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5014438030",
+        "display_name": "Ruaa Nughays",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185163786",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185163786"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "R Nughays",
+      "raw_affiliation_strings": [
+        "Division of Psychiatry, Department of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Psychiatry, Department of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I185163786"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057824134",
+        "display_name": "Hani Jawa",
+        "orcid": "https://orcid.org/0000-0003-4323-1661"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185163786",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185163786"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "H Jawa",
+      "raw_affiliation_strings": [
+        "Division of Psychiatry, Department of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Psychiatry, Department of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I185163786"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5029033208",
+        "display_name": "K Bashrahil",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185163786",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185163786"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "K Bashrahil",
+      "raw_affiliation_strings": [
+        "Division of Psychiatry, Department of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Psychiatry, Department of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I185163786"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5085018703",
+        "display_name": "Fahad Alnemary",
+        "orcid": "https://orcid.org/0000-0003-4410-9852"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185163786",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185163786"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I179331831",
+          "display_name": "Taif University",
+          "ror": "https://ror.org/014g1a453",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I179331831"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "F Alnemary",
+      "raw_affiliation_strings": [
+        "Department of Special Education, Ta'if University, Taif, Saudi Arabia",
+        "Division of Psychiatry, Department of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Special Education, Ta'if University, Taif, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I179331831"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Division of Psychiatry, Department of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I185163786"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5078037817",
+        "display_name": "Harold G. Koenig",
+        "orcid": "https://orcid.org/0000-0003-2573-6121"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185163786",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185163786"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210126298",
+          "display_name": "Duke Medical Center",
+          "ror": "https://ror.org/03njmea73",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210126298",
+            "https://openalex.org/I4210144876"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210153043",
+          "display_name": "Duke University Hospital",
+          "ror": "https://ror.org/04bct7p84",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210126298",
+            "https://openalex.org/I4210144876",
+            "https://openalex.org/I4210144876",
+            "https://openalex.org/I4210153043"
+          ]
+        }
+      ],
+      "countries": [
+        "SA",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "H Koenig",
+      "raw_affiliation_strings": [
+        "Department of Psychiatry and Behavioral Sciences, Duke University Medical Center, Durham, NC, USA",
+        "Division of Psychiatry, Department of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Psychiatry, Department of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I185163786"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Psychiatry and Behavioral Sciences, Duke University Medical Center, Durham, NC, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210126298",
+            "https://openalex.org/I4210153043"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 11,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.58112298,
+  "has_fulltext": false,
+  "cited_by_count": 4,
+  "citation_normalized_percentile": {
+    "value": 0.65074193,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 96
+  },
+  "biblio": {
+    "volume": "56",
+    "issue": "6",
+    "first_page": "422",
+    "last_page": "432"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10537",
+    "display_name": "Attention Deficit Hyperactivity Disorder",
+    "score": 1,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12241",
+      "display_name": "Children's Physical and Motor Development",
+      "score": 0.9610999822616577,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10182",
+      "display_name": "Child and Adolescent Psychosocial and Emotional Development",
+      "score": 0.9553999900817871,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/comorbidity",
+      "display_name": "Comorbidity",
+      "score": 0.7120472192764282
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.6941103339195251
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatric-comorbidity",
+      "display_name": "Psychiatric comorbidity",
+      "score": 0.6162867546081543
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "score": 0.5975168347358704
+    },
+    {
+      "id": "https://openalex.org/keywords/family-history",
+      "display_name": "Family history",
+      "score": 0.5756024718284607
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.5251678824424744
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.5130633115768433
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.35004591941833496
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2779159551",
+      "wikidata": "https://www.wikidata.org/wiki/Q1414874",
+      "display_name": "Comorbidity",
+      "level": 2,
+      "score": 0.7120472192764282
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.6941103339195251
+    },
+    {
+      "id": "https://openalex.org/C3018243667",
+      "wikidata": "https://www.wikidata.org/wiki/Q1414874",
+      "display_name": "Psychiatric comorbidity",
+      "level": 3,
+      "score": 0.6162867546081543
+    },
+    {
+      "id": "https://openalex.org/C2780783007",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "level": 2,
+      "score": 0.5975168347358704
+    },
+    {
+      "id": "https://openalex.org/C2781179581",
+      "wikidata": "https://www.wikidata.org/wiki/Q2857712",
+      "display_name": "Family history",
+      "level": 2,
+      "score": 0.5756024718284607
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.5251678824424744
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.5130633115768433
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.35004591941833496
+    },
+    {
+      "id": "https://openalex.org/C126838900",
+      "wikidata": "https://www.wikidata.org/wiki/Q77604",
+      "display_name": "Radiology",
+      "level": 1,
+      "score": 0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000368",
+      "descriptor_name": "Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001289",
+      "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015897",
+      "descriptor_name": "Comorbidity",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000066553",
+      "descriptor_name": "Problem Behavior",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012307",
+      "descriptor_name": "Risk Factors",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012529",
+      "descriptor_name": "Saudi Arabia",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012574",
+      "descriptor_name": "Schools",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013334",
+      "descriptor_name": "Students",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000368",
+      "descriptor_name": "Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001289",
+      "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015897",
+      "descriptor_name": "Comorbidity",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000066553",
+      "descriptor_name": "Problem Behavior",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012307",
+      "descriptor_name": "Risk Factors",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012529",
+      "descriptor_name": "Saudi Arabia",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012574",
+      "descriptor_name": "Schools",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013334",
+      "descriptor_name": "Students",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1177/0091217420982266",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/0091217420982266",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S48834210",
+        "display_name": "The International Journal of Psychiatry in Medicine",
+        "issn_l": "0091-2174",
+        "issn": [
+          "0091-2174",
+          "1541-3527"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [
+          "SAGE Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The International Journal of Psychiatry in Medicine",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:33327842",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/33327842",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International journal of psychiatry in medicine",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "score": 0.4399999976158142,
+      "display_name": "Quality Education"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G8137279318",
+      "display_name": null,
+      "funder_award_id": "G-1436-248-461",
+      "funder_id": "https://openalex.org/F4320335726",
+      "funder_display_name": "Deanship of Scientific Research, King Saud University"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320335726",
+      "display_name": "Deanship of Scientific Research, King Saud University",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 7,
+  "referenced_works": [
+    "https://openalex.org/W1983030849",
+    "https://openalex.org/W2037665165",
+    "https://openalex.org/W2011619810",
+    "https://openalex.org/W2049401673",
+    "https://openalex.org/W1977164656",
+    "https://openalex.org/W1999673892",
+    "https://openalex.org/W2783199979"
+  ],
+  "related_works": [
+    "https://openalex.org/W4304787146",
+    "https://openalex.org/W2946600713",
+    "https://openalex.org/W2501976389",
+    "https://openalex.org/W1981692276",
+    "https://openalex.org/W2034604467",
+    "https://openalex.org/W2724152478",
+    "https://openalex.org/W3215089920",
+    "https://openalex.org/W4385669877",
+    "https://openalex.org/W2426080310",
+    "https://openalex.org/W1994797318"
+  ],
+  "abstract_inverted_index": {
+    "929": [
+      16
+    ],
+    "Risk": [
+      0,
+      78
+    ],
+    "factors": [
+      1,
+      65,
+      79,
+      96
+    ],
+    "for": [
+      2,
+      66,
+      80,
+      97
+    ],
+    "attention": [
+      3
+    ],
+    "deficit": [
+      4
+    ],
+    "hyperactivity": [
+      5
+    ],
+    "disorder": [
+      6,
+      105
+    ],
+    "(ADHD),": [
+      7
+    ],
+    "psychiatric,": [
+      8
+    ],
+    "and": [
+      9,
+      56,
+      75,
+      91,
+      99,
+      110
+    ],
+    "classroom": [
+      10
+    ],
+    "academic/behavioral": [
+      11,
+      82
+    ],
+    "problems": [
+      12
+    ],
+    "were": [
+      13,
+      41,
+      69,
+      84
+    ],
+    "examined": [
+      14
+    ],
+    "in": [
+      15,
+      20
+    ],
+    "students": [
+      17,
+      38
+    ],
+    "grades": [
+      18
+    ],
+    "1–6": [
+      19
+    ],
+    "Jeddah,": [
+      21
+    ],
+    "Saudi": [
+      22
+    ],
+    "Arabia.": [
+      23
+    ],
+    "Teachers": [
+      24
+    ],
+    "identified": [
+      25
+    ],
+    "ADHD": [
+      26,
+      31,
+      40,
+      98
+    ],
+    "by": [
+      27
+    ],
+    "completing": [
+      28
+    ],
+    "the": [
+      29
+    ],
+    "Vanderbilt": [
+      30
+    ],
+    "scale.": [
+      32
+    ],
+    "Compared": [
+      33
+    ],
+    "to": [
+      34,
+      44
+    ],
+    "controls": [
+      35
+    ],
+    "without": [
+      36
+    ],
+    "ADHD,": [
+      37,
+      63
+    ],
+    "with": [
+      39,
+      62,
+      103
+    ],
+    "more": [
+      42
+    ],
+    "likely": [
+      43
+    ],
+    "have": [
+      45
+    ],
+    "early": [
+      46
+    ],
+    "parental": [
+      47
+    ],
+    "loss,": [
+      48
+    ],
+    "head": [
+      49
+    ],
+    "trauma,": [
+      50
+    ],
+    "motor/language": [
+      51,
+      76
+    ],
+    "delay,": [
+      52
+    ],
+    "family": [
+      53,
+      58,
+      72,
+      86,
+      88
+    ],
+    "psychiatric": [
+      54,
+      67,
+      73,
+      89
+    ],
+    "problems,": [
+      55,
+      90
+    ],
+    "high": [
+      57,
+      85
+    ],
+    "stress.": [
+      59
+    ],
+    "Among": [
+      60
+    ],
+    "those": [
+      61
+    ],
+    "risk": [
+      64,
+      95
+    ],
+    "comorbidity": [
+      68
+    ],
+    "older": [
+      70
+    ],
+    "age,": [
+      71
+    ],
+    "history,": [
+      74
+    ],
+    "delay.": [
+      77
+    ],
+    "impaired": [
+      81
+    ],
+    "performance": [
+      83
+    ],
+    "stress,": [
+      87
+    ],
+    "chronic": [
+      92
+    ],
+    "illness.": [
+      93
+    ],
+    "Identifying": [
+      94
+    ],
+    "common": [
+      100
+    ],
+    "comorbidities": [
+      101
+    ],
+    "associated": [
+      102
+    ],
+    "this": [
+      104,
+      113
+    ],
+    "may": [
+      106
+    ],
+    "help": [
+      107
+    ],
+    "parents,": [
+      108
+    ],
+    "teachers": [
+      109
+    ],
+    "clinicians": [
+      111
+    ],
+    "detect": [
+      112
+    ],
+    "condition,": [
+      114
+    ],
+    "increasing": [
+      115
+    ],
+    "effective": [
+      116
+    ],
+    "management.": [
+      117
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

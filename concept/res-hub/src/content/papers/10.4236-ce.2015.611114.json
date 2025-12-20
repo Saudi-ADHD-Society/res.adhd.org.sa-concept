@@ -34,8 +34,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.4236__ce.2015.611114.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.4236__ce.2015.611114.pdf",
+    "sourceUrl": "http://www.scirp.org/journal/PaperDownload.aspx?paperID=57455",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

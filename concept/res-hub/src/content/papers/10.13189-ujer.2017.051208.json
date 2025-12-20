@@ -2,7 +2,7 @@
   "doi": "10.13189/ujer.2017.051208",
   "slug": "10.13189-ujer.2017.051208",
   "title": "ADHD in 140 Characters or Less: an Analysis of Twitter Commentary on Attention Deficit Hyperactivity Disorder in Saudi Arabia",
-  "abstract": "<div class=page title=Page 1>",
+  "abstract": "Internet-based social networks such as Twitter are rapidly gaining popularity among Saudis, and an increasing number of them are using the internet to source information about Attention Deficit Hyperactivity Disorder (ADHD).The Saudi ADHD Society (known in English as the AFTA Society) is the only charity serving people with ADHD in Saudi Arabia.This article examines the representations of ADHD by AFTA Society members on Twitter, because they have come to define how ADHD is talked about in Saudi Arabia.The AFTA Society Twitter account (@adhdarabia) has over 13,500 followers.Tweets posted between December 1 st , 2016 and January 31 st , 2017 were collected, with those announcing AFTA events and retweets from other accounts eliminated.This resulted in 141 tweets discussing the nature, causation, and treatment of ADHD.These tweets were analyzed using Foucauldian discourse analysis.Findings reveal that AFTA Society tweets construct ADHD as an experience of suffering, and position children with ADHD as sufferers, often subject to additional problems.An alternative discursive construction of ADHD is that caring for a child with ADHD is a 'different' kind of responsibility for parents and teachers, who must be advised by 'experts'.The implications of these discourses are discussed in this paper.",
   "categories": [
     "Uncategorized"
   ],
@@ -14,8 +14,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.13189__ujer.2017.051208.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.13189__ujer.2017.051208.pdf",
+    "sourceUrl": "http://www.hrpub.org/download/20171130/UJER8-19510383.pdf",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

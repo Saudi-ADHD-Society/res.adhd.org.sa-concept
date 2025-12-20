@@ -1,0 +1,42 @@
+{
+  "paperId": "5dacc499c81165ba7adf9f308989ddd4a26e14e8",
+  "title": "The association between attention deficit hyperactivity disorder and Legg–Calvé–Perthes disease in tertiary hospital-Riyadh City, Saudi Arabia",
+  "year": 2018,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.4103/JMSR.JMSR_39_18?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4103/JMSR.JMSR_39_18, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "authors": [
+    {
+      "authorId": "114497844",
+      "name": "M. Alhunaishel"
+    },
+    {
+      "authorId": "2355323025",
+      "name": "Mohammad Almalki"
+    },
+    {
+      "authorId": "81749289",
+      "name": "S. Almaiman"
+    },
+    {
+      "authorId": "2391307075",
+      "name": "Turki Alqahtani"
+    },
+    {
+      "authorId": "1413703659",
+      "name": "Ziad Alsaadi"
+    },
+    {
+      "authorId": "1411489210",
+      "name": "Batal M. Aldosari"
+    },
+    {
+      "authorId": "112969426",
+      "name": "S. Al-Shehri"
+    }
+  ],
+  "abstract": null
+}

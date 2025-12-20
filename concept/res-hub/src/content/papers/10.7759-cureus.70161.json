@@ -2,7 +2,7 @@
   "doi": "10.7759/cureus.70161",
   "slug": "10.7759-cureus.70161",
   "title": "Assessment of the Quality of Life and Family Function in Attention Deficit Hyperactivity Disorder Caregivers in Al-Ahsa, Saudi Arabia",
-  "abstract": "<strong>Background</strong>",
+  "abstract": "Background Attention deficit hyperactivity disorder (ADHD) is the most prevalent neurobehavioral disorder in children and teenagers. The condition is debilitating, affecting numerous cognitive and behavioral processes and leading to substantial long-term consequences. Affected individuals, their families, and society as a whole bear a heavy functional, psychological, and financial cost. Aim The objective of this study was to evaluate the quality of life (QOL) among parents of children with ADHD diagnoses, as well as the burden and level of dysfunction in the family. Additionally, to ascertain the sociodemographic factors that influence these issues. Methods This cross-sectional study used an online survey to collect data from caregivers of children with a confirmed diagnosis of any type of ADHD who were exhibiting symptoms before the age of seven, speaking Arabic fluently and consented to take part in the study. The Arabic version questionnaire of the World Health Organization Quality of Life instrument (WHOQOL-BREF) was used to assess the QOL, and the Zarit Burden Interview questionnaire was employed to assess the degree of the experienced burden. Participants were recruited by a systematic random sampling method. Results A total of 103 ADHD caregivers were included in the study. A total of 89 out of 103 (86.4%) participants reported having various degrees of burden. There was a significant relation between the marital status of the caregiver and the degree of burden (p=0.024). Divorced caregivers were (4, 57.1%) severely burdened. Ninety out of 103 participants (87.4%) reported having dysfunctional families, and the majority of them (60, 60.1%) reported moderate family dysfunction. All quality-of-life domains were negatively impacted, with the environmental domain experiencing the most disruption. The overall four subdomains of QOL did not differ significantly with various sociodemographic characteristics. Conclusion There was a high prevalence of burden and family dysfunction among caregivers of ADHD children. Marital status was associated with a significant impact on the level of burden. In addition, there was a detrimental influence on every aspect of quality of life, with the environmental domain suffering the most. It is important to take into account family therapy and other interventions that strengthen caregivers' and families' relationships.",
   "categories": [
     "Uncategorized"
   ],
@@ -34,8 +34,9 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.7759__cureus.70161.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.7759__cureus.70161.pdf",
+    "sourceUrl": "http://doi.org/10.7759/cureus.70161"
   },
   "visibility": {
     "hidden": false

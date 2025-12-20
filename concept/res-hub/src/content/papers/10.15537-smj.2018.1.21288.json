@@ -59,8 +59,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.15537__smj.2018.1.21288.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.15537__smj.2018.1.21288.pdf",
+    "sourceUrl": "https://doi.org/10.15537/smj.2018.1.21288",
+    "license": "cc-by-nc-sa"
   },
   "visibility": {
     "hidden": false

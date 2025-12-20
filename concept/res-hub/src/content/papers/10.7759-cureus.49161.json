@@ -2,7 +2,7 @@
   "doi": "10.7759/cureus.49161",
   "slug": "10.7759-cureus.49161",
   "title": "The Prevalence of Risk Factors Among Children Diagnosed With Attention-Deficit/Hyperactivity Disorder, Aged 4–17 Years: A Cross-Sectional Study",
-  "abstract": "<strong>Introduction:</strong>",
+  "abstract": "Introduction: Attention-deficit/hyperactivity disorder (ADHD) is a neurodevelopmental disorder commonly observed in children. Although the etiology of ADHD is still unclear, many risk factors have been shown to increase the prevalence of ADHD, such as genetics, environmental factors, socioeconomic status, maternal smoking, and low birth weight. Aim: The current cross-sectional study aimed to assess the prevalence of several risk factors associated with ADHD-diagnosed children aged 4-17 years using parent-reported data. Methods: An observational cross-section study was conducted between December 2022 and February 2023 using a self-constructed questionnaire that we sent to parents whose children were diagnosed with ADHD. The questionnaire included socioeconomic information (income, gender, parent education, number of children), child information (age, ADHD type, academic achievement), pregnancy and neonatal period (smoking status, gestation age, mode of delivery, child weight), and if there is a history of ADHD in the family. Results: A total of 306 parents responded to the questionnaire. The majority of our study population was males (77.8%). The combined type, which includes symptoms of both hyperactivity and inattention, represented 70% of the population in our study, which is higher than the inattention type (23%) and the hyperactivity type (6%). The prevalence of several risk factors known to be associated with ADHD, such as family income, parental education, complications during pregnancy, and the low birth weight of the child, were also reported. Conclusion: To the best of our knowledge, this is the first study that examines the frequency of risk factors among children diagnosed with ADHD in Saudi Arabia. The study revealed that males are more likely to be diagnosed with ADHD than females. We also found that the combined type is the most diagnosed ADHD among children. Furthermore, there are no significant differences in the prevalence of the risk factors during the gestational or neonatal period among ADHD-diagnosed children. Therefore, a large-scale prospective study is needed to aid in evaluating the frequency and significance of various risk factors among diagnosed children",
   "categories": [
     "Uncategorized"
   ],
@@ -14,8 +14,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.7759__cureus.49161.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.7759__cureus.49161.pdf",
+    "sourceUrl": "https://assets.cureus.com/uploads/original_article/pdf/202128/20231121-15526-1hntss6.pdf",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

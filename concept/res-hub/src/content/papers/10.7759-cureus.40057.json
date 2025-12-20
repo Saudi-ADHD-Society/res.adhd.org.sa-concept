@@ -2,7 +2,7 @@
   "doi": "10.7759/cureus.40057",
   "slug": "10.7759-cureus.40057",
   "title": "Factors Affecting Knowledge of Attention-Deficit Hyperactivity Disorder Among Female Primary Schoolteachers in Taif City, Saudi Arabia",
-  "abstract": "<strong>Background</strong>",
+  "abstract": "Background Attention-deficit hyperactivity disorder (ADHD) is a public health challenge because it may contribute to academic and psychological difficulties among school children. Though ADHD is a common problem, Taif teachers' knowledge of the disease has never been assessed. Therefore, this study aimed to determine factors that influence ADHD knowledge among female primary schoolteachers in Taif City, Saudi Arabia. Methods This cross-sectional study was conducted on 359 female schoolteachers recruited by stratified random sampling. Participants self-reported demographic and personal data and completed the validated Arabic version of the knowledge of ADHD scale and teacher's attitude toward ADHD questionnaires. Results In Taif, it was determined that 96.4% of female primary schoolteachers had insufficient knowledge of ADHD, notably with nature, causes, consequences, and treatment knowledge. In contrast, 40% had adequate knowledge of the condition's symptoms and diagnosis, and 97.5% exhibited a favorable attitude. There is significantly higher knowledge among private schoolteachers, those who freshly graduated, specialize in learning difficulties, who attended any course/training about ADHD, and whoever taught ADHD children. There was a significant positive weak correlation between teachers' knowledge of ADHD and their attitude. Regression analysis revealed that female schoolteachers specialized in learning difficulties show significantly higher knowledge scores, teachers who never taught an ADHD child had a reduction of 94.6 % in ADHD knowledge, and any increase in the number of ADHD children teachers teaches has significantly increased teachers' knowledge (Overall Model: Chi-Square X2= 69.514, p < 0.000**). Conclusions Our study showed that there was a serious knowledge gap on ADHD among Taif female primary schoolteachers. Therefore, it is strongly recommended to boost teachers' knowledge of ADHD, especially at government schools, through conducting training courses, distributing leaflets intended to address ADHD, and launching awareness campaigns through the media, including social media, television, and radio. It is also recommended that education faculty curricula should include more information on ADHD.",
   "categories": [
     "Uncategorized"
   ],
@@ -19,8 +19,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.7759__cureus.40057.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.7759__cureus.40057.pdf",
+    "sourceUrl": "https://assets.cureus.com/uploads/original_article/pdf/161168/20230606-20985-1rp6e2z.pdf",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

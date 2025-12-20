@@ -1,0 +1,22 @@
+{
+  "paperId": "608c79cfe1933696f9929addb60d01ce97f3d464",
+  "title": "A pilot study investigating the association between sleep and cognitive function among adolescents.",
+  "year": 2017,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.ajp.2017.03.020?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.ajp.2017.03.020, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "authors": [
+    {
+      "authorId": "2109860181",
+      "name": "Shafiq Ahmad"
+    },
+    {
+      "authorId": "145021762",
+      "name": "S. Bashir"
+    }
+  ],
+  "abstract": null
+}

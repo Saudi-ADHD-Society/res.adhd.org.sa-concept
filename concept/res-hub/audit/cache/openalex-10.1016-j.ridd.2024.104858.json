@@ -1,0 +1,728 @@
+{
+  "id": "https://openalex.org/W4403416402",
+  "doi": "https://doi.org/10.1016/j.ridd.2024.104858",
+  "title": "Investigating the impact of an AI-based play activities intervention on the quality of life of school-aged children with ADHD",
+  "display_name": "Investigating the impact of an AI-based play activities intervention on the quality of life of school-aged children with ADHD",
+  "publication_year": 2024,
+  "publication_date": "2024-10-15",
+  "ids": {
+    "openalex": "https://openalex.org/W4403416402",
+    "doi": "https://doi.org/10.1016/j.ridd.2024.104858",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/39413561"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.ridd.2024.104858",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.ridd.2024.104858",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S132320204",
+      "display_name": "Research in Developmental Disabilities",
+      "issn_l": "0891-4222",
+      "issn": [
+        "0891-4222",
+        "1873-3379"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Research in Developmental Disabilities",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5011068422",
+        "display_name": "Ali Fahad Aldakhil",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I195631090",
+          "display_name": "Majmaah University",
+          "ror": "https://ror.org/01mcrnj60",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I195631090"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Ali Fahad Aldakhil",
+      "raw_affiliation_strings": [
+        "Department of Special Education, College of Education, Majmaah University, Majmaah 11952, Saudi Arabia. Electronic address: af.aldakhil@mu.edu.sa."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Special Education, College of Education, Majmaah University, Majmaah 11952, Saudi Arabia. Electronic address: af.aldakhil@mu.edu.sa.",
+          "institution_ids": [
+            "https://openalex.org/I195631090"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5011068422"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I195631090"
+  ],
+  "apc_list": {
+    "value": 3430,
+    "currency": "USD",
+    "value_usd": 3430
+  },
+  "apc_paid": null,
+  "fwci": 5.37725841,
+  "has_fulltext": false,
+  "cited_by_count": 6,
+  "citation_normalized_percentile": {
+    "value": 0.92557978,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "154",
+    "issue": null,
+    "first_page": "104858",
+    "last_page": "104858"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10537",
+    "display_name": "Attention Deficit Hyperactivity Disorder",
+    "score": 0.9994000196456909,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.9994000196456909,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12241",
+      "display_name": "Children's Physical and Motor Development",
+      "score": 0.9940999746322632,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10106",
+      "display_name": "Autism Spectrum Disorder Research",
+      "score": 0.9631999731063843,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.7804079651832581
+    },
+    {
+      "id": "https://openalex.org/keywords/intervention",
+      "display_name": "Intervention (counseling)",
+      "score": 0.7686673402786255
+    },
+    {
+      "id": "https://openalex.org/keywords/quality-of-life",
+      "display_name": "Quality of life (healthcare)",
+      "score": 0.5746157765388489
+    },
+    {
+      "id": "https://openalex.org/keywords/developmental-psychology",
+      "display_name": "Developmental psychology",
+      "score": 0.5345216393470764
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.38550862669944763
+    },
+    {
+      "id": "https://openalex.org/keywords/gerontology",
+      "display_name": "Gerontology",
+      "score": 0.3239437937736511
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.1816217005252838
+    },
+    {
+      "id": "https://openalex.org/keywords/psychotherapist",
+      "display_name": "Psychotherapist",
+      "score": 0.14534610509872437
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.12675675749778748
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.7804079651832581
+    },
+    {
+      "id": "https://openalex.org/C2780665704",
+      "wikidata": "https://www.wikidata.org/wiki/Q959298",
+      "display_name": "Intervention (counseling)",
+      "level": 2,
+      "score": 0.7686673402786255
+    },
+    {
+      "id": "https://openalex.org/C2779951463",
+      "wikidata": "https://www.wikidata.org/wiki/Q7268788",
+      "display_name": "Quality of life (healthcare)",
+      "level": 2,
+      "score": 0.5746157765388489
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.5345216393470764
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.38550862669944763
+    },
+    {
+      "id": "https://openalex.org/C74909509",
+      "wikidata": "https://www.wikidata.org/wiki/Q10387",
+      "display_name": "Gerontology",
+      "level": 1,
+      "score": 0.3239437937736511
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.1816217005252838
+    },
+    {
+      "id": "https://openalex.org/C542102704",
+      "wikidata": "https://www.wikidata.org/wiki/Q183257",
+      "display_name": "Psychotherapist",
+      "level": 1,
+      "score": 0.14534610509872437
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.12675675749778748
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001289",
+      "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001289",
+      "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+      "qualifier_ui": "Q000534",
+      "qualifier_name": "rehabilitation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001289",
+      "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011788",
+      "descriptor_name": "Quality of Life",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010988",
+      "descriptor_name": "Play and Playthings",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001185",
+      "descriptor_name": "Artificial Intelligence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012529",
+      "descriptor_name": "Saudi Arabia",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010989",
+      "descriptor_name": "Play Therapy",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001289",
+      "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001289",
+      "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+      "qualifier_ui": "Q000534",
+      "qualifier_name": "rehabilitation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001289",
+      "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011788",
+      "descriptor_name": "Quality of Life",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010988",
+      "descriptor_name": "Play and Playthings",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001185",
+      "descriptor_name": "Artificial Intelligence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012529",
+      "descriptor_name": "Saudi Arabia",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010989",
+      "descriptor_name": "Play Therapy",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001289",
+      "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001289",
+      "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+      "qualifier_ui": "Q000534",
+      "qualifier_name": "rehabilitation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001289",
+      "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011788",
+      "descriptor_name": "Quality of Life",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010988",
+      "descriptor_name": "Play and Playthings",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001185",
+      "descriptor_name": "Artificial Intelligence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012529",
+      "descriptor_name": "Saudi Arabia",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010989",
+      "descriptor_name": "Play Therapy",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.ridd.2024.104858",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.ridd.2024.104858",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S132320204",
+        "display_name": "Research in Developmental Disabilities",
+        "issn_l": "0891-4222",
+        "issn": [
+          "0891-4222",
+          "1873-3379"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Research in Developmental Disabilities",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:39413561",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39413561",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Research in developmental disabilities",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G4659285200",
+      "display_name": null,
+      "funder_award_id": "IFP-2020-xxx",
+      "funder_id": "https://openalex.org/F4320327296",
+      "funder_display_name": "Ministry of Education – Kingdom of Saudi Arabi"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320327296",
+      "display_name": "Ministry of Education – Kingdom of Saudi Arabi",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 47,
+  "referenced_works": [
+    "https://openalex.org/W3024968000",
+    "https://openalex.org/W4400612150",
+    "https://openalex.org/W6653083492",
+    "https://openalex.org/W4281687410",
+    "https://openalex.org/W2781764985",
+    "https://openalex.org/W3012634873",
+    "https://openalex.org/W4205370021",
+    "https://openalex.org/W4392970427",
+    "https://openalex.org/W4400909709",
+    "https://openalex.org/W3211931752",
+    "https://openalex.org/W1989444430",
+    "https://openalex.org/W4321329185",
+    "https://openalex.org/W3036949298",
+    "https://openalex.org/W2794227021",
+    "https://openalex.org/W2087484885",
+    "https://openalex.org/W4289779140",
+    "https://openalex.org/W4352978478",
+    "https://openalex.org/W3209802781",
+    "https://openalex.org/W3154133316",
+    "https://openalex.org/W4309604344",
+    "https://openalex.org/W3023502340",
+    "https://openalex.org/W1581283326",
+    "https://openalex.org/W2148910750",
+    "https://openalex.org/W2109733585",
+    "https://openalex.org/W6858705774",
+    "https://openalex.org/W4309604196",
+    "https://openalex.org/W4283079775",
+    "https://openalex.org/W3026044703",
+    "https://openalex.org/W4394625104",
+    "https://openalex.org/W4211094461",
+    "https://openalex.org/W6602042922",
+    "https://openalex.org/W4386571451",
+    "https://openalex.org/W2991491584",
+    "https://openalex.org/W2963251000",
+    "https://openalex.org/W4283710096",
+    "https://openalex.org/W2573293251",
+    "https://openalex.org/W6685331338",
+    "https://openalex.org/W2168448906",
+    "https://openalex.org/W6605965760",
+    "https://openalex.org/W7033325829",
+    "https://openalex.org/W6792847262",
+    "https://openalex.org/W2475990372",
+    "https://openalex.org/W4388717068",
+    "https://openalex.org/W2505058009",
+    "https://openalex.org/W146907594",
+    "https://openalex.org/W3143849734",
+    "https://openalex.org/W2011619810"
+  ],
+  "related_works": [
+    "https://openalex.org/W4294163344",
+    "https://openalex.org/W97763332",
+    "https://openalex.org/W2481385346",
+    "https://openalex.org/W2369154130",
+    "https://openalex.org/W2379322820",
+    "https://openalex.org/W3121411257",
+    "https://openalex.org/W562352906",
+    "https://openalex.org/W3029261275",
+    "https://openalex.org/W581085552",
+    "https://openalex.org/W4205155160"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 6
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

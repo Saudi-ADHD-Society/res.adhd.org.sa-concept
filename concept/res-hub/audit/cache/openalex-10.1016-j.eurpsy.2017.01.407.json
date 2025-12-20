@@ -1,0 +1,1238 @@
+{
+  "id": "https://openalex.org/W2730480232",
+  "doi": "https://doi.org/10.1016/j.eurpsy.2017.01.407",
+  "title": "Knowledge of kindergarten and elementary schools’ teachers regarding attention deficit hyperactivity disorder",
+  "display_name": "Knowledge of kindergarten and elementary schools’ teachers regarding attention deficit hyperactivity disorder",
+  "publication_year": 2017,
+  "publication_date": "2017-04-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2730480232",
+    "doi": "https://doi.org/10.1016/j.eurpsy.2017.01.407",
+    "mag": "2730480232"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.eurpsy.2017.01.407",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.eurpsy.2017.01.407",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S87202501",
+      "display_name": "European Psychiatry",
+      "issn_l": "0924-9338",
+      "issn": [
+        "0924-9338",
+        "1778-3585"
+      ],
+      "is_oa": false,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310311721",
+      "host_organization_name": "Cambridge University Press",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310311721",
+        "https://openalex.org/P4310311702"
+      ],
+      "host_organization_lineage_names": [
+        "Cambridge University Press",
+        "University of Cambridge"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "European Psychiatry",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5041272752",
+        "display_name": "S. Almutairi",
+        "orcid": "https://orcid.org/0009-0009-1824-6547"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I156216236",
+          "display_name": "Qassim University",
+          "ror": "https://ror.org/01wsfe280",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "S. Almutairi",
+      "raw_affiliation_strings": [
+        "Qassim University, College of Medicine, Almulayda, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Qassim University, College of Medicine, Almulayda, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5112294873",
+        "display_name": "Muteb Almutairi",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I156216236",
+          "display_name": "Qassim University",
+          "ror": "https://ror.org/01wsfe280",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M. Almutairi",
+      "raw_affiliation_strings": [
+        "Qassim University, College of Medicine, Almulayda, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Qassim University, College of Medicine, Almulayda, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5032613415",
+        "display_name": "Abeer Al Harbi",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I156216236",
+          "display_name": "Qassim University",
+          "ror": "https://ror.org/01wsfe280",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "A. Al Harbi",
+      "raw_affiliation_strings": [
+        "Qassim University, College of Medicine, Almulayda, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Qassim University, College of Medicine, Almulayda, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091472941",
+        "display_name": "Marya Alsuhaibani",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I156216236",
+          "display_name": "Qassim University",
+          "ror": "https://ror.org/01wsfe280",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M. Alsuhaibani",
+      "raw_affiliation_strings": [
+        "Qassim University, College of Medicine, Almulayda, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Qassim University, College of Medicine, Almulayda, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015475897",
+        "display_name": "Nourah Hamad AlKeaid",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801911633",
+          "display_name": "King Fahd Medical City",
+          "ror": "https://ror.org/01jgj2p89",
+          "country_code": "SA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801911633"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "N. Alkeaid",
+      "raw_affiliation_strings": [
+        "King Fahad Medical City, Rehabilitation Center, Riyadh, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "King Fahad Medical City, Rehabilitation Center, Riyadh, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I2801911633"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5033625116",
+        "display_name": "Turki H. Albatti",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I3130258272",
+          "display_name": "King Fahd Security College",
+          "ror": "https://ror.org/01hxaqe16",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I3130258272"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "T. Albatti",
+      "raw_affiliation_strings": [
+        "KFSH & KKUH, Psychiatry Unit, Riyadh, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "KFSH & KKUH, Psychiatry Unit, Riyadh, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I3130258272"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5041272752"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I156216236"
+  ],
+  "apc_list": {
+    "value": 2200,
+    "currency": "EUR",
+    "value_usd": 2372
+  },
+  "apc_paid": null,
+  "fwci": 0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.10747168,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "41",
+    "issue": "S1",
+    "first_page": "S429",
+    "last_page": "S429"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10537",
+    "display_name": "Attention Deficit Hyperactivity Disorder",
+    "score": 0.9994999766349792,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.6779805421829224
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "score": 0.655295729637146
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit",
+      "display_name": "Attention deficit",
+      "score": 0.5865112543106079
+    },
+    {
+      "id": "https://openalex.org/keywords/perception",
+      "display_name": "Perception",
+      "score": 0.5496734380722046
+    },
+    {
+      "id": "https://openalex.org/keywords/reading",
+      "display_name": "Reading (process)",
+      "score": 0.5284671187400818
+    },
+    {
+      "id": "https://openalex.org/keywords/specialty",
+      "display_name": "Specialty",
+      "score": 0.5162056088447571
+    },
+    {
+      "id": "https://openalex.org/keywords/school-teachers",
+      "display_name": "School teachers",
+      "score": 0.5048864483833313
+    },
+    {
+      "id": "https://openalex.org/keywords/stratified-sampling",
+      "display_name": "Stratified sampling",
+      "score": 0.42218077182769775
+    },
+    {
+      "id": "https://openalex.org/keywords/developmental-psychology",
+      "display_name": "Developmental psychology",
+      "score": 0.35410362482070923
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics-education",
+      "display_name": "Mathematics education",
+      "score": 0.3206102252006531
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.27441003918647766
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.22596624493598938
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.2125873565673828
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.6779805421829224
+    },
+    {
+      "id": "https://openalex.org/C2780783007",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "level": 2,
+      "score": 0.655295729637146
+    },
+    {
+      "id": "https://openalex.org/C3017694942",
+      "wikidata": "https://www.wikidata.org/wiki/Q16254243",
+      "display_name": "Attention deficit",
+      "level": 3,
+      "score": 0.5865112543106079
+    },
+    {
+      "id": "https://openalex.org/C26760741",
+      "wikidata": "https://www.wikidata.org/wiki/Q160402",
+      "display_name": "Perception",
+      "level": 2,
+      "score": 0.5496734380722046
+    },
+    {
+      "id": "https://openalex.org/C554936623",
+      "wikidata": "https://www.wikidata.org/wiki/Q199657",
+      "display_name": "Reading (process)",
+      "level": 2,
+      "score": 0.5284671187400818
+    },
+    {
+      "id": "https://openalex.org/C20387591",
+      "wikidata": "https://www.wikidata.org/wiki/Q930752",
+      "display_name": "Specialty",
+      "level": 2,
+      "score": 0.5162056088447571
+    },
+    {
+      "id": "https://openalex.org/C3020423824",
+      "wikidata": "https://www.wikidata.org/wiki/Q37226",
+      "display_name": "School teachers",
+      "level": 2,
+      "score": 0.5048864483833313
+    },
+    {
+      "id": "https://openalex.org/C49898467",
+      "wikidata": "https://www.wikidata.org/wiki/Q1517706",
+      "display_name": "Stratified sampling",
+      "level": 2,
+      "score": 0.42218077182769775
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.35410362482070923
+    },
+    {
+      "id": "https://openalex.org/C145420912",
+      "wikidata": "https://www.wikidata.org/wiki/Q853077",
+      "display_name": "Mathematics education",
+      "level": 1,
+      "score": 0.3206102252006531
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.27441003918647766
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.22596624493598938
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.2125873565673828
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C169760540",
+      "wikidata": "https://www.wikidata.org/wiki/Q207011",
+      "display_name": "Neuroscience",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.eurpsy.2017.01.407",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.eurpsy.2017.01.407",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S87202501",
+        "display_name": "European Psychiatry",
+        "issn_l": "0924-9338",
+        "issn": [
+          "0924-9338",
+          "1778-3585"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310311721",
+        "host_organization_name": "Cambridge University Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311721",
+          "https://openalex.org/P4310311702"
+        ],
+        "host_organization_lineage_names": [
+          "Cambridge University Press",
+          "University of Cambridge"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "European Psychiatry",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "display_name": "Quality Education",
+      "score": 0.8500000238418579,
+      "id": "https://metadata.un.org/sdg/4"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W2273708893",
+    "https://openalex.org/W2565069998",
+    "https://openalex.org/W4392107953",
+    "https://openalex.org/W2142077514",
+    "https://openalex.org/W1566344982",
+    "https://openalex.org/W2241928968",
+    "https://openalex.org/W2262413050",
+    "https://openalex.org/W183297272",
+    "https://openalex.org/W3212512115",
+    "https://openalex.org/W2094453099"
+  ],
+  "abstract_inverted_index": {
+    "38": [
+      139
+    ],
+    "711": [
+      117
+    ],
+    "1095": [
+      115
+    ],
+    "Background": [
+      0
+    ],
+    "Attention": [
+      1
+    ],
+    "deficit": [
+      2
+    ],
+    "hyperactivity": [
+      3
+    ],
+    "disorder": [
+      4
+    ],
+    "(ADHD)": [
+      5
+    ],
+    "is": [
+      6,
+      25
+    ],
+    "one": [
+      7
+    ],
+    "of": [
+      8,
+      32,
+      39,
+      41,
+      48,
+      55,
+      62,
+      81,
+      106,
+      138,
+      215,
+      230,
+      237,
+      265,
+      274
+    ],
+    "the": [
+      9,
+      19,
+      22,
+      28,
+      37,
+      44,
+      52,
+      69,
+      211
+    ],
+    "most": [
+      10
+    ],
+    "common": [
+      11
+    ],
+    "mental": [
+      12
+    ],
+    "disorders": [
+      13
+    ],
+    "that": [
+      14,
+      21,
+      235
+    ],
+    "manifest": [
+      15
+    ],
+    "among": [
+      16
+    ],
+    "children.": [
+      17
+    ],
+    "Despite": [
+      18
+    ],
+    "fact": [
+      20
+    ],
+    "teacher's": [
+      23
+    ],
+    "role": [
+      24
+    ],
+    "essential": [
+      26
+    ],
+    "in": [
+      27,
+      95,
+      103,
+      197,
+      241,
+      255,
+      261
+    ],
+    "assessment": [
+      29
+    ],
+    "and": [
+      30,
+      36,
+      46,
+      50,
+      71,
+      79,
+      97,
+      100,
+      146,
+      151,
+      181,
+      202,
+      208,
+      217,
+      221,
+      225
+    ],
+    "management": [
+      31,
+      80
+    ],
+    "pupils": [
+      33
+    ],
+    "with": [
+      34,
+      142,
+      213
+    ],
+    "ADHD": [
+      35,
+      124,
+      130,
+      160,
+      168,
+      177,
+      231,
+      245,
+      257
+    ],
+    "recommendation": [
+      38
+    ],
+    "participation": [
+      40
+    ],
+    "teachers": [
+      42,
+      56,
+      164,
+      238
+    ],
+    "for": [
+      43,
+      186
+    ],
+    "success": [
+      45
+    ],
+    "efficiency": [
+      47
+    ],
+    "diagnoses": [
+      49
+    ],
+    "treatment,": [
+      51
+    ],
+    "vast": [
+      53
+    ],
+    "majority": [
+      54
+    ],
+    "have": [
+      57,
+      170,
+      250,
+      269
+    ],
+    "neither": [
+      58
+    ],
+    "understanding": [
+      59
+    ],
+    "nor": [
+      60
+    ],
+    "knowledge": [
+      61,
+      75,
+      131,
+      201,
+      232
+    ],
+    "ADHD.": [
+      63,
+      82
+    ],
+    "Objectives": [
+      64
+    ],
+    "The": [
+      65,
+      112,
+      184,
+      228,
+      267
+    ],
+    "current": [
+      66
+    ],
+    "study": [
+      67,
+      113
+    ],
+    "explores": [
+      68
+    ],
+    "kindergarten": [
+      70,
+      101,
+      147
+    ],
+    "elementary": [
+      72,
+      99
+    ],
+    "school": [
+      73
+    ],
+    "teachers’": [
+      74
+    ],
+    "regarding": [
+      76
+    ],
+    "early": [
+      77
+    ],
+    "detection": [
+      78
+    ],
+    "Methods": [
+      83
+    ],
+    "Cross": [
+      84
+    ],
+    "sectional": [
+      85
+    ],
+    "survey": [
+      86
+    ],
+    "using": [
+      87
+    ],
+    "stratified": [
+      88
+    ],
+    "random": [
+      89
+    ],
+    "sampling": [
+      90
+    ],
+    "technique": [
+      91
+    ],
+    "was": [
+      92,
+      133
+    ],
+    "carried": [
+      93
+    ],
+    "out": [
+      94,
+      137
+    ],
+    "governmental": [
+      96
+    ],
+    "private": [
+      98
+    ],
+    "schools": [
+      102
+    ],
+    "four": [
+      104
+    ],
+    "cities": [
+      105
+    ],
+    "Qassim": [
+      107
+    ],
+    "region,": [
+      108
+    ],
+    "Saudi": [
+      109
+    ],
+    "Arabia.": [
+      110
+    ],
+    "Results": [
+      111
+    ],
+    "included": [
+      114
+    ],
+    "teachers,": [
+      116
+    ],
+    "(59.3%)": [
+      118
+    ],
+    "did": [
+      119
+    ],
+    "not": [
+      120,
+      270
+    ],
+    "get": [
+      121
+    ],
+    "information": [
+      122,
+      191
+    ],
+    "about": [
+      123,
+      167
+    ],
+    "during": [
+      125
+    ],
+    "undergraduate": [
+      126
+    ],
+    "studies.": [
+      127
+    ],
+    "Teachers’": [
+      128
+    ],
+    "overall": [
+      129,
+      198,
+      244
+    ],
+    "mean": [
+      132
+    ],
+    "21.7": [
+      134
+    ],
+    "+": [
+      135
+    ],
+    "5.5": [
+      136
+    ],
+    "marks.": [
+      140
+    ],
+    "Teachers": [
+      141,
+      154,
+      248
+    ],
+    "high": [
+      143
+    ],
+    "qualification": [
+      144
+    ],
+    "degree": [
+      145
+    ],
+    "specialty": [
+      148
+    ],
+    "scored": [
+      149,
+      161,
+      259
+    ],
+    "56.4%": [
+      150
+    ],
+    "60.2%,": [
+      152
+    ],
+    "respectively.": [
+      153,
+      183,
+      227
+    ],
+    "who": [
+      155,
+      165,
+      188,
+      249
+    ],
+    "attended": [
+      156
+    ],
+    "conferences": [
+      157
+    ],
+    "related": [
+      158
+    ],
+    "to": [
+      159,
+      174,
+      243
+    ],
+    "64.5%,": [
+      162
+    ],
+    "while": [
+      163
+    ],
+    "read": [
+      166
+    ],
+    "or": [
+      169,
+      253
+    ],
+    "been": [
+      171
+    ],
+    "ever": [
+      172
+    ],
+    "asked": [
+      173
+    ],
+    "diagnose/teach": [
+      175
+    ],
+    "an": [
+      176
+    ],
+    "student": [
+      178
+    ],
+    "had": [
+      179
+    ],
+    "59.4%": [
+      180
+    ],
+    "62.1%,": [
+      182
+    ],
+    "sources": [
+      185
+    ],
+    "those": [
+      187
+    ],
+    "got": [
+      189
+    ],
+    "their": [
+      190,
+      272
+    ],
+    "through": [
+      192
+    ],
+    "reading": [
+      193
+    ],
+    "were": [
+      194,
+      210,
+      239
+    ],
+    "statistically": [
+      195
+    ],
+    "significant": [
+      196
+    ],
+    "knowledge,": [
+      199
+    ],
+    "general": [
+      200
+    ],
+    "treatment": [
+      203
+    ],
+    "dimensions.": [
+      204
+    ],
+    "As": [
+      205
+    ],
+    "scientific": [
+      206
+    ],
+    "studies": [
+      207
+    ],
+    "books": [
+      209
+    ],
+    "highest": [
+      212
+    ],
+    "percentage": [
+      214
+    ],
+    "24.6%": [
+      216
+    ],
+    "23.3%,": [
+      218
+    ],
+    "respectively,": [
+      219,
+      223
+    ],
+    "4%": [
+      220
+    ],
+    "3.6%,": [
+      222
+    ],
+    "3%": [
+      224
+    ],
+    "3%,": [
+      226
+    ],
+    "level": [
+      229
+    ],
+    "perception": [
+      233
+    ],
+    "showed": [
+      234
+    ],
+    "76%": [
+      236
+    ],
+    "knowledgeable": [
+      240
+    ],
+    "relation": [
+      242
+    ],
+    "perception.": [
+      246
+    ],
+    "Conclusion": [
+      247
+    ],
+    "higher": [
+      251,
+      260
+    ],
+    "qualifications": [
+      252
+    ],
+    "training": [
+      254
+    ],
+    "identifying": [
+      256
+    ],
+    "children": [
+      258
+    ],
+    "our": [
+      262
+    ],
+    "study.": [
+      263
+    ],
+    "Disclosure": [
+      264
+    ],
+    "interest": [
+      266
+    ],
+    "authors": [
+      268
+    ],
+    "supplied": [
+      271
+    ],
+    "declaration": [
+      273
+    ],
+    "competing": [
+      275
+    ],
+    "interest.": [
+      276
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

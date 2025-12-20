@@ -92,8 +92,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.1007__s00787-015-0778-1.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.1007__s00787-015-0778-1.pdf",
+    "sourceUrl": "https://link.springer.com/content/pdf/10.1007/s00787-015-0778-1.pdf",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

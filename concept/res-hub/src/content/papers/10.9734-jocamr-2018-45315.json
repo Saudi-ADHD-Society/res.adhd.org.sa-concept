@@ -37,8 +37,9 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.9734__jocamr__2018__45315.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.9734__jocamr__2018__45315.pdf",
+    "sourceUrl": "http://www.sciencedomain.org/download/MjczNDlAQHBm.pdf"
   },
   "visibility": {
     "hidden": false

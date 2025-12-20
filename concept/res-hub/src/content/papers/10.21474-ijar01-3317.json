@@ -48,8 +48,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.21474__ijar01__3317.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.21474__ijar01__3317.pdf",
+    "sourceUrl": "http://www.journalijar.com/uploads/225_IJAR-15604.pdf",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

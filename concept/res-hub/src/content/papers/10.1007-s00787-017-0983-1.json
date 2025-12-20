@@ -73,7 +73,9 @@
     }
   ],
   "access": {
-    "status": "unknown"
+    "status": "open",
+    "sourceUrl": "https://link.springer.com/content/pdf/10.1007%2Fs00787-017-0983-1.pdf",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

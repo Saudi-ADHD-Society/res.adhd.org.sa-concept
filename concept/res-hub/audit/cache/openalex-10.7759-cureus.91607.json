@@ -1,0 +1,705 @@
+{
+  "id": "https://openalex.org/W4413984722",
+  "doi": "https://doi.org/10.7759/cureus.91607",
+  "title": "Evaluation of General Public Awareness, Knowledge, and Attitude Towards Attention-Deficit/Hyperactivity Disorder in the Riyadh Region of Saudi Arabia",
+  "display_name": "Evaluation of General Public Awareness, Knowledge, and Attitude Towards Attention-Deficit/Hyperactivity Disorder in the Riyadh Region of Saudi Arabia",
+  "publication_year": 2025,
+  "publication_date": "2025-09-04",
+  "ids": {
+    "openalex": "https://openalex.org/W4413984722",
+    "doi": "https://doi.org/10.7759/cureus.91607",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/41049919"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.7759/cureus.91607",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.7759/cureus.91607",
+    "pdf_url": "https://www.cureus.com/articles/363181-evaluation-of-general-public-awareness-knowledge-and-attitude-towards-attention-deficithyperactivity-disorder-in-the-riyadh-region-of-saudi-arabia.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738950867",
+      "display_name": "Cureus",
+      "issn_l": "2168-8184",
+      "issn": [
+        "2168-8184"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310316779",
+      "host_organization_name": "Cureus, Inc.",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310316779"
+      ],
+      "host_organization_lineage_names": [
+        "Cureus, Inc."
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cureus",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://www.cureus.com/articles/363181-evaluation-of-general-public-awareness-knowledge-and-attitude-towards-attention-deficithyperactivity-disorder-in-the-riyadh-region-of-saudi-arabia.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5107844263",
+        "display_name": "Salah-Ud-Din Khan",
+        "orcid": "https://orcid.org/0000-0002-7466-5633"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I240666556",
+          "display_name": "Imam Mohammad ibn Saud Islamic University",
+          "ror": "https://ror.org/05gxjyb39",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I240666556"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Salahuddin Khan",
+      "raw_affiliation_strings": [
+        "Biochemistry, College of Medicine, Al Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Biochemistry, College of Medicine, Al Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU.",
+          "institution_ids": [
+            "https://openalex.org/I240666556"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5119538257",
+        "display_name": "Ammar Y Al Qahtani",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I240666556",
+          "display_name": "Imam Mohammad ibn Saud Islamic University",
+          "ror": "https://ror.org/05gxjyb39",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I240666556"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ammar Y Al Qahtani",
+      "raw_affiliation_strings": [
+        "Medicine, College of Medicine, Al Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Medicine, College of Medicine, Al Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU.",
+          "institution_ids": [
+            "https://openalex.org/I240666556"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5119538258",
+        "display_name": "Abdulrahman K Aburas",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I240666556",
+          "display_name": "Imam Mohammad ibn Saud Islamic University",
+          "ror": "https://ror.org/05gxjyb39",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I240666556"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Abdulrahman K Aburas",
+      "raw_affiliation_strings": [
+        "Medicine, College of Medicine, Al Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Medicine, College of Medicine, Al Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU.",
+          "institution_ids": [
+            "https://openalex.org/I240666556"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5119538259",
+        "display_name": "Sultan H AlKhashan",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I240666556",
+          "display_name": "Imam Mohammad ibn Saud Islamic University",
+          "ror": "https://ror.org/05gxjyb39",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I240666556"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sultan H AlKhashan",
+      "raw_affiliation_strings": [
+        "Medicine, College of Medicine, Al Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Medicine, College of Medicine, Al Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU.",
+          "institution_ids": [
+            "https://openalex.org/I240666556"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5061635381",
+        "display_name": "F Giraud",
+        "orcid": "https://orcid.org/0000-0001-7600-3687"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I240666556",
+          "display_name": "Imam Mohammad ibn Saud Islamic University",
+          "ror": "https://ror.org/05gxjyb39",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I240666556"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Fahad A Giraud",
+      "raw_affiliation_strings": [
+        "Medicine, College of Medicine, Al Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Medicine, College of Medicine, Al Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU.",
+          "institution_ids": [
+            "https://openalex.org/I240666556"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5119538260",
+        "display_name": "Khaled M Alolayan",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I240666556",
+          "display_name": "Imam Mohammad ibn Saud Islamic University",
+          "ror": "https://ror.org/05gxjyb39",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I240666556"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Khaled M Alolayan",
+      "raw_affiliation_strings": [
+        "Medicine, College of Medicine, Al Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Medicine, College of Medicine, Al Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU.",
+          "institution_ids": [
+            "https://openalex.org/I240666556"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5119538261",
+        "display_name": "Abdullah A Al Mohsen",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I240666556",
+          "display_name": "Imam Mohammad ibn Saud Islamic University",
+          "ror": "https://ror.org/05gxjyb39",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I240666556"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Abdullah A Al Mohsen",
+      "raw_affiliation_strings": [
+        "Medicine, College of Medicine, Al Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Medicine, College of Medicine, Al Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU.",
+          "institution_ids": [
+            "https://openalex.org/I240666556"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5119538262",
+        "display_name": "Abdulaziz M Almegren",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I240666556",
+          "display_name": "Imam Mohammad ibn Saud Islamic University",
+          "ror": "https://ror.org/05gxjyb39",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I240666556"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Abdulaziz M Almegren",
+      "raw_affiliation_strings": [
+        "Medicine, College of Medicine, Al Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Medicine, College of Medicine, Al Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU.",
+          "institution_ids": [
+            "https://openalex.org/I240666556"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5119538263",
+        "display_name": "Mohammed I Albalawi",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I240666556",
+          "display_name": "Imam Mohammad ibn Saud Islamic University",
+          "ror": "https://ror.org/05gxjyb39",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I240666556"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mohammed I Albalawi",
+      "raw_affiliation_strings": [
+        "Medicine, College of Medicine, Al Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Medicine, College of Medicine, Al Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU.",
+          "institution_ids": [
+            "https://openalex.org/I240666556"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 9,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.47913631,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "17",
+    "issue": "9",
+    "first_page": "e91607",
+    "last_page": "e91607"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10537",
+    "display_name": "Attention Deficit Hyperactivity Disorder",
+    "score": 1,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10106",
+      "display_name": "Autism Spectrum Disorder Research",
+      "score": 0.9221000075340271,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13471",
+      "display_name": "Cognitive Functions and Memory",
+      "score": 0.9182999730110168,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.9465422630310059
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "score": 0.5926011800765991
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit",
+      "display_name": "Attention deficit",
+      "score": 0.5508718490600586
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.4472118020057678
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-disorder",
+      "display_name": "Attention deficit disorder",
+      "score": 0.43949007987976074
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.9465422630310059
+    },
+    {
+      "id": "https://openalex.org/C2780783007",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "level": 2,
+      "score": 0.5926011800765991
+    },
+    {
+      "id": "https://openalex.org/C3017694942",
+      "wikidata": "https://www.wikidata.org/wiki/Q16254243",
+      "display_name": "Attention deficit",
+      "level": 3,
+      "score": 0.5508718490600586
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.4472118020057678
+    },
+    {
+      "id": "https://openalex.org/C2994409691",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit disorder",
+      "level": 2,
+      "score": 0.43949007987976074
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.7759/cureus.91607",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.7759/cureus.91607",
+      "pdf_url": "https://www.cureus.com/articles/363181-evaluation-of-general-public-awareness-knowledge-and-attitude-towards-attention-deficithyperactivity-disorder-in-the-riyadh-region-of-saudi-arabia.pdf",
+      "source": {
+        "id": "https://openalex.org/S2738950867",
+        "display_name": "Cureus",
+        "issn_l": "2168-8184",
+        "issn": [
+          "2168-8184"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310316779",
+        "host_organization_name": "Cureus, Inc.",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310316779"
+        ],
+        "host_organization_lineage_names": [
+          "Cureus, Inc."
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cureus",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:41049919",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/41049919",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cureus",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:europepmc.org:11305644",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12495999",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.7759/cureus.91607",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.7759/cureus.91607",
+    "pdf_url": "https://www.cureus.com/articles/363181-evaluation-of-general-public-awareness-knowledge-and-attitude-towards-attention-deficithyperactivity-disorder-in-the-riyadh-region-of-saudi-arabia.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738950867",
+      "display_name": "Cureus",
+      "issn_l": "2168-8184",
+      "issn": [
+        "2168-8184"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310316779",
+      "host_organization_name": "Cureus, Inc.",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310316779"
+      ],
+      "host_organization_lineage_names": [
+        "Cureus, Inc."
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cureus",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 8,
+  "referenced_works": [
+    "https://openalex.org/W4247665917",
+    "https://openalex.org/W2127901933",
+    "https://openalex.org/W1987824576",
+    "https://openalex.org/W4236486344",
+    "https://openalex.org/W2149209582",
+    "https://openalex.org/W3153619923",
+    "https://openalex.org/W2809531530",
+    "https://openalex.org/W2480853651"
+  ],
+  "related_works": [
+    "https://openalex.org/W4394985078",
+    "https://openalex.org/W4391139715",
+    "https://openalex.org/W1566344982",
+    "https://openalex.org/W2561202861",
+    "https://openalex.org/W2929697852",
+    "https://openalex.org/W2559189125",
+    "https://openalex.org/W4399870686",
+    "https://openalex.org/W2094453099",
+    "https://openalex.org/W4408872249",
+    "https://openalex.org/W3198115581"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

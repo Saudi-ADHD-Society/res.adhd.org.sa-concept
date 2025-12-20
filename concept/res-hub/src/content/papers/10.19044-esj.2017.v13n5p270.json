@@ -33,8 +33,9 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.19044__esj.2017.v13n5p270.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.19044__esj.2017.v13n5p270.pdf",
+    "sourceUrl": "http://eujournal.org/index.php/esj/article/download/8871/8437"
   },
   "visibility": {
     "hidden": false

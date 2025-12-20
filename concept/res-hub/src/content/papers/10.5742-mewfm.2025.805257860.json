@@ -39,8 +39,9 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.5742__mewfm.2025.805257860.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.5742__mewfm.2025.805257860.pdf",
+    "sourceUrl": "http://www.mejfm.com/August%202025/ADHD.pdf"
   },
   "visibility": {
     "hidden": false

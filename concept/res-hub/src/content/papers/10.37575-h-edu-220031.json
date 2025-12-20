@@ -19,8 +19,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.37575__h__edu__220031.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.37575__h__edu__220031.pdf",
+    "sourceUrl": "https://services.kfu.edu.sa/scientificjournal/Handlers/FileHandler.ashx?file=08 220031.pdf&Folder=UploadFiles",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

@@ -1,0 +1,1405 @@
+{
+  "id": "https://openalex.org/W4402846109",
+  "doi": "https://doi.org/10.7759/cureus.70161",
+  "title": "Assessment of the Quality of Life and Family Function in Attention Deficit Hyperactivity Disorder Caregivers in Al-Ahsa, Saudi Arabia",
+  "display_name": "Assessment of the Quality of Life and Family Function in Attention Deficit Hyperactivity Disorder Caregivers in Al-Ahsa, Saudi Arabia",
+  "publication_year": 2024,
+  "publication_date": "2024-09-25",
+  "ids": {
+    "openalex": "https://openalex.org/W4402846109",
+    "doi": "https://doi.org/10.7759/cureus.70161",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/39463622"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.7759/cureus.70161",
+    "is_oa": true,
+    "landing_page_url": "http://doi.org/10.7759/cureus.70161",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2738950867",
+      "display_name": "Cureus",
+      "issn_l": "2168-8184",
+      "issn": [
+        "2168-8184"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310316779",
+      "host_organization_name": "Cureus, Inc.",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310316779"
+      ],
+      "host_organization_lineage_names": [
+        "Cureus, Inc."
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cureus",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "http://doi.org/10.7759/cureus.70161",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5034237876",
+        "display_name": "Jihad Algadeeb",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210143513",
+          "display_name": "Ministry of Health",
+          "ror": "https://ror.org/042qjjy86",
+          "country_code": "MM",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210143513"
+          ]
+        }
+      ],
+      "countries": [
+        "MM"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jihad Algadeeb",
+      "raw_affiliation_strings": [
+        "Preventive Medicine, Al-Ahsa Health Cluster, Ministry of Health, Al-Ahsa, SAU."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Preventive Medicine, Al-Ahsa Health Cluster, Ministry of Health, Al-Ahsa, SAU.",
+          "institution_ids": [
+            "https://openalex.org/I4210143513"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5112017341",
+        "display_name": "Essa AlSaleh",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210086315",
+          "display_name": "Directorate of Health",
+          "ror": "https://ror.org/000qr7b45",
+          "country_code": "IS",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210086315"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210121117",
+          "display_name": "Health Affairs",
+          "ror": "https://ror.org/02fkh1w66",
+          "country_code": "US",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I4210121117"
+          ]
+        }
+      ],
+      "countries": [
+        "IS",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Essa Mohammed AlSaleh",
+      "raw_affiliation_strings": [
+        "Infection Control, Directorate of Health Affairs, Ministry of Health, Al-Ahsa, SAU."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Infection Control, Directorate of Health Affairs, Ministry of Health, Al-Ahsa, SAU.",
+          "institution_ids": [
+            "https://openalex.org/I4210086315",
+            "https://openalex.org/I4210121117"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5054812375",
+        "display_name": "Rahma B AlGadeeb",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210143513",
+          "display_name": "Ministry of Health",
+          "ror": "https://ror.org/042qjjy86",
+          "country_code": "MM",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210143513"
+          ]
+        }
+      ],
+      "countries": [
+        "MM"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rahma B AlGadeeb",
+      "raw_affiliation_strings": [
+        "Preventive Medicine, Al-Ahsa Health Cluster, Ministry of Health, Al-Ahsa, SAU."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Preventive Medicine, Al-Ahsa Health Cluster, Ministry of Health, Al-Ahsa, SAU.",
+          "institution_ids": [
+            "https://openalex.org/I4210143513"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107579446",
+        "display_name": "Huda Abdulaziz S Alkhoufi",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210143513",
+          "display_name": "Ministry of Health",
+          "ror": "https://ror.org/042qjjy86",
+          "country_code": "MM",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210143513"
+          ]
+        }
+      ],
+      "countries": [
+        "MM"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Huda Abdulaziz S Alkhoufi",
+      "raw_affiliation_strings": [
+        "Developmental and Behavioral Disorders, Maternity and Children Hospital, Al-Ahsa Health Cluster, Ministry of Health, Al-Ahsa, SAU."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Developmental and Behavioral Disorders, Maternity and Children Hospital, Al-Ahsa Health Cluster, Ministry of Health, Al-Ahsa, SAU.",
+          "institution_ids": [
+            "https://openalex.org/I4210143513"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5069856854",
+        "display_name": "Ali Alsaad",
+        "orcid": "https://orcid.org/0000-0002-6025-3443"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4626487",
+          "display_name": "King Faisal University",
+          "ror": "https://ror.org/00dn43547",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4626487"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ali Jawad Alsaad",
+      "raw_affiliation_strings": [
+        "Clinical Neuroscience, Faculty of Medicine, King Faisal University, Al Hofuf, SAU."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Clinical Neuroscience, Faculty of Medicine, King Faisal University, Al Hofuf, SAU.",
+          "institution_ids": [
+            "https://openalex.org/I4626487"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 4,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.25637571,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "16",
+    "issue": "9",
+    "first_page": "e70161",
+    "last_page": "e70161"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10537",
+    "display_name": "Attention Deficit Hyperactivity Disorder",
+    "score": 0.9997000098228455,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10144",
+      "display_name": "Blood Pressure and Hypertension Studies",
+      "score": 0.9369999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2705",
+        "display_name": "Cardiology and Cardiovascular Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10316",
+      "display_name": "Sleep and related disorders",
+      "score": 0.9340999722480774,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.9530031681060791
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "score": 0.5941606163978577
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit",
+      "display_name": "Attention deficit",
+      "score": 0.5473915338516235
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-disorder",
+      "display_name": "Attention deficit disorder",
+      "score": 0.5228995680809021
+    },
+    {
+      "id": "https://openalex.org/keywords/quality-of-life",
+      "display_name": "Quality of life (healthcare)",
+      "score": 0.5220341682434082
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.4147895872592926
+    },
+    {
+      "id": "https://openalex.org/keywords/gerontology",
+      "display_name": "Gerontology",
+      "score": 0.3849886953830719
+    },
+    {
+      "id": "https://openalex.org/keywords/nursing",
+      "display_name": "Nursing",
+      "score": 0.08131477236747742
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.9530031681060791
+    },
+    {
+      "id": "https://openalex.org/C2780783007",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "level": 2,
+      "score": 0.5941606163978577
+    },
+    {
+      "id": "https://openalex.org/C3017694942",
+      "wikidata": "https://www.wikidata.org/wiki/Q16254243",
+      "display_name": "Attention deficit",
+      "level": 3,
+      "score": 0.5473915338516235
+    },
+    {
+      "id": "https://openalex.org/C2994409691",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit disorder",
+      "level": 2,
+      "score": 0.5228995680809021
+    },
+    {
+      "id": "https://openalex.org/C2779951463",
+      "wikidata": "https://www.wikidata.org/wiki/Q7268788",
+      "display_name": "Quality of life (healthcare)",
+      "level": 2,
+      "score": 0.5220341682434082
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.4147895872592926
+    },
+    {
+      "id": "https://openalex.org/C74909509",
+      "wikidata": "https://www.wikidata.org/wiki/Q10387",
+      "display_name": "Gerontology",
+      "level": 1,
+      "score": 0.3849886953830719
+    },
+    {
+      "id": "https://openalex.org/C159110408",
+      "wikidata": "https://www.wikidata.org/wiki/Q121176",
+      "display_name": "Nursing",
+      "level": 1,
+      "score": 0.08131477236747742
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.7759/cureus.70161",
+      "is_oa": true,
+      "landing_page_url": "http://doi.org/10.7759/cureus.70161",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2738950867",
+        "display_name": "Cureus",
+        "issn_l": "2168-8184",
+        "issn": [
+          "2168-8184"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310316779",
+        "host_organization_name": "Cureus, Inc.",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310316779"
+        ],
+        "host_organization_lineage_names": [
+          "Cureus, Inc."
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cureus",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:39463622",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39463622",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cureus",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:11504951",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11504951",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Cureus",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.7759/cureus.70161",
+    "is_oa": true,
+    "landing_page_url": "http://doi.org/10.7759/cureus.70161",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2738950867",
+      "display_name": "Cureus",
+      "issn_l": "2168-8184",
+      "issn": [
+        "2168-8184"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310316779",
+      "host_organization_name": "Cureus, Inc.",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310316779"
+      ],
+      "host_organization_lineage_names": [
+        "Cureus, Inc."
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cureus",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 41,
+  "referenced_works": [
+    "https://openalex.org/W1561737009",
+    "https://openalex.org/W2787801287",
+    "https://openalex.org/W4366549485",
+    "https://openalex.org/W4367155291",
+    "https://openalex.org/W4390975089",
+    "https://openalex.org/W4307283623",
+    "https://openalex.org/W3128855809",
+    "https://openalex.org/W2973826625",
+    "https://openalex.org/W2981498376",
+    "https://openalex.org/W3111641903",
+    "https://openalex.org/W4363648003",
+    "https://openalex.org/W4399665630",
+    "https://openalex.org/W2752103357",
+    "https://openalex.org/W2075871092",
+    "https://openalex.org/W4312046245",
+    "https://openalex.org/W2586115157",
+    "https://openalex.org/W2766830452",
+    "https://openalex.org/W3043514962",
+    "https://openalex.org/W2045790996",
+    "https://openalex.org/W4395686416",
+    "https://openalex.org/W2888111484",
+    "https://openalex.org/W2044994232",
+    "https://openalex.org/W1906533656",
+    "https://openalex.org/W4393168577",
+    "https://openalex.org/W2030276698",
+    "https://openalex.org/W3103584796",
+    "https://openalex.org/W2793547259",
+    "https://openalex.org/W4400352057",
+    "https://openalex.org/W4220998747",
+    "https://openalex.org/W4285269178",
+    "https://openalex.org/W3144419666",
+    "https://openalex.org/W2724527206",
+    "https://openalex.org/W2984793219",
+    "https://openalex.org/W2024556035",
+    "https://openalex.org/W2543961916",
+    "https://openalex.org/W4307849026",
+    "https://openalex.org/W3103811112",
+    "https://openalex.org/W4226334253",
+    "https://openalex.org/W4386030678",
+    "https://openalex.org/W4390284377",
+    "https://openalex.org/W4247715746"
+  ],
+  "related_works": [
+    "https://openalex.org/W4394985078",
+    "https://openalex.org/W4391139715",
+    "https://openalex.org/W1566344982",
+    "https://openalex.org/W2561202861",
+    "https://openalex.org/W2262413050",
+    "https://openalex.org/W2929697852",
+    "https://openalex.org/W2559189125",
+    "https://openalex.org/W4399870686",
+    "https://openalex.org/W2094453099",
+    "https://openalex.org/W3198115581"
+  ],
+  "abstract_inverted_index": {
+    "89": [
+      196
+    ],
+    "103": [
+      185,
+      199,
+      236
+    ],
+    "Background": [
+      0
+    ],
+    "Attention": [
+      1
+    ],
+    "deficit": [
+      2
+    ],
+    "hyperactivity": [
+      3
+    ],
+    "disorder": [
+      4,
+      11
+    ],
+    "(ADHD)": [
+      5
+    ],
+    "is": [
+      6,
+      18,
+      333
+    ],
+    "the": [
+      7,
+      58,
+      73,
+      80,
+      85,
+      121,
+      134,
+      141,
+      154,
+      157,
+      166,
+      169,
+      191,
+      214,
+      218,
+      221,
+      244,
+      261,
+      265,
+      307,
+      326,
+      330
+    ],
+    "most": [
+      8,
+      266
+    ],
+    "prevalent": [
+      9
+    ],
+    "neurobehavioral": [
+      10
+    ],
+    "in": [
+      12,
+      79,
+      133,
+      190
+    ],
+    "children": [
+      13,
+      66,
+      106
+    ],
+    "and": [
+      14,
+      23,
+      26,
+      36,
+      46,
+      75,
+      128,
+      156,
+      220,
+      243,
+      290,
+      341,
+      347
+    ],
+    "teenagers.": [
+      15
+    ],
+    "The": [
+      16,
+      50,
+      136,
+      268
+    ],
+    "condition": [
+      17
+    ],
+    "debilitating,": [
+      19
+    ],
+    "affecting": [
+      20
+    ],
+    "numerous": [
+      21
+    ],
+    "cognitive": [
+      22
+    ],
+    "behavioral": [
+      24
+    ],
+    "processes": [
+      25
+    ],
+    "leading": [
+      27
+    ],
+    "to": [
+      28,
+      56,
+      83,
+      100,
+      130,
+      152,
+      164,
+      335
+    ],
+    "substantial": [
+      29
+    ],
+    "long-term": [
+      30
+    ],
+    "consequences.": [
+      31
+    ],
+    "Affected": [
+      32
+    ],
+    "individuals,": [
+      33
+    ],
+    "their": [
+      34
+    ],
+    "families,": [
+      35,
+      242
+    ],
+    "society": [
+      37
+    ],
+    "as": [
+      38,
+      70,
+      72
+    ],
+    "a": [
+      39,
+      42,
+      108,
+      176,
+      210,
+      285,
+      303,
+      315
+    ],
+    "whole": [
+      40
+    ],
+    "bear": [
+      41
+    ],
+    "heavy": [
+      43
+    ],
+    "functional,": [
+      44
+    ],
+    "psychological,": [
+      45
+    ],
+    "financial": [
+      47
+    ],
+    "cost.": [
+      48
+    ],
+    "Aim": [
+      49
+    ],
+    "objective": [
+      51
+    ],
+    "of": [
+      52,
+      60,
+      65,
+      77,
+      105,
+      111,
+      114,
+      123,
+      140,
+      146,
+      168,
+      184,
+      195,
+      198,
+      206,
+      217,
+      223,
+      235,
+      246,
+      272,
+      288,
+      295,
+      309,
+      321,
+      323
+    ],
+    "this": [
+      53
+    ],
+    "study": [
+      54,
+      95
+    ],
+    "was": [
+      55,
+      150,
+      162,
+      209,
+      284,
+      300,
+      314
+    ],
+    "evaluate": [
+      57
+    ],
+    "quality": [
+      59,
+      322
+    ],
+    "life": [
+      61
+    ],
+    "(QOL)": [
+      62
+    ],
+    "among": [
+      63,
+      293
+    ],
+    "parents": [
+      64
+    ],
+    "with": [
+      67,
+      107,
+      260,
+      278,
+      302,
+      325
+    ],
+    "ADHD": [
+      68,
+      115,
+      186,
+      296
+    ],
+    "diagnoses,": [
+      69
+    ],
+    "well": [
+      71
+    ],
+    "burden": [
+      74,
+      224,
+      289
+    ],
+    "level": [
+      76,
+      308
+    ],
+    "dysfunction": [
+      78,
+      292
+    ],
+    "family.": [
+      81
+    ],
+    "Additionally,": [
+      82
+    ],
+    "ascertain": [
+      84
+    ],
+    "sociodemographic": [
+      86,
+      280
+    ],
+    "factors": [
+      87
+    ],
+    "that": [
+      88,
+      344
+    ],
+    "influence": [
+      89,
+      317
+    ],
+    "these": [
+      90
+    ],
+    "issues.": [
+      91
+    ],
+    "Methods": [
+      92
+    ],
+    "This": [
+      93
+    ],
+    "cross-sectional": [
+      94
+    ],
+    "used": [
+      96,
+      151
+    ],
+    "an": [
+      97
+    ],
+    "online": [
+      98
+    ],
+    "survey": [
+      99
+    ],
+    "collect": [
+      101
+    ],
+    "data": [
+      102
+    ],
+    "from": [
+      103
+    ],
+    "caregivers": [
+      104,
+      187,
+      227,
+      294
+    ],
+    "confirmed": [
+      109
+    ],
+    "diagnosis": [
+      110
+    ],
+    "any": [
+      112
+    ],
+    "type": [
+      113
+    ],
+    "who": [
+      116
+    ],
+    "were": [
+      117,
+      173,
+      188,
+      228,
+      257
+    ],
+    "exhibiting": [
+      118
+    ],
+    "symptoms": [
+      119
+    ],
+    "before": [
+      120
+    ],
+    "age": [
+      122
+    ],
+    "seven,": [
+      124
+    ],
+    "speaking": [
+      125
+    ],
+    "Arabic": [
+      126,
+      137
+    ],
+    "fluently": [
+      127
+    ],
+    "consented": [
+      129
+    ],
+    "take": [
+      131,
+      336
+    ],
+    "part": [
+      132
+    ],
+    "study.": [
+      135,
+      192
+    ],
+    "version": [
+      138
+    ],
+    "questionnaire": [
+      139,
+      161
+    ],
+    "World": [
+      142
+    ],
+    "Health": [
+      143
+    ],
+    "Organization": [
+      144
+    ],
+    "Quality": [
+      145
+    ],
+    "Life": [
+      147
+    ],
+    "instrument": [
+      148
+    ],
+    "(WHOQOL-BREF)": [
+      149
+    ],
+    "assess": [
+      153,
+      165
+    ],
+    "QOL,": [
+      155
+    ],
+    "Zarit": [
+      158
+    ],
+    "Burden": [
+      159
+    ],
+    "Interview": [
+      160
+    ],
+    "employed": [
+      163
+    ],
+    "degree": [
+      167,
+      222
+    ],
+    "experienced": [
+      170
+    ],
+    "burden.": [
+      171,
+      207,
+      310
+    ],
+    "Participants": [
+      172
+    ],
+    "recruited": [
+      174
+    ],
+    "by": [
+      175
+    ],
+    "systematic": [
+      177
+    ],
+    "random": [
+      178
+    ],
+    "sampling": [
+      179
+    ],
+    "method.": [
+      180
+    ],
+    "Results": [
+      181
+    ],
+    "A": [
+      182,
+      193
+    ],
+    "total": [
+      183,
+      194
+    ],
+    "included": [
+      189
+    ],
+    "out": [
+      197,
+      234
+    ],
+    "(86.4%)": [
+      200
+    ],
+    "participants": [
+      201,
+      237
+    ],
+    "reported": [
+      202,
+      239,
+      250
+    ],
+    "having": [
+      203,
+      240
+    ],
+    "various": [
+      204,
+      279
+    ],
+    "degrees": [
+      205
+    ],
+    "There": [
+      208,
+      283
+    ],
+    "significant": [
+      211,
+      304
+    ],
+    "relation": [
+      212
+    ],
+    "between": [
+      213
+    ],
+    "marital": [
+      215
+    ],
+    "status": [
+      216,
+      299
+    ],
+    "caregiver": [
+      219
+    ],
+    "(p=0.024).": [
+      225
+    ],
+    "Divorced": [
+      226
+    ],
+    "(4,": [
+      229
+    ],
+    "57.1%)": [
+      230
+    ],
+    "severely": [
+      231
+    ],
+    "burdened.": [
+      232
+    ],
+    "Ninety": [
+      233
+    ],
+    "(87.4%)": [
+      238
+    ],
+    "dysfunctional": [
+      241
+    ],
+    "majority": [
+      245
+    ],
+    "them": [
+      247
+    ],
+    "(60,": [
+      248
+    ],
+    "60.1%)": [
+      249
+    ],
+    "moderate": [
+      251
+    ],
+    "family": [
+      252,
+      291,
+      339
+    ],
+    "dysfunction.": [
+      253
+    ],
+    "All": [
+      254
+    ],
+    "quality-of-life": [
+      255
+    ],
+    "domains": [
+      256
+    ],
+    "negatively": [
+      258
+    ],
+    "impacted,": [
+      259
+    ],
+    "environmental": [
+      262,
+      327
+    ],
+    "domain": [
+      263,
+      328
+    ],
+    "experiencing": [
+      264
+    ],
+    "disruption.": [
+      267
+    ],
+    "overall": [
+      269
+    ],
+    "four": [
+      270
+    ],
+    "subdomains": [
+      271
+    ],
+    "QOL": [
+      273
+    ],
+    "did": [
+      274
+    ],
+    "not": [
+      275
+    ],
+    "differ": [
+      276
+    ],
+    "significantly": [
+      277
+    ],
+    "characteristics.": [
+      281
+    ],
+    "Conclusion": [
+      282
+    ],
+    "high": [
+      286
+    ],
+    "prevalence": [
+      287
+    ],
+    "children.": [
+      297
+    ],
+    "Marital": [
+      298
+    ],
+    "associated": [
+      301
+    ],
+    "impact": [
+      305
+    ],
+    "on": [
+      306,
+      318
+    ],
+    "In": [
+      311
+    ],
+    "addition,": [
+      312
+    ],
+    "there": [
+      313
+    ],
+    "detrimental": [
+      316
+    ],
+    "every": [
+      319
+    ],
+    "aspect": [
+      320
+    ],
+    "life,": [
+      324
+    ],
+    "suffering": [
+      329
+    ],
+    "most.": [
+      331
+    ],
+    "It": [
+      332
+    ],
+    "important": [
+      334
+    ],
+    "into": [
+      337
+    ],
+    "account": [
+      338
+    ],
+    "therapy": [
+      340
+    ],
+    "other": [
+      342
+    ],
+    "interventions": [
+      343
+    ],
+    "strengthen": [
+      345
+    ],
+    "caregivers'": [
+      346
+    ],
+    "families'": [
+      348
+    ],
+    "relationships.": [
+      349
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

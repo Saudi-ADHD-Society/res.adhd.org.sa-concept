@@ -64,8 +64,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.2147__prbm.s426715.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.2147__prbm.s426715.pdf",
+    "sourceUrl": "https://www.dovepress.com/getfile.php?fileID=93273",
+    "license": "cc-by-nc"
   },
   "visibility": {
     "hidden": false

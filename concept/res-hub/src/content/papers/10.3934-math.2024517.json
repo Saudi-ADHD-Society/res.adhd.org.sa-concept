@@ -48,7 +48,9 @@
   "access": {
     "status": "open",
     "researchGateUrl": "https://www.researchgate.net/publication/379064753_Diagnosis_of_attention_deficit_hyperactivity_disorder_A_deep_learning_approach",
-    "localPdfUrl": "library/doi__10.3934__math.2024517.pdf"
+    "localPdfUrl": "library/doi__10.3934__math.2024517.pdf",
+    "sourceUrl": "https://doi.org/10.3934/math.2024517",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

@@ -104,8 +104,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.4236__ns.2019.112007.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.4236__ns.2019.112007.pdf",
+    "sourceUrl": "http://www.scirp.org/journal/PaperDownload.aspx?paperID=90826",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

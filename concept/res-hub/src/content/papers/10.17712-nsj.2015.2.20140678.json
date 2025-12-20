@@ -55,8 +55,9 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.17712__nsj.2015.2.20140678.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.17712__nsj.2015.2.20140678.pdf",
+    "sourceUrl": "https://nsj.org.sa/content/nsj/20/2/137.full.pdf"
   },
   "visibility": {
     "hidden": false

@@ -2,7 +2,7 @@
   "doi": "10.1186/1471-2431-12-92",
   "slug": "10.1186-1471-2431-12-92",
   "title": "Effect of physical actiivity and sun exposure on vitamin D status of Saudi children and adolescents",
-  "abstract": "<div class=page title=Page 2>",
+  "abstract": "BackgroundAccumulating evidence suggests an increased prevalence of vitamin D deficiency in the Middle East. In this context, we aimed to determine whether the prevalence of vitamin D deficiency is related to degree of physical activity and sun exposure among apparently healthy Saudi children and adolescents, a little studied population.MethodsA total of 331 Saudi children aged 6–17 years (153 boys and 178 girls) were included in this cross sectional study. Levels of physical activity and sun exposure were determined using a standard questionnaire. Anthropometry, serum calcium and 25-(OH) vitamin D were analyzed.ResultsAll subjects were vitamin D deficient, the majority being moderately deficient (71.6%). Age was the single most significant predictor affecting 25 (OH) Vitamin D levels, explaining 21% of the variance perceived (p = 1.68 x 10-14). Age-matched comparisons revealed that for groups having the same amount of sun exposure, those with moderate or are physically active will have higher levels of vitamin D status, though levels in across groups remained deficient.ConclusionVitamin D deficiency is common among Saudi children and adolescents, and is influenced by both sun exposure and physical activity. Promotion of an active outdoor lifestyle among Saudi children in both homes and schools may counteract the vitamin D deficiency epidemic in this vulnerable population. Vitamin D supplementation is suggested in all groups, including those with the highest sun exposure and physical activity.",
   "categories": [
     "Uncategorized"
   ],
@@ -69,7 +69,9 @@
     }
   ],
   "access": {
-    "status": "unknown"
+    "status": "open",
+    "sourceUrl": "https://bmcpediatr.biomedcentral.com/counter/pdf/10.1186/1471-2431-12-92",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

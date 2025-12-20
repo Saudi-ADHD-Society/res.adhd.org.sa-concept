@@ -1,0 +1,1019 @@
+{
+  "id": "https://openalex.org/W6949795957",
+  "doi": "https://doi.org/10.5281/zenodo.3742099",
+  "title": "JUDGE THE PEDIATRIC NURSE'S INFORMATION RELATED TO CHILDREN WITH ATTENTION DEFICIT HYPERACTIVITY DISORDERS AT NAJRAN CITY",
+  "display_name": "JUDGE THE PEDIATRIC NURSE'S INFORMATION RELATED TO CHILDREN WITH ATTENTION DEFICIT HYPERACTIVITY DISORDERS AT NAJRAN CITY",
+  "publication_year": 2020,
+  "publication_date": "2020-04-06",
+  "ids": {
+    "openalex": "https://openalex.org/W6949795957",
+    "doi": "https://doi.org/10.5281/zenodo.3742099"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.5281/zenodo.3742099",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5281/zenodo.3742099",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306400562",
+      "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I67311998",
+      "host_organization_name": "European Organization for Nuclear Research",
+      "host_organization_lineage": [
+        "https://openalex.org/I67311998"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": null,
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "article-journal"
+  },
+  "type": "article",
+  "indexed_in": [
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://doi.org/10.5281/zenodo.3742099",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A4375922452",
+        "display_name": "Dr. Howaida Moawad Ahmed Ali",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "Dr. Howaida Moawad Ahmed Ali",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.40656559,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": true,
+  "primary_topic": {
+    "id": "https://openalex.org/T10537",
+    "display_name": "Attention Deficit Hyperactivity Disorder",
+    "score": 0.7104031443595886,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.7104031443595886,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14384",
+      "display_name": "Ophthalmology and Visual Health Research",
+      "score": 0.011584294959902763,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2731",
+        "display_name": "Ophthalmology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12241",
+      "display_name": "Children's Physical and Motor Development",
+      "score": 0.008937923237681389,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/impulsivity",
+      "display_name": "Impulsivity",
+      "score": 0.48783084750175476
+    },
+    {
+      "id": "https://openalex.org/keywords/pediatric-nursing",
+      "display_name": "Pediatric nursing",
+      "score": 0.39236730337142944
+    },
+    {
+      "id": "https://openalex.org/keywords/pediatric-nurse-practitioner",
+      "display_name": "Pediatric Nurse Practitioner",
+      "score": 0.3706723749637604
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit",
+      "display_name": "Attention deficit",
+      "score": 0.3561455309391022
+    },
+    {
+      "id": "https://openalex.org/keywords/descriptive-research",
+      "display_name": "Descriptive research",
+      "score": 0.35169506072998047
+    },
+    {
+      "id": "https://openalex.org/keywords/el-niño",
+      "display_name": "El Niño",
+      "score": 0.34987592697143555
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "score": 0.3414962589740753
+    },
+    {
+      "id": "https://openalex.org/keywords/significant-difference",
+      "display_name": "Significant difference",
+      "score": 0.34110376238822937
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.51149982213974
+    },
+    {
+      "id": "https://openalex.org/C2780319597",
+      "wikidata": "https://www.wikidata.org/wiki/Q1549918",
+      "display_name": "Impulsivity",
+      "level": 2,
+      "score": 0.48783084750175476
+    },
+    {
+      "id": "https://openalex.org/C2775961509",
+      "wikidata": "https://www.wikidata.org/wiki/Q1741837",
+      "display_name": "Pediatric nursing",
+      "level": 2,
+      "score": 0.39236730337142944
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.3878946602344513
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.3778846263885498
+    },
+    {
+      "id": "https://openalex.org/C2909062942",
+      "wikidata": "https://www.wikidata.org/wiki/Q15637585",
+      "display_name": "Pediatric Nurse Practitioner",
+      "level": 4,
+      "score": 0.3706723749637604
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.3671558201313019
+    },
+    {
+      "id": "https://openalex.org/C512399662",
+      "wikidata": "https://www.wikidata.org/wiki/Q3505712",
+      "display_name": "Family medicine",
+      "level": 1,
+      "score": 0.3610600233078003
+    },
+    {
+      "id": "https://openalex.org/C3017694942",
+      "wikidata": "https://www.wikidata.org/wiki/Q16254243",
+      "display_name": "Attention deficit",
+      "level": 3,
+      "score": 0.3561455309391022
+    },
+    {
+      "id": "https://openalex.org/C142546437",
+      "wikidata": "https://www.wikidata.org/wiki/Q2661195",
+      "display_name": "Descriptive research",
+      "level": 2,
+      "score": 0.35169506072998047
+    },
+    {
+      "id": "https://openalex.org/C986699",
+      "wikidata": "https://www.wikidata.org/wiki/Q7939",
+      "display_name": "El Niño",
+      "level": 2,
+      "score": 0.34987592697143555
+    },
+    {
+      "id": "https://openalex.org/C2780783007",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "level": 2,
+      "score": 0.3414962589740753
+    },
+    {
+      "id": "https://openalex.org/C3018023364",
+      "wikidata": "https://www.wikidata.org/wiki/Q425265",
+      "display_name": "Significant difference",
+      "level": 2,
+      "score": 0.34110376238822937
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.3067147135734558
+    },
+    {
+      "id": "https://openalex.org/C198531522",
+      "wikidata": "https://www.wikidata.org/wiki/Q485146",
+      "display_name": "Sample (material)",
+      "level": 2,
+      "score": 0.30303797125816345
+    },
+    {
+      "id": "https://openalex.org/C2779746230",
+      "wikidata": "https://www.wikidata.org/wiki/Q15752159",
+      "display_name": "Pediatric Neurology",
+      "level": 2,
+      "score": 0.2917003929615021
+    },
+    {
+      "id": "https://openalex.org/C39896193",
+      "wikidata": "https://www.wikidata.org/wiki/Q380344",
+      "display_name": "Descriptive statistics",
+      "level": 2,
+      "score": 0.2889528274536133
+    },
+    {
+      "id": "https://openalex.org/C3020552793",
+      "wikidata": "https://www.wikidata.org/wiki/Q644264",
+      "display_name": "Pediatric hospital",
+      "level": 2,
+      "score": 0.2796732783317566
+    },
+    {
+      "id": "https://openalex.org/C159110408",
+      "wikidata": "https://www.wikidata.org/wiki/Q121176",
+      "display_name": "Nursing",
+      "level": 1,
+      "score": 0.2677976191043854
+    },
+    {
+      "id": "https://openalex.org/C2779551531",
+      "wikidata": "https://www.wikidata.org/wiki/Q7159213",
+      "display_name": "Pediatric psychology",
+      "level": 2,
+      "score": 0.2634514272212982
+    },
+    {
+      "id": "https://openalex.org/C558461103",
+      "wikidata": "https://www.wikidata.org/wiki/Q154430",
+      "display_name": "Anxiety",
+      "level": 2,
+      "score": 0.26014354825019836
+    },
+    {
+      "id": "https://openalex.org/C3018325526",
+      "wikidata": "https://www.wikidata.org/wiki/Q5382985",
+      "display_name": "Pediatric epilepsy",
+      "level": 3,
+      "score": 0.26014313101768494
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.5281/zenodo.3742099",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.5281/zenodo.3742099",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400562",
+        "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I67311998",
+        "host_organization_name": "European Organization for Nuclear Research",
+        "host_organization_lineage": [
+          "https://openalex.org/I67311998"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "article-journal"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.5281/zenodo.3742099",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5281/zenodo.3742099",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306400562",
+      "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I67311998",
+      "host_organization_name": "European Organization for Nuclear Research",
+      "host_organization_lineage": [
+        "https://openalex.org/I67311998"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": null,
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "article-journal"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "<em>Background:": [
+      0
+    ],
+    "</em><em>Many": [
+      1
+    ],
+    "children": [
+      2,
+      42,
+      111,
+      121,
+      159,
+      183,
+      229,
+      254
+    ],
+    "suffer": [
+      3
+    ],
+    "from": [
+      4,
+      74
+    ],
+    "attention": [
+      5
+    ],
+    "deficit": [
+      6
+    ],
+    "hyperactivity": [
+      7
+    ],
+    "disorder": [
+      8
+    ],
+    "(ADHD),": [
+      9
+    ],
+    "which": [
+      10
+    ],
+    "is": [
+      11,
+      22,
+      216
+    ],
+    "defined": [
+      12
+    ],
+    "as": [
+      13
+    ],
+    "a": [
+      14
+    ],
+    "persistent": [
+      15
+    ],
+    "pattern": [
+      16
+    ],
+    "of": [
+      17,
+      28,
+      100,
+      126,
+      134,
+      141,
+      148,
+      158,
+      176,
+      194,
+      209,
+      252
+    ],
+    "inattention": [
+      18
+    ],
+    "or": [
+      19
+    ],
+    "impulsivity": [
+      20
+    ],
+    "that": [
+      21,
+      190
+    ],
+    "formed": [
+      23
+    ],
+    "during": [
+      24
+    ],
+    "growth.": [
+      25
+    ],
+    "</em><strong><em>T</em></strong><strong><em>he": [
+      26
+    ],
+    "aim</em></strong><em>": [
+      27
+    ],
+    "this": [
+      29,
+      54,
+      85
+    ],
+    "study": [
+      30,
+      58,
+      102,
+      188,
+      202
+    ],
+    "was": [
+      31,
+      51,
+      59,
+      143,
+      163,
+      192
+    ],
+    "to": [
+      32,
+      41,
+      110,
+      120,
+      182,
+      205,
+      221,
+      238
+    ],
+    "</em><em>examine": [
+      33
+    ],
+    "the": [
+      34,
+      138,
+      149,
+      195,
+      200,
+      207,
+      224,
+      245,
+      253
+    ],
+    "pediatric": [
+      35,
+      76,
+      127,
+      150,
+      168,
+      196,
+      219,
+      240
+    ],
+    "nurses": [
+      36,
+      77,
+      117,
+      128,
+      151,
+      220,
+      241
+    ],
+    "information": [
+      37,
+      108,
+      177,
+      198,
+      225
+    ],
+    "and": [
+      38,
+      63,
+      137,
+      172,
+      178,
+      226,
+      250,
+      262
+    ],
+    "attitude": [
+      39,
+      118,
+      154,
+      157,
+      180
+    ],
+    "related": [
+      40,
+      109,
+      119,
+      181
+    ],
+    "with": [
+      43,
+      112,
+      122,
+      160,
+      184,
+      230,
+      255
+    ],
+    "ADHD.": [
+      44,
+      161,
+      185,
+      256
+    ],
+    "</em><strong><em>Research": [
+      45
+    ],
+    "design:": [
+      46
+    ],
+    "</em></strong><em>A": [
+      47
+    ],
+    "descriptive": [
+      48
+    ],
+    "research": [
+      49
+    ],
+    "design": [
+      50
+    ],
+    "utilized": [
+      52
+    ],
+    "in": [
+      53,
+      84,
+      91,
+      131,
+      199,
+      244
+    ],
+    "study.</em><strong><em>": [
+      55
+    ],
+    "Setting:": [
+      56
+    ],
+    "</em></strong><em>The": [
+      57
+    ],
+    "conducted": [
+      60
+    ],
+    "at": [
+      61,
+      68,
+      78
+    ],
+    "Maternity": [
+      62
+    ],
+    "Childhood": [
+      64
+    ],
+    "hospital,": [
+      65
+    ],
+    "Najran": [
+      66
+    ],
+    "University": [
+      67
+    ],
+    "Saudi": [
+      69
+    ],
+    "Arabia</em><em>.<strong>": [
+      70
+    ],
+    "Sample:": [
+      71
+    ],
+    "</strong>Purposive": [
+      72
+    ],
+    "sample": [
+      73
+    ],
+    "</em><em>all": [
+      75
+    ],
+    "</em><em>previously": [
+      79
+    ],
+    "mentioned": [
+      80
+    ],
+    "setting": [
+      81
+    ],
+    "were": [
+      82,
+      89,
+      130
+    ],
+    "used": [
+      83,
+      90
+    ],
+    "study.": [
+      86
+    ],
+    "<strong>The": [
+      87
+    ],
+    "tools:</strong>": [
+      88
+    ],
+    "data": [
+      92
+    ],
+    "collection.": [
+      93
+    ],
+    "<strong>Tool": [
+      94,
+      114
+    ],
+    "1:Part": [
+      95
+    ],
+    "one:</strong>": [
+      96
+    ],
+    "Involve": [
+      97
+    ],
+    "socio-demographic": [
+      98,
+      170
+    ],
+    "characteristics": [
+      99,
+      171
+    ],
+    "all": [
+      101
+    ],
+    "samples.": [
+      103
+    ],
+    "<strong>Part": [
+      104
+    ],
+    "two:</strong>": [
+      105
+    ],
+    "Pediatric": [
+      106,
+      116
+    ],
+    "Nurses": [
+      107
+    ],
+    "</em><em>ADHD</em><em>.": [
+      113,
+      123
+    ],
+    "11:</strong>": [
+      115
+    ],
+    "<strong>Results</strong>:": [
+      124
+    ],
+    "</em><em>half": [
+      125
+    ],
+    "(53%)": [
+      129
+    ],
+    "age": [
+      132,
+      140
+    ],
+    "group": [
+      133
+    ],
+    "20:&lt;30": [
+      135
+    ],
+    "years": [
+      136
+    ],
+    "mean": [
+      139
+    ],
+    "them": [
+      142
+    ],
+    "(25.6": [
+      144
+    ],
+    "</em><em>±</em><em>1.95": [
+      145
+    ],
+    "years.": [
+      146
+    ],
+    "83%": [
+      147
+    ],
+    "had": [
+      152
+    ],
+    "positive": [
+      153
+    ],
+    "towards": [
+      155,
+      228
+    ],
+    "affective": [
+      156
+    ],
+    "There": [
+      162
+    ],
+    "statistically": [
+      164
+    ],
+    "significant": [
+      165
+    ],
+    "difference": [
+      166
+    ],
+    "between": [
+      167
+    ],
+    "nurses'": [
+      169
+    ],
+    "their": [
+      173,
+      179
+    ],
+    "total": [
+      174
+    ],
+    "level": [
+      175
+    ],
+    "</em><strong><em>Conclusion:</em></strong><em>": [
+      186
+    ],
+    "The": [
+      187
+    ],
+    "concluded": [
+      189
+    ],
+    "there": [
+      191
+    ],
+    "</em><em>most": [
+      193
+    ],
+    "nurses,": [
+      197
+    ],
+    "present": [
+      201
+    ],
+    "felt": [
+      203
+    ],
+    "inadequate": [
+      204
+    ],
+    "handle": [
+      206
+    ],
+    "responsibility": [
+      208
+    ],
+    "ADHD": [
+      210,
+      261
+    ],
+    "children.</em><strong><em>": [
+      211
+    ],
+    "Recommendations:": [
+      212
+    ],
+    "</em></strong><em>An": [
+      213
+    ],
+    "educational": [
+      214
+    ],
+    "program": [
+      215
+    ],
+    "needed": [
+      217
+    ],
+    "for": [
+      218
+    ],
+    "</em><em>significantly": [
+      222
+    ],
+    "improved": [
+      223
+    ],
+    "attitudes": [
+      227
+    ],
+    "ADHD</em><em>.": [
+      231
+    ],
+    "Suggest": [
+      232
+    ],
+    "greater": [
+      233
+    ],
+    "efforts": [
+      234
+    ],
+    "must": [
+      235
+    ],
+    "be": [
+      236
+    ],
+    "made": [
+      237
+    ],
+    "provide": [
+      239
+    ],
+    "training": [
+      242
+    ],
+    "specifically": [
+      243
+    ],
+    "identification,": [
+      246
+    ],
+    "symptoms,": [
+      247
+    ],
+    "etiology,": [
+      248
+    ],
+    "prognosis": [
+      249
+    ],
+    "management": [
+      251
+    ],
+    "</em>": [
+      257
+    ],
+    "<strong><em>Keyword:": [
+      258
+    ],
+    "</em></strong><em>Nurses,": [
+      259
+    ],
+    "pediatric,": [
+      260
+    ],
+    "information,": [
+      263
+    ],
+    "attitude.</em>": [
+      264
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2025-11-06T06:51:31.235846",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -123,8 +123,11 @@ function mapCrossrefToSchema(crossrefData, existingPaper) {
     updates.title = crossrefData.title[0];
   }
   
-  // Abstract (only if missing)
-  if (isMissing(existingPaper.abstract) && crossrefData.abstract) {
+  // Abstract (if missing or shorter than 100 characters)
+  const existingAbstract = existingPaper.abstract || '';
+  const shouldUpdateAbstract = isMissing(existingPaper.abstract) || 
+                                (typeof existingAbstract === 'string' && existingAbstract.trim().length < 100);
+  if (shouldUpdateAbstract && crossrefData.abstract) {
     updates.abstract = crossrefData.abstract;
   }
   

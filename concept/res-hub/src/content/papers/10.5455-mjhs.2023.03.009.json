@@ -2,7 +2,7 @@
   "doi": "10.5455/mjhs.2023.03.009",
   "slug": "10.5455-mjhs.2023.03.009",
   "title": "Attention Deficit Hyperactivity disorder awareness among the Saudi population: A cross sectional study",
-  "abstract": "<strong>Background and Aims: </strong>",
+  "abstract": "Background and Aims: Attention deficit hyperactivity disorder (ADHD) is a major public health problem because of it is associated morbidity and disability in children. It is a multi-faceted dilemma posing social, academic, psychological and psychiatric issues during childhood. This study aimed to investigate the level of awareness about ADHD among adults in Saudi Arabia. Methods: This cross-sectional study with a convenience sampling was conducted in Riyadh region of Saudi Arabia between September 2020 and April 2021 and the sample size was 1148. Sociodemographic characteristics, true and false beliefs, and awareness of ADHD were assessed by online survey. Results: Majority of the respondents agreed that ADHD needs medical treatment by a specialist at early age combined with behavior therapy(85%). 89% of the respondents believed that people with ADHD demonstrate excessive physical movements. 48% of the participants had poor knowledge about ADHD(less than 60% score), the level of knowledge varied with education level. Participants who less educated had lower level of awareness of ADHD. Also, participants who were employed, with high income showed higher level of awareness. The preferred way to increase ADHD awareness was social media(35%) followed by mass media (22%). Conclusions: The awareness of ADHD in adult Saudi population is reasonable but not ideal. Education and employment appear to significantly improve people’s knowledge about the disorder. Social media is the main agent in spreading ADHD awareness among people. Community based proactive and accessible resources must be developed on ‘population based needs and means’ in order to improve ADHD beliefs and awareness levels among the Saudi population.",
   "categories": [
     "Uncategorized"
   ],
@@ -49,8 +49,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.5455__mjhs.2023.03.009.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.5455__mjhs.2023.03.009.pdf",
+    "sourceUrl": "https://doi.org/10.5455/mjhs.2023.03.009",
+    "license": "cc-by-nc-nd"
   },
   "visibility": {
     "hidden": false

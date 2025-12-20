@@ -76,8 +76,9 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.4103__jnsbm.jnsbm_232_17.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.4103__jnsbm.jnsbm_232_17.pdf",
+    "sourceUrl": "https://doi.org/10.4103/jnsbm.jnsbm_232_17"
   },
   "visibility": {
     "hidden": false

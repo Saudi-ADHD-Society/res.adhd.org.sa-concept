@@ -29,8 +29,9 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.5005__jp-journals-10024-2747.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.5005__jp-journals-10024-2747.pdf",
+    "sourceUrl": "https://doi.org/10.5005/jp-journals-10024-2747"
   },
   "visibility": {
     "hidden": false

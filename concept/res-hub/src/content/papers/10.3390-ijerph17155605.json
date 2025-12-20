@@ -30,7 +30,9 @@
     }
   ],
   "access": {
-    "status": "unknown"
+    "status": "open",
+    "sourceUrl": "https://www.mdpi.com/1660-4601/17/15/5605/pdf?version=1596515020",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

@@ -34,7 +34,9 @@
     }
   ],
   "access": {
-    "status": "open"
+    "status": "open",
+    "sourceUrl": "https://www.ajsrp.com/journal/index.php/jeps/article/download/2732/2564",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

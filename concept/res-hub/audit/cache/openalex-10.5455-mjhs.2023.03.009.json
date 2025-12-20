@@ -1,0 +1,1032 @@
+{
+  "id": "https://openalex.org/W4385467571",
+  "doi": "https://doi.org/10.5455/mjhs.2023.03.009",
+  "title": "Attention Deficit Hyperactivity disorder awareness among the Saudi population: A cross sectional study",
+  "display_name": "Attention Deficit Hyperactivity disorder awareness among the Saudi population: A cross sectional study",
+  "publication_year": 2023,
+  "publication_date": "2023-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4385467571",
+    "doi": "https://doi.org/10.5455/mjhs.2023.03.009"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.5455/mjhs.2023.03.009",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5455/mjhs.2023.03.009",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210192360",
+      "display_name": "Majmaah Journal of Health Sciences",
+      "issn_l": "1658-645X",
+      "issn": [
+        "1658-645X",
+        "1658-8223"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Majmaah Journal of Health Sciences",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://doi.org/10.5455/mjhs.2023.03.009",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5092578371",
+        "display_name": "Waad Aljammaz",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Waad Aljammaz",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092578372",
+        "display_name": "Shahad Alruqayb",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Shahad Alruqayb",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5045273791",
+        "display_name": "Hanadi M. Alotaibi",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Hanadi Alotaibi",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092578373",
+        "display_name": "Rana Alsaeed",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Rana Alsaeed",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092578374",
+        "display_name": "Khawlah Alhaqbani",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Khawlah Alhaqbani",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092578375",
+        "display_name": "Razan Albrahim",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Razan Albrahim",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092578376",
+        "display_name": "Shahad Albogami",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Shahad Albogami",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5073448072",
+        "display_name": "Tabinda Hasan",
+        "orcid": "https://orcid.org/0000-0001-6886-6220"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Tabinda hasan",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.17470505,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "11",
+    "issue": "3",
+    "first_page": "82",
+    "last_page": "82"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10537",
+    "display_name": "Attention Deficit Hyperactivity Disorder",
+    "score": 0.9959999918937683,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.9959999918937683,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/cross-sectional-study",
+      "display_name": "Cross-sectional study",
+      "score": 0.6116413474082947
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "score": 0.581028938293457
+    },
+    {
+      "id": "https://openalex.org/keywords/population",
+      "display_name": "Population",
+      "score": 0.5354910492897034
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.4752340614795685
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit",
+      "display_name": "Attention deficit",
+      "score": 0.464652955532074
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.4559685289859772
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.40363550186157227
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.3893029987812042
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-health",
+      "display_name": "Environmental health",
+      "score": 0.20410120487213135
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C142052008",
+      "wikidata": "https://www.wikidata.org/wiki/Q954027",
+      "display_name": "Cross-sectional study",
+      "level": 2,
+      "score": 0.6116413474082947
+    },
+    {
+      "id": "https://openalex.org/C2780783007",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "level": 2,
+      "score": 0.581028938293457
+    },
+    {
+      "id": "https://openalex.org/C2908647359",
+      "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+      "display_name": "Population",
+      "level": 2,
+      "score": 0.5354910492897034
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.4752340614795685
+    },
+    {
+      "id": "https://openalex.org/C3017694942",
+      "wikidata": "https://www.wikidata.org/wiki/Q16254243",
+      "display_name": "Attention deficit",
+      "level": 3,
+      "score": 0.464652955532074
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.4559685289859772
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.40363550186157227
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.3893029987812042
+    },
+    {
+      "id": "https://openalex.org/C99454951",
+      "wikidata": "https://www.wikidata.org/wiki/Q932068",
+      "display_name": "Environmental health",
+      "level": 1,
+      "score": 0.20410120487213135
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.5455/mjhs.2023.03.009",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.5455/mjhs.2023.03.009",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210192360",
+        "display_name": "Majmaah Journal of Health Sciences",
+        "issn_l": "1658-645X",
+        "issn": [
+          "1658-645X",
+          "1658-8223"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Majmaah Journal of Health Sciences",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.5455/mjhs.2023.03.009",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5455/mjhs.2023.03.009",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210192360",
+      "display_name": "Majmaah Journal of Health Sciences",
+      "issn_l": "1658-645X",
+      "issn": [
+        "1658-645X",
+        "1658-8223"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Majmaah Journal of Health Sciences",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.7400000095367432,
+      "id": "https://metadata.un.org/sdg/1",
+      "display_name": "No poverty"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W2273708893",
+    "https://openalex.org/W2565069998",
+    "https://openalex.org/W4311161459",
+    "https://openalex.org/W2142077514",
+    "https://openalex.org/W1566344982",
+    "https://openalex.org/W2241928968",
+    "https://openalex.org/W2262413050",
+    "https://openalex.org/W183297272",
+    "https://openalex.org/W2476320308",
+    "https://openalex.org/W2094453099"
+  ],
+  "abstract_inverted_index": {
+    "2020": [
+      72
+    ],
+    "2021": [
+      75
+    ],
+    "Background": [
+      0
+    ],
+    "and": [
+      1,
+      20,
+      33,
+      73,
+      76,
+      85,
+      88,
+      205,
+      231,
+      241,
+      249
+    ],
+    "Aims:": [
+      2
+    ],
+    "Attention": [
+      3
+    ],
+    "deficit": [
+      4
+    ],
+    "hyperactivity": [
+      5
+    ],
+    "disorder": [
+      6
+    ],
+    "(ADHD)": [
+      7
+    ],
+    "is": [
+      8,
+      17,
+      25,
+      199,
+      218
+    ],
+    "a": [
+      9,
+      26,
+      59,
+      109
+    ],
+    "major": [
+      10
+    ],
+    "public": [
+      11
+    ],
+    "health": [
+      12
+    ],
+    "problem": [
+      13
+    ],
+    "because": [
+      14
+    ],
+    "of": [
+      15,
+      45,
+      67,
+      90,
+      99,
+      119,
+      132,
+      145,
+      158,
+      160,
+      173,
+      193
+    ],
+    "it": [
+      16
+    ],
+    "associated": [
+      18
+    ],
+    "morbidity": [
+      19
+    ],
+    "disability": [
+      21
+    ],
+    "in": [
+      22,
+      51,
+      64,
+      195,
+      222,
+      243
+    ],
+    "children.": [
+      23
+    ],
+    "It": [
+      24
+    ],
+    "multi-faceted": [
+      27
+    ],
+    "dilemma": [
+      28
+    ],
+    "posing": [
+      29
+    ],
+    "social,": [
+      30
+    ],
+    "academic,": [
+      31
+    ],
+    "psychological": [
+      32
+    ],
+    "psychiatric": [
+      34
+    ],
+    "issues": [
+      35
+    ],
+    "during": [
+      36
+    ],
+    "childhood.": [
+      37
+    ],
+    "This": [
+      38,
+      55
+    ],
+    "study": [
+      39,
+      57
+    ],
+    "aimed": [
+      40
+    ],
+    "to": [
+      41,
+      178,
+      208,
+      245
+    ],
+    "investigate": [
+      42
+    ],
+    "the": [
+      43,
+      77,
+      100,
+      120,
+      133,
+      143,
+      214,
+      219,
+      253
+    ],
+    "level": [
+      44,
+      144,
+      157,
+      172
+    ],
+    "awareness": [
+      46,
+      89,
+      159,
+      181,
+      192,
+      225,
+      250
+    ],
+    "about": [
+      47,
+      138,
+      213
+    ],
+    "ADHD": [
+      48,
+      91,
+      104,
+      126,
+      180,
+      194,
+      224,
+      247
+    ],
+    "among": [
+      49,
+      226,
+      252
+    ],
+    "adults": [
+      50
+    ],
+    "Saudi": [
+      52,
+      68,
+      197,
+      254
+    ],
+    "Arabia.": [
+      53
+    ],
+    "Methods:": [
+      54
+    ],
+    "cross-sectional": [
+      56
+    ],
+    "with": [
+      58,
+      115,
+      125,
+      148,
+      167
+    ],
+    "convenience": [
+      60
+    ],
+    "sampling": [
+      61
+    ],
+    "was": [
+      62,
+      80,
+      182
+    ],
+    "conducted": [
+      63
+    ],
+    "Riyadh": [
+      65
+    ],
+    "region": [
+      66
+    ],
+    "Arabia": [
+      69
+    ],
+    "between": [
+      70
+    ],
+    "September": [
+      71
+    ],
+    "April": [
+      74
+    ],
+    "sample": [
+      78
+    ],
+    "size": [
+      79
+    ],
+    "1148.": [
+      81
+    ],
+    "Sociodemographic": [
+      82
+    ],
+    "characteristics,": [
+      83
+    ],
+    "true": [
+      84
+    ],
+    "false": [
+      86
+    ],
+    "beliefs,": [
+      87
+    ],
+    "were": [
+      92,
+      165
+    ],
+    "assessed": [
+      93
+    ],
+    "by": [
+      94,
+      108,
+      186
+    ],
+    "online": [
+      95
+    ],
+    "survey.": [
+      96
+    ],
+    "Results:": [
+      97
+    ],
+    "Majority": [
+      98
+    ],
+    "respondents": [
+      101,
+      121
+    ],
+    "agreed": [
+      102
+    ],
+    "that": [
+      103,
+      123
+    ],
+    "needs": [
+      105,
+      240
+    ],
+    "medical": [
+      106
+    ],
+    "treatment": [
+      107
+    ],
+    "specialist": [
+      110
+    ],
+    "at": [
+      111
+    ],
+    "early": [
+      112
+    ],
+    "age": [
+      113
+    ],
+    "combined": [
+      114
+    ],
+    "behavior": [
+      116
+    ],
+    "therapy(85%).": [
+      117
+    ],
+    "89%": [
+      118
+    ],
+    "believed": [
+      122
+    ],
+    "people": [
+      124
+    ],
+    "demonstrate": [
+      127
+    ],
+    "excessive": [
+      128
+    ],
+    "physical": [
+      129
+    ],
+    "movements.": [
+      130
+    ],
+    "48%": [
+      131
+    ],
+    "participants": [
+      134,
+      163
+    ],
+    "had": [
+      135,
+      155
+    ],
+    "poor": [
+      136
+    ],
+    "knowledge": [
+      137,
+      146,
+      212
+    ],
+    "ADHD(less": [
+      139
+    ],
+    "than": [
+      140
+    ],
+    "60%": [
+      141
+    ],
+    "score),": [
+      142
+    ],
+    "varied": [
+      147
+    ],
+    "education": [
+      149
+    ],
+    "level.": [
+      150
+    ],
+    "Participants": [
+      151
+    ],
+    "who": [
+      152,
+      164
+    ],
+    "less": [
+      153
+    ],
+    "educated": [
+      154
+    ],
+    "lower": [
+      156
+    ],
+    "ADHD.": [
+      161
+    ],
+    "Also,": [
+      162
+    ],
+    "employed,": [
+      166
+    ],
+    "high": [
+      168
+    ],
+    "income": [
+      169
+    ],
+    "showed": [
+      170
+    ],
+    "higher": [
+      171
+    ],
+    "awareness.": [
+      174
+    ],
+    "The": [
+      175,
+      191
+    ],
+    "preferred": [
+      176
+    ],
+    "way": [
+      177
+    ],
+    "increase": [
+      179
+    ],
+    "social": [
+      183
+    ],
+    "media(35%)": [
+      184
+    ],
+    "followed": [
+      185
+    ],
+    "mass": [
+      187
+    ],
+    "media": [
+      188,
+      217
+    ],
+    "(22%).": [
+      189
+    ],
+    "Conclusions:": [
+      190
+    ],
+    "adult": [
+      196
+    ],
+    "population": [
+      198
+    ],
+    "reasonable": [
+      200
+    ],
+    "but": [
+      201
+    ],
+    "not": [
+      202
+    ],
+    "ideal.": [
+      203
+    ],
+    "Education": [
+      204
+    ],
+    "employment": [
+      206
+    ],
+    "appear": [
+      207
+    ],
+    "significantly": [
+      209
+    ],
+    "improve": [
+      210,
+      246
+    ],
+    "people’s": [
+      211
+    ],
+    "disorder.": [
+      215
+    ],
+    "Social": [
+      216
+    ],
+    "main": [
+      220
+    ],
+    "agent": [
+      221
+    ],
+    "spreading": [
+      223
+    ],
+    "people.": [
+      227
+    ],
+    "Community": [
+      228
+    ],
+    "based": [
+      229,
+      239
+    ],
+    "proactive": [
+      230
+    ],
+    "accessible": [
+      232
+    ],
+    "resources": [
+      233
+    ],
+    "must": [
+      234
+    ],
+    "be": [
+      235
+    ],
+    "developed": [
+      236
+    ],
+    "on": [
+      237
+    ],
+    "‘population": [
+      238
+    ],
+    "means’": [
+      242
+    ],
+    "order": [
+      244
+    ],
+    "beliefs": [
+      248
+    ],
+    "levels": [
+      251
+    ],
+    "population.": [
+      255
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

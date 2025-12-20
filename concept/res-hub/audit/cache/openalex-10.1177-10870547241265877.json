@@ -1,0 +1,1015 @@
+{
+  "id": "https://openalex.org/W4400983754",
+  "doi": "https://doi.org/10.1177/10870547241265877",
+  "title": "EFL Special Education Teachers’ Perspectives: Evaluating Game-Based Learning for ADHD Behavioral Disorders",
+  "display_name": "EFL Special Education Teachers’ Perspectives: Evaluating Game-Based Learning for ADHD Behavioral Disorders",
+  "publication_year": 2024,
+  "publication_date": "2024-07-25",
+  "ids": {
+    "openalex": "https://openalex.org/W4400983754",
+    "doi": "https://doi.org/10.1177/10870547241265877",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/39051595"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1177/10870547241265877",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1177/10870547241265877",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4019948",
+      "display_name": "Journal of Attention Disorders",
+      "issn_l": "1087-0547",
+      "issn": [
+        "1087-0547",
+        "1557-1246"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Attention Disorders",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5041218277",
+        "display_name": "Amr M. Mohamed",
+        "orcid": "https://orcid.org/0000-0003-3891-963X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I118590987",
+          "display_name": "Northern Border University",
+          "ror": "https://ror.org/03j9tzj20",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I118590987"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Amr M. Mohamed",
+      "raw_affiliation_strings": [
+        "Northern Border University, Arar, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Northern Border University, Arar, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I118590987"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088237337",
+        "display_name": "Tahany S. Shaaban",
+        "orcid": "https://orcid.org/0000-0001-8326-0243"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I118590987",
+          "display_name": "Northern Border University",
+          "ror": "https://ror.org/03j9tzj20",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I118590987"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tahany S. Shaaban",
+      "raw_affiliation_strings": [
+        "Northern Border University, Arar, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Northern Border University, Arar, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I118590987"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5105065461",
+        "display_name": "Hassen A. Jmaiel",
+        "orcid": "https://orcid.org/0000-0003-4603-9456"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I118590987",
+          "display_name": "Northern Border University",
+          "ror": "https://ror.org/03j9tzj20",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I118590987"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hassen Alazhar Jmaiel",
+      "raw_affiliation_strings": [
+        "Northern Border University, Arar, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Northern Border University, Arar, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I118590987"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5041218277"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I118590987"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 8.21735779,
+  "has_fulltext": false,
+  "cited_by_count": 5,
+  "citation_normalized_percentile": {
+    "value": 0.95135554,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 94,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "28",
+    "issue": "11",
+    "first_page": "1482",
+    "last_page": "1495"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10731",
+    "display_name": "Educational Games and Gamification",
+    "score": 0.9878000020980835,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3204",
+      "display_name": "Developmental and Educational Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10731",
+      "display_name": "Educational Games and Gamification",
+      "score": 0.9878000020980835,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.9825999736785889,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12241",
+      "display_name": "Children's Physical and Motor Development",
+      "score": 0.974399983882904,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.8748659491539001
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "score": 0.4669341444969177
+    },
+    {
+      "id": "https://openalex.org/keywords/developmental-psychology",
+      "display_name": "Developmental psychology",
+      "score": 0.434490829706192
+    },
+    {
+      "id": "https://openalex.org/keywords/special-education",
+      "display_name": "Special education",
+      "score": 0.4190135598182678
+    },
+    {
+      "id": "https://openalex.org/keywords/learning-disability",
+      "display_name": "Learning disability",
+      "score": 0.41323989629745483
+    },
+    {
+      "id": "https://openalex.org/keywords/cognitive-psychology",
+      "display_name": "Cognitive psychology",
+      "score": 0.4129892587661743
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.3699372708797455
+    },
+    {
+      "id": "https://openalex.org/keywords/applied-psychology",
+      "display_name": "Applied psychology",
+      "score": 0.3381432890892029
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics-education",
+      "display_name": "Mathematics education",
+      "score": 0.32248619198799133
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.8748659491539001
+    },
+    {
+      "id": "https://openalex.org/C2780783007",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "level": 2,
+      "score": 0.4669341444969177
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.434490829706192
+    },
+    {
+      "id": "https://openalex.org/C28858896",
+      "wikidata": "https://www.wikidata.org/wiki/Q212105",
+      "display_name": "Special education",
+      "level": 2,
+      "score": 0.4190135598182678
+    },
+    {
+      "id": "https://openalex.org/C15107229",
+      "wikidata": "https://www.wikidata.org/wiki/Q860740",
+      "display_name": "Learning disability",
+      "level": 2,
+      "score": 0.41323989629745483
+    },
+    {
+      "id": "https://openalex.org/C180747234",
+      "wikidata": "https://www.wikidata.org/wiki/Q23373",
+      "display_name": "Cognitive psychology",
+      "level": 1,
+      "score": 0.4129892587661743
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.3699372708797455
+    },
+    {
+      "id": "https://openalex.org/C75630572",
+      "wikidata": "https://www.wikidata.org/wiki/Q538904",
+      "display_name": "Applied psychology",
+      "level": 1,
+      "score": 0.3381432890892029
+    },
+    {
+      "id": "https://openalex.org/C145420912",
+      "wikidata": "https://www.wikidata.org/wiki/Q853077",
+      "display_name": "Mathematics education",
+      "level": 1,
+      "score": 0.32248619198799133
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001289",
+      "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000070777",
+      "descriptor_name": "School Teachers",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004519",
+      "descriptor_name": "Education, Special",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008875",
+      "descriptor_name": "Middle Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011795",
+      "descriptor_name": "Surveys and Questionnaires",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001289",
+      "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000070777",
+      "descriptor_name": "School Teachers",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004519",
+      "descriptor_name": "Education, Special",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008875",
+      "descriptor_name": "Middle Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011795",
+      "descriptor_name": "Surveys and Questionnaires",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1177/10870547241265877",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/10870547241265877",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4019948",
+        "display_name": "Journal of Attention Disorders",
+        "issn_l": "1087-0547",
+        "issn": [
+          "1087-0547",
+          "1557-1246"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [
+          "SAGE Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Attention Disorders",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:39051595",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39051595",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of attention disorders",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "score": 0.6499999761581421,
+      "display_name": "Quality Education"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 49,
+  "referenced_works": [
+    "https://openalex.org/W4382930109",
+    "https://openalex.org/W3000669214",
+    "https://openalex.org/W4389566015",
+    "https://openalex.org/W4286521418",
+    "https://openalex.org/W2461461975",
+    "https://openalex.org/W2920899695",
+    "https://openalex.org/W2005182289",
+    "https://openalex.org/W2981519511",
+    "https://openalex.org/W4387003142",
+    "https://openalex.org/W4386846367",
+    "https://openalex.org/W2163228503",
+    "https://openalex.org/W3047947179",
+    "https://openalex.org/W105172851",
+    "https://openalex.org/W2962098244",
+    "https://openalex.org/W4211007743",
+    "https://openalex.org/W4308179883",
+    "https://openalex.org/W2889817685",
+    "https://openalex.org/W2945977570",
+    "https://openalex.org/W3187063186",
+    "https://openalex.org/W142531728",
+    "https://openalex.org/W2897381143",
+    "https://openalex.org/W3144215988",
+    "https://openalex.org/W1969240757",
+    "https://openalex.org/W1572991837",
+    "https://openalex.org/W2332911463",
+    "https://openalex.org/W2799310259",
+    "https://openalex.org/W2735684501",
+    "https://openalex.org/W3044283726",
+    "https://openalex.org/W2787414370",
+    "https://openalex.org/W1825084341",
+    "https://openalex.org/W4233366418",
+    "https://openalex.org/W4381378655",
+    "https://openalex.org/W4388460844",
+    "https://openalex.org/W3151703188",
+    "https://openalex.org/W4387977379",
+    "https://openalex.org/W4293105514",
+    "https://openalex.org/W4386483604",
+    "https://openalex.org/W2152871594",
+    "https://openalex.org/W3015807187",
+    "https://openalex.org/W4327723572",
+    "https://openalex.org/W2528124781",
+    "https://openalex.org/W4206513596",
+    "https://openalex.org/W4288434357",
+    "https://openalex.org/W4207003773",
+    "https://openalex.org/W3048708821",
+    "https://openalex.org/W3201873494",
+    "https://openalex.org/W2274585413",
+    "https://openalex.org/W4378348246",
+    "https://openalex.org/W2052888952"
+  ],
+  "related_works": [
+    "https://openalex.org/W2598264129",
+    "https://openalex.org/W2067116551",
+    "https://openalex.org/W2147605375",
+    "https://openalex.org/W2131184150",
+    "https://openalex.org/W2030273118",
+    "https://openalex.org/W1974257282",
+    "https://openalex.org/W567450610",
+    "https://openalex.org/W4244653597",
+    "https://openalex.org/W2079275587",
+    "https://openalex.org/W1501284604"
+  ],
+  "abstract_inverted_index": {
+    "Objective:": [
+      0
+    ],
+    "The": [
+      1,
+      33,
+      61,
+      122
+    ],
+    "purpose": [
+      2
+    ],
+    "of": [
+      3,
+      11,
+      42,
+      106,
+      118,
+      136
+    ],
+    "this": [
+      4
+    ],
+    "study": [
+      5,
+      34,
+      62,
+      123
+    ],
+    "was": [
+      6
+    ],
+    "to": [
+      7,
+      49,
+      70,
+      83
+    ],
+    "examine": [
+      8
+    ],
+    "the": [
+      9,
+      104,
+      116,
+      134
+    ],
+    "perspectives": [
+      10
+    ],
+    "English": [
+      12
+    ],
+    "as": [
+      13,
+      98
+    ],
+    "a": [
+      14,
+      36,
+      47,
+      72
+    ],
+    "Foreign": [
+      15
+    ],
+    "Language": [
+      16
+    ],
+    "Special": [
+      17
+    ],
+    "Education": [
+      18
+    ],
+    "teachers": [
+      19,
+      44,
+      66,
+      102
+    ],
+    "(EFLSE)": [
+      20
+    ],
+    "regarding": [
+      21
+    ],
+    "game-based": [
+      22,
+      58,
+      68,
+      88,
+      107,
+      140
+    ],
+    "learning": [
+      23,
+      69,
+      89,
+      141
+    ],
+    "approaches": [
+      24,
+      95
+    ],
+    "for": [
+      25,
+      77,
+      126,
+      142
+    ],
+    "addressing": [
+      26
+    ],
+    "behavioral": [
+      27
+    ],
+    "disorders": [
+      28
+    ],
+    "in": [
+      29
+    ],
+    "ADHD": [
+      30,
+      79
+    ],
+    "patients.": [
+      31
+    ],
+    "Method:": [
+      32
+    ],
+    "involved": [
+      35
+    ],
+    "sample": [
+      37
+    ],
+    "(": [
+      38
+    ],
+    "n": [
+      39
+    ],
+    "=": [
+      40
+    ],
+    "131)": [
+      41
+    ],
+    "EFLSE": [
+      43,
+      65,
+      101
+    ],
+    "who": [
+      45
+    ],
+    "completed": [
+      46
+    ],
+    "questionnaire": [
+      48
+    ],
+    "determine": [
+      50
+    ],
+    "how": [
+      51
+    ],
+    "feasible,": [
+      52
+    ],
+    "acceptable,": [
+      53
+    ],
+    "and": [
+      54,
+      74,
+      81,
+      93,
+      115,
+      129
+    ],
+    "helpful": [
+      55
+    ],
+    "they": [
+      56
+    ],
+    "found": [
+      57
+    ],
+    "learning.": [
+      59
+    ],
+    "Results:": [
+      60
+    ],
+    "revealed": [
+      63
+    ],
+    "that": [
+      64,
+      131
+    ],
+    "perceive": [
+      67
+    ],
+    "be": [
+      71
+    ],
+    "feasible": [
+      73
+    ],
+    "acceptable": [
+      75
+    ],
+    "method": [
+      76
+    ],
+    "engaging": [
+      78
+    ],
+    "students": [
+      80,
+      143
+    ],
+    "helping": [
+      82
+    ],
+    "maintain": [
+      84
+    ],
+    "their": [
+      85
+    ],
+    "attention": [
+      86
+    ],
+    "during": [
+      87
+    ],
+    "activities.": [
+      90
+    ],
+    "Nevertheless,": [
+      91
+    ],
+    "implementation": [
+      92
+    ],
+    "individualized": [
+      94
+    ],
+    "are": [
+      96
+    ],
+    "cited": [
+      97
+    ],
+    "challenges.": [
+      99
+    ],
+    "Additionally,": [
+      100
+    ],
+    "emphasized": [
+      103
+    ],
+    "benefits": [
+      105
+    ],
+    "learning,": [
+      108
+    ],
+    "including": [
+      109
+    ],
+    "improved": [
+      110
+    ],
+    "problem-solving,": [
+      111
+    ],
+    "assessment": [
+      112
+    ],
+    "methods,": [
+      113
+    ],
+    "collaboration,": [
+      114
+    ],
+    "acquisition": [
+      117
+    ],
+    "academic": [
+      119
+    ],
+    "skills.": [
+      120
+    ],
+    "Conclusions:": [
+      121
+    ],
+    "contributes": [
+      124
+    ],
+    "insights": [
+      125
+    ],
+    "educators,": [
+      127
+    ],
+    "policymakers,": [
+      128
+    ],
+    "researchers": [
+      130
+    ],
+    "can": [
+      132
+    ],
+    "support": [
+      133
+    ],
+    "development": [
+      135
+    ],
+    "evidence-based": [
+      137
+    ],
+    "interventions": [
+      138
+    ],
+    "offering": [
+      139
+    ],
+    "with": [
+      144
+    ],
+    "ADHD.": [
+      145
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

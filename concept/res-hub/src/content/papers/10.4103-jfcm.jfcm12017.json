@@ -39,8 +39,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.4103__jfcm.jfcm_120_17.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.4103__jfcm.jfcm_120_17.pdf",
+    "sourceUrl": "https://doi.org/10.4103/jfcm.jfcm_120_17",
+    "license": "cc-by-nc-sa"
   },
   "visibility": {
     "hidden": false

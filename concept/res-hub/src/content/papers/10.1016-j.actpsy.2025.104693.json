@@ -2,7 +2,7 @@
   "doi": "10.1016/j.actpsy.2025.104693",
   "slug": "10.1016-j.actpsy.2025.104693",
   "title": "Translation, psychometric evaluation, and network analysis of the parental acceptance and action questionnaire (PAAQ) among Arab parents of children with and without specific learning disability (dyslexia)",
-  "abstract": "<p><strong>Objective</strong></p>",
+  "abstract": "The PAAQ is a suitable scale for use with Arabic parents, including community samples and parents of children with dyslexia.",
   "categories": [
     "Uncategorized"
   ],
@@ -15,8 +15,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.1016__j.actpsy.2025.104693.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.1016__j.actpsy.2025.104693.pdf",
+    "sourceUrl": "https://doi.org/10.1016/j.actpsy.2025.104693",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

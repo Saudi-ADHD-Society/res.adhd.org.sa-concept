@@ -25,8 +25,9 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.15537__smj.2024.45.4.20230841.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.15537__smj.2024.45.4.20230841.pdf",
+    "sourceUrl": "https://doi.org/10.15537/smj.2024.45.4.20230841"
   },
   "visibility": {
     "hidden": false

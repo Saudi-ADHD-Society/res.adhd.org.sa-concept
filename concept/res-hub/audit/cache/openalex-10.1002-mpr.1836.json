@@ -1,0 +1,1782 @@
+{
+  "id": "https://openalex.org/W3049466889",
+  "doi": "https://doi.org/10.1002/mpr.1836",
+  "title": "Lifetime prevalence and age‐of‐onset distributions of mental disorders in the Saudi National Mental Health Survey",
+  "display_name": "Lifetime prevalence and age‐of‐onset distributions of mental disorders in the Saudi National Mental Health Survey",
+  "publication_year": 2020,
+  "publication_date": "2020-08-15",
+  "ids": {
+    "openalex": "https://openalex.org/W3049466889",
+    "doi": "https://doi.org/10.1002/mpr.1836",
+    "mag": "3049466889",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/33245595"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1002/mpr.1836",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1002/mpr.1836",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mpr.1836",
+    "source": {
+      "id": "https://openalex.org/S191377590",
+      "display_name": "International Journal of Methods in Psychiatric Research",
+      "issn_l": "1049-8931",
+      "issn": [
+        "1049-8931",
+        "1234-988X",
+        "1557-0657"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Methods in Psychiatric Research",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mpr.1836",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5022032814",
+        "display_name": "Yasmin Altwaijri",
+        "orcid": "https://orcid.org/0000-0001-8826-3224"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800965796",
+          "display_name": "King Faisal Specialist Hospital & Research Centre",
+          "ror": "https://ror.org/05n0wgt02",
+          "country_code": "SA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800965796"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210107237",
+          "display_name": "King Salman Center for Disability Research",
+          "ror": "https://ror.org/01ht2b307",
+          "country_code": "SA",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210107237"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I28022161",
+          "display_name": "King Saud University",
+          "ror": "https://ror.org/02f81g417",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28022161"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210135984",
+          "display_name": "Saudi Arabia Basic Industries (Saudi Arabia)",
+          "ror": "https://ror.org/03nqwhd11",
+          "country_code": "SA",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210135984"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Yasmin A. Altwaijri",
+      "raw_affiliation_strings": [
+        "Biostatistics, Epidemiology and Scientific Computing Department, King Faisal Specialist Hospital and Research Centre, Riyadh, Saudi Arabia",
+        "King Salman Center for Disability Research, Riyadh, Saudi Arabia",
+        "SABIC Psychological Health Research &amp; Applications Chair (SPHRAC), College of Medicine King Saud University Riyadh Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "SABIC Psychological Health Research &amp; Applications Chair (SPHRAC), College of Medicine King Saud University Riyadh Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I28022161",
+            "https://openalex.org/I4210135984"
+          ]
+        },
+        {
+          "raw_affiliation_string": "King Salman Center for Disability Research, Riyadh, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I4210107237"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Biostatistics, Epidemiology and Scientific Computing Department, King Faisal Specialist Hospital and Research Centre, Riyadh, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I2800965796"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5112535975",
+        "display_name": "Abdullah S. Al‐Subaie",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28022161",
+          "display_name": "King Saud University",
+          "ror": "https://ror.org/02f81g417",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28022161"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210135984",
+          "display_name": "Saudi Arabia Basic Industries (Saudi Arabia)",
+          "ror": "https://ror.org/03nqwhd11",
+          "country_code": "SA",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210135984"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Abdullah S. Al‐Subaie",
+      "raw_affiliation_strings": [
+        "Edrak Medical Center, Riyadh, Saudi Arabia",
+        "SABIC Psychological Health Research &amp; Applications Chair (SPHRAC), College of Medicine King Saud University Riyadh Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Edrak Medical Center, Riyadh, Saudi Arabia",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "SABIC Psychological Health Research &amp; Applications Chair (SPHRAC), College of Medicine King Saud University Riyadh Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I28022161",
+            "https://openalex.org/I4210135984"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5110969619",
+        "display_name": "Abdulhameed Abdullah Alhabeeb",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210127754",
+          "display_name": "Ministry of Health",
+          "ror": "https://ror.org/030atj633",
+          "country_code": "SA",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210127754"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Abdulhameed Al‐Habeeb",
+      "raw_affiliation_strings": [
+        "National Center for Mental Health Promotion, Ministry of Health, Riyadh, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "National Center for Mental Health Promotion, Ministry of Health, Riyadh, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I4210127754"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5058494237",
+        "display_name": "Lisa Bilal",
+        "orcid": "https://orcid.org/0000-0002-7574-4210"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800965796",
+          "display_name": "King Faisal Specialist Hospital & Research Centre",
+          "ror": "https://ror.org/05n0wgt02",
+          "country_code": "SA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800965796"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210107237",
+          "display_name": "King Salman Center for Disability Research",
+          "ror": "https://ror.org/01ht2b307",
+          "country_code": "SA",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210107237"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I28022161",
+          "display_name": "King Saud University",
+          "ror": "https://ror.org/02f81g417",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28022161"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210135984",
+          "display_name": "Saudi Arabia Basic Industries (Saudi Arabia)",
+          "ror": "https://ror.org/03nqwhd11",
+          "country_code": "SA",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210135984"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lisa Bilal",
+      "raw_affiliation_strings": [
+        "Biostatistics, Epidemiology and Scientific Computing Department, King Faisal Specialist Hospital and Research Centre, Riyadh, Saudi Arabia",
+        "King Salman Center for Disability Research, Riyadh, Saudi Arabia",
+        "SABIC Psychological Health Research &amp; Applications Chair (SPHRAC), College of Medicine King Saud University Riyadh Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "SABIC Psychological Health Research &amp; Applications Chair (SPHRAC), College of Medicine King Saud University Riyadh Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I28022161",
+            "https://openalex.org/I4210135984"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Biostatistics, Epidemiology and Scientific Computing Department, King Faisal Specialist Hospital and Research Centre, Riyadh, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I2800965796"
+          ]
+        },
+        {
+          "raw_affiliation_string": "King Salman Center for Disability Research, Riyadh, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I4210107237"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5064547700",
+        "display_name": "Majid Al‐Desouki",
+        "orcid": "https://orcid.org/0000-0002-9584-4817"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801066305",
+          "display_name": "King Saud Medical City",
+          "ror": "https://ror.org/03aj9rj02",
+          "country_code": "SA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801066305"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I28022161",
+          "display_name": "King Saud University",
+          "ror": "https://ror.org/02f81g417",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Majid Al‐Desouki",
+      "raw_affiliation_strings": [
+        "Psychiatry Unit, King Saud University Medical City, Riyadh, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Psychiatry Unit, King Saud University Medical City, Riyadh, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I2801066305",
+            "https://openalex.org/I28022161"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5029040431",
+        "display_name": "Maggie Aradati",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800965796",
+          "display_name": "King Faisal Specialist Hospital & Research Centre",
+          "ror": "https://ror.org/05n0wgt02",
+          "country_code": "SA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800965796"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210107237",
+          "display_name": "King Salman Center for Disability Research",
+          "ror": "https://ror.org/01ht2b307",
+          "country_code": "SA",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210107237"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I28022161",
+          "display_name": "King Saud University",
+          "ror": "https://ror.org/02f81g417",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28022161"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210135984",
+          "display_name": "Saudi Arabia Basic Industries (Saudi Arabia)",
+          "ror": "https://ror.org/03nqwhd11",
+          "country_code": "SA",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210135984"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maggie Aradati",
+      "raw_affiliation_strings": [
+        "Biostatistics, Epidemiology and Scientific Computing Department, King Faisal Specialist Hospital and Research Centre, Riyadh, Saudi Arabia",
+        "King Salman Center for Disability Research, Riyadh, Saudi Arabia",
+        "SABIC Psychological Health Research &amp; Applications Chair (SPHRAC), College of Medicine King Saud University Riyadh Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "SABIC Psychological Health Research &amp; Applications Chair (SPHRAC), College of Medicine King Saud University Riyadh Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I28022161",
+            "https://openalex.org/I4210135984"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Biostatistics, Epidemiology and Scientific Computing Department, King Faisal Specialist Hospital and Research Centre, Riyadh, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I2800965796"
+          ]
+        },
+        {
+          "raw_affiliation_string": "King Salman Center for Disability Research, Riyadh, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I4210107237"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5068922252",
+        "display_name": "Andrew J. King",
+        "orcid": "https://orcid.org/0000-0002-6870-9767"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I136199984",
+          "display_name": "Harvard University",
+          "ror": "https://ror.org/03vek6s52",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I136199984"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andrew J. King",
+      "raw_affiliation_strings": [
+        "Department of Health Care Policy, Harvard Medical School, Boston, Massachusetts, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Health Care Policy, Harvard Medical School, Boston, Massachusetts, USA",
+          "institution_ids": [
+            "https://openalex.org/I136199984"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017195443",
+        "display_name": "Nancy A. Sampson",
+        "orcid": "https://orcid.org/0000-0003-2971-6072"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I136199984",
+          "display_name": "Harvard University",
+          "ror": "https://ror.org/03vek6s52",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I136199984"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nancy A. Sampson",
+      "raw_affiliation_strings": [
+        "Department of Health Care Policy, Harvard Medical School, Boston, Massachusetts, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Health Care Policy, Harvard Medical School, Boston, Massachusetts, USA",
+          "institution_ids": [
+            "https://openalex.org/I136199984"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5057810294",
+        "display_name": "Ronald C. Kessler",
+        "orcid": "https://orcid.org/0000-0003-4831-2305"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I136199984",
+          "display_name": "Harvard University",
+          "ror": "https://ror.org/03vek6s52",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I136199984"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ronald C. Kessler",
+      "raw_affiliation_strings": [
+        "Department of Health Care Policy, Harvard Medical School, Boston, Massachusetts, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Health Care Policy, Harvard Medical School, Boston, Massachusetts, USA",
+          "institution_ids": [
+            "https://openalex.org/I136199984"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 9,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5022032814"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I2800965796",
+    "https://openalex.org/I28022161",
+    "https://openalex.org/I4210107237",
+    "https://openalex.org/I4210135984"
+  ],
+  "apc_list": {
+    "value": 3200,
+    "currency": "USD",
+    "value_usd": 3200
+  },
+  "apc_paid": {
+    "value": 3200,
+    "currency": "USD",
+    "value_usd": 3200
+  },
+  "fwci": 13.79520869,
+  "has_fulltext": true,
+  "cited_by_count": 100,
+  "citation_normalized_percentile": {
+    "value": 0.99004007,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "29",
+    "issue": "3",
+    "first_page": "e1836",
+    "last_page": "e1836"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10272",
+    "display_name": "Mental Health Treatment and Access",
+    "score": 0.9990000128746033,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3207",
+      "display_name": "Social Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10272",
+      "display_name": "Mental Health Treatment and Access",
+      "score": 0.9990000128746033,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10182",
+      "display_name": "Child and Adolescent Psychosocial and Emotional Development",
+      "score": 0.9976000189781189,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10235",
+      "display_name": "Health disparities and outcomes",
+      "score": 0.9954000115394592,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3306",
+        "display_name": "Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/cidi",
+      "display_name": "CIDI",
+      "score": 0.8481895327568054
+    },
+    {
+      "id": "https://openalex.org/keywords/prevalence-of-mental-disorders",
+      "display_name": "Prevalence of mental disorders",
+      "score": 0.6781036257743835
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.6514797806739807
+    },
+    {
+      "id": "https://openalex.org/keywords/mental-health",
+      "display_name": "Mental health",
+      "score": 0.6436159014701843
+    },
+    {
+      "id": "https://openalex.org/keywords/anxiety",
+      "display_name": "Anxiety",
+      "score": 0.6362723112106323
+    },
+    {
+      "id": "https://openalex.org/keywords/national-comorbidity-survey",
+      "display_name": "National Comorbidity Survey",
+      "score": 0.623882532119751
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.578173041343689
+    },
+    {
+      "id": "https://openalex.org/keywords/epidemiology",
+      "display_name": "Epidemiology",
+      "score": 0.5602439641952515
+    },
+    {
+      "id": "https://openalex.org/keywords/mood-disorders",
+      "display_name": "Mood disorders",
+      "score": 0.5585221648216248
+    },
+    {
+      "id": "https://openalex.org/keywords/substance-abuse",
+      "display_name": "Substance abuse",
+      "score": 0.5359312891960144
+    },
+    {
+      "id": "https://openalex.org/keywords/cohort",
+      "display_name": "Cohort",
+      "score": 0.47142738103866577
+    },
+    {
+      "id": "https://openalex.org/keywords/prevalence",
+      "display_name": "Prevalence",
+      "score": 0.4710139036178589
+    },
+    {
+      "id": "https://openalex.org/keywords/bipolar-disorder",
+      "display_name": "Bipolar disorder",
+      "score": 0.4225451350212097
+    },
+    {
+      "id": "https://openalex.org/keywords/mood",
+      "display_name": "Mood",
+      "score": 0.39449092745780945
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.36919403076171875
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2778963718",
+      "wikidata": "https://www.wikidata.org/wiki/Q12757",
+      "display_name": "CIDI",
+      "level": 4,
+      "score": 0.8481895327568054
+    },
+    {
+      "id": "https://openalex.org/C145734003",
+      "wikidata": "https://www.wikidata.org/wiki/Q7242342",
+      "display_name": "Prevalence of mental disorders",
+      "level": 3,
+      "score": 0.6781036257743835
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.6514797806739807
+    },
+    {
+      "id": "https://openalex.org/C134362201",
+      "wikidata": "https://www.wikidata.org/wiki/Q317309",
+      "display_name": "Mental health",
+      "level": 2,
+      "score": 0.6436159014701843
+    },
+    {
+      "id": "https://openalex.org/C558461103",
+      "wikidata": "https://www.wikidata.org/wiki/Q154430",
+      "display_name": "Anxiety",
+      "level": 2,
+      "score": 0.6362723112106323
+    },
+    {
+      "id": "https://openalex.org/C125920245",
+      "wikidata": "https://www.wikidata.org/wiki/Q6971726",
+      "display_name": "National Comorbidity Survey",
+      "level": 3,
+      "score": 0.623882532119751
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.578173041343689
+    },
+    {
+      "id": "https://openalex.org/C107130276",
+      "wikidata": "https://www.wikidata.org/wiki/Q133805",
+      "display_name": "Epidemiology",
+      "level": 2,
+      "score": 0.5602439641952515
+    },
+    {
+      "id": "https://openalex.org/C2777134132",
+      "wikidata": "https://www.wikidata.org/wiki/Q188638",
+      "display_name": "Mood disorders",
+      "level": 3,
+      "score": 0.5585221648216248
+    },
+    {
+      "id": "https://openalex.org/C40010229",
+      "wikidata": "https://www.wikidata.org/wiki/Q3184856",
+      "display_name": "Substance abuse",
+      "level": 2,
+      "score": 0.5359312891960144
+    },
+    {
+      "id": "https://openalex.org/C72563966",
+      "wikidata": "https://www.wikidata.org/wiki/Q1303415",
+      "display_name": "Cohort",
+      "level": 2,
+      "score": 0.47142738103866577
+    },
+    {
+      "id": "https://openalex.org/C186079640",
+      "wikidata": "https://www.wikidata.org/wiki/Q719602",
+      "display_name": "Prevalence",
+      "level": 3,
+      "score": 0.4710139036178589
+    },
+    {
+      "id": "https://openalex.org/C2776174506",
+      "wikidata": "https://www.wikidata.org/wiki/Q131755",
+      "display_name": "Bipolar disorder",
+      "level": 3,
+      "score": 0.4225451350212097
+    },
+    {
+      "id": "https://openalex.org/C2780733359",
+      "wikidata": "https://www.wikidata.org/wiki/Q331769",
+      "display_name": "Mood",
+      "level": 2,
+      "score": 0.39449092745780945
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.36919403076171875
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000293",
+      "descriptor_name": "Adolescent",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000368",
+      "descriptor_name": "Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D039721",
+      "descriptor_name": "Diagnostic and Statistical Manual of Mental Disorders",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006306",
+      "descriptor_name": "Health Surveys",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001523",
+      "descriptor_name": "Mental Disorders",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008875",
+      "descriptor_name": "Middle Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015995",
+      "descriptor_name": "Prevalence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012529",
+      "descriptor_name": "Saudi Arabia",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055815",
+      "descriptor_name": "Young Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000293",
+      "descriptor_name": "Adolescent",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000368",
+      "descriptor_name": "Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D039721",
+      "descriptor_name": "Diagnostic and Statistical Manual of Mental Disorders",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006306",
+      "descriptor_name": "Health Surveys",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001523",
+      "descriptor_name": "Mental Disorders",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008875",
+      "descriptor_name": "Middle Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015995",
+      "descriptor_name": "Prevalence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012529",
+      "descriptor_name": "Saudi Arabia",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055815",
+      "descriptor_name": "Young Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000293",
+      "descriptor_name": "Adolescent",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000368",
+      "descriptor_name": "Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D039721",
+      "descriptor_name": "Diagnostic and Statistical Manual of Mental Disorders",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006306",
+      "descriptor_name": "Health Surveys",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001523",
+      "descriptor_name": "Mental Disorders",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008875",
+      "descriptor_name": "Middle Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015995",
+      "descriptor_name": "Prevalence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012529",
+      "descriptor_name": "Saudi Arabia",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055815",
+      "descriptor_name": "Young Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1002/mpr.1836",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1002/mpr.1836",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mpr.1836",
+      "source": {
+        "id": "https://openalex.org/S191377590",
+        "display_name": "International Journal of Methods in Psychiatric Research",
+        "issn_l": "1049-8931",
+        "issn": [
+          "1049-8931",
+          "1234-988X",
+          "1557-0657"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Journal of Methods in Psychiatric Research",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:33245595",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/33245595",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International journal of methods in psychiatric research",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:7507419",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7507419",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Int J Methods Psychiatr Res",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1002/mpr.1836",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1002/mpr.1836",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mpr.1836",
+    "source": {
+      "id": "https://openalex.org/S191377590",
+      "display_name": "International Journal of Methods in Psychiatric Research",
+      "issn_l": "1049-8931",
+      "issn": [
+        "1049-8931",
+        "1234-988X",
+        "1557-0657"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Methods in Psychiatric Research",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Good health and well-being",
+      "score": 0.6800000071525574,
+      "id": "https://metadata.un.org/sdg/3"
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320321145",
+      "display_name": "King Saud University",
+      "ror": "https://ror.org/02f81g417"
+    },
+    {
+      "id": "https://openalex.org/F4320322997",
+      "display_name": "King Abdulaziz City for Science and Technology",
+      "ror": "https://ror.org/05tdz6m39"
+    },
+    {
+      "id": "https://openalex.org/F4320324204",
+      "display_name": "Saudi Basic Industries Corporation",
+      "ror": "https://ror.org/03nqwhd11"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "referenced_works_count": 52,
+  "referenced_works": [
+    "https://openalex.org/W88445834",
+    "https://openalex.org/W2025196207",
+    "https://openalex.org/W2019069636",
+    "https://openalex.org/W3049191415",
+    "https://openalex.org/W2149338329",
+    "https://openalex.org/W2035109688",
+    "https://openalex.org/W2102621016",
+    "https://openalex.org/W2899710264",
+    "https://openalex.org/W2954829592",
+    "https://openalex.org/W2921942137",
+    "https://openalex.org/W1731053727",
+    "https://openalex.org/W2055057204",
+    "https://openalex.org/W2555957564",
+    "https://openalex.org/W2744570629",
+    "https://openalex.org/W2074585276",
+    "https://openalex.org/W2974146820",
+    "https://openalex.org/W562679926",
+    "https://openalex.org/W2073661387",
+    "https://openalex.org/W2759304366",
+    "https://openalex.org/W4293241248",
+    "https://openalex.org/W2146637767",
+    "https://openalex.org/W2098667423",
+    "https://openalex.org/W3049068802",
+    "https://openalex.org/W1981722146",
+    "https://openalex.org/W1978365558",
+    "https://openalex.org/W2155054485",
+    "https://openalex.org/W2170684975",
+    "https://openalex.org/W2082536055",
+    "https://openalex.org/W2115609473",
+    "https://openalex.org/W143431577",
+    "https://openalex.org/W2095510225",
+    "https://openalex.org/W2107360101",
+    "https://openalex.org/W3049658344",
+    "https://openalex.org/W639695655",
+    "https://openalex.org/W2210091846",
+    "https://openalex.org/W1969448637",
+    "https://openalex.org/W2775868591",
+    "https://openalex.org/W2509915049",
+    "https://openalex.org/W2919054797",
+    "https://openalex.org/W2161443491",
+    "https://openalex.org/W1531843813",
+    "https://openalex.org/W2079528869",
+    "https://openalex.org/W2590938221",
+    "https://openalex.org/W1984615306",
+    "https://openalex.org/W3098079773",
+    "https://openalex.org/W3049466889",
+    "https://openalex.org/W4245305378",
+    "https://openalex.org/W2148601444",
+    "https://openalex.org/W1583327662",
+    "https://openalex.org/W3049160049",
+    "https://openalex.org/W4206837307",
+    "https://openalex.org/W575802278"
+  ],
+  "related_works": [
+    "https://openalex.org/W2163659555",
+    "https://openalex.org/W2104076875",
+    "https://openalex.org/W2333618293",
+    "https://openalex.org/W3049191415",
+    "https://openalex.org/W2413264243",
+    "https://openalex.org/W2149027603",
+    "https://openalex.org/W2418310492",
+    "https://openalex.org/W2139504512",
+    "https://openalex.org/W2024867315",
+    "https://openalex.org/W2408304372"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "Objectives": [
+      1
+    ],
+    "To": [
+      2
+    ],
+    "estimate": [
+      3,
+      59
+    ],
+    "lifetime": [
+      4,
+      60,
+      69,
+      78
+    ],
+    "prevalence": [
+      5,
+      61,
+      70,
+      113
+    ],
+    "of": [
+      6,
+      32,
+      39,
+      62,
+      71,
+      108,
+      114,
+      130,
+      157
+    ],
+    "mental": [
+      7,
+      65,
+      171
+    ],
+    "disorders": [
+      8,
+      84,
+      116,
+      135,
+      172
+    ],
+    "in": [
+      9,
+      26,
+      36,
+      119,
+      125,
+      137,
+      160,
+      165,
+      176
+    ],
+    "the": [
+      10,
+      37,
+      88
+    ],
+    "Saudi": [
+      11,
+      40,
+      177
+    ],
+    "National": [
+      12
+    ],
+    "Mental": [
+      13
+    ],
+    "Health": [
+      14,
+      48
+    ],
+    "Survey": [
+      15
+    ],
+    "(SNMHS).": [
+      16
+    ],
+    "Methods": [
+      17
+    ],
+    "The": [
+      18,
+      46
+    ],
+    "SNMHS": [
+      19
+    ],
+    "is": [
+      20,
+      75,
+      81,
+      152
+    ],
+    "a": [
+      21,
+      27,
+      128
+    ],
+    "face‐to‐face": [
+      22
+    ],
+    "community": [
+      23
+    ],
+    "epidemiological": [
+      24
+    ],
+    "survey": [
+      25
+    ],
+    "nationally": [
+      28
+    ],
+    "representative": [
+      29
+    ],
+    "household": [
+      30
+    ],
+    "sample": [
+      31
+    ],
+    "citizens": [
+      33
+    ],
+    "ages": [
+      34
+    ],
+    "15–65": [
+      35
+    ],
+    "Kingdom": [
+      38
+    ],
+    "Arabia": [
+      41,
+      178
+    ],
+    "(KSA)": [
+      42
+    ],
+    "(n": [
+      43
+    ],
+    "=": [
+      44
+    ],
+    "4,004).": [
+      45
+    ],
+    "World": [
+      47
+    ],
+    "Organization": [
+      49
+    ],
+    "(WHO)": [
+      50
+    ],
+    "Composite": [
+      51
+    ],
+    "International": [
+      52
+    ],
+    "Diagnostic": [
+      53
+    ],
+    "Interview": [
+      54
+    ],
+    "(CIDI)": [
+      55
+    ],
+    "was": [
+      56
+    ],
+    "used": [
+      57
+    ],
+    "to": [
+      58
+    ],
+    "common": [
+      63
+    ],
+    "DSM‐IV": [
+      64
+    ],
+    "disorders.": [
+      66,
+      105
+    ],
+    "Results": [
+      67
+    ],
+    "Estimated": [
+      68
+    ],
+    "any": [
+      72
+    ],
+    "DSM‐IV/CIDI": [
+      73
+    ],
+    "disorder": [
+      74
+    ],
+    "34.2%": [
+      76
+    ],
+    "and": [
+      77,
+      101,
+      132,
+      136,
+      179
+    ],
+    "morbid": [
+      79
+    ],
+    "risk": [
+      80
+    ],
+    "38.0%.": [
+      82
+    ],
+    "Anxiety": [
+      83
+    ],
+    "are": [
+      85,
+      173
+    ],
+    "by": [
+      86,
+      93
+    ],
+    "far": [
+      87
+    ],
+    "most": [
+      89,
+      143
+    ],
+    "prevalent": [
+      90,
+      175
+    ],
+    "(23.2%)": [
+      91
+    ],
+    "followed": [
+      92
+    ],
+    "disruptive": [
+      94,
+      133
+    ],
+    "behavior": [
+      95,
+      134
+    ],
+    "(11.2%),": [
+      96
+    ],
+    "mood": [
+      97
+    ],
+    "(9.3%),": [
+      98
+    ],
+    "eating": [
+      99
+    ],
+    "(6.1%),": [
+      100
+    ],
+    "substance": [
+      102
+    ],
+    "use": [
+      103
+    ],
+    "(4.0%)": [
+      104
+    ],
+    "Synthetic": [
+      106
+    ],
+    "estimates": [
+      107
+    ],
+    "cohort": [
+      109
+    ],
+    "effects": [
+      110
+    ],
+    "suggest": [
+      111
+    ],
+    "that": [
+      112
+    ],
+    "many": [
+      115
+    ],
+    "has": [
+      117
+    ],
+    "increased": [
+      118
+    ],
+    "recent": [
+      120
+    ],
+    "cohorts.": [
+      121
+    ],
+    "Onsets": [
+      122
+    ],
+    "typically": [
+      123,
+      180
+    ],
+    "occur": [
+      124
+    ],
+    "childhood": [
+      126
+    ],
+    "for": [
+      127,
+      142,
+      149
+    ],
+    "number": [
+      129
+    ],
+    "anxiety": [
+      131
+    ],
+    "adolescence": [
+      138
+    ],
+    "or": [
+      139
+    ],
+    "early": [
+      140,
+      182
+    ],
+    "adulthood": [
+      141
+    ],
+    "other": [
+      144,
+      166
+    ],
+    "disorders,": [
+      145
+    ],
+    "although": [
+      146
+    ],
+    "age‐of‐onset": [
+      147
+    ],
+    "distributions": [
+      148
+    ],
+    "drug": [
+      150
+    ],
+    "abuse": [
+      151
+    ],
+    "much": [
+      153
+    ],
+    "later": [
+      154
+    ],
+    "(median": [
+      155
+    ],
+    "age": [
+      156
+    ],
+    "31)": [
+      158
+    ],
+    "than": [
+      159
+    ],
+    "CIDI": [
+      161
+    ],
+    "surveys": [
+      162
+    ],
+    "carried": [
+      163
+    ],
+    "out": [
+      164
+    ],
+    "high‐income": [
+      167
+    ],
+    "countries.": [
+      168
+    ],
+    "Conclusions": [
+      169
+    ],
+    "Lifetime": [
+      170
+    ],
+    "highly": [
+      174
+    ],
+    "have": [
+      181
+    ],
+    "ages‐of‐onset.": [
+      183
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 27
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 31
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 8
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -34,8 +34,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.7759__cureus.55073.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.7759__cureus.55073.pdf",
+    "sourceUrl": "https://assets.cureus.com/uploads/original_article/pdf/209309/20240227-29030-1deni2s.pdf",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

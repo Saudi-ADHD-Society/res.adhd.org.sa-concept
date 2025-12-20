@@ -2,7 +2,7 @@
   "doi": "10.1186/s43045-023-00331-3",
   "slug": "10.1186-s43045-023-00331-3",
   "title": "Burnout and anxiety among parents of children with neurodevelopmental disorders: a cross-sectional study in Saudi Arabia",
-  "abstract": "<strong>Background</strong>",
+  "abstract": "Abstract Background Neurodevelopmental disorders (NDDs) are disabilities in brain functioning that cause impairments in cognition, communication, behavior, and sometimes motor skills. The goal of this study was to measure burnout and anxiety among parents of children with neurodevelopmental disorders compared to parents of children with typical development in Saudi Arabia. Results Four hundred twenty-five parents of healthy and parents of children with NDDs, including attention deficit hyperactivity disorder (ADHD), autism spectrum disorder (ASD), and intellectual disability (ID), and their parents. Parents of children with NDD had more anxiety and burnout relative to parents of typically developing children, and parents of children with ADHD experienced higher levels of anxiety and depression than parents of children with ASD or ID. Conclusion Parents of children with various neurodevelopmental disorders face a greater degree of psychological distress than parents of typically developing children. Parents of children with NDDs should be provided with interventions and resources to reduce stress and enhance their standard of living.",
   "categories": [
     "Uncategorized"
   ],
@@ -15,8 +15,10 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.1186__s43045-023-00331-3.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.1186__s43045-023-00331-3.pdf",
+    "sourceUrl": "https://mecp.springeropen.com/counter/pdf/10.1186/s43045-023-00331-3",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false

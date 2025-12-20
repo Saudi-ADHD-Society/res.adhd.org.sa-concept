@@ -42,8 +42,9 @@
     }
   ],
   "access": {
-    "status": "unknown",
-    "localPdfUrl": "library/doi__10.5430__jnep.v7n5p104.pdf"
+    "status": "open",
+    "localPdfUrl": "library/doi__10.5430__jnep.v7n5p104.pdf",
+    "sourceUrl": "http://www.sciedupress.com/journal/index.php/jnep/article/download/9108/6627"
   },
   "visibility": {
     "hidden": false

@@ -1,0 +1,1368 @@
+{
+  "id": "https://openalex.org/W4407610036",
+  "doi": "https://doi.org/10.7759/cureus.79108",
+  "title": "Primary School Teachers' Knowledge and Misconceptions Regarding Attention Deficit Hyperactivity Disorder in the Qassim Region, Saudi Arabia",
+  "display_name": "Primary School Teachers' Knowledge and Misconceptions Regarding Attention Deficit Hyperactivity Disorder in the Qassim Region, Saudi Arabia",
+  "publication_year": 2025,
+  "publication_date": "2025-02-16",
+  "ids": {
+    "openalex": "https://openalex.org/W4407610036",
+    "doi": "https://doi.org/10.7759/cureus.79108",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/40115686"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.7759/cureus.79108",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.7759/cureus.79108",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2738950867",
+      "display_name": "Cureus",
+      "issn_l": "2168-8184",
+      "issn": [
+        "2168-8184"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310316779",
+      "host_organization_name": "Cureus, Inc.",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310316779"
+      ],
+      "host_organization_lineage_names": [
+        "Cureus, Inc."
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cureus",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://doi.org/10.7759/cureus.79108",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5059155197",
+        "display_name": "Abdullah Alqifari",
+        "orcid": "https://orcid.org/0000-0003-0919-9071"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210092650",
+          "display_name": "Buraydah Colleges",
+          "ror": "https://ror.org/00j0krs40",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210092650"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I156216236",
+          "display_name": "Qassim University",
+          "ror": "https://ror.org/01wsfe280",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Abdullah Alqifari",
+      "raw_affiliation_strings": [
+        "Department of Psychiatry, Qassim University, Buraydah, SAU."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychiatry, Qassim University, Buraydah, SAU.",
+          "institution_ids": [
+            "https://openalex.org/I156216236",
+            "https://openalex.org/I4210092650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051388014",
+        "display_name": "Hana N. Alqifari",
+        "orcid": "https://orcid.org/0000-0002-7577-6079"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I156216236",
+          "display_name": "Qassim University",
+          "ror": "https://ror.org/01wsfe280",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hana Alqifari",
+      "raw_affiliation_strings": [
+        "Department of Statistics and Operation Research, College of Science, Qassim University, Buraydah, SAU."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Statistics and Operation Research, College of Science, Qassim University, Buraydah, SAU.",
+          "institution_ids": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5106994284",
+        "display_name": "Jood M Alsogaihi",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210092650",
+          "display_name": "Buraydah Colleges",
+          "ror": "https://ror.org/00j0krs40",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210092650"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I156216236",
+          "display_name": "Qassim University",
+          "ror": "https://ror.org/01wsfe280",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jood M Alsogaihi",
+      "raw_affiliation_strings": [
+        "Medicine, College of Medicine, Qassim University, Buraydah, SAU."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Medicine, College of Medicine, Qassim University, Buraydah, SAU.",
+          "institution_ids": [
+            "https://openalex.org/I156216236",
+            "https://openalex.org/I4210092650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088957867",
+        "display_name": "Jolan S Alsaud",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Jolan S Alsaud",
+      "raw_affiliation_strings": [
+        "Family Medicine, Qassim Health Cluster, Buraydah, SAU."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Family Medicine, Qassim Health Cluster, Buraydah, SAU.",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5115723267",
+        "display_name": "Hussam S Alshetwi",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210092650",
+          "display_name": "Buraydah Colleges",
+          "ror": "https://ror.org/00j0krs40",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210092650"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I156216236",
+          "display_name": "Qassim University",
+          "ror": "https://ror.org/01wsfe280",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hussam Alshetwi",
+      "raw_affiliation_strings": [
+        "Medicine, College of Medicine, Qassim University, Buraydah, SAU."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Medicine, College of Medicine, Qassim University, Buraydah, SAU.",
+          "institution_ids": [
+            "https://openalex.org/I156216236",
+            "https://openalex.org/I4210092650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5112958442",
+        "display_name": "Mohammed Almohaimeed",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210092650",
+          "display_name": "Buraydah Colleges",
+          "ror": "https://ror.org/00j0krs40",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210092650"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I156216236",
+          "display_name": "Qassim University",
+          "ror": "https://ror.org/01wsfe280",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mohammed Y Almohaimeed",
+      "raw_affiliation_strings": [
+        "Medicine, College of Medicine, Qassim University, Buraydah, SAU."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Medicine, College of Medicine, Qassim University, Buraydah, SAU.",
+          "institution_ids": [
+            "https://openalex.org/I156216236",
+            "https://openalex.org/I4210092650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5113403843",
+        "display_name": "Shikhah G Alharbi",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210092650",
+          "display_name": "Buraydah Colleges",
+          "ror": "https://ror.org/00j0krs40",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210092650"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I156216236",
+          "display_name": "Qassim University",
+          "ror": "https://ror.org/01wsfe280",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shikhah G Alharbi",
+      "raw_affiliation_strings": [
+        "Medicine, College of Medicine, Qassim University, Buraydah, SAU."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Medicine, College of Medicine, Qassim University, Buraydah, SAU.",
+          "institution_ids": [
+            "https://openalex.org/I156216236",
+            "https://openalex.org/I4210092650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5116002374",
+        "display_name": "Shoog Soliman Alhaggas",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210092650",
+          "display_name": "Buraydah Colleges",
+          "ror": "https://ror.org/00j0krs40",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210092650"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I156216236",
+          "display_name": "Qassim University",
+          "ror": "https://ror.org/01wsfe280",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shoog S Alhaggas",
+      "raw_affiliation_strings": [
+        "Medicine, College of Medicine, Qassim University, Buraydah, SAU."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Medicine, College of Medicine, Qassim University, Buraydah, SAU.",
+          "institution_ids": [
+            "https://openalex.org/I156216236",
+            "https://openalex.org/I4210092650"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 4.71320923,
+  "has_fulltext": false,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.81339239,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 91,
+    "max": 95
+  },
+  "biblio": {
+    "volume": "17",
+    "issue": "2",
+    "first_page": "e79108",
+    "last_page": "e79108"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10537",
+    "display_name": "Attention Deficit Hyperactivity Disorder",
+    "score": 0.9998000264167786,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12241",
+      "display_name": "Children's Physical and Motor Development",
+      "score": 0.9218999743461609,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.9128294587135315
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "score": 0.6614243388175964
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit",
+      "display_name": "Attention deficit",
+      "score": 0.5292419791221619
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.4244893491268158
+    },
+    {
+      "id": "https://openalex.org/keywords/family-medicine",
+      "display_name": "Family medicine",
+      "score": 0.3967536687850952
+    },
+    {
+      "id": "https://openalex.org/keywords/optometry",
+      "display_name": "Optometry",
+      "score": 0.3560669720172882
+    },
+    {
+      "id": "https://openalex.org/keywords/medical-education",
+      "display_name": "Medical education",
+      "score": 0.3530811071395874
+    },
+    {
+      "id": "https://openalex.org/keywords/pediatrics",
+      "display_name": "Pediatrics",
+      "score": 0.3366076350212097
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.9128294587135315
+    },
+    {
+      "id": "https://openalex.org/C2780783007",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "level": 2,
+      "score": 0.6614243388175964
+    },
+    {
+      "id": "https://openalex.org/C3017694942",
+      "wikidata": "https://www.wikidata.org/wiki/Q16254243",
+      "display_name": "Attention deficit",
+      "level": 3,
+      "score": 0.5292419791221619
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.4244893491268158
+    },
+    {
+      "id": "https://openalex.org/C512399662",
+      "wikidata": "https://www.wikidata.org/wiki/Q3505712",
+      "display_name": "Family medicine",
+      "level": 1,
+      "score": 0.3967536687850952
+    },
+    {
+      "id": "https://openalex.org/C119767625",
+      "wikidata": "https://www.wikidata.org/wiki/Q618211",
+      "display_name": "Optometry",
+      "level": 1,
+      "score": 0.3560669720172882
+    },
+    {
+      "id": "https://openalex.org/C509550671",
+      "wikidata": "https://www.wikidata.org/wiki/Q126945",
+      "display_name": "Medical education",
+      "level": 1,
+      "score": 0.3530811071395874
+    },
+    {
+      "id": "https://openalex.org/C187212893",
+      "wikidata": "https://www.wikidata.org/wiki/Q123028",
+      "display_name": "Pediatrics",
+      "level": 1,
+      "score": 0.3366076350212097
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.7759/cureus.79108",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.7759/cureus.79108",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2738950867",
+        "display_name": "Cureus",
+        "issn_l": "2168-8184",
+        "issn": [
+          "2168-8184"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310316779",
+        "host_organization_name": "Cureus, Inc.",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310316779"
+        ],
+        "host_organization_lineage_names": [
+          "Cureus, Inc."
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cureus",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:40115686",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40115686",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cureus",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:11923578",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11923578",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Cureus",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.7759/cureus.79108",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.7759/cureus.79108",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2738950867",
+      "display_name": "Cureus",
+      "issn_l": "2168-8184",
+      "issn": [
+        "2168-8184"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310316779",
+      "host_organization_name": "Cureus, Inc.",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310316779"
+      ],
+      "host_organization_lineage_names": [
+        "Cureus, Inc."
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cureus",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.8500000238418579,
+      "display_name": "Quality Education",
+      "id": "https://metadata.un.org/sdg/4"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 15,
+  "referenced_works": [
+    "https://openalex.org/W1506726456",
+    "https://openalex.org/W1693496883",
+    "https://openalex.org/W2079274086",
+    "https://openalex.org/W2029514945",
+    "https://openalex.org/W2749288454",
+    "https://openalex.org/W3153619923",
+    "https://openalex.org/W2908889628",
+    "https://openalex.org/W2071341057",
+    "https://openalex.org/W3111107409",
+    "https://openalex.org/W3088253184",
+    "https://openalex.org/W2914432411",
+    "https://openalex.org/W4390728584",
+    "https://openalex.org/W4389622709",
+    "https://openalex.org/W2340532231",
+    "https://openalex.org/W4387447609"
+  ],
+  "related_works": [
+    "https://openalex.org/W2273708893",
+    "https://openalex.org/W2565069998",
+    "https://openalex.org/W4392107953",
+    "https://openalex.org/W4387798021",
+    "https://openalex.org/W4407162741",
+    "https://openalex.org/W1566344982",
+    "https://openalex.org/W2241928968",
+    "https://openalex.org/W4399870686",
+    "https://openalex.org/W183297272",
+    "https://openalex.org/W3212512115"
+  ],
+  "abstract_inverted_index": {
+    "10": [
+      114
+    ],
+    "25": [
+      87
+    ],
+    "41": [
+      102
+    ],
+    "50": [
+      104
+    ],
+    "381": [
+      51
+    ],
+    "2024": [
+      46,
+      49
+    ],
+    "Background": [
+      0
+    ],
+    "and": [
+      1,
+      16,
+      26,
+      72,
+      99,
+      103,
+      120,
+      165,
+      185,
+      193,
+      249
+    ],
+    "objective": [
+      2
+    ],
+    "Attention": [
+      3
+    ],
+    "deficit": [
+      4
+    ],
+    "hyperactivity": [
+      5
+    ],
+    "disorder": [
+      6,
+      12
+    ],
+    "(ADHD)": [
+      7
+    ],
+    "is": [
+      8,
+      243
+    ],
+    "a": [
+      9,
+      65,
+      73
+    ],
+    "common": [
+      10,
+      145
+    ],
+    "neurodevelopmental": [
+      11
+    ],
+    "affecting": [
+      13
+    ],
+    "children's": [
+      14
+    ],
+    "academic": [
+      15
+    ],
+    "social": [
+      17,
+      140
+    ],
+    "performance.": [
+      18
+    ],
+    "This": [
+      19
+    ],
+    "study": [
+      20,
+      41
+    ],
+    "aimed": [
+      21
+    ],
+    "to": [
+      22,
+      47,
+      125,
+      245
+    ],
+    "assess": [
+      23
+    ],
+    "the": [
+      24,
+      33,
+      56,
+      109,
+      143,
+      186,
+      224
+    ],
+    "knowledge": [
+      25,
+      76,
+      154,
+      177,
+      200,
+      233
+    ],
+    "misconceptions": [
+      27
+    ],
+    "of": [
+      28,
+      108,
+      116,
+      133,
+      137,
+      147,
+      155,
+      167,
+      188,
+      229
+    ],
+    "primary": [
+      29,
+      52
+    ],
+    "school": [
+      30,
+      53
+    ],
+    "teachers": [
+      31,
+      54,
+      110,
+      134,
+      192,
+      210,
+      222
+    ],
+    "in": [
+      32,
+      55,
+      123,
+      176,
+      195,
+      212,
+      223,
+      253
+    ],
+    "Qassim": [
+      34,
+      57,
+      225
+    ],
+    "region": [
+      35,
+      226
+    ],
+    "regarding": [
+      36,
+      237
+    ],
+    "ADHD.": [
+      37
+    ],
+    "Methodology": [
+      38
+    ],
+    "A": [
+      39
+    ],
+    "cross-sectional": [
+      40
+    ],
+    "was": [
+      42
+    ],
+    "conducted": [
+      43
+    ],
+    "from": [
+      44
+    ],
+    "March": [
+      45
+    ],
+    "October": [
+      48
+    ],
+    "involving": [
+      50
+    ],
+    "region,": [
+      58
+    ],
+    "Saudi": [
+      59
+    ],
+    "Arabia.": [
+      60
+    ],
+    "Data": [
+      61
+    ],
+    "were": [
+      62,
+      81,
+      95,
+      172,
+      178,
+      206
+    ],
+    "collected": [
+      63,
+      79
+    ],
+    "using": [
+      64,
+      83
+    ],
+    "self-administered": [
+      66
+    ],
+    "questionnaire,": [
+      67
+    ],
+    "which": [
+      68
+    ],
+    "included": [
+      69
+    ],
+    "demographic": [
+      70
+    ],
+    "information": [
+      71,
+      148,
+      162
+    ],
+    "36-item": [
+      74
+    ],
+    "ADHD": [
+      75,
+      156,
+      251
+    ],
+    "assessment.": [
+      77
+    ],
+    "The": [
+      78
+    ],
+    "data": [
+      80
+    ],
+    "analyzed": [
+      82
+    ],
+    "SPSS": [
+      84
+    ],
+    "Statistics": [
+      85
+    ],
+    "version": [
+      86
+    ],
+    "(IBM": [
+      88
+    ],
+    "Corp.,": [
+      89
+    ],
+    "Armonk,": [
+      90
+    ],
+    "NY).": [
+      91
+    ],
+    "Results": [
+      92
+    ],
+    "Most": [
+      93,
+      107
+    ],
+    "participants": [
+      94
+    ],
+    "female": [
+      96,
+      191
+    ],
+    "(58.8%,": [
+      97
+    ],
+    "n=224)": [
+      98
+    ],
+    "aged": [
+      100
+    ],
+    "between": [
+      101
+    ],
+    "(47%,": [
+      105
+    ],
+    "n=147).": [
+      106
+    ],
+    "had": [
+      111,
+      135,
+      152
+    ],
+    "more": [
+      112
+    ],
+    "than": [
+      113
+    ],
+    "years": [
+      115
+    ],
+    "experience": [
+      117
+    ],
+    "(76.4%,": [
+      118
+    ],
+    "n=291)": [
+      119
+    ],
+    "taught": [
+      121
+    ],
+    "students": [
+      122
+    ],
+    "fourth": [
+      124
+    ],
+    "sixth": [
+      126
+    ],
+    "grades": [
+      127
+    ],
+    "(46.5%,": [
+      128
+    ],
+    "n=177).": [
+      129
+    ],
+    "Overall,": [
+      130
+    ],
+    "87.4%": [
+      131
+    ],
+    "(n=333)": [
+      132
+    ],
+    "heard": [
+      136
+    ],
+    "ADHD,": [
+      138,
+      230
+    ],
+    "with": [
+      139,
+      190,
+      208
+    ],
+    "media": [
+      141
+    ],
+    "being": [
+      142
+    ],
+    "most": [
+      144
+    ],
+    "source": [
+      146
+    ],
+    "(39.6%,": [
+      149
+    ],
+    "n=151).": [
+      150
+    ],
+    "Teachers": [
+      151
+    ],
+    "moderate": [
+      153
+    ],
+    "symptoms": [
+      157
+    ],
+    "(52.67%,": [
+      158
+    ],
+    "n=201),": [
+      159
+    ],
+    "but": [
+      160
+    ],
+    "general": [
+      161
+    ],
+    "(29.27%,": [
+      163
+    ],
+    "n=211)": [
+      164
+    ],
+    "awareness": [
+      166
+    ],
+    "treatment": [
+      168,
+      238
+    ],
+    "options": [
+      169
+    ],
+    "(32.87%,": [
+      170
+    ],
+    "n=125)": [
+      171
+    ],
+    "limited.": [
+      173
+    ],
+    "Significant": [
+      174
+    ],
+    "differences": [
+      175
+    ],
+    "found": [
+      179
+    ],
+    "based": [
+      180
+    ],
+    "on": [
+      181
+    ],
+    "gender,": [
+      182
+    ],
+    "age,": [
+      183
+    ],
+    "experience,": [
+      184
+    ],
+    "type": [
+      187
+    ],
+    "school,": [
+      189
+    ],
+    "those": [
+      194
+    ],
+    "private": [
+      196
+    ],
+    "schools": [
+      197
+    ],
+    "having": [
+      198
+    ],
+    "higher": [
+      199
+    ],
+    "levels.": [
+      201
+    ],
+    "Misconceptions,": [
+      202
+    ],
+    "particularly": [
+      203
+    ],
+    "about": [
+      204
+    ],
+    "treatment,": [
+      205
+    ],
+    "widespread,": [
+      207
+    ],
+    "many": [
+      209
+    ],
+    "believing": [
+      211
+    ],
+    "ineffective": [
+      213
+    ],
+    "interventions": [
+      214
+    ],
+    "like": [
+      215
+    ],
+    "dietary": [
+      216
+    ],
+    "changes": [
+      217
+    ],
+    "(87.9%,": [
+      218
+    ],
+    "n=334).": [
+      219
+    ],
+    "Conclusions": [
+      220
+    ],
+    "While": [
+      221
+    ],
+    "are": [
+      227
+    ],
+    "aware": [
+      228
+    ],
+    "their": [
+      231
+    ],
+    "overall": [
+      232
+    ],
+    "remains": [
+      234
+    ],
+    "insufficient,": [
+      235
+    ],
+    "especially": [
+      236
+    ],
+    "methods.": [
+      239
+    ],
+    "Providing": [
+      240
+    ],
+    "training": [
+      241
+    ],
+    "programs": [
+      242
+    ],
+    "essential": [
+      244
+    ],
+    "enhance": [
+      246
+    ],
+    "teachers'": [
+      247
+    ],
+    "understanding": [
+      248
+    ],
+    "improve": [
+      250
+    ],
+    "management": [
+      252
+    ],
+    "schools.": [
+      254
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

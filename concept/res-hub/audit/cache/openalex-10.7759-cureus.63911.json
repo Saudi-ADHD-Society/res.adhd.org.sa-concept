@@ -1,0 +1,2100 @@
+{
+  "id": "https://openalex.org/W4400352057",
+  "doi": "https://doi.org/10.7759/cureus.63911",
+  "title": "Quality of Life Among Saudi Parents of Children With Attention-Deficit/Hyperactivity Disorder: A Cross-Sectional Study",
+  "display_name": "Quality of Life Among Saudi Parents of Children With Attention-Deficit/Hyperactivity Disorder: A Cross-Sectional Study",
+  "publication_year": 2024,
+  "publication_date": "2024-07-05",
+  "ids": {
+    "openalex": "https://openalex.org/W4400352057",
+    "doi": "https://doi.org/10.7759/cureus.63911",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/39100067"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.7759/cureus.63911",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.7759/cureus.63911",
+    "pdf_url": "https://assets.cureus.com/uploads/original_article/pdf/266405/20240804-2758470-qewv51.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738950867",
+      "display_name": "Cureus",
+      "issn_l": "2168-8184",
+      "issn": [
+        "2168-8184"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310316779",
+      "host_organization_name": "Cureus, Inc.",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310316779"
+      ],
+      "host_organization_lineage_names": [
+        "Cureus, Inc."
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cureus",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://assets.cureus.com/uploads/original_article/pdf/266405/20240804-2758470-qewv51.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5011330384",
+        "display_name": "Mohammad A. Jareebi",
+        "orcid": "https://orcid.org/0000-0002-4525-1191"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I91450128",
+          "display_name": "Jazan University",
+          "ror": "https://ror.org/02bjnq803",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I82952536",
+          "display_name": "King Khalid University",
+          "ror": "https://ror.org/052kwzs30",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I82952536"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Mohammad A Jareebi",
+      "raw_affiliation_strings": [
+        " . Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+        " . Psychiatry, King Khalid University, Abha, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Psychiatry, King Khalid University, Abha, SAU",
+          "institution_ids": [
+            "https://openalex.org/I82952536"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017217651",
+        "display_name": "Ahmad Y. Alqassim",
+        "orcid": "https://orcid.org/0000-0002-0170-1437"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I91450128",
+          "display_name": "Jazan University",
+          "ror": "https://ror.org/02bjnq803",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I82952536",
+          "display_name": "King Khalid University",
+          "ror": "https://ror.org/052kwzs30",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I82952536"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ahmad Y Alqassim",
+      "raw_affiliation_strings": [
+        " . Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+        " . Psychiatry, King Khalid University, Abha, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Psychiatry, King Khalid University, Abha, SAU",
+          "institution_ids": [
+            "https://openalex.org/I82952536"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5023862648",
+        "display_name": "Ibrahim M. Gosadi",
+        "orcid": "https://orcid.org/0000-0002-1275-3953"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I91450128",
+          "display_name": "Jazan University",
+          "ror": "https://ror.org/02bjnq803",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I82952536",
+          "display_name": "King Khalid University",
+          "ror": "https://ror.org/052kwzs30",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I82952536"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ibrahim M Gosadi",
+      "raw_affiliation_strings": [
+        " . Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+        " . Psychiatry, King Khalid University, Abha, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Psychiatry, King Khalid University, Abha, SAU",
+          "institution_ids": [
+            "https://openalex.org/I82952536"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088789174",
+        "display_name": "Mousa A. Zaala",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I91450128",
+          "display_name": "Jazan University",
+          "ror": "https://ror.org/02bjnq803",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I82952536",
+          "display_name": "King Khalid University",
+          "ror": "https://ror.org/052kwzs30",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I82952536"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mousa Zaala",
+      "raw_affiliation_strings": [
+        " . Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+        " . Psychiatry, King Khalid University, Abha, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Psychiatry, King Khalid University, Abha, SAU",
+          "institution_ids": [
+            "https://openalex.org/I82952536"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5114187734",
+        "display_name": "Ramis Manni",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I91450128",
+          "display_name": "Jazan University",
+          "ror": "https://ror.org/02bjnq803",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I82952536",
+          "display_name": "King Khalid University",
+          "ror": "https://ror.org/052kwzs30",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I82952536"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ramis Manni",
+      "raw_affiliation_strings": [
+        " . Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+        " . Psychiatry, King Khalid University, Abha, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Psychiatry, King Khalid University, Abha, SAU",
+          "institution_ids": [
+            "https://openalex.org/I82952536"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5032482636",
+        "display_name": "Taif Zogel",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I91450128",
+          "display_name": "Jazan University",
+          "ror": "https://ror.org/02bjnq803",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I82952536",
+          "display_name": "King Khalid University",
+          "ror": "https://ror.org/052kwzs30",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I82952536"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Taif Zogel",
+      "raw_affiliation_strings": [
+        " . Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+        " . Psychiatry, King Khalid University, Abha, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Psychiatry, King Khalid University, Abha, SAU",
+          "institution_ids": [
+            "https://openalex.org/I82952536"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100022361",
+        "display_name": "Emtnan Robidiy",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I91450128",
+          "display_name": "Jazan University",
+          "ror": "https://ror.org/02bjnq803",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I82952536",
+          "display_name": "King Khalid University",
+          "ror": "https://ror.org/052kwzs30",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I82952536"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Emtnan Robidiy",
+      "raw_affiliation_strings": [
+        " . Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+        " . Psychiatry, King Khalid University, Abha, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Psychiatry, King Khalid University, Abha, SAU",
+          "institution_ids": [
+            "https://openalex.org/I82952536"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100022362",
+        "display_name": "Fatimah Qarn",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I91450128",
+          "display_name": "Jazan University",
+          "ror": "https://ror.org/02bjnq803",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I82952536",
+          "display_name": "King Khalid University",
+          "ror": "https://ror.org/052kwzs30",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I82952536"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Fatimah Qarn",
+      "raw_affiliation_strings": [
+        " . Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+        " . Psychiatry, King Khalid University, Abha, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Psychiatry, King Khalid University, Abha, SAU",
+          "institution_ids": [
+            "https://openalex.org/I82952536"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100022363",
+        "display_name": "Shatha Moharaq",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I91450128",
+          "display_name": "Jazan University",
+          "ror": "https://ror.org/02bjnq803",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I82952536",
+          "display_name": "King Khalid University",
+          "ror": "https://ror.org/052kwzs30",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I82952536"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shatha Moharaq",
+      "raw_affiliation_strings": [
+        " . Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+        " . Psychiatry, King Khalid University, Abha, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Psychiatry, King Khalid University, Abha, SAU",
+          "institution_ids": [
+            "https://openalex.org/I82952536"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5109743241",
+        "display_name": "Wafa Alharbi",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I91450128",
+          "display_name": "Jazan University",
+          "ror": "https://ror.org/02bjnq803",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I82952536",
+          "display_name": "King Khalid University",
+          "ror": "https://ror.org/052kwzs30",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I82952536"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Wafa Alharbi",
+      "raw_affiliation_strings": [
+        " . Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+        " . Psychiatry, King Khalid University, Abha, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Psychiatry, King Khalid University, Abha, SAU",
+          "institution_ids": [
+            "https://openalex.org/I82952536"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100022360",
+        "display_name": "Aisha Alhobani",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I91450128",
+          "display_name": "Jazan University",
+          "ror": "https://ror.org/02bjnq803",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I82952536",
+          "display_name": "King Khalid University",
+          "ror": "https://ror.org/052kwzs30",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I82952536"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aisha Alhobani",
+      "raw_affiliation_strings": [
+        " . Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+        " . Psychiatry, King Khalid University, Abha, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Psychiatry, King Khalid University, Abha, SAU",
+          "institution_ids": [
+            "https://openalex.org/I82952536"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5034434842",
+        "display_name": "Mostafa Mohrag",
+        "orcid": "https://orcid.org/0009-0008-9353-6520"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I91450128",
+          "display_name": "Jazan University",
+          "ror": "https://ror.org/02bjnq803",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I82952536",
+          "display_name": "King Khalid University",
+          "ror": "https://ror.org/052kwzs30",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I82952536"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mostafa Mohrag",
+      "raw_affiliation_strings": [
+        " . Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+        " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+        " . Psychiatry, King Khalid University, Abha, SAU"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Faculty of Medicine, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Family and Community Medicine Department, Jazan University, Jazan, SAU",
+          "institution_ids": [
+            "https://openalex.org/I91450128"
+          ]
+        },
+        {
+          "raw_affiliation_string": " . Psychiatry, King Khalid University, Abha, SAU",
+          "institution_ids": [
+            "https://openalex.org/I82952536"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 12,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5011330384"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I82952536",
+    "https://openalex.org/I91450128"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 1.79241947,
+  "has_fulltext": false,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.76759418,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 95
+  },
+  "biblio": {
+    "volume": "16",
+    "issue": "7",
+    "first_page": "e63911",
+    "last_page": "e63911"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10537",
+    "display_name": "Attention Deficit Hyperactivity Disorder",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10182",
+      "display_name": "Child and Adolescent Psychosocial and Emotional Development",
+      "score": 0.9753999710083008,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10786",
+      "display_name": "Maternal Mental Health During Pregnancy and Postpartum",
+      "score": 0.9715999960899353,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2739",
+        "display_name": "Public Health, Environmental and Occupational Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.8706411123275757
+    },
+    {
+      "id": "https://openalex.org/keywords/cross-sectional-study",
+      "display_name": "Cross-sectional study",
+      "score": 0.6843340396881104
+    },
+    {
+      "id": "https://openalex.org/keywords/quality-of-life",
+      "display_name": "Quality of life (healthcare)",
+      "score": 0.6661460399627686
+    },
+    {
+      "id": "https://openalex.org/keywords/promotion",
+      "display_name": "Promotion (chess)",
+      "score": 0.5548025965690613
+    },
+    {
+      "id": "https://openalex.org/keywords/sample-size-determination",
+      "display_name": "Sample size determination",
+      "score": 0.5295259356498718
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "score": 0.5126377940177917
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit",
+      "display_name": "Attention deficit",
+      "score": 0.4817090630531311
+    },
+    {
+      "id": "https://openalex.org/keywords/demography",
+      "display_name": "Demography",
+      "score": 0.3856993317604065
+    },
+    {
+      "id": "https://openalex.org/keywords/pediatrics",
+      "display_name": "Pediatrics",
+      "score": 0.33415114879608154
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.3130812644958496
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.8706411123275757
+    },
+    {
+      "id": "https://openalex.org/C142052008",
+      "wikidata": "https://www.wikidata.org/wiki/Q954027",
+      "display_name": "Cross-sectional study",
+      "level": 2,
+      "score": 0.6843340396881104
+    },
+    {
+      "id": "https://openalex.org/C2779951463",
+      "wikidata": "https://www.wikidata.org/wiki/Q7268788",
+      "display_name": "Quality of life (healthcare)",
+      "level": 2,
+      "score": 0.6661460399627686
+    },
+    {
+      "id": "https://openalex.org/C98147612",
+      "wikidata": "https://www.wikidata.org/wiki/Q215599",
+      "display_name": "Promotion (chess)",
+      "level": 3,
+      "score": 0.5548025965690613
+    },
+    {
+      "id": "https://openalex.org/C129848803",
+      "wikidata": "https://www.wikidata.org/wiki/Q2564360",
+      "display_name": "Sample size determination",
+      "level": 2,
+      "score": 0.5295259356498718
+    },
+    {
+      "id": "https://openalex.org/C2780783007",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "level": 2,
+      "score": 0.5126377940177917
+    },
+    {
+      "id": "https://openalex.org/C3017694942",
+      "wikidata": "https://www.wikidata.org/wiki/Q16254243",
+      "display_name": "Attention deficit",
+      "level": 3,
+      "score": 0.4817090630531311
+    },
+    {
+      "id": "https://openalex.org/C149923435",
+      "wikidata": "https://www.wikidata.org/wiki/Q37732",
+      "display_name": "Demography",
+      "level": 1,
+      "score": 0.3856993317604065
+    },
+    {
+      "id": "https://openalex.org/C187212893",
+      "wikidata": "https://www.wikidata.org/wiki/Q123028",
+      "display_name": "Pediatrics",
+      "level": 1,
+      "score": 0.33415114879608154
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.3130812644958496
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C94625758",
+      "wikidata": "https://www.wikidata.org/wiki/Q7163",
+      "display_name": "Politics",
+      "level": 2,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C159110408",
+      "wikidata": "https://www.wikidata.org/wiki/Q121176",
+      "display_name": "Nursing",
+      "level": 1,
+      "score": 0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.7759/cureus.63911",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.7759/cureus.63911",
+      "pdf_url": "https://assets.cureus.com/uploads/original_article/pdf/266405/20240804-2758470-qewv51.pdf",
+      "source": {
+        "id": "https://openalex.org/S2738950867",
+        "display_name": "Cureus",
+        "issn_l": "2168-8184",
+        "issn": [
+          "2168-8184"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310316779",
+        "host_organization_name": "Cureus, Inc.",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310316779"
+        ],
+        "host_organization_lineage_names": [
+          "Cureus, Inc."
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cureus",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:39100067",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39100067",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cureus",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:11298215",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11298215",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Cureus",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.7759/cureus.63911",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.7759/cureus.63911",
+    "pdf_url": "https://assets.cureus.com/uploads/original_article/pdf/266405/20240804-2758470-qewv51.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738950867",
+      "display_name": "Cureus",
+      "issn_l": "2168-8184",
+      "issn": [
+        "2168-8184"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310316779",
+      "host_organization_name": "Cureus, Inc.",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310316779"
+      ],
+      "host_organization_lineage_names": [
+        "Cureus, Inc."
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cureus",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 45,
+  "referenced_works": [
+    "https://openalex.org/W2614669943",
+    "https://openalex.org/W2170319894",
+    "https://openalex.org/W2981498376",
+    "https://openalex.org/W4252014033",
+    "https://openalex.org/W1968912676",
+    "https://openalex.org/W1973895873",
+    "https://openalex.org/W1551477970",
+    "https://openalex.org/W2735057791",
+    "https://openalex.org/W2393581977",
+    "https://openalex.org/W2055882876",
+    "https://openalex.org/W2543961916",
+    "https://openalex.org/W3144419666",
+    "https://openalex.org/W2888111484",
+    "https://openalex.org/W1553711108",
+    "https://openalex.org/W2011619810",
+    "https://openalex.org/W2409211626",
+    "https://openalex.org/W2128947758",
+    "https://openalex.org/W3007261591",
+    "https://openalex.org/W3153619923",
+    "https://openalex.org/W2394566649",
+    "https://openalex.org/W4387704516",
+    "https://openalex.org/W2086612158",
+    "https://openalex.org/W2090762568",
+    "https://openalex.org/W2033988167",
+    "https://openalex.org/W1988424925",
+    "https://openalex.org/W2537603675",
+    "https://openalex.org/W2110102516",
+    "https://openalex.org/W2102388069",
+    "https://openalex.org/W2127901933",
+    "https://openalex.org/W4285269178",
+    "https://openalex.org/W2024556035",
+    "https://openalex.org/W1993993723",
+    "https://openalex.org/W4312046245",
+    "https://openalex.org/W4318822782",
+    "https://openalex.org/W2171074660",
+    "https://openalex.org/W2095489471",
+    "https://openalex.org/W133846886",
+    "https://openalex.org/W1966233888",
+    "https://openalex.org/W2089985940",
+    "https://openalex.org/W2139326489",
+    "https://openalex.org/W2314256615",
+    "https://openalex.org/W2170984458",
+    "https://openalex.org/W2135556705",
+    "https://openalex.org/W2121589271",
+    "https://openalex.org/W2161642331"
+  ],
+  "related_works": [
+    "https://openalex.org/W2273708893",
+    "https://openalex.org/W2565069998",
+    "https://openalex.org/W4392107953",
+    "https://openalex.org/W1566344982",
+    "https://openalex.org/W2241928968",
+    "https://openalex.org/W2262413050",
+    "https://openalex.org/W4399870686",
+    "https://openalex.org/W183297272",
+    "https://openalex.org/W3212512115",
+    "https://openalex.org/W2094453099"
+  ],
+  "abstract_inverted_index": {
+    "18": [
+      138
+    ],
+    "19": [
+      204
+    ],
+    "28": [
+      197,
+      200
+    ],
+    "36": [
+      180
+    ],
+    "45": [
+      165
+    ],
+    "50": [
+      188
+    ],
+    "275": [
+      161
+    ],
+    "2023": [
+      62
+    ],
+    "Background": [
+      0
+    ],
+    "Attention-deficit/hyperactivity": [
+      1
+    ],
+    "disorder": [
+      2
+    ],
+    "(ADHD)": [
+      3
+    ],
+    "in": [
+      4,
+      20,
+      24,
+      37,
+      43,
+      53,
+      80,
+      88,
+      125,
+      187,
+      304,
+      320
+    ],
+    "children": [
+      5,
+      40,
+      76,
+      167,
+      289
+    ],
+    "can": [
+      6
+    ],
+    "adversely": [
+      7
+    ],
+    "impact": [
+      8
+    ],
+    "parental": [
+      9,
+      275,
+      325
+    ],
+    "quality": [
+      10
+    ],
+    "of": [
+      11,
+      39,
+      57,
+      75,
+      119,
+      131,
+      141,
+      218,
+      234,
+      238,
+      245,
+      249,
+      288
+    ],
+    "life": [
+      12
+    ],
+    "(QoL).": [
+      13
+    ],
+    "However,": [
+      14
+    ],
+    "limited": [
+      15
+    ],
+    "research": [
+      16
+    ],
+    "exists": [
+      17
+    ],
+    "among": [
+      18,
+      178
+    ],
+    "families": [
+      19
+    ],
+    "Saudi": [
+      21,
+      45,
+      58,
+      321
+    ],
+    "Arabia,": [
+      22
+    ],
+    "especially": [
+      23,
+      293
+    ],
+    "understudied": [
+      25
+    ],
+    "regions": [
+      26
+    ],
+    "like": [
+      27
+    ],
+    "Jazan.": [
+      28
+    ],
+    "This": [
+      29,
+      48,
+      282
+    ],
+    "study": [
+      30,
+      50,
+      107,
+      284
+    ],
+    "was": [
+      31,
+      51,
+      86,
+      104,
+      152,
+      210,
+      267
+    ],
+    "designed": [
+      32
+    ],
+    "to": [
+      33,
+      63,
+      70,
+      323
+    ],
+    "determine": [
+      34
+    ],
+    "the": [
+      35,
+      54,
+      81,
+      91,
+      117,
+      120,
+      127,
+      132,
+      142,
+      192,
+      278,
+      313
+    ],
+    "QoL": [
+      36,
+      208,
+      214,
+      222,
+      228,
+      262
+    ],
+    "parents": [
+      38,
+      74,
+      219,
+      287
+    ],
+    "with": [
+      41,
+      77,
+      90,
+      170,
+      174,
+      191,
+      212,
+      232,
+      260,
+      290
+    ],
+    "ADHD": [
+      42,
+      78,
+      171,
+      186,
+      272,
+      291
+    ],
+    "Jazan,": [
+      44
+    ],
+    "Arabia.": [
+      46
+    ],
+    "Methodology": [
+      47
+    ],
+    "cross-sectional": [
+      49,
+      283
+    ],
+    "conducted": [
+      52
+    ],
+    "Jazan": [
+      55,
+      143
+    ],
+    "region": [
+      56
+    ],
+    "Arabia": [
+      59,
+      322
+    ],
+    "from": [
+      60,
+      73,
+      274
+    ],
+    "June": [
+      61
+    ],
+    "December": [
+      64
+    ],
+    "2023.": [
+      65
+    ],
+    "Online": [
+      66
+    ],
+    "questionnaires": [
+      67
+    ],
+    "were": [
+      68,
+      109,
+      148,
+      168,
+      257
+    ],
+    "used": [
+      69,
+      153
+    ],
+    "collect": [
+      71
+    ],
+    "data": [
+      72,
+      155
+    ],
+    "residing": [
+      79
+    ],
+    "country.": [
+      82
+    ],
+    "A": [
+      83
+    ],
+    "structured": [
+      84
+    ],
+    "questionnaire": [
+      85,
+      121
+    ],
+    "developed": [
+      87
+    ],
+    "consultation": [
+      89
+    ],
+    "National": [
+      92
+    ],
+    "Institute": [
+      93
+    ],
+    "for": [
+      94,
+      154,
+      315
+    ],
+    "Children's": [
+      95
+    ],
+    "Health": [
+      96
+    ],
+    "Quality": [
+      97
+    ],
+    "(NICHQ)": [
+      98
+    ],
+    "guidelines.": [
+      99
+    ],
+    "The": [
+      100,
+      106,
+      158,
+      182,
+      206,
+      310
+    ],
+    "total": [
+      101
+    ],
+    "sample": [
+      102,
+      129
+    ],
+    "size": [
+      103,
+      130
+    ],
+    "276.": [
+      105
+    ],
+    "participants": [
+      108
+    ],
+    "recruited": [
+      110
+    ],
+    "through": [
+      111
+    ],
+    "convenient": [
+      112
+    ],
+    "non-random": [
+      113
+    ],
+    "snowballing": [
+      114
+    ],
+    "sampling": [
+      115
+    ],
+    "where": [
+      116
+    ],
+    "promotion": [
+      118
+    ],
+    "web": [
+      122
+    ],
+    "link": [
+      123
+    ],
+    "aided": [
+      124
+    ],
+    "reaching": [
+      126
+    ],
+    "required": [
+      128
+    ],
+    "study.": [
+      133
+    ],
+    "Participants": [
+      134
+    ],
+    "aged": [
+      135
+    ],
+    "more": [
+      136
+    ],
+    "than": [
+      137
+    ],
+    "years,": [
+      139
+    ],
+    "residents": [
+      140
+    ],
+    "area,": [
+      144
+    ],
+    "and": [
+      145,
+      202,
+      220,
+      236,
+      247,
+      277,
+      307,
+      327,
+      333
+    ],
+    "both": [
+      146
+    ],
+    "genders": [
+      147
+    ],
+    "included.": [
+      149
+    ],
+    "R": [
+      150
+    ],
+    "software": [
+      151
+    ],
+    "analysis.": [
+      156
+    ],
+    "Results": [
+      157
+    ],
+    "study,": [
+      159
+    ],
+    "involving": [
+      160
+    ],
+    "participants,": [
+      162,
+      190
+    ],
+    "revealed": [
+      163
+    ],
+    "that": [
+      164,
+      286
+    ],
+    "(16%)": [
+      166
+    ],
+    "diagnosed": [
+      169
+    ],
+    "by": [
+      172,
+      216,
+      223
+    ],
+    "doctors,": [
+      173
+    ],
+    "a": [
+      175,
+      268
+    ],
+    "higher": [
+      176
+    ],
+    "prevalence": [
+      177
+    ],
+    "males": [
+      179,
+      235,
+      250
+    ],
+    "(80%).": [
+      181
+    ],
+    "NICHQ": [
+      183,
+      279
+    ],
+    "scale": [
+      184
+    ],
+    "identified": [
+      185
+    ],
+    "(18%)": [
+      189
+    ],
+    "predominant": [
+      193
+    ],
+    "subtypes": [
+      194
+    ],
+    "being": [
+      195
+    ],
+    "inattentive": [
+      196
+    ],
+    "(56%),": [
+      198,
+      201
+    ],
+    "hyperactive/impulsive": [
+      199
+    ],
+    "combined": [
+      203
+    ],
+    "(38%).": [
+      205
+    ],
+    "median": [
+      207
+    ],
+    "score": [
+      209
+    ],
+    "8.6,": [
+      211
+    ],
+    "good": [
+      213,
+      241
+    ],
+    "reported": [
+      215,
+      251
+    ],
+    "51.27%": [
+      217
+    ],
+    "poor": [
+      221,
+      252
+    ],
+    "48.73%.": [
+      224
+    ],
+    "Gender": [
+      225
+    ],
+    "significantly": [
+      226,
+      258,
+      300
+    ],
+    "influenced": [
+      227
+    ],
+    "(p": [
+      229,
+      263
+    ],
+    "<": [
+      230,
+      264
+    ],
+    "0.01),": [
+      231
+    ],
+    "57%": [
+      233
+    ],
+    "43%": [
+      237
+    ],
+    "females": [
+      239,
+      246
+    ],
+    "reporting": [
+      240
+    ],
+    "QoL,": [
+      242,
+      302,
+      328
+    ],
+    "while": [
+      243
+    ],
+    "61%": [
+      244
+    ],
+    "39%": [
+      248
+    ],
+    "QoL.": [
+      253
+    ],
+    "Oppositional": [
+      254
+    ],
+    "defiant": [
+      255,
+      297
+    ],
+    "symptoms": [
+      256
+    ],
+    "associated": [
+      259
+    ],
+    "poorer": [
+      261
+    ],
+    "0.05).": [
+      265
+    ],
+    "There": [
+      266
+    ],
+    "notable": [
+      269
+    ],
+    "alignment": [
+      270
+    ],
+    "between": [
+      271
+    ],
+    "diagnoses": [
+      273
+    ],
+    "reports": [
+      276
+    ],
+    "scale.": [
+      280
+    ],
+    "Conclusions": [
+      281
+    ],
+    "found": [
+      285
+    ],
+    "behaviors,": [
+      292
+    ],
+    "those": [
+      294
+    ],
+    "exhibiting": [
+      295
+    ],
+    "oppositional": [
+      296
+    ],
+    "symptoms,": [
+      298
+    ],
+    "experienced": [
+      299
+    ],
+    "lower": [
+      301
+    ],
+    "particularly": [
+      303
+    ],
+    "personal": [
+      305
+    ],
+    "fulfillment": [
+      306
+    ],
+    "psychosocial": [
+      308,
+      318
+    ],
+    "well-being.": [
+      309
+    ],
+    "findings": [
+      311
+    ],
+    "emphasize": [
+      312
+    ],
+    "need": [
+      314
+    ],
+    "culturally": [
+      316
+    ],
+    "tailored": [
+      317
+    ],
+    "interventions": [
+      319
+    ],
+    "improve": [
+      324
+    ],
+    "coping": [
+      326
+    ],
+    "benefiting": [
+      329
+    ],
+    "overall": [
+      330
+    ],
+    "family": [
+      331
+    ],
+    "well-being": [
+      332
+    ],
+    "child": [
+      334
+    ],
+    "outcomes.": [
+      335
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

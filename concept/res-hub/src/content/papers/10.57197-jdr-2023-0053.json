@@ -45,7 +45,9 @@
   ],
   "access": {
     "status": "open",
-    "localPdfUrl": "library/doi__10.57197__jdr-2023-0053.pdf"
+    "localPdfUrl": "library/doi__10.57197__jdr-2023-0053.pdf",
+    "sourceUrl": "https://www.scienceopen.com/document_file/6715b36f-d58f-4b67-a9b9-a9ed1bce355b/ScienceOpen/jdr20230053.pdf",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false
