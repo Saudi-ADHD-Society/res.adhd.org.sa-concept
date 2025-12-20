@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookOpen, Users, Heart, FlaskConical, ClipboardCheck, Globe, ArrowRight } from 'lucide-react';
+import { BookOpen, Users, Heart, FlaskConical, ClipboardCheck, Globe, Scale, ArrowRight } from 'lucide-react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
@@ -142,6 +142,25 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
         <p className="text-sm text-slate-600 mb-4 line-clamp-3">
           Consensus-based guidance on recognising and managing ADHD in girls and women, including diagnostic interview
           nuances and pharmacological and non-pharmacological treatment considerations across the lifespan.
+        </p>
+        <div className="text-sm font-semibold text-emerald-700 flex items-center">
+          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" />
+        </div>
+      </a>
+
+      {/* Guide 8: Is ADHD a Disability? */}
+      <a
+        href={getHref('topic-guide-disability', basePath)}
+        className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
+      >
+        <div className="w-12 h-12 bg-indigo-100 text-indigo-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-indigo-600 group-hover:text-white transition-colors">
+          <Scale size={24} />
+        </div>
+        <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-emerald-700 transition-colors">
+          Is ADHD a Disability?
+        </h3>
+        <p className="text-sm text-slate-600 mb-4 line-clamp-3">
+          Exploring the question of whether ADHD is considered a disability, examining legal frameworks, rights, accommodations, and the implications for individuals with ADHD in various contexts.
         </p>
         <div className="text-sm font-semibold text-emerald-700 flex items-center">
           Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" />
