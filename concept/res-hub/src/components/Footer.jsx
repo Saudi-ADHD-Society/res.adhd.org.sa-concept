@@ -52,8 +52,7 @@ const Footer = ({ basePath = BASE_PATH }) => {
           <ul className="space-y-2 text-sm">
             <li><a href={getFullPath('/copyright')} className="hover:text-emerald-400">Copyright Notice</a></li>
             <li><a href={getFullPath('/privacy-policy')} className="hover:text-emerald-400">Privacy Policy</a></li>
-            <li><a href="#" className="hover:text-emerald-400">Data Sovereignty (KSA)</a></li>
-            <li><a href="#" className="hover:text-emerald-400">Disclaimer</a></li>
+            <li><a href={getFullPath('/disclaimer')} className="hover:text-emerald-400">Disclaimer</a></li>
           </ul>
         </div>
       </div>
