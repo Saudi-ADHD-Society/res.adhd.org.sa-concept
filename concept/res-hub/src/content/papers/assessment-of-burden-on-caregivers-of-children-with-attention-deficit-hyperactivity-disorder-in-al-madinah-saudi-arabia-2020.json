@@ -2,9 +2,9 @@
   "id": "legacy-ff46386518",
   "slug": "assessment-of-burden-on-caregivers-of-children-with-attention-deficit-hyperactivity-disorder-in-al-madinah-saudi-arabia-2020",
   "title": "Assessment of Burden on Caregivers of Children with Attention Deficit-Hyperactivity Disorder in Al-Madinah, Saudi Arabia",
-  "abstract": "<strong>Background and objectives:</strong> Caregivers of children experiencing mental health challenges reporting negative physical and emotional effects due to the lack of recognition and support. This study aimed to explore the burden on caregivers of children with Attention deficit hyperactivity disorder (ADHD) in Medina.\n\n<strong>Subjects and methods:</strong> A cross-sectional study was conducted in the child psychiatric, developmental and behavioural clinics at Maternity and the children hospital (MMCH) and child psychiatric clinic at AlAmal hospital for mental health in Medina among 80 caregivers. The validated Arabic version of ZBI scale was distributed to 80 participants. T test and ANOVA test were performed to assess the association between sociodemographic variables and ZBI scale.\n\n<strong>Results:</strong> The age of participants ranged between 20 and 60 years. Females represent most of them (66.2%). Moderate to severe and severe burden on caregivers of children with ADHD were observed among 43.8% and 18.8% of the participants, respectively. Gender of the caregivers was significantly associated with burden of care giving as score of ZBI was significantly higher in females compared to males (47.3 ± 16.5 versus 39.3 ± 16.8), p=0.045.\n\n<strong>Conclusion:</strong> Burden on caregivers of children with ADHD in Medina was very high prevalent, particularly among female caregivers.",
+  "abstract": "Background and objectives: Caregivers of children experiencing mental health challenges reporting negative physical and emotional effects due to the lack of recognition and support. This study aimed to explore the burden on caregivers of children with Attention deficit hyperactivity disorder (ADHD) in Medina.\nSubjects and methods: A cross-sectional study was conducted in the child psychiatric, developmental and behavioural clinics at Maternity and the children hospital (MMCH) and child psychiatric clinic at AlAmal hospital for mental health in Medina among 80 caregivers. The validated Arabic version of ZBI scale was distributed to 80 participants. T test and ANOVA test were performed to assess the association between sociodemographic variables and ZBI scale.\nResults: The age of participants ranged between 20 and 60 years. Females represent most of them (66.2%). Moderate to severe and severe burden on caregivers of children with ADHD were observed among 43.8% and 18.8% of the participants, respectively. Gender of the caregivers was significantly associated with burden of care giving as score of ZBI was significantly higher in females compared to males (47.3 ± 16.5 versus 39.3 ± 16.8), p=0.045.\nConclusion: Burden on caregivers of children with ADHD in Medina was very high prevalent, particularly among female caregivers.",
   "categories": [
-    "Legacy / No DOI"
+    "Families"
   ],
   "keywords": [
     "Attention deficit hyperactivity disorder",
@@ -12,12 +12,30 @@
     "Care givers",
     "Mental health"
   ],
+  "authors": [
+    {
+      "given": "Zainab Jameel",
+      "family": "Alnakhli",
+      "sequence": 1
+    },
+    {
+      "given": "Sarah",
+      "family": "Almutari",
+      "sequence": 2
+    },
+    {
+      "given": "Sami Abdo Radman",
+      "family": "Al-Dubai",
+      "sequence": 3
+    }
+  ],
   "publication": {
-    "year": 2020
+    "year": 2020,
+    "publishedDate": "2020-11-25"
   },
   "journal": {
     "name": "International Journal of Medical Research & Health Sciences",
-    "abbreviation": "International Journal of Medical Research & Health Sciences",
+    "abbreviation": "IJMRHS",
     "volume": "9",
     "issue": "11",
     "pages": {
@@ -27,9 +45,14 @@
   },
   "access": {
     "status": "open",
-    "license": "Unknown",
+    "license": "CC BY-NC-SA",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "sourceUrl": "https://www.ijmrhs.com/medical-research/assessment-of-burden-on-caregivers-of-children-with-attention-deficithyperactivity-disorder-in-almadinah-saudi-arabia-52552.html",
     "researchGateUrl": "https://www.researchgate.net/publication/346473307_Assessment_of_Burden_on_Caregivers_of_Children_with_Attention_DeficitHyperactivity_Disorder_in_Al-Madinah_Saudi_Arabia",
     "localPdfUrl": "library/assessment-of-burden-on-caregivers-of-children-with-attention-deficit-hyperactivity-disorder-in-al-madinah-saudi-arabia-2020-bda948620a.pdf"
+  },
+  "identifiers": {
+    "url": "https://www.ijmrhs.com/medical-research/assessment-of-burden-on-caregivers-of-children-with-attention-deficithyperactivity-disorder-in-almadinah-saudi-arabia-52552.html"
   },
   "visibility": {
     "hidden": false

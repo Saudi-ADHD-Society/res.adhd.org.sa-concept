@@ -2,14 +2,98 @@
   "doi": "10.6084/m9.figshare.26310276",
   "slug": "10.6084-m9.figshare.26310276",
   "title": "Knowledge and Attitude of Elementary School Teachers Towards ADHD in The Kingdom of Saudi Arabia",
-  "abstract": "<strong>Background</strong>: ADHD is typically affecting school performance, concentration, and self-control at school. Teachers are often the first ones to suspect ADHD in their students, because they are with them for most of the day and they know how normal students typically behave in classroom situations.",
+  "abstract": "Background: ADHD is typically affecting school performance, concentration, and self-control at school. Teachers are often the first ones to suspect ADHD in their students, because they are with them for most of the day and they know how normal students typically behave in classroom situations.\nObjectives: The aim of this study is to measure the knowledge level and to assess the attitude toward attention-deficit hyperactivity-disorder (ADHD) among elementary school teachers in Saudi Arabia.\nMethodology: A cross-sectional study based on a structured questionnaire that was conducted on primary school teachers in Saudi Arabia during 2023-2024. The questionnaire contains 51 questions and is divided into three main parts. The first part is concerned with the social and personal data and contains 15 questions. The second part is composed of 24 questions and is focusing on the level of knowledge which might be high, moderate or low according to the score. The last part is to check the attitudes and contains 12 questions and according to the score the participant might have positive, fair or negative attitude. By using the following formula, n = (z)² p (1 – p) / d² the sample size is planned to be 384. SPSS (Statistical-Package of Social -Science) version 20 will be used to analyze the data. And the data will be written by using \"Microsoft Office Excel Software\".\nResult: The present study demonstrates a low level of knowledge among teachers regarding ADHD: about 94% had low level of knowledge. A positive association was found between knowledge level and the teachers' age, previous experience with ADHD and nationality (p value < 0.05). As regard attitude 96% demonstrated a positive attitude towards ADHD 1176\nConclusion: there is a low level of knowledge among teachers regarding ADHD, about 94% had low level of knowledge while a significant majority of 96% demonstrated a positive attitude towards ADHD.\nElementary school teachers should be trained in identifying ADHD symptoms as well as in behavioral management and academic interventions.",
   "categories": [
-    "Uncategorized"
+    "Awareness"
   ],
-  "authors": [],
+  "keywords": [
+    "Attention deficit hyperactivity disorder",
+    "ADHD",
+    "Elementary School Teachers",
+    "Knowledge",
+    "Attitudes",
+    "Awareness"
+  ],
+  "authors": [
+    {
+      "given": "Ali",
+      "family": "Alsaad",
+      "sequence": 1
+    },
+    {
+      "given": "Abdulaziz",
+      "family": "Alanazi",
+      "sequence": 2
+    },
+    {
+      "given": "Belal",
+      "family": "Alkatheri",
+      "sequence": 3
+    },
+    {
+      "given": "Raghad",
+      "family": "Alqahtani",
+      "sequence": 4
+    },
+    {
+      "given": "Fay",
+      "family": "Hadi",
+      "sequence": 5
+    },
+    {
+      "given": "Nawaf",
+      "family": "Alotaibi",
+      "sequence": 6
+    },
+    {
+      "given": "Atheer",
+      "family": "Alawad",
+      "sequence": 7
+    },
+    {
+      "given": "Hatim",
+      "family": "Almaghrabi",
+      "sequence": 8
+    },
+    {
+      "given": "Abdulillah",
+      "family": "Alzahrani",
+      "sequence": 9
+    },
+    {
+      "given": "Shujaa",
+      "family": "Alshlahy",
+      "sequence": 10
+    },
+    {
+      "given": "Khames T.",
+      "family": "Alzahrani",
+      "sequence": 11
+    }
+  ],
+  "publication": {
+    "year": 2024,
+    "publishedDate": "2024-08"
+  },
+  "journal": {
+    "name": "CAHIERS MAGELLANES-NS",
+    "abbreviation": "CAHIERS MAGELLANES-NS",
+    "volume": "6",
+    "issue": "2",
+    "pages": {
+      "start": "1176",
+      "end": "1197"
+    }
+  },
   "access": {
-    "status": "unknown",
+    "status": "open",
+    "sourceUrl": "https://doi.org/10.6084/m9.figshare.26310276",
+    "researchGateUrl": "https://www.researchgate.net/publication/382821392_Knowledge_and_Attitude_of_Elementary_School_Teachers_Towards_ADHD_in_The_Kingdom_of_Saudi_Arabia",
     "localPdfUrl": "library/doi__10.6084__m9.figshare.26310276.pdf"
+  },
+  "identifiers": {
+    "doi": "10.6084/m9.figshare.26310276",
+    "url": "https://doi.org/10.6084/m9.figshare.26310276"
   },
   "visibility": {
     "hidden": false
