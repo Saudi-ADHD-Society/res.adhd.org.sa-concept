@@ -17,33 +17,43 @@ const Footer = ({ basePath = BASE_PATH }) => {
 
   return (
     <footer className="bg-slate-900 text-slate-400 py-16 border-t border-slate-800 mt-12">
-      <div className="max-w-7xl mx-auto px-4 md:px-8 grid md:grid-cols-4 gap-12">
+      <div className="max-w-7xl mx-auto px-4 md:px-8 grid md:grid-cols-5 gap-12">
         <div className="col-span-1 md:col-span-1">
           <div className="w-10 h-10 bg-emerald-800 rounded-lg flex items-center justify-center text-white font-bold text-xl mb-4">R</div>
           <p className="text-sm leading-relaxed mb-6">
-            The Research Unit of the Saudi ADHD Society. Dedicated to localizing knowledge and improving care standards through rigorous science.
+            The Research Unit of the Saudi ADHD Society. Supporting evidence-informed practice and policy through research, synthesis, and knowledge translation.
           </p>
           <div className="flex space-x-4">
-            <a href="#" className="hover:text-emerald-400 transition-colors">Twitter</a>
-            <a href="#" className="hover:text-emerald-400 transition-colors">LinkedIn</a>
+            <a href="https://www.linkedin.com/company/adhdarabia" className="hover:text-emerald-400 transition-colors" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           </div>
         </div>
         
         <div>
           <h4 className="text-white font-bold mb-4">Quick Links</h4>
           <ul className="space-y-2 text-sm">
+            <li><a href={getFullPath('/library')} className="hover:text-emerald-400">Research Library</a></li>
             <li><a href={getFullPath('/topic-guides')} className="hover:text-emerald-400">Topic Guides</a></li>
-            <li><a href={getFullPath('/research-priorities')} className="hover:text-emerald-400">Research Priorities</a></li>
-            <li><a href="#" className="hover:text-emerald-400">Volunteer with Us</a></li>
+            <li><a href={getFullPath('/research-briefs')} className="hover:text-emerald-400">Research Briefs</a></li>
+            <li><a href={getFullPath('/current-research')} className="hover:text-emerald-400">Current Research</a></li>
           </ul>
         </div>
         
         <div>
           <h4 className="text-white font-bold mb-4">For Researchers</h4>
           <ul className="space-y-2 text-sm">
-            <li><a href="#" className="hover:text-emerald-400">Submit a Proposal</a></li>
+            <li><a href={getFullPath('/irb')} className="hover:text-emerald-400">Research Ethics & IRB</a></li>
             <li><a href={getFullPath('/ishraq-grant')} className="hover:text-emerald-400">Open Grants</a></li>
+            <li><a href={getFullPath('/research-output')} className="hover:text-emerald-400">Research Output</a></li>
             <li><a href={getFullPath('/interactive-scales')} className="hover:text-emerald-400">Tools</a></li>
+          </ul>
+        </div>
+        
+        <div>
+          <h4 className="text-white font-bold mb-4">Resources</h4>
+          <ul className="space-y-2 text-sm">
+            <li><a href={getFullPath('/adhd-cpg')} className="hover:text-emerald-400">Saudi ADHD CPG</a></li>
+            <li><a href={getFullPath('/clinical-tools')} className="hover:text-emerald-400">Clinical Tools</a></li>
+            <li><a href={getFullPath('/hcp-resources/consensus-statement')} className="hover:text-emerald-400">International Consensus Statement</a></li>
           </ul>
         </div>
         
