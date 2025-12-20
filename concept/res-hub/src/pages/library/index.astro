@@ -22,9 +22,10 @@ papers.sort((a, b) => {
   return a.data.title.localeCompare(b.data.title);
 });
 
-// Extract unique categories and years for filters
+// Extract unique categories, years, and languages for filters
 const categories = [...new Set(papers.flatMap(p => p.data.categories || []))].sort();
 const years = [...new Set(papers.map(p => p.data.publication?.year).filter(Boolean))].sort((a, b) => b - a);
+const languages = [...new Set(papers.map(p => p.data.language || 'English').filter(Boolean))].sort();
 ---
 
 <BaseLayout title="Research Library - Research Portal" description="Browse and search the Saudi ADHD Research Library - a comprehensive collection of research papers and publications.">
@@ -42,30 +43,31 @@ const years = [...new Set(papers.map(p => p.data.publication?.year).filter(Boole
 
       <!-- Filters and Search -->
       <div class="bg-white rounded-xl border border-slate-200 shadow-sm p-6">
-        <div class="grid md:grid-cols-3 gap-4">
-          <!-- Search -->
-          <div class="md:col-span-2">
-            <label for="search-input" class="block text-sm font-medium text-slate-700 mb-2">Search</label>
-            <div class="relative">
+        <!-- Search -->
+        <div class="mb-4">
+          <label for="search-input" class="block text-sm font-medium text-slate-700 mb-2">Search</label>
+          <div class="relative">
             <input
               type="text"
               id="search-input"
               placeholder="Search by title, abstract, authors, journal, or DOI..."
-                class="w-full px-4 py-2 pr-10 border border-slate-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500"
+              class="w-full px-4 py-2 pr-10 border border-slate-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500"
             />
-              <button
-                id="search-clear"
-                type="button"
-                class="absolute right-2 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600 focus:outline-none focus:text-slate-600 hidden"
-                aria-label="Clear search"
-              >
-                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
-                </svg>
-              </button>
-            </div>
+            <button
+              id="search-clear"
+              type="button"
+              class="absolute right-2 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600 focus:outline-none focus:text-slate-600 hidden"
+              aria-label="Clear search"
+            >
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+              </svg>
+            </button>
           </div>
-          
+        </div>
+        
+        <!-- Filter Dropdowns -->
+        <div class="grid md:grid-cols-3 gap-4">
           <!-- Category Filter -->
           <div>
             <label for="category-filter" class="block text-sm font-medium text-slate-700 mb-2">Category</label>
@@ -90,6 +92,20 @@ const years = [...new Set(papers.map(p => p.data.publication?.year).filter(Boole
               <option value="">All Years</option>
               {years.map(year => (
                 <option value={year}>{year}</option>
+              ))}
+            </select>
+          </div>
+          
+          <!-- Language Filter -->
+          <div>
+            <label for="language-filter" class="block text-sm font-medium text-slate-700 mb-2">Language</label>
+            <select
+              id="language-filter"
+              class="w-full px-4 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500"
+            >
+              <option value="">All Languages</option>
+              {languages.map(lang => (
+                <option value={lang}>{lang}</option>
               ))}
             </select>
           </div>
@@ -120,6 +136,7 @@ const years = [...new Set(papers.map(p => p.data.publication?.year).filter(Boole
               data-doi={(paper.data.doi || '').toLowerCase()}
               data-categories={categories.join('|').toLowerCase()}
               data-year={year || ''}
+              data-language={(paper.data.language || 'English').toLowerCase()}
             >
               <h2 class="text-xl font-bold text-slate-900 mb-2 hover:text-emerald-700 transition-colors">
                 {paper.data.title}
@@ -171,6 +188,7 @@ const years = [...new Set(papers.map(p => p.data.publication?.year).filter(Boole
     const searchClear = document.getElementById('search-clear');
     const categoryFilter = document.getElementById('category-filter');
     const yearFilter = document.getElementById('year-filter');
+    const languageFilter = document.getElementById('language-filter');
     const papersContainer = document.getElementById('papers-container');
     const emptyState = document.getElementById('empty-state');
     const resultCount = document.getElementById('result-count');
@@ -188,6 +206,7 @@ const years = [...new Set(papers.map(p => p.data.publication?.year).filter(Boole
       const searchTerm = (searchInput.value || '').toLowerCase();
       const selectedCategory = (categoryFilter.value || '').toLowerCase();
       const selectedYear = yearFilter.value || '';
+      const selectedLanguage = (languageFilter.value || '').toLowerCase();
 
       let visibleCount = 0;
 
@@ -199,6 +218,7 @@ const years = [...new Set(papers.map(p => p.data.publication?.year).filter(Boole
         const doi = item.dataset.doi || '';
         const categories = item.dataset.categories || '';
         const year = item.dataset.year || '';
+        const language = item.dataset.language || 'english';
 
         // Search filter
         const matchesSearch = !searchTerm || 
@@ -214,7 +234,10 @@ const years = [...new Set(papers.map(p => p.data.publication?.year).filter(Boole
         // Year filter
         const matchesYear = !selectedYear || year === selectedYear;
 
-        if (matchesSearch && matchesCategory && matchesYear) {
+        // Language filter
+        const matchesLanguage = !selectedLanguage || language === selectedLanguage;
+
+        if (matchesSearch && matchesCategory && matchesYear && matchesLanguage) {
           item.style.display = 'block';
           visibleCount++;
         } else {
@@ -251,6 +274,7 @@ const years = [...new Set(papers.map(p => p.data.publication?.year).filter(Boole
     
     categoryFilter.addEventListener('change', filterPapers);
     yearFilter.addEventListener('change', filterPapers);
+    languageFilter.addEventListener('change', filterPapers);
     
     // Initial state
     updateClearButton();

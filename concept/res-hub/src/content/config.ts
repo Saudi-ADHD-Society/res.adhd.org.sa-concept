@@ -15,6 +15,7 @@ const papersCollection = defineCollection({
     }).optional(),
     title: z.string(),
     abstract: z.string().optional(),
+    language: z.string().default('English'),
     categories: z.array(z.string()),
     keywords: z.array(z.string()).optional(),
     publication: z.object({
