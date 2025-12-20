@@ -93,6 +93,26 @@ const ResearchBriefsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
           Read Full Brief <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" />
         </div>
       </a>
+
+      {/* Brief 5: Lifespan Interventions */}
+      <a
+        href={getHref('research-brief-lifespan-interventions', basePath)}
+        className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
+      >
+        <div className="flex items-center space-x-2 text-teal-600 text-sm font-bold mb-3">
+          <FileText size={16} />
+          <span>Evidence & Interventions</span>
+        </div>
+        <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-emerald-700 transition-colors">
+          ADHD Interventions Across the Lifespan: Evidence on Efficacy, Safety, and Certainty
+        </h3>
+        <p className="text-sm text-slate-600 mb-4 line-clamp-3">
+          An umbrella review synthesising randomised evidence on pharmacological and non-pharmacological ADHD interventions across preschool, child/adolescent, and adult populations. Highlights effect sizes, tolerability/acceptability, and evidence certainty (algorithmic GRADE), with an emphasis on what is reliable for clinical and policy decisions—and what remains uncertain.
+        </p>
+        <div className="text-sm font-semibold text-emerald-700 flex items-center">
+          Read Full Brief <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" />
+        </div>
+      </a>
     </div>
   </div>
 );

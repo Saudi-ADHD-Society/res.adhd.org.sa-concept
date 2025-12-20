@@ -41,6 +41,7 @@ export const getPagePath = (pageId) => {
     'research-brief-cpg-adaptation': '/research-briefs/research-brief-cpg-adaptation',
     'research-brief-arab-world': '/research-briefs/research-brief-arab-world',
     'research-brief-global-policy-access': '/research-briefs/research-brief-global-policy-access',
+    'research-brief-lifespan-interventions': '/research-briefs/research-brief-lifespan-interventions',
     
     // Research projects (under their own paths)
     'current-research': '/current-research',
