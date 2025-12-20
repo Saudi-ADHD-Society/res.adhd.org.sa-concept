@@ -1,0 +1,3086 @@
+{
+  "meta": {
+    "count": 3,
+    "db_response_time_ms": 62,
+    "page": 1,
+    "per_page": 10,
+    "groups_count": null
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2541699779",
+      "doi": null,
+      "title": "Implementation of Peer Tutoring Strategies in Teaching Students with ADHD: Teachers’ Attitudes in Saudi Education",
+      "display_name": "Implementation of Peer Tutoring Strategies in Teaching Students with ADHD: Teachers’ Attitudes in Saudi Education",
+      "relevance_score": 992.75244,
+      "publication_year": 2016,
+      "publication_date": "2016-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2541699779",
+        "mag": "2541699779"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "mag:2541699779",
+        "is_oa": false,
+        "landing_page_url": "http://files.eric.ed.gov/fulltext/EJ1118899.pdf",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Journal of Education and Practice",
+        "raw_type": null
+      },
+      "type": "article",
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5089936043",
+            "display_name": "Abdulrahman Abdullah Abaoud",
+            "orcid": "https://orcid.org/0000-0001-5719-6591"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Abdulrahman A. Abaoud",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5089936043"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 2.44183909,
+      "has_fulltext": false,
+      "cited_by_count": 5,
+      "citation_normalized_percentile": {
+        "value": 0.92257116,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "7",
+        "issue": "30",
+        "first_page": "52",
+        "last_page": "59"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11676",
+        "display_name": "Parental Involvement in Education",
+        "score": 0.9943000078201294,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3304",
+          "display_name": "Education"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11676",
+          "display_name": "Parental Involvement in Education",
+          "score": 0.9943000078201294,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10636",
+          "display_name": "Innovative Teaching and Learning Methods",
+          "score": 0.989799976348877,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3204",
+            "display_name": "Developmental and Educational Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13447",
+          "display_name": "Educational and Psychological Assessments",
+          "score": 0.9733999967575073,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3204",
+            "display_name": "Developmental and Educational Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.7411406636238098
+        },
+        {
+          "id": "https://openalex.org/keywords/peer-tutor",
+          "display_name": "Peer tutor",
+          "score": 0.6927320957183838
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics-education",
+          "display_name": "Mathematics education",
+          "score": 0.5828813314437866
+        },
+        {
+          "id": "https://openalex.org/keywords/medical-education",
+          "display_name": "Medical education",
+          "score": 0.4363900423049927
+        },
+        {
+          "id": "https://openalex.org/keywords/teaching-method",
+          "display_name": "Teaching method",
+          "score": 0.4338165521621704
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.09906181693077087
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.7411406636238098
+        },
+        {
+          "id": "https://openalex.org/C179748633",
+          "wikidata": "https://www.wikidata.org/wiki/Q7160411",
+          "display_name": "Peer tutor",
+          "level": 2,
+          "score": 0.6927320957183838
+        },
+        {
+          "id": "https://openalex.org/C145420912",
+          "wikidata": "https://www.wikidata.org/wiki/Q853077",
+          "display_name": "Mathematics education",
+          "level": 1,
+          "score": 0.5828813314437866
+        },
+        {
+          "id": "https://openalex.org/C509550671",
+          "wikidata": "https://www.wikidata.org/wiki/Q126945",
+          "display_name": "Medical education",
+          "level": 1,
+          "score": 0.4363900423049927
+        },
+        {
+          "id": "https://openalex.org/C88610354",
+          "wikidata": "https://www.wikidata.org/wiki/Q1813494",
+          "display_name": "Teaching method",
+          "level": 2,
+          "score": 0.4338165521621704
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.09906181693077087
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "mag:2541699779",
+          "is_oa": false,
+          "landing_page_url": "http://files.eric.ed.gov/fulltext/EJ1118899.pdf",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": "Journal of Education and Practice",
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.6499999761581421,
+          "display_name": "Quality Education",
+          "id": "https://metadata.un.org/sdg/4"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "referenced_works_count": 20,
+      "referenced_works": [
+        "https://openalex.org/W2023084359",
+        "https://openalex.org/W2168857168",
+        "https://openalex.org/W2157774524",
+        "https://openalex.org/W1620877505",
+        "https://openalex.org/W2080070384",
+        "https://openalex.org/W2142361940",
+        "https://openalex.org/W2000745365",
+        "https://openalex.org/W2081628112",
+        "https://openalex.org/W2081207080",
+        "https://openalex.org/W2338041696",
+        "https://openalex.org/W2100634582",
+        "https://openalex.org/W2142241773",
+        "https://openalex.org/W2168573625",
+        "https://openalex.org/W2166511282",
+        "https://openalex.org/W1992084011",
+        "https://openalex.org/W1586420408",
+        "https://openalex.org/W2733847710",
+        "https://openalex.org/W1849823",
+        "https://openalex.org/W18605304",
+        "https://openalex.org/W607722977"
+      ],
+      "related_works": [
+        "https://openalex.org/W2783740474",
+        "https://openalex.org/W2097199373",
+        "https://openalex.org/W2841718295",
+        "https://openalex.org/W2886626187",
+        "https://openalex.org/W2917721239",
+        "https://openalex.org/W2598100479",
+        "https://openalex.org/W2980608170",
+        "https://openalex.org/W2890291508",
+        "https://openalex.org/W3193588292",
+        "https://openalex.org/W3009851889",
+        "https://openalex.org/W2908244612",
+        "https://openalex.org/W2914736721",
+        "https://openalex.org/W1899621676",
+        "https://openalex.org/W3016889270",
+        "https://openalex.org/W2983452961",
+        "https://openalex.org/W2340114554",
+        "https://openalex.org/W1965754811",
+        "https://openalex.org/W2794575510",
+        "https://openalex.org/W2736211330",
+        "https://openalex.org/W2917998763"
+      ],
+      "abstract_inverted_index": {
+        "This": [
+          0
+        ],
+        "study": [
+          1,
+          22,
+          62,
+          103
+        ],
+        "aimed": [
+          2
+        ],
+        "to": [
+          3,
+          54,
+          77,
+          98
+        ],
+        "measured": [
+          4
+        ],
+        "teachers’": [
+          5,
+          28,
+          100,
+          108,
+          111
+        ],
+        "attitudes": [
+          6,
+          29,
+          109
+        ],
+        "toward": [
+          7
+        ],
+        "implementation": [
+          8,
+          31
+        ],
+        "of": [
+          9,
+          30,
+          32,
+          38,
+          60,
+          68,
+          88,
+          130
+        ],
+        "peer": [
+          10,
+          33,
+          71
+        ],
+        "tutoring": [
+          11,
+          34,
+          72
+        ],
+        "strategies": [
+          12,
+          35
+        ],
+        "in": [
+          13,
+          18,
+          50,
+          81,
+          107,
+          115,
+          126
+        ],
+        "teaching": [
+          14,
+          113,
+          119
+        ],
+        "students": [
+          15
+        ],
+        "with": [
+          16
+        ],
+        "ADHD": [
+          17,
+          145
+        ],
+        "Saudi": [
+          19
+        ],
+        "Arabia.": [
+          20
+        ],
+        "The": [
+          21,
+          58,
+          102
+        ],
+        "moreover": [
+          23
+        ],
+        "examined": [
+          24
+        ],
+        "the": [
+          25,
+          61,
+          66,
+          89,
+          127
+        ],
+        "relationship": [
+          26
+        ],
+        "between": [
+          27
+        ],
+        "and": [
+          36,
+          94,
+          117
+        ],
+        "variables": [
+          37
+        ],
+        "demographic": [
+          39
+        ],
+        "characteristics.": [
+          40
+        ],
+        "Five": [
+          41
+        ],
+        "hundred": [
+          42
+        ],
+        "thirty": [
+          43
+        ],
+        "eight": [
+          44
+        ],
+        "teachers": [
+          45,
+          64
+        ],
+        "employed": [
+          46
+        ],
+        "at": [
+          47
+        ],
+        "public": [
+          48
+        ],
+        "schools": [
+          49
+        ],
+        "Riyadh": [
+          51
+        ],
+        "City": [
+          52
+        ],
+        "responded": [
+          53
+        ],
+        "a": [
+          55,
+          70,
+          79
+        ],
+        "survey": [
+          56
+        ],
+        "questionnaire.": [
+          57
+        ],
+        "results": [
+          59
+        ],
+        "showed": [
+          63
+        ],
+        "realized": [
+          65
+        ],
+        "benefits": [
+          67
+        ],
+        "implementing": [
+          69,
+          82
+        ],
+        "strategy,": [
+          73,
+          84
+        ],
+        "they": [
+          74,
+          85,
+          95
+        ],
+        "considered": [
+          75
+        ],
+        "there": [
+          76,
+          97
+        ],
+        "be": [
+          78,
+          99
+        ],
+        "lack": [
+          80
+        ],
+        "this": [
+          83
+        ],
+        "were": [
+          86,
+          124
+        ],
+        "unsure": [
+          87
+        ],
+        "barriers": [
+          90
+        ],
+        "faced": [
+          91
+        ],
+        "by": [
+          92
+        ],
+        "teachers,": [
+          93
+        ],
+        "supposed": [
+          96
+        ],
+        "needs.": [
+          101
+        ],
+        "found": [
+          104,
+          125
+        ],
+        "significant": [
+          105,
+          122
+        ],
+        "differences": [
+          106,
+          123
+        ],
+        "regarding": [
+          110
+        ],
+        "gender,": [
+          112
+        ],
+        "position": [
+          114
+        ],
+        "schools,": [
+          116
+        ],
+        "previous": [
+          118
+        ],
+        "experience.": [
+          120
+        ],
+        "No": [
+          121
+        ],
+        "school": [
+          128
+        ],
+        "level": [
+          129
+        ],
+        "teaching.": [
+          131
+        ],
+        "Implications": [
+          132
+        ],
+        "are": [
+          133
+        ],
+        "discussed.": [
+          134
+        ],
+        "Keywords:": [
+          138
+        ],
+        "Teachers’": [
+          140
+        ],
+        "Attitudes,": [
+          141
+        ],
+        "Peer": [
+          142
+        ],
+        "Tutoring,": [
+          143
+        ],
+        "Students,": [
+          144
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2023,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-11-06T04:12:42.849631",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2567364583",
+      "doi": null,
+      "title": "Mature-age men's experiences of Higher Education: Australia and England compared. A literature review",
+      "display_name": "Mature-age men's experiences of Higher Education: Australia and England compared. A literature review",
+      "relevance_score": 4.738785,
+      "publication_year": 2016,
+      "publication_date": "2016-07-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2567364583",
+        "mag": "2567364583"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "pmh:oai:researchrepository.murdoch.edu.au:37295",
+        "is_oa": true,
+        "landing_page_url": "http://researchrepository.murdoch.edu.au/id/eprint/37295/",
+        "pdf_url": "http://researchrepository.murdoch.edu.au/id/eprint/37295/",
+        "source": {
+          "id": "https://openalex.org/S4306400274",
+          "display_name": "Murdoch Research Repository (Murdoch University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I176790772",
+          "host_organization_name": "Murdoch University",
+          "host_organization_lineage": [
+            "https://openalex.org/I176790772"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "  Laming, M.M. &lt;http://researchrepository.murdoch.edu.au/view/author/Laming, Madeleine.html&gt;, Martyn-Lynch, P. and Morris, A.   (2016)  Mature-age men's experiences of Higher Education: Australia and England compared. A literature review.    Society for Research into Higher Education  ",
+        "raw_type": "Report"
+      },
+      "type": "review",
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://researchrepository.murdoch.edu.au/id/eprint/37295/",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5059690472",
+            "display_name": "Madeleine Mattarozzi Laming",
+            "orcid": "https://orcid.org/0000-0003-0100-2676"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Madeleine Laming",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072165610",
+            "display_name": "Pamela Martyn Lynch",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Pamela Martyn Lynch",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5021943856",
+            "display_name": "Aileen Morris",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Aileen Morris",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.26497775,
+      "has_fulltext": true,
+      "cited_by_count": 3,
+      "citation_normalized_percentile": {
+        "value": 0.87707641,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 94
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13532",
+        "display_name": "Education Systems and Policy",
+        "score": 0.982200026512146,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3304",
+          "display_name": "Education"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13532",
+          "display_name": "Education Systems and Policy",
+          "score": 0.982200026512146,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10267",
+          "display_name": "Higher Education Research Studies",
+          "score": 0.9286999702453613,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11779",
+          "display_name": "Higher Education and Employability",
+          "score": 0.925599992275238,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/higher-education",
+          "display_name": "Higher education",
+          "score": 0.6864878535270691
+        },
+        {
+          "id": "https://openalex.org/keywords/prosperity",
+          "display_name": "Prosperity",
+          "score": 0.6663526296615601
+        },
+        {
+          "id": "https://openalex.org/keywords/elite",
+          "display_name": "Elite",
+          "score": 0.6083168983459473
+        },
+        {
+          "id": "https://openalex.org/keywords/bachelor",
+          "display_name": "Bachelor",
+          "score": 0.590101420879364
+        },
+        {
+          "id": "https://openalex.org/keywords/political-science",
+          "display_name": "Political science",
+          "score": 0.49872589111328125
+        },
+        {
+          "id": "https://openalex.org/keywords/human-capital",
+          "display_name": "Human capital",
+          "score": 0.4777069091796875
+        },
+        {
+          "id": "https://openalex.org/keywords/productivity",
+          "display_name": "Productivity",
+          "score": 0.45442700386047363
+        },
+        {
+          "id": "https://openalex.org/keywords/economic-growth",
+          "display_name": "Economic growth",
+          "score": 0.42792731523513794
+        },
+        {
+          "id": "https://openalex.org/keywords/sociology",
+          "display_name": "Sociology",
+          "score": 0.4061383605003357
+        },
+        {
+          "id": "https://openalex.org/keywords/economics",
+          "display_name": "Economics",
+          "score": 0.14240756630897522
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C120912362",
+          "wikidata": "https://www.wikidata.org/wiki/Q136822",
+          "display_name": "Higher education",
+          "level": 2,
+          "score": 0.6864878535270691
+        },
+        {
+          "id": "https://openalex.org/C2776554220",
+          "wikidata": "https://www.wikidata.org/wiki/Q1760011",
+          "display_name": "Prosperity",
+          "level": 2,
+          "score": 0.6663526296615601
+        },
+        {
+          "id": "https://openalex.org/C2775987171",
+          "wikidata": "https://www.wikidata.org/wiki/Q192797",
+          "display_name": "Elite",
+          "level": 3,
+          "score": 0.6083168983459473
+        },
+        {
+          "id": "https://openalex.org/C2777626052",
+          "wikidata": "https://www.wikidata.org/wiki/Q516445",
+          "display_name": "Bachelor",
+          "level": 2,
+          "score": 0.590101420879364
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.49872589111328125
+        },
+        {
+          "id": "https://openalex.org/C2776943663",
+          "wikidata": "https://www.wikidata.org/wiki/Q165687",
+          "display_name": "Human capital",
+          "level": 2,
+          "score": 0.4777069091796875
+        },
+        {
+          "id": "https://openalex.org/C204983608",
+          "wikidata": "https://www.wikidata.org/wiki/Q2111958",
+          "display_name": "Productivity",
+          "level": 2,
+          "score": 0.45442700386047363
+        },
+        {
+          "id": "https://openalex.org/C50522688",
+          "wikidata": "https://www.wikidata.org/wiki/Q189833",
+          "display_name": "Economic growth",
+          "level": 1,
+          "score": 0.42792731523513794
+        },
+        {
+          "id": "https://openalex.org/C144024400",
+          "wikidata": "https://www.wikidata.org/wiki/Q21201",
+          "display_name": "Sociology",
+          "level": 0,
+          "score": 0.4061383605003357
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.14240756630897522
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C94625758",
+          "wikidata": "https://www.wikidata.org/wiki/Q7163",
+          "display_name": "Politics",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "pmh:oai:researchrepository.murdoch.edu.au:37295",
+          "is_oa": true,
+          "landing_page_url": "http://researchrepository.murdoch.edu.au/id/eprint/37295/",
+          "pdf_url": "http://researchrepository.murdoch.edu.au/id/eprint/37295/",
+          "source": {
+            "id": "https://openalex.org/S4306400274",
+            "display_name": "Murdoch Research Repository (Murdoch University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I176790772",
+            "host_organization_name": "Murdoch University",
+            "host_organization_lineage": [
+              "https://openalex.org/I176790772"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "  Laming, M.M. &lt;http://researchrepository.murdoch.edu.au/view/author/Laming, Madeleine.html&gt;, Martyn-Lynch, P. and Morris, A.   (2016)  Mature-age men's experiences of Higher Education: Australia and England compared. A literature review.    Society for Research into Higher Education  ",
+          "raw_type": "Report"
+        },
+        {
+          "id": "pmh:oai:eprints.lincoln.ac.uk:24749",
+          "is_oa": true,
+          "landing_page_url": null,
+          "pdf_url": "http://eprints.lincoln.ac.uk/id/eprint/24749/1/24749%20Laming_MartinLynch_Morris_Literature_Review_on_Mature-age_Male_Students.pdf",
+          "source": {
+            "id": "https://openalex.org/S4377196275",
+            "display_name": "Lincoln Repository (University of Lincoln)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I51532219",
+            "host_organization_name": "University of Lincoln",
+            "host_organization_lineage": [
+              "https://openalex.org/I51532219"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Paper or Report"
+        },
+        {
+          "id": "mag:2567364583",
+          "is_oa": false,
+          "landing_page_url": "https://eprints.lincoln.ac.uk/id/eprint/24749/",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:researchrepository.murdoch.edu.au:37295",
+        "is_oa": true,
+        "landing_page_url": "http://researchrepository.murdoch.edu.au/id/eprint/37295/",
+        "pdf_url": "http://researchrepository.murdoch.edu.au/id/eprint/37295/",
+        "source": {
+          "id": "https://openalex.org/S4306400274",
+          "display_name": "Murdoch Research Repository (Murdoch University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I176790772",
+          "host_organization_name": "Murdoch University",
+          "host_organization_lineage": [
+            "https://openalex.org/I176790772"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "  Laming, M.M. &lt;http://researchrepository.murdoch.edu.au/view/author/Laming, Madeleine.html&gt;, Martyn-Lynch, P. and Morris, A.   (2016)  Mature-age men's experiences of Higher Education: Australia and England compared. A literature review.    Society for Research into Higher Education  ",
+        "raw_type": "Report"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W1524838398",
+        "https://openalex.org/W2392945884",
+        "https://openalex.org/W1932879589",
+        "https://openalex.org/W2026800540",
+        "https://openalex.org/W2163927448",
+        "https://openalex.org/W2292475033",
+        "https://openalex.org/W1957274463",
+        "https://openalex.org/W149525175",
+        "https://openalex.org/W1519691317",
+        "https://openalex.org/W251363957",
+        "https://openalex.org/W2905053837",
+        "https://openalex.org/W2419190739",
+        "https://openalex.org/W2118764215",
+        "https://openalex.org/W1122230873",
+        "https://openalex.org/W68029216",
+        "https://openalex.org/W1981220883",
+        "https://openalex.org/W3011497346",
+        "https://openalex.org/W1609801092",
+        "https://openalex.org/W1520663307",
+        "https://openalex.org/W2128284197"
+      ],
+      "abstract_inverted_index": {
+        "2010": [
+          169
+        ],
+        "2020": [
+          154
+        ],
+        "This": [
+          0
+        ],
+        "literature": [
+          1,
+          20
+        ],
+        "review": [
+          2
+        ],
+        "was": [
+          3,
+          165
+        ],
+        "prepared": [
+          4
+        ],
+        "in": [
+          5,
+          17,
+          33,
+          47,
+          57,
+          84,
+          94,
+          97,
+          162,
+          204,
+          240,
+          250
+        ],
+        "response": [
+          6
+        ],
+        "to": [
+          7,
+          23,
+          80,
+          145,
+          194,
+          202,
+          218,
+          223
+        ],
+        "a": [
+          8,
+          14,
+          81,
+          95,
+          134,
+          147,
+          150,
+          224,
+          229
+        ],
+        "growing": [
+          9
+        ],
+        "awareness": [
+          10
+        ],
+        "that": [
+          11,
+          100,
+          167
+        ],
+        "there": [
+          12
+        ],
+        "is": [
+          13
+        ],
+        "significant": [
+          15
+        ],
+        "gap": [
+          16
+        ],
+        "the": [
+          18,
+          34,
+          39,
+          50,
+          54,
+          98,
+          102,
+          116,
+          125,
+          215,
+          243
+        ],
+        "existing": [
+          19
+        ],
+        "on": [
+          21,
+          73
+        ],
+        "transition": [
+          22,
+          40
+        ],
+        "university": [
+          24,
+          26
+        ],
+        "and": [
+          25,
+          62,
+          66,
+          110,
+          115,
+          214,
+          232,
+          245
+        ],
+        "experience": [
+          27,
+          176
+        ],
+        "of": [
+          28,
+          36,
+          53,
+          89,
+          104,
+          127,
+          136,
+          138,
+          149,
+          171,
+          177,
+          199,
+          242
+        ],
+        "mature-age": [
+          29
+        ],
+        "male": [
+          30
+        ],
+        "undergraduates.": [
+          31
+        ],
+        "Interest": [
+          32
+        ],
+        "experiences": [
+          35
+        ],
+        "students": [
+          37
+        ],
+        "making": [
+          38
+        ],
+        "into": [
+          41
+        ],
+        "Higher": [
+          42,
+          129
+        ],
+        "Education": [
+          43,
+          130,
+          186
+        ],
+        "has": [
+          44
+        ],
+        "been": [
+          45,
+          71,
+          237
+        ],
+        "prompted": [
+          46
+        ],
+        "part": [
+          48
+        ],
+        "by": [
+          49,
+          153,
+          168,
+          181,
+          209
+        ],
+        "rapid": [
+          51
+        ],
+        "expansion": [
+          52
+        ],
+        "sector.": [
+          55
+        ],
+        "Governments": [
+          56
+        ],
+        "Organisation": [
+          58
+        ],
+        "for": [
+          59
+        ],
+        "Economic": [
+          60
+        ],
+        "Cooperation": [
+          61
+        ],
+        "Development": [
+          63
+        ],
+        "(OECD)": [
+          64
+        ],
+        "nations,": [
+          65,
+          69
+        ],
+        "most": [
+          67
+        ],
+        "developed": [
+          68
+        ],
+        "have": [
+          70,
+          118,
+          174,
+          236
+        ],
+        "intent": [
+          72
+        ],
+        "transforming": [
+          74
+        ],
+        "higher": [
+          75,
+          182,
+          205,
+          219
+        ],
+        "education": [
+          76,
+          183,
+          206,
+          220
+        ],
+        "from": [
+          77,
+          142
+        ],
+        "an": [
+          78
+        ],
+        "elite": [
+          79
+        ],
+        "universal": [
+          82
+        ],
+        "system": [
+          83
+        ],
+        "which": [
+          85
+        ],
+        "more": [
+          86,
+          230
+        ],
+        "than": [
+          87
+        ],
+        "50%": [
+          88,
+          170
+        ],
+        "potential": [
+          90
+        ],
+        "applicants": [
+          91
+        ],
+        "are": [
+          92
+        ],
+        "enrolled": [
+          93
+        ],
+        "degree": [
+          96
+        ],
+        "belief": [
+          99
+        ],
+        "increasing": [
+          101,
+          200
+        ],
+        "number": [
+          103
+        ],
+        "graduates": [
+          105
+        ],
+        "will": [
+          106
+        ],
+        "increase": [
+          107
+        ],
+        "economic": [
+          108
+        ],
+        "productivity": [
+          109
+        ],
+        "prosperity": [
+          111
+        ],
+        "(Trow,": [
+          112
+        ],
+        "2006).": [
+          113
+        ],
+        "Australia": [
+          114,
+          124
+        ],
+        "UK": [
+          117
+        ],
+        "both": [
+          119,
+          251
+        ],
+        "set": [
+          120,
+          133
+        ],
+        "ambitious": [
+          121
+        ],
+        "targets.": [
+          122
+        ],
+        "In": [
+          123
+        ],
+        "Review": [
+          126
+        ],
+        "Australian": [
+          128
+        ],
+        "[Bradley": [
+          131
+        ],
+        "review]": [
+          132
+        ],
+        "target": [
+          135
+        ],
+        "40%": [
+          137
+        ],
+        "young": [
+          139
+        ],
+        "people": [
+          140
+        ],
+        "(especially": [
+          141
+        ],
+        "low-SES": [
+          143
+        ],
+        "backgrounds)": [
+          144
+        ],
+        "attain": [
+          146
+        ],
+        "minimum": [
+          148
+        ],
+        "bachelor-level": [
+          151
+        ],
+        "qualification": [
+          152
+        ],
+        "(Bradley,": [
+          155
+        ],
+        "Noonan,": [
+          156
+        ],
+        "Nugent": [
+          157
+        ],
+        "&amp;": [
+          158
+        ],
+        "Scales,": [
+          159
+        ],
+        "2008),": [
+          160
+        ],
+        "while": [
+          161
+        ],
+        "England": [
+          163
+        ],
+        "it": [
+          164
+        ],
+        "intended": [
+          166
+        ],
+        "18-30-year-olds": [
+          172
+        ],
+        "would": [
+          173
+        ],
+        "some": [
+          175,
+          195
+        ],
+        "studying": [
+          178
+        ],
+        "courses": [
+          179
+        ],
+        "offered": [
+          180
+        ],
+        "institutions": [
+          184
+        ],
+        "(Higher": [
+          185
+        ],
+        "Funding": [
+          187
+        ],
+        "Council": [
+          188
+        ],
+        "[HEFCE],": [
+          189
+        ],
+        "2003).": [
+          190
+        ],
+        "The": [
+          191
+        ],
+        "twin": [
+          192
+        ],
+        "and,": [
+          193
+        ],
+        "extent": [
+          196
+        ],
+        "competing,": [
+          197
+        ],
+        "aims": [
+          198
+        ],
+        "opportunities": [
+          201
+        ],
+        "participate": [
+          203
+        ],
+        "(as": [
+          207
+        ],
+        "underpinned": [
+          208
+        ],
+        "values": [
+          210
+        ],
+        "around": [
+          211
+        ],
+        "social": [
+          212
+        ],
+        "justice)": [
+          213
+        ],
+        "importance": [
+          216
+        ],
+        "ascribed": [
+          217
+        ],
+        "as": [
+          221
+        ],
+        "contributing": [
+          222
+        ],
+        "nation’s": [
+          225
+        ],
+        "knowledge": [
+          226
+        ],
+        "economy": [
+          227
+        ],
+        "(signifying": [
+          228
+        ],
+        "utilitarian": [
+          231
+        ],
+        "human": [
+          233
+        ],
+        "capital": [
+          234
+        ],
+        "approach)": [
+          235
+        ],
+        "key": [
+          238
+        ],
+        "drivers": [
+          239
+        ],
+        "terms": [
+          241
+        ],
+        "access": [
+          244
+        ],
+        "widening": [
+          246
+        ],
+        "participation": [
+          247
+        ],
+        "policy": [
+          248
+        ],
+        "agenda": [
+          249
+        ],
+        "countries.": [
+          252
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-11-06T04:12:42.849631",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2621412199",
+      "doi": null,
+      "title": "Effects of a Bibliotherapy Based Intervention on Literacy, Behaviour and Self-efficacy of Disaffected Adolescents",
+      "display_name": "Effects of a Bibliotherapy Based Intervention on Literacy, Behaviour and Self-efficacy of Disaffected Adolescents",
+      "relevance_score": 4.0730777,
+      "publication_year": 2016,
+      "publication_date": "2016-04-26",
+      "ids": {
+        "openalex": "https://openalex.org/W2621412199",
+        "mag": "2621412199"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "pmh:oai:ore.exeter.ac.uk:10871/27941",
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/10871/27941",
+        "pdf_url": "http://hdl.handle.net/10871/27941",
+        "source": {
+          "id": "https://openalex.org/S4306401998",
+          "display_name": "Open Research Exeter (University of Exeter)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I23923803",
+          "host_organization_name": "University of Exeter",
+          "host_organization_lineage": [
+            "https://openalex.org/I23923803"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "PhD"
+      },
+      "type": "dissertation",
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10871/27941",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5054404239",
+            "display_name": "Vivian Lynne Rivers",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Vivian Lynne Rivers",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5054404239"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": null,
+      "has_fulltext": true,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": null,
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13143",
+        "display_name": "Child Therapy and Development",
+        "score": 0.8752999901771545,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3203",
+          "display_name": "Clinical Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13143",
+          "display_name": "Child Therapy and Development",
+          "score": 0.8752999901771545,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3203",
+            "display_name": "Clinical Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14265",
+          "display_name": "Social and Behavioral Studies",
+          "score": 0.8126000165939331,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3306",
+            "display_name": "Health"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12060",
+          "display_name": "Child Development and Digital Technology",
+          "score": 0.8026999831199646,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/bibliotherapy",
+          "display_name": "Bibliotherapy",
+          "score": 0.9720542430877686
+        },
+        {
+          "id": "https://openalex.org/keywords/intervention",
+          "display_name": "Intervention (counseling)",
+          "score": 0.6205502152442932
+        },
+        {
+          "id": "https://openalex.org/keywords/literacy",
+          "display_name": "Literacy",
+          "score": 0.6004581451416016
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.57198166847229
+        },
+        {
+          "id": "https://openalex.org/keywords/psychotherapist",
+          "display_name": "Psychotherapist",
+          "score": 0.5232200622558594
+        },
+        {
+          "id": "https://openalex.org/keywords/clinical-psychology",
+          "display_name": "Clinical psychology",
+          "score": 0.45833614468574524
+        },
+        {
+          "id": "https://openalex.org/keywords/developmental-psychology",
+          "display_name": "Developmental psychology",
+          "score": 0.3419736325740814
+        },
+        {
+          "id": "https://openalex.org/keywords/pedagogy",
+          "display_name": "Pedagogy",
+          "score": 0.18219774961471558
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.12763941287994385
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2780370499",
+          "wikidata": "https://www.wikidata.org/wiki/Q794611",
+          "display_name": "Bibliotherapy",
+          "level": 2,
+          "score": 0.9720542430877686
+        },
+        {
+          "id": "https://openalex.org/C2780665704",
+          "wikidata": "https://www.wikidata.org/wiki/Q959298",
+          "display_name": "Intervention (counseling)",
+          "level": 2,
+          "score": 0.6205502152442932
+        },
+        {
+          "id": "https://openalex.org/C547764534",
+          "wikidata": "https://www.wikidata.org/wiki/Q8236",
+          "display_name": "Literacy",
+          "level": 2,
+          "score": 0.6004581451416016
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.57198166847229
+        },
+        {
+          "id": "https://openalex.org/C542102704",
+          "wikidata": "https://www.wikidata.org/wiki/Q183257",
+          "display_name": "Psychotherapist",
+          "level": 1,
+          "score": 0.5232200622558594
+        },
+        {
+          "id": "https://openalex.org/C70410870",
+          "wikidata": "https://www.wikidata.org/wiki/Q199906",
+          "display_name": "Clinical psychology",
+          "level": 1,
+          "score": 0.45833614468574524
+        },
+        {
+          "id": "https://openalex.org/C138496976",
+          "wikidata": "https://www.wikidata.org/wiki/Q175002",
+          "display_name": "Developmental psychology",
+          "level": 1,
+          "score": 0.3419736325740814
+        },
+        {
+          "id": "https://openalex.org/C19417346",
+          "wikidata": "https://www.wikidata.org/wiki/Q7922",
+          "display_name": "Pedagogy",
+          "level": 1,
+          "score": 0.18219774961471558
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.12763941287994385
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "pmh:oai:ore.exeter.ac.uk:10871/27941",
+          "is_oa": true,
+          "landing_page_url": "http://hdl.handle.net/10871/27941",
+          "pdf_url": "http://hdl.handle.net/10871/27941",
+          "source": {
+            "id": "https://openalex.org/S4306401998",
+            "display_name": "Open Research Exeter (University of Exeter)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I23923803",
+            "host_organization_name": "University of Exeter",
+            "host_organization_lineage": [
+              "https://openalex.org/I23923803"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "PhD"
+        },
+        {
+          "id": "mag:2621412199",
+          "is_oa": false,
+          "landing_page_url": "https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.716786",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:ore.exeter.ac.uk:10871/27941",
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/10871/27941",
+        "pdf_url": "http://hdl.handle.net/10871/27941",
+        "source": {
+          "id": "https://openalex.org/S4306401998",
+          "display_name": "Open Research Exeter (University of Exeter)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I23923803",
+          "host_organization_name": "University of Exeter",
+          "host_organization_lineage": [
+            "https://openalex.org/I23923803"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "PhD"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.8500000238418579,
+          "display_name": "Quality Education",
+          "id": "https://metadata.un.org/sdg/4"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W1502961249",
+        "https://openalex.org/W2155298508",
+        "https://openalex.org/W2148569860",
+        "https://openalex.org/W2790339894",
+        "https://openalex.org/W251611169",
+        "https://openalex.org/W277077824",
+        "https://openalex.org/W3169965168",
+        "https://openalex.org/W3023907197",
+        "https://openalex.org/W2296777313",
+        "https://openalex.org/W3044842407",
+        "https://openalex.org/W2294674012",
+        "https://openalex.org/W2170098852",
+        "https://openalex.org/W3083706276",
+        "https://openalex.org/W2471206283",
+        "https://openalex.org/W2626839525",
+        "https://openalex.org/W3039926544",
+        "https://openalex.org/W2602481165",
+        "https://openalex.org/W2898370608",
+        "https://openalex.org/W2603065233",
+        "https://openalex.org/W567443261"
+      ],
+      "abstract_inverted_index": {
+        "9": [
+          241
+        ],
+        "This": [
+          0,
+          18,
+          221,
+          401
+        ],
+        "thesis": [
+          1
+        ],
+        "examines": [
+          2
+        ],
+        "the": [
+          3,
+          25,
+          43,
+          49,
+          76,
+          92,
+          104,
+          112,
+          123,
+          129,
+          135,
+          144,
+          153,
+          158,
+          183,
+          186,
+          190,
+          195,
+          206,
+          248,
+          256,
+          273,
+          276,
+          289,
+          310,
+          328,
+          331,
+          353,
+          377,
+          428
+        ],
+        "effects": [
+          4
+        ],
+        "of": [
+          5,
+          15,
+          106,
+          114,
+          134,
+          185,
+          194,
+          208,
+          212,
+          255,
+          272,
+          278,
+          432,
+          451,
+          455,
+          459
+        ],
+        "a": [
+          6,
+          65,
+          148,
+          170,
+          174,
+          224,
+          263,
+          285,
+          303,
+          314,
+          435,
+          452
+        ],
+        "Bibliotherapy": [
+          7,
+          107,
+          165,
+          257,
+          433
+        ],
+        "based": [
+          8,
+          102,
+          142
+        ],
+        "intervention": [
+          9,
+          26,
+          71,
+          101,
+          258,
+          440
+        ],
+        "on": [
+          10,
+          103,
+          143
+        ],
+        "literacy,": [
+          11
+        ],
+        "behaviour,": [
+          12,
+          389
+        ],
+        "and": [
+          13,
+          33,
+          52,
+          87,
+          94,
+          116,
+          139,
+          210,
+          214,
+          236,
+          253,
+          267,
+          281,
+          306,
+          317,
+          345,
+          390,
+          399,
+          420,
+          430,
+          444,
+          457
+        ],
+        "self-efficacy": [
+          14
+        ],
+        "disaffected": [
+          16,
+          30,
+          73,
+          119,
+          179,
+          219,
+          410
+        ],
+        "adolescents.": [
+          17
+        ],
+        "exploratory": [
+          19
+        ],
+        "study": [
+          20,
+          95,
+          154,
+          222,
+          402
+        ],
+        "sought": [
+          21
+        ],
+        "to": [
+          22,
+          42,
+          48,
+          83,
+          98,
+          110,
+          121,
+          137,
+          146,
+          156,
+          205,
+          288,
+          308,
+          343,
+          437,
+          463
+        ],
+        "understand": [
+          23
+        ],
+        "how": [
+          24,
+          56,
+          162
+        ],
+        "was": [
+          27,
+          259,
+          291,
+          294,
+          300
+        ],
+        "experienced": [
+          28
+        ],
+        "by": [
+          29,
+          54,
+          79,
+          261
+        ],
+        "adolescents": [
+          31,
+          411
+        ],
+        "(RQ1/RQ2)": [
+          32
+        ],
+        "whether": [
+          34
+        ],
+        "it": [
+          35
+        ],
+        "revealed": [
+          36,
+          323
+        ],
+        "any": [
+          37,
+          359
+        ],
+        "changes": [
+          38,
+          141,
+          199,
+          362,
+          382
+        ],
+        "in": [
+          39,
+          59,
+          68,
+          85,
+          108,
+          172,
+          188,
+          192,
+          203,
+          216,
+          247,
+          330,
+          335,
+          363,
+          383
+        ],
+        "their": [
+          40
+        ],
+        "responses": [
+          41
+        ],
+        "texts": [
+          44
+        ],
+        "(RQ3).": [
+          45
+        ],
+        "It": [
+          46,
+          423
+        ],
+        "contributes": [
+          47
+        ],
+        "existing": [
+          50
+        ],
+        "knowledge": [
+          51,
+          426
+        ],
+        "literature": [
+          53
+        ],
+        "demonstrating": [
+          55
+        ],
+        "Bibliotherapy,": [
+          57
+        ],
+        "implemented": [
+          58
+        ],
+        "an": [
+          60,
+          70,
+          100,
+          439
+        ],
+        "educational": [
+          61
+        ],
+        "context,": [
+          62
+        ],
+        "can": [
+          63,
+          416
+        ],
+        "be": [
+          64
+        ],
+        "useful": [
+          66,
+          163
+        ],
+        "tool": [
+          67,
+          171,
+          436
+        ],
+        "designing": [
+          69,
+          173
+        ],
+        "for": [
+          72,
+          177,
+          352,
+          441
+        ],
+        "students": [
+          74,
+          187,
+          242
+        ],
+        "at": [
+          75,
+          412
+        ],
+        "secondary": [
+          77,
+          245,
+          413
+        ],
+        "level": [
+          78
+        ],
+        "linking": [
+          80
+        ],
+        "emotional": [
+          81,
+          445
+        ],
+        "development": [
+          82,
+          84,
+          450
+        ],
+        "literacy": [
+          86,
+          115,
+          175,
+          209
+        ],
+        "overall": [
+          88
+        ],
+        "learning.": [
+          89
+        ],
+        "To": [
+          90
+        ],
+        "begin,": [
+          91
+        ],
+        "purpose": [
+          93
+        ],
+        "aims": [
+          96
+        ],
+        "were": [
+          97,
+          370
+        ],
+        "develop": [
+          99
+        ],
+        "principles": [
+          105,
+          168
+        ],
+        "order": [
+          109
+        ],
+        "address": [
+          111
+        ],
+        "challenges": [
+          113
+        ],
+        "behaviour": [
+          117
+        ],
+        "among": [
+          118,
+          373
+        ],
+        "adolescents;": [
+          120
+        ],
+        "evaluate": [
+          122
+        ],
+        "various": [
+          124
+        ],
+        "outcomes,": [
+          125
+        ],
+        "which": [
+          126
+        ],
+        "may": [
+          127
+        ],
+        "influence": [
+          128
+        ],
+        "design": [
+          130,
+          252,
+          438
+        ],
+        "or": [
+          131,
+          366
+        ],
+        "effective": [
+          132
+        ],
+        "implementation": [
+          133
+        ],
+        "programme;": [
+          136
+        ],
+        "revise": [
+          138
+        ],
+        "make": [
+          140
+        ],
+        "evaluation": [
+          145,
+          254,
+          271
+        ],
+        "produce": [
+          147
+        ],
+        "usable": [
+          149
+        ],
+        "programme.": [
+          150
+        ],
+        "From": [
+          151
+        ],
+        "this,": [
+          152
+        ],
+        "aimed": [
+          155
+        ],
+        "answer": [
+          157
+        ],
+        "following": [
+          159
+        ],
+        "research": [
+          160,
+          290
+        ],
+        "questions:": [
+          161
+        ],
+        "is": [
+          164,
+          182
+        ],
+        "and/or": [
+          166
+        ],
+        "its": [
+          167
+        ],
+        "as": [
+          169,
+          296,
+          395,
+          434
+        ],
+        "programme": [
+          176,
+          191,
+          202,
+          274
+        ],
+        "re-engaging": [
+          178
+        ],
+        "adolescents?": [
+          180,
+          220
+        ],
+        "What": [
+          181,
+          198
+        ],
+        "perspective": [
+          184
+        ],
+        "undertaking": [
+          189
+        ],
+        "means": [
+          193
+        ],
+        "process": [
+          196
+        ],
+        "involved?": [
+          197
+        ],
+        "follow": [
+          200
+        ],
+        "this": [
+          201
+        ],
+        "regards": [
+          204
+        ],
+        "improvement": [
+          207
+        ],
+        "enhancement": [
+          211
+        ],
+        "attitude": [
+          213
+        ],
+        "interest": [
+          215
+        ],
+        "reading": [
+          217,
+          386,
+          419,
+          460
+        ],
+        "amongst": [
+          218
+        ],
+        "used": [
+          223
+        ],
+        "longitudinal": [
+          225
+        ],
+        "mixed": [
+          226
+        ],
+        "methods": [
+          227
+        ],
+        "approach,": [
+          228
+        ],
+        "taking": [
+          229
+        ],
+        "place": [
+          230
+        ],
+        "over": [
+          231
+        ],
+        "three": [
+          232
+        ],
+        "cohorts": [
+          233,
+          375
+        ],
+        "(school": [
+          234
+        ],
+        "terms),": [
+          235
+        ],
+        "involving": [
+          237
+        ],
+        "thirty": [
+          238
+        ],
+        "two": [
+          239
+        ],
+        "Year": [
+          240
+        ],
+        "from": [
+          243,
+          327,
+          405,
+          418
+        ],
+        "five": [
+          244
+        ],
+        "schools": [
+          246
+        ],
+        "United": [
+          249
+        ],
+        "Kingdom.": [
+          250
+        ],
+        "The": [
+          251,
+          270,
+          320,
+          349
+        ],
+        "underpinned": [
+          260
+        ],
+        "both": [
+          262,
+          279
+        ],
+        "concurrent": [
+          264
+        ],
+        "triangulation": [
+          265
+        ],
+        "model": [
+          266
+        ],
+        "action": [
+          268
+        ],
+        "research.": [
+          269
+        ],
+        "involved": [
+          275
+        ],
+        "collection": [
+          277
+        ],
+        "qualitative": [
+          280,
+          321
+        ],
+        "quantitative": [
+          282,
+          350
+        ],
+        "data;": [
+          283
+        ],
+        "therefore,": [
+          284
+        ],
+        "pragmatic": [
+          286
+        ],
+        "stance": [
+          287
+        ],
+        "adopted": [
+          292
+        ],
+        "that": [
+          293,
+          409
+        ],
+        "positioned": [
+          295
+        ],
+        "mixed-methods.": [
+          297
+        ],
+        "Qualitative": [
+          298
+        ],
+        "data": [
+          299
+        ],
+        "analysed": [
+          301
+        ],
+        "using": [
+          302
+        ],
+        "thematic": [
+          304
+        ],
+        "approach": [
+          305
+        ],
+        "merged": [
+          307
+        ],
+        "complement": [
+          309
+        ],
+        "Quantitative": [
+          311
+        ],
+        "findings": [
+          312,
+          378,
+          404
+        ],
+        "offering": [
+          313
+        ],
+        "more": [
+          315
+        ],
+        "thorough": [
+          316
+        ],
+        "valid": [
+          318
+        ],
+        "interpretation.": [
+          319
+        ],
+        "analysis": [
+          322
+        ],
+        "four": [
+          324
+        ],
+        "overarching": [
+          325
+        ],
+        "themes": [
+          326
+        ],
+        "participation": [
+          329
+        ],
+        "programme:": [
+          332
+        ],
+        "positive": [
+          333
+        ],
+        "developments": [
+          334
+        ],
+        "Power": [
+          336
+        ],
+        "Over": [
+          337
+        ],
+        "Learning,": [
+          338,
+          344
+        ],
+        "Emotional": [
+          339
+        ],
+        "Intelligence,": [
+          340
+        ],
+        "Peer": [
+          341
+        ],
+        "Impact": [
+          342
+        ],
+        "New": [
+          346
+        ],
+        "Reader": [
+          347
+        ],
+        "Identities.": [
+          348
+        ],
+        "findings,": [
+          351
+        ],
+        "most": [
+          354
+        ],
+        "part,": [
+          355
+        ],
+        "did": [
+          356,
+          379
+        ],
+        "not": [
+          357
+        ],
+        "reveal": [
+          358,
+          380
+        ],
+        "statistically": [
+          360
+        ],
+        "significant": [
+          361,
+          381
+        ],
+        "reading,": [
+          364,
+          385
+        ],
+        "self-efficacy,": [
+          365
+        ],
+        "behaviour;": [
+          367
+        ],
+        "however,": [
+          368
+        ],
+        "there": [
+          369
+        ],
+        "isolated": [
+          371
+        ],
+        "cases": [
+          372
+        ],
+        "individual": [
+          374
+        ],
+        "where": [
+          376
+        ],
+        "fluency,": [
+          384
+        ],
+        "difficulty": [
+          387
+        ],
+        "perception,": [
+          388
+        ],
+        "with": [
+          391
+        ],
+        "personal": [
+          392
+        ],
+        "resiliency": [
+          393
+        ],
+        "such": [
+          394
+        ],
+        "increased": [
+          396
+        ],
+        "optimism,": [
+          397
+        ],
+        "tolerance,": [
+          398
+        ],
+        "adaptability.": [
+          400
+        ],
+        "supports": [
+          403
+        ],
+        "earlier": [
+          406
+        ],
+        "studies": [
+          407
+        ],
+        "suggesting": [
+          408
+        ],
+        "school": [
+          414
+        ],
+        "levels": [
+          415
+        ],
+        "benefit": [
+          417
+        ],
+        "behavioural": [
+          421
+        ],
+        "intervention.": [
+          422
+        ],
+        "offers": [
+          424
+        ],
+        "new": [
+          425
+        ],
+        "regarding": [
+          427
+        ],
+        "effectiveness": [
+          429
+        ],
+        "use": [
+          431
+        ],
+        "re-engagement,": [
+          442
+        ],
+        "social": [
+          443
+        ],
+        "growth": [
+          446
+        ],
+        "through": [
+          447
+        ],
+        "peer": [
+          448
+        ],
+        "support,": [
+          449
+        ],
+        "deeper": [
+          453
+        ],
+        "understanding": [
+          454
+        ],
+        "self,": [
+          456
+        ],
+        "reinforcement": [
+          458
+        ],
+        "skills": [
+          461
+        ],
+        "necessary": [
+          462
+        ],
+        "achieve": [
+          464
+        ],
+        "literacy.": [
+          465
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-11-06T04:12:42.849631",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  ],
+  "group_by": []
+}

@@ -82,7 +82,9 @@ function detectMissingFields(paper) {
     missing.push('authors');
   }
   
-  if (isMissing(paper.access?.localPdfUrl)) {
+  // Only flag localPdfUrl as missing if sourceUrl is also missing
+  // (localPdfUrl is a download pipeline issue, not metadata completeness)
+  if (isMissing(paper.access?.localPdfUrl) && isMissing(paper.access?.sourceUrl)) {
     missing.push('access.localPdfUrl');
   }
   

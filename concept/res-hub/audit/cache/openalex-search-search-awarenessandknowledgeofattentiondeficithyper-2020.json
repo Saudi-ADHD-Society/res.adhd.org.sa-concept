@@ -1,0 +1,1902 @@
+{
+  "meta": {
+    "count": 3,
+    "db_response_time_ms": 66,
+    "page": 1,
+    "per_page": 10,
+    "groups_count": null
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W3088297034",
+      "doi": "https://doi.org/10.46360/globus.edu.220201006",
+      "title": "PERCEPTIONS OF USING SOCIAL MEDIA NETWORKS AMONG SPECIAL EDUCATION TEACHERS IN THE KINGDOM OF SAUDI ARABIA",
+      "display_name": "PERCEPTIONS OF USING SOCIAL MEDIA NETWORKS AMONG SPECIAL EDUCATION TEACHERS IN THE KINGDOM OF SAUDI ARABIA",
+      "relevance_score": 5.3331256,
+      "publication_year": 2020,
+      "publication_date": "2020-02-26",
+      "ids": {
+        "openalex": "https://openalex.org/W3088297034",
+        "doi": "https://doi.org/10.46360/globus.edu.220201006",
+        "mag": "3088297034"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.46360/globus.edu.220201006",
+        "is_oa": true,
+        "landing_page_url": "http://doi.org/10.46360/globus.edu.220201006",
+        "pdf_url": "https://doi.org/10.46360/globus.edu.220201006",
+        "source": {
+          "id": "https://openalex.org/S4210200726",
+          "display_name": "Globus Journal of Progressive Education",
+          "issn_l": "2231-1335",
+          "issn": [
+            "2231-1335",
+            "2582-7200"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Globus Journal of Progressive Education",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://doi.org/10.46360/globus.edu.220201006",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5017129914",
+            "display_name": "Ibraheem",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Ibraheem -",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5089026978",
+            "display_name": "Mohammed Alsawalem",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210088963",
+              "display_name": "University of Ha'il",
+              "ror": "https://ror.org/013w98a82",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210088963"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Alsawalem",
+          "raw_affiliation_strings": [
+            "Special Education Department, University of Ha'il, Ha'il, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Special Education Department, University of Ha'il, Ha'il, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210088963"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.45008563,
+      "has_fulltext": true,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.71550203,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 94
+      },
+      "biblio": {
+        "volume": "10",
+        "issue": "1",
+        "first_page": "31",
+        "last_page": "31"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10162",
+        "display_name": "Online and Blended Learning",
+        "score": 0.9717000126838684,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3304",
+          "display_name": "Education"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10162",
+          "display_name": "Online and Blended Learning",
+          "score": 0.9717000126838684,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/kingdom",
+          "display_name": "Kingdom",
+          "score": 0.8089785575866699
+        },
+        {
+          "id": "https://openalex.org/keywords/social-media",
+          "display_name": "Social media",
+          "score": 0.6573687195777893
+        },
+        {
+          "id": "https://openalex.org/keywords/perception",
+          "display_name": "Perception",
+          "score": 0.5998983383178711
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.4478057622909546
+        },
+        {
+          "id": "https://openalex.org/keywords/sociology",
+          "display_name": "Sociology",
+          "score": 0.4051676094532013
+        },
+        {
+          "id": "https://openalex.org/keywords/media-studies",
+          "display_name": "Media studies",
+          "score": 0.3708896040916443
+        },
+        {
+          "id": "https://openalex.org/keywords/political-science",
+          "display_name": "Political science",
+          "score": 0.3003580570220947
+        },
+        {
+          "id": "https://openalex.org/keywords/law",
+          "display_name": "Law",
+          "score": 0.0792756974697113
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C13801280",
+          "wikidata": "https://www.wikidata.org/wiki/Q36732",
+          "display_name": "Kingdom",
+          "level": 2,
+          "score": 0.8089785575866699
+        },
+        {
+          "id": "https://openalex.org/C518677369",
+          "wikidata": "https://www.wikidata.org/wiki/Q202833",
+          "display_name": "Social media",
+          "level": 2,
+          "score": 0.6573687195777893
+        },
+        {
+          "id": "https://openalex.org/C26760741",
+          "wikidata": "https://www.wikidata.org/wiki/Q160402",
+          "display_name": "Perception",
+          "level": 2,
+          "score": 0.5998983383178711
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.4478057622909546
+        },
+        {
+          "id": "https://openalex.org/C144024400",
+          "wikidata": "https://www.wikidata.org/wiki/Q21201",
+          "display_name": "Sociology",
+          "level": 0,
+          "score": 0.4051676094532013
+        },
+        {
+          "id": "https://openalex.org/C29595303",
+          "wikidata": "https://www.wikidata.org/wiki/Q165650",
+          "display_name": "Media studies",
+          "level": 1,
+          "score": 0.3708896040916443
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.3003580570220947
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0.0792756974697113
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C169760540",
+          "wikidata": "https://www.wikidata.org/wiki/Q207011",
+          "display_name": "Neuroscience",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.46360/globus.edu.220201006",
+          "is_oa": true,
+          "landing_page_url": "http://doi.org/10.46360/globus.edu.220201006",
+          "pdf_url": "https://doi.org/10.46360/globus.edu.220201006",
+          "source": {
+            "id": "https://openalex.org/S4210200726",
+            "display_name": "Globus Journal of Progressive Education",
+            "issn_l": "2231-1335",
+            "issn": [
+              "2231-1335",
+              "2582-7200"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Globus Journal of Progressive Education",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.46360/globus.edu.220201006",
+        "is_oa": true,
+        "landing_page_url": "http://doi.org/10.46360/globus.edu.220201006",
+        "pdf_url": "https://doi.org/10.46360/globus.edu.220201006",
+        "source": {
+          "id": "https://openalex.org/S4210200726",
+          "display_name": "Globus Journal of Progressive Education",
+          "issn_l": "2231-1335",
+          "issn": [
+            "2231-1335",
+            "2582-7200"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Globus Journal of Progressive Education",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "score": 0.75,
+          "display_name": "Quality Education"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "referenced_works_count": 24,
+      "referenced_works": [
+        "https://openalex.org/W1978967652",
+        "https://openalex.org/W2613867768",
+        "https://openalex.org/W2809531530",
+        "https://openalex.org/W2969965099",
+        "https://openalex.org/W2623232571",
+        "https://openalex.org/W2384514882",
+        "https://openalex.org/W2153282372",
+        "https://openalex.org/W2096968849",
+        "https://openalex.org/W2221946762",
+        "https://openalex.org/W1714723801",
+        "https://openalex.org/W2156643653",
+        "https://openalex.org/W2059226827",
+        "https://openalex.org/W2980990891",
+        "https://openalex.org/W6608020848",
+        "https://openalex.org/W6616807308",
+        "https://openalex.org/W1585649873",
+        "https://openalex.org/W2518724526",
+        "https://openalex.org/W4250900366",
+        "https://openalex.org/W4301054596",
+        "https://openalex.org/W2021365718",
+        "https://openalex.org/W579397108",
+        "https://openalex.org/W1539265701",
+        "https://openalex.org/W2567671067",
+        "https://openalex.org/W2118338381"
+      ],
+      "related_works": [
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2360706974",
+        "https://openalex.org/W3009909786",
+        "https://openalex.org/W2885857747",
+        "https://openalex.org/W2367583273",
+        "https://openalex.org/W2356091611",
+        "https://openalex.org/W428218956",
+        "https://openalex.org/W4323981789",
+        "https://openalex.org/W2076671735",
+        "https://openalex.org/W2313846291"
+      ],
+      "abstract_inverted_index": {
+        "60": [
+          34
+        ],
+        "160": [
+          27
+        ],
+        "This": [
+          0
+        ],
+        "study": [
+          1,
+          106
+        ],
+        "investigates": [
+          2
+        ],
+        "the": [
+          3,
+          15,
+          49,
+          64,
+          86,
+          100,
+          150
+        ],
+        "perceptions": [
+          4
+        ],
+        "of": [
+          5,
+          17,
+          22,
+          26,
+          55,
+          102,
+          152
+        ],
+        "using": [
+          6
+        ],
+        "social": [
+          7,
+          79,
+          103,
+          127,
+          140
+        ],
+        "media": [
+          8,
+          80,
+          104,
+          128,
+          141
+        ],
+        "networks": [
+          9
+        ],
+        "among": [
+          10
+        ],
+        "special": [
+          11,
+          28,
+          74,
+          121,
+          146
+        ],
+        "education": [
+          12,
+          29,
+          75,
+          122,
+          147
+        ],
+        "teachers": [
+          13,
+          30,
+          76,
+          123
+        ],
+        "in": [
+          14,
+          48,
+          52,
+          110,
+          129,
+          132,
+          142,
+          149
+        ],
+        "kingdom": [
+          16,
+          54,
+          151
+        ],
+        "Saudi": [
+          18,
+          56,
+          73,
+          153
+        ],
+        "Arabia.The": [
+          19,
+          57
+        ],
+        "sample": [
+          20
+        ],
+        "population": [
+          21
+        ],
+        "this": [
+          23,
+          111
+        ],
+        "research": [
+          24
+        ],
+        "consists": [
+          25
+        ],
+        "(100": [
+          31
+        ],
+        "males": [
+          32
+        ],
+        "and": [
+          33,
+          37,
+          46,
+          119,
+          144
+        ],
+        "females)": [
+          35
+        ],
+        "specialized": [
+          36
+        ],
+        "trained": [
+          38
+        ],
+        "only": [
+          39
+        ],
+        "for": [
+          40,
+          82,
+          138
+        ],
+        "teaching": [
+          41,
+          143
+        ],
+        "students": [
+          42
+        ],
+        "with": [
+          43
+        ],
+        "intellectual": [
+          44
+        ],
+        "disability": [
+          45
+        ],
+        "enrolled": [
+          47
+        ],
+        "Education": [
+          50
+        ],
+        "Department": [
+          51
+        ],
+        "Riyadh,": [
+          53
+        ],
+        "instrument": [
+          58
+        ],
+        "used": [
+          59,
+          78,
+          90
+        ],
+        "to": [
+          60,
+          115,
+          134
+        ],
+        "gather": [
+          61
+        ],
+        "data": [
+          62
+        ],
+        "from": [
+          63
+        ],
+        "participants": [
+          65
+        ],
+        "included": [
+          66
+        ],
+        "a": [
+          67,
+          96
+        ],
+        "self-designed": [
+          68
+        ],
+        "online": [
+          69
+        ],
+        "questionnaire.Results": [
+          70
+        ],
+        "showed": [
+          71
+        ],
+        "that": [
+          72
+        ],
+        "always": [
+          77
+        ],
+        "network": [
+          81
+        ],
+        "personal": [
+          83
+        ],
+        "purposes.Twitter": [
+          84
+        ],
+        "was": [
+          85
+        ],
+        "highest": [
+          87
+        ],
+        "application": [
+          88
+        ],
+        "which": [
+          89
+        ],
+        "by": [
+          91
+        ],
+        "those": [
+          92
+        ],
+        "teachers.Generally,": [
+          93
+        ],
+        "they": [
+          94
+        ],
+        "revealed": [
+          95
+        ],
+        "positive": [
+          97
+        ],
+        "perception": [
+          98
+        ],
+        "towards": [
+          99
+        ],
+        "use": [
+          101
+        ],
+        "networks.The": [
+          105
+        ],
+        "recommends": [
+          107
+        ],
+        "more": [
+          108
+        ],
+        "studies": [
+          109
+        ],
+        "area": [
+          112
+        ],
+        "so": [
+          113
+        ],
+        "as": [
+          114
+        ],
+        "closely": [
+          116
+        ],
+        "understand": [
+          117
+        ],
+        "how": [
+          118
+        ],
+        "why": [
+          120
+        ],
+        "utilize": [
+          124
+        ],
+        "or": [
+          125
+        ],
+        "not": [
+          126
+        ],
+        "their": [
+          130
+        ],
+        "classes": [
+          131,
+          148
+        ],
+        "order": [
+          133
+        ],
+        "develop": [
+          135
+        ],
+        "best": [
+          136
+        ],
+        "practices": [
+          137
+        ],
+        "implementing": [
+          139
+        ],
+        "learning": [
+          145
+        ],
+        "Arabia.": [
+          154
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3090708961",
+      "doi": "https://doi.org/10.5539/gjhs.v12n11p141",
+      "title": "The Potential Impact of Mass Media Education in the Psycho-Social Life and Epidemiology of Sickle Cell Disease in Nigeria",
+      "display_name": "The Potential Impact of Mass Media Education in the Psycho-Social Life and Epidemiology of Sickle Cell Disease in Nigeria",
+      "relevance_score": 1.1424432,
+      "publication_year": 2020,
+      "publication_date": "2020-09-17",
+      "ids": {
+        "openalex": "https://openalex.org/W3090708961",
+        "doi": "https://doi.org/10.5539/gjhs.v12n11p141",
+        "mag": "3090708961"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.5539/gjhs.v12n11p141",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.5539/gjhs.v12n11p141",
+        "pdf_url": "https://ccsenet.org/journal/index.php/gjhs/article/download/0/0/43743/45963",
+        "source": {
+          "id": "https://openalex.org/S2755631367",
+          "display_name": "Global Journal of Health Science",
+          "issn_l": "1916-9736",
+          "issn": [
+            "1916-9736",
+            "1916-9744"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310322531",
+          "host_organization_name": "Canadian Center of Science and Education",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310322531"
+          ],
+          "host_organization_lineage_names": [
+            "Canadian Center of Science and Education"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Global Journal of Health Science",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://ccsenet.org/journal/index.php/gjhs/article/download/0/0/43743/45963",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5110927831",
+            "display_name": "Samuel Okere",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I30887324",
+              "display_name": "Babcock University",
+              "ror": "https://ror.org/00k0k7y87",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I30887324"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Samuel Okere",
+          "raw_affiliation_strings": [
+            "Department of Mass Communication, Babcock University, Ilishan-Remo, Ogun State, Nigeria"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Mass Communication, Babcock University, Ilishan-Remo, Ogun State, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I30887324"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5028702437",
+            "display_name": "Emmanuel Morka",
+            "orcid": "https://orcid.org/0009-0006-5362-2737"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I30887324",
+              "display_name": "Babcock University",
+              "ror": "https://ror.org/00k0k7y87",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I30887324"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Emmanuel Morka",
+          "raw_affiliation_strings": [
+            "Department of Mass Communication, Babcock University, Ilishan-Remo, Ogun State, Nigeria"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Mass Communication, Babcock University, Ilishan-Remo, Ogun State, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I30887324"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": true,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.13021603,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "12",
+        "issue": "11",
+        "first_page": "141",
+        "last_page": "141"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10554",
+        "display_name": "Hemoglobinopathies and Related Disorders",
+        "score": 0.9955000281333923,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2716",
+          "display_name": "Genetics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10554",
+          "display_name": "Hemoglobinopathies and Related Disorders",
+          "score": 0.9955000281333923,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2716",
+            "display_name": "Genetics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10452",
+          "display_name": "Iron Metabolism and Disorders",
+          "score": 0.9394999742507935,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2720",
+            "display_name": "Hematology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10833",
+          "display_name": "Vaccine Coverage and Hesitancy",
+          "score": 0.902400016784668,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3306",
+            "display_name": "Health"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/mass-media",
+          "display_name": "Mass media",
+          "score": 0.7504268288612366
+        },
+        {
+          "id": "https://openalex.org/keywords/disease",
+          "display_name": "Disease",
+          "score": 0.6962155103683472
+        },
+        {
+          "id": "https://openalex.org/keywords/life-style",
+          "display_name": "Life style",
+          "score": 0.6520259380340576
+        },
+        {
+          "id": "https://openalex.org/keywords/social-media",
+          "display_name": "Social media",
+          "score": 0.5583314299583435
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.500551700592041
+        },
+        {
+          "id": "https://openalex.org/keywords/social-life",
+          "display_name": "Social life",
+          "score": 0.49999117851257324
+        },
+        {
+          "id": "https://openalex.org/keywords/epidemiology",
+          "display_name": "Epidemiology",
+          "score": 0.4728712737560272
+        },
+        {
+          "id": "https://openalex.org/keywords/mass-education",
+          "display_name": "Mass education",
+          "score": 0.45850425958633423
+        },
+        {
+          "id": "https://openalex.org/keywords/health-education",
+          "display_name": "Health education",
+          "score": 0.412239670753479
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.36772361397743225
+        },
+        {
+          "id": "https://openalex.org/keywords/public-health",
+          "display_name": "Public health",
+          "score": 0.3456488251686096
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-health",
+          "display_name": "Environmental health",
+          "score": 0.28170618414878845
+        },
+        {
+          "id": "https://openalex.org/keywords/economic-growth",
+          "display_name": "Economic growth",
+          "score": 0.20067068934440613
+        },
+        {
+          "id": "https://openalex.org/keywords/political-science",
+          "display_name": "Political science",
+          "score": 0.19597411155700684
+        },
+        {
+          "id": "https://openalex.org/keywords/sociology",
+          "display_name": "Sociology",
+          "score": 0.16572979092597961
+        },
+        {
+          "id": "https://openalex.org/keywords/pathology",
+          "display_name": "Pathology",
+          "score": 0.14809927344322205
+        },
+        {
+          "id": "https://openalex.org/keywords/advertising",
+          "display_name": "Advertising",
+          "score": 0.12224119901657104
+        },
+        {
+          "id": "https://openalex.org/keywords/social-science",
+          "display_name": "Social science",
+          "score": 0.12205588817596436
+        },
+        {
+          "id": "https://openalex.org/keywords/business",
+          "display_name": "Business",
+          "score": 0.09999597072601318
+        },
+        {
+          "id": "https://openalex.org/keywords/higher-education",
+          "display_name": "Higher education",
+          "score": 0.09416112303733826
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C558299567",
+          "wikidata": "https://www.wikidata.org/wiki/Q11033",
+          "display_name": "Mass media",
+          "level": 2,
+          "score": 0.7504268288612366
+        },
+        {
+          "id": "https://openalex.org/C2779134260",
+          "wikidata": "https://www.wikidata.org/wiki/Q12136",
+          "display_name": "Disease",
+          "level": 2,
+          "score": 0.6962155103683472
+        },
+        {
+          "id": "https://openalex.org/C2987512134",
+          "wikidata": "https://www.wikidata.org/wiki/Q346799",
+          "display_name": "Life style",
+          "level": 2,
+          "score": 0.6520259380340576
+        },
+        {
+          "id": "https://openalex.org/C518677369",
+          "wikidata": "https://www.wikidata.org/wiki/Q202833",
+          "display_name": "Social media",
+          "level": 2,
+          "score": 0.5583314299583435
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.500551700592041
+        },
+        {
+          "id": "https://openalex.org/C2992884035",
+          "wikidata": "https://www.wikidata.org/wiki/Q7551229",
+          "display_name": "Social life",
+          "level": 2,
+          "score": 0.49999117851257324
+        },
+        {
+          "id": "https://openalex.org/C107130276",
+          "wikidata": "https://www.wikidata.org/wiki/Q133805",
+          "display_name": "Epidemiology",
+          "level": 2,
+          "score": 0.4728712737560272
+        },
+        {
+          "id": "https://openalex.org/C2992421032",
+          "wikidata": "https://www.wikidata.org/wiki/Q511009",
+          "display_name": "Mass education",
+          "level": 3,
+          "score": 0.45850425958633423
+        },
+        {
+          "id": "https://openalex.org/C113807197",
+          "wikidata": "https://www.wikidata.org/wiki/Q60894",
+          "display_name": "Health education",
+          "level": 3,
+          "score": 0.412239670753479
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.36772361397743225
+        },
+        {
+          "id": "https://openalex.org/C138816342",
+          "wikidata": "https://www.wikidata.org/wiki/Q189603",
+          "display_name": "Public health",
+          "level": 2,
+          "score": 0.3456488251686096
+        },
+        {
+          "id": "https://openalex.org/C99454951",
+          "wikidata": "https://www.wikidata.org/wiki/Q932068",
+          "display_name": "Environmental health",
+          "level": 1,
+          "score": 0.28170618414878845
+        },
+        {
+          "id": "https://openalex.org/C50522688",
+          "wikidata": "https://www.wikidata.org/wiki/Q189833",
+          "display_name": "Economic growth",
+          "level": 1,
+          "score": 0.20067068934440613
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.19597411155700684
+        },
+        {
+          "id": "https://openalex.org/C144024400",
+          "wikidata": "https://www.wikidata.org/wiki/Q21201",
+          "display_name": "Sociology",
+          "level": 0,
+          "score": 0.16572979092597961
+        },
+        {
+          "id": "https://openalex.org/C142724271",
+          "wikidata": "https://www.wikidata.org/wiki/Q7208",
+          "display_name": "Pathology",
+          "level": 1,
+          "score": 0.14809927344322205
+        },
+        {
+          "id": "https://openalex.org/C112698675",
+          "wikidata": "https://www.wikidata.org/wiki/Q37038",
+          "display_name": "Advertising",
+          "level": 1,
+          "score": 0.12224119901657104
+        },
+        {
+          "id": "https://openalex.org/C36289849",
+          "wikidata": "https://www.wikidata.org/wiki/Q34749",
+          "display_name": "Social science",
+          "level": 1,
+          "score": 0.12205588817596436
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.09999597072601318
+        },
+        {
+          "id": "https://openalex.org/C120912362",
+          "wikidata": "https://www.wikidata.org/wiki/Q136822",
+          "display_name": "Higher education",
+          "level": 2,
+          "score": 0.09416112303733826
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.5539/gjhs.v12n11p141",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.5539/gjhs.v12n11p141",
+          "pdf_url": "https://ccsenet.org/journal/index.php/gjhs/article/download/0/0/43743/45963",
+          "source": {
+            "id": "https://openalex.org/S2755631367",
+            "display_name": "Global Journal of Health Science",
+            "issn_l": "1916-9736",
+            "issn": [
+              "1916-9736",
+              "1916-9744"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310322531",
+            "host_organization_name": "Canadian Center of Science and Education",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310322531"
+            ],
+            "host_organization_lineage_names": [
+              "Canadian Center of Science and Education"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Global Journal of Health Science",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.5539/gjhs.v12n11p141",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.5539/gjhs.v12n11p141",
+        "pdf_url": "https://ccsenet.org/journal/index.php/gjhs/article/download/0/0/43743/45963",
+        "source": {
+          "id": "https://openalex.org/S2755631367",
+          "display_name": "Global Journal of Health Science",
+          "issn_l": "1916-9736",
+          "issn": [
+            "1916-9736",
+            "1916-9744"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310322531",
+          "host_organization_name": "Canadian Center of Science and Education",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310322531"
+          ],
+          "host_organization_lineage_names": [
+            "Canadian Center of Science and Education"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Global Journal of Health Science",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/1",
+          "score": 0.6700000166893005,
+          "display_name": "No poverty"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "referenced_works_count": 28,
+      "referenced_works": [
+        "https://openalex.org/W2290888926",
+        "https://openalex.org/W3019924287",
+        "https://openalex.org/W74467811",
+        "https://openalex.org/W2768847752",
+        "https://openalex.org/W2514585147",
+        "https://openalex.org/W2061729027",
+        "https://openalex.org/W2110461849",
+        "https://openalex.org/W203847561",
+        "https://openalex.org/W2944838903",
+        "https://openalex.org/W2946969284",
+        "https://openalex.org/W2180370559",
+        "https://openalex.org/W2904509656",
+        "https://openalex.org/W2583965220",
+        "https://openalex.org/W2947169178",
+        "https://openalex.org/W1968832537",
+        "https://openalex.org/W2914877710",
+        "https://openalex.org/W2796419119",
+        "https://openalex.org/W3014824378",
+        "https://openalex.org/W2738413794",
+        "https://openalex.org/W4253971790",
+        "https://openalex.org/W2896485424",
+        "https://openalex.org/W2939058065",
+        "https://openalex.org/W2016315364",
+        "https://openalex.org/W2559169288",
+        "https://openalex.org/W2809050592",
+        "https://openalex.org/W2802826854",
+        "https://openalex.org/W1978118064",
+        "https://openalex.org/W2437356308"
+      ],
+      "related_works": [
+        "https://openalex.org/W2373422023",
+        "https://openalex.org/W597967538",
+        "https://openalex.org/W2352263936",
+        "https://openalex.org/W2780537793",
+        "https://openalex.org/W2375761278",
+        "https://openalex.org/W2407198755",
+        "https://openalex.org/W2368324638",
+        "https://openalex.org/W2318937018",
+        "https://openalex.org/W3013143340",
+        "https://openalex.org/W2057667331"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0,
+          20,
+          85
+        ],
+        "lack": [
+          1
+        ],
+        "of": [
+          2,
+          22,
+          59,
+          70,
+          76,
+          83,
+          99
+        ],
+        "public": [
+          3
+        ],
+        "awareness": [
+          4
+        ],
+        "and": [
+          5,
+          31,
+          97
+        ],
+        "education": [
+          6,
+          75
+        ],
+        "is": [
+          7
+        ],
+        "the": [
+          8,
+          12,
+          23,
+          46,
+          57,
+          68,
+          74,
+          77,
+          80,
+          95
+        ],
+        "greatest": [
+          9
+        ],
+        "challenge": [
+          10
+        ],
+        "in": [
+          11,
+          18,
+          73,
+          94,
+          101
+        ],
+        "fight": [
+          13
+        ],
+        "against": [
+          14
+        ],
+        "Sickle": [
+          15
+        ],
+        "Disease": [
+          16
+        ],
+        "(SCD)": [
+          17
+        ],
+        "Nigeria.": [
+          19,
+          102
+        ],
+        "sufferers": [
+          21
+        ],
+        "disease": [
+          24
+        ],
+        "experience": [
+          25
+        ],
+        "debilitating": [
+          26
+        ],
+        "pains,": [
+          27
+        ],
+        "psychological": [
+          28
+        ],
+        "challenges,": [
+          29
+        ],
+        "stigmatization": [
+          30
+        ],
+        "as": [
+          32,
+          49
+        ],
+        "a": [
+          33,
+          50,
+          89
+        ],
+        "result": [
+          34
+        ],
+        "many": [
+          35
+        ],
+        "have": [
+          36
+        ],
+        "very": [
+          37
+        ],
+        "poor": [
+          38
+        ],
+        "social": [
+          39
+        ],
+        "life": [
+          40
+        ],
+        "style.": [
+          41
+        ],
+        "What": [
+          42
+        ],
+        "enduring": [
+          43
+        ],
+        "step,": [
+          44
+        ],
+        "has": [
+          45,
+          64,
+          88
+        ],
+        "mass": [
+          47,
+          86
+        ],
+        "media,": [
+          48
+        ],
+        "reliable": [
+          51
+        ],
+        "societal": [
+          52
+        ],
+        "medium": [
+          53
+        ],
+        "taken": [
+          54
+        ],
+        "to": [
+          55,
+          67,
+          92
+        ],
+        "address": [
+          56
+        ],
+        "spread": [
+          58
+        ],
+        "SCD?": [
+          60
+        ],
+        "No": [
+          61
+        ],
+        "serious": [
+          62
+        ],
+        "attention": [
+          63
+        ],
+        "been": [
+          65
+        ],
+        "given": [
+          66
+        ],
+        "use": [
+          69
+        ],
+        "media": [
+          71,
+          87
+        ],
+        "technology": [
+          72
+        ],
+        "masses": [
+          78
+        ],
+        "on": [
+          79
+        ],
+        "risk": [
+          81
+        ],
+        "factors": [
+          82
+        ],
+        "SCD.": [
+          84
+        ],
+        "key": [
+          90
+        ],
+        "role": [
+          91
+        ],
+        "play": [
+          93
+        ],
+        "treatment": [
+          96
+        ],
+        "management": [
+          98
+        ],
+        "SCD": [
+          100
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4253957039",
+      "doi": "https://doi.org/10.1515/9783839450482-005",
+      "title": "3. Khalid’s Book and How Not to Bow Down Before Rihani",
+      "display_name": "3. Khalid’s Book and How Not to Bow Down Before Rihani",
+      "relevance_score": 0.5159323,
+      "publication_year": 2020,
+      "publication_date": "2020-12-31",
+      "ids": {
+        "openalex": "https://openalex.org/W4253957039",
+        "doi": "https://doi.org/10.1515/9783839450482-005"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1515/9783839450482-005",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1515/9783839450482-005",
+        "pdf_url": "https://www.degruyterbrill.com/document/doi/10.1515/9783839450482-005/pdf",
+        "source": {
+          "id": "https://openalex.org/S4306464022",
+          "display_name": "transcript Verlag eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310320004",
+          "host_organization_name": "Transcript Verlag",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320004"
+          ],
+          "host_organization_lineage_names": [
+            "Transcript Verlag"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Transgressive Truths and Flattering Lies",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.degruyterbrill.com/document/doi/10.1515/9783839450482-005/pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": true,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.70707603,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "49",
+        "last_page": "136"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10794",
+        "display_name": "Islamic Studies and History",
+        "score": 0.9927999973297119,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3320",
+          "display_name": "Political Science and International Relations"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10794",
+          "display_name": "Islamic Studies and History",
+          "score": 0.9927999973297119,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3320",
+            "display_name": "Political Science and International Relations"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13372",
+          "display_name": "Archaeology and Historical Studies",
+          "score": 0.9362000226974487,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1204",
+            "display_name": "Archeology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13504",
+          "display_name": "African history and culture analysis",
+          "score": 0.9314000010490417,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3320",
+            "display_name": "Political Science and International Relations"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/art",
+          "display_name": "Art",
+          "score": 0.31432777643203735
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C142362112",
+          "wikidata": "https://www.wikidata.org/wiki/Q735",
+          "display_name": "Art",
+          "level": 0,
+          "score": 0.31432777643203735
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1515/9783839450482-005",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1515/9783839450482-005",
+          "pdf_url": "https://www.degruyterbrill.com/document/doi/10.1515/9783839450482-005/pdf",
+          "source": {
+            "id": "https://openalex.org/S4306464022",
+            "display_name": "transcript Verlag eBooks",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/P4310320004",
+            "host_organization_name": "Transcript Verlag",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320004"
+            ],
+            "host_organization_lineage_names": [
+              "Transcript Verlag"
+            ],
+            "type": "ebook platform"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Transgressive Truths and Flattering Lies",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1515/9783839450482-005",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1515/9783839450482-005",
+        "pdf_url": "https://www.degruyterbrill.com/document/doi/10.1515/9783839450482-005/pdf",
+        "source": {
+          "id": "https://openalex.org/S4306464022",
+          "display_name": "transcript Verlag eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310320004",
+          "host_organization_name": "Transcript Verlag",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320004"
+          ],
+          "host_organization_lineage_names": [
+            "Transcript Verlag"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Transgressive Truths and Flattering Lies",
+        "raw_type": "book-chapter"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "referenced_works_count": 6,
+      "referenced_works": [
+        "https://openalex.org/W6812383669",
+        "https://openalex.org/W2042941825",
+        "https://openalex.org/W6661122116",
+        "https://openalex.org/W3042183916",
+        "https://openalex.org/W2502643501",
+        "https://openalex.org/W6780386357"
+      ],
+      "related_works": [
+        "https://openalex.org/W4387497383",
+        "https://openalex.org/W3183948672",
+        "https://openalex.org/W3173606202",
+        "https://openalex.org/W3110381201",
+        "https://openalex.org/W2948807893",
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W2778153218",
+        "https://openalex.org/W2758277628",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W1531601525"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  ],
+  "group_by": []
+}

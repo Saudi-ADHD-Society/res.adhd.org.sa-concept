@@ -26,14 +26,20 @@
   },
   "access": {
     "status": "unknown",
-    "source": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/The-Relationship-between-Attention-Deficit-Hyperactivity-Hassan-AEH-2015.pdf",
-    "sourceUrl": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/The-Relationship-between-Attention-Deficit-Hyperactivity-Hassan-AEH-2015.pdf",
     "localPdfUrl": "library/the-relationship-between-attention-deficit-and-amp-hyperactivity-disorder-adhd-and-learning-disabilities-2015-ab2859b391.pdf"
   },
   "identifiers": {
-    "url": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/The-Relationship-between-Attention-Deficit-Hyperactivity-Hassan-AEH-2015.pdf"
+    "doi": "10.32628/ijsrst151442"
   },
   "visibility": {
     "hidden": false
-  }
+  },
+  "authors": [
+    {
+      "given": "Dalin A.",
+      "family": "Hassan",
+      "sequence": 1
+    }
+  ],
+  "doi": "10.32628/ijsrst151442"
 }

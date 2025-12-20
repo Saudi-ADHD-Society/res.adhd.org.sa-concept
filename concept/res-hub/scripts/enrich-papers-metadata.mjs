@@ -140,6 +140,43 @@ function writeCache(source, doi, data) {
 // OpenAlex API
 // ============================================================================
 
+async function searchOpenAlexByTitle(title, year = null, delay = 1000) {
+  // Check cache
+  const cacheKey = `search-${title.substring(0, 50)}-${year || 'any'}`;
+  const cached = readCache('openalex-search', cacheKey);
+  if (cached) {
+    return cached;
+  }
+  
+  let url = `https://api.openalex.org/works?search=${encodeURIComponent(title)}&per-page=10`;
+  if (year) {
+    url += `&filter=publication_year:${year}`;
+  }
+  
+  try {
+    if (delay > 0) {
+      await new Promise(resolve => setTimeout(resolve, delay));
+    }
+    
+    const response = await fetch(url, {
+      headers: {
+        'User-Agent': 'res-hub-enricher (mailto:web@adhd.org.sa)',
+        'Accept': 'application/json',
+      },
+    });
+    
+    if (!response.ok) {
+      return null;
+    }
+    
+    const data = await response.json();
+    writeCache('openalex-search', cacheKey, data);
+    return data.results || [];
+  } catch (error) {
+    return null;
+  }
+}
+
 async function fetchOpenAlex(doi, delay = 1000) {
   const normalizedDoi = normalizeDoi(doi);
   
@@ -193,7 +230,16 @@ async function fetchOpenAlex(doi, delay = 1000) {
 }
 
 function extractFromOpenAlex(data) {
-  if (!data) return { abstract: null, pdfUrl: null, landingUrl: null, title: null, year: null };
+  if (!data) return { 
+    abstract: null, 
+    sourceUrl: null, 
+    landingUrl: null, 
+    title: null, 
+    year: null,
+    authors: null,
+    journalName: null,
+    doi: null,
+  };
   
   // Abstract - check both abstract and abstract_inverted_index
   let abstract = data.abstract || null;
@@ -208,12 +254,12 @@ function extractFromOpenAlex(data) {
     abstract = words.filter(Boolean).join(' ');
   }
   
-  // PDF URL
-  let pdfUrl = null;
+  // PDF URL (rename to sourceUrl for clarity)
+  let sourceUrl = null;
   if (data.best_oa_location?.pdf_url) {
-    pdfUrl = data.best_oa_location.pdf_url;
+    sourceUrl = data.best_oa_location.pdf_url;
   } else if (data.primary_location?.pdf_url) {
-    pdfUrl = data.primary_location.pdf_url;
+    sourceUrl = data.primary_location.pdf_url;
   }
   
   // Landing page
@@ -226,7 +272,25 @@ function extractFromOpenAlex(data) {
     year = parseInt(data.publication_date.split('-')[0], 10);
   }
   
-  return { abstract, pdfUrl, landingUrl, title, year };
+  // Authors
+  let authors = null;
+  if (data.authorships && data.authorships.length > 0) {
+    authors = data.authorships.map((authorship, index) => ({
+      given: authorship.author?.display_name?.split(' ').slice(0, -1).join(' ') || '',
+      family: authorship.author?.display_name?.split(' ').slice(-1)[0] || '',
+      orcid: authorship.author?.orcid ? `https://orcid.org/${authorship.author.orcid.replace(/^https?:\/\/orcid\.org\//, '')}` : undefined,
+      sequence: index + 1,
+    })).filter(author => author.given || author.family);
+  }
+  
+  // Journal name
+  const journalName = data.primary_location?.source?.display_name || 
+                      data.primary_location?.source?.name || null;
+  
+  // DOI
+  const doi = data.doi ? normalizeDoi(data.doi.replace(/^https?:\/\/doi\.org\//, '')) : null;
+  
+  return { abstract, sourceUrl, landingUrl, title, year, authors, journalName, doi };
 }
 
 // ============================================================================
@@ -242,7 +306,7 @@ async function fetchSemanticScholar(doi, delay = 1000) {
     return cached;
   }
   
-  const url = `https://api.semanticscholar.org/graph/v1/paper/DOI:${encodeURIComponent(normalizedDoi)}?fields=abstract,openAccessPdf,title,year`;
+  const url = `https://api.semanticscholar.org/graph/v1/paper/DOI:${encodeURIComponent(normalizedDoi)}?fields=abstract,openAccessPdf,title,year,authors,venue`;
   
   try {
     if (delay > 0) {
@@ -286,13 +350,46 @@ async function fetchSemanticScholar(doi, delay = 1000) {
 }
 
 function extractFromSemanticScholar(data) {
-  if (!data) return { abstract: null, pdfUrl: null, title: null, year: null };
+  if (!data) return { 
+    abstract: null, 
+    sourceUrl: null, 
+    title: null, 
+    year: null,
+    authors: null,
+    journalName: null,
+    doi: null,
+  };
+  
+  // Authors
+  let authors = null;
+  if (data.authors && data.authors.length > 0) {
+    authors = data.authors.map((author, index) => ({
+      given: author.name?.split(' ').slice(0, -1).join(' ') || '',
+      family: author.name?.split(' ').slice(-1)[0] || '',
+      sequence: index + 1,
+    })).filter(author => author.given || author.family);
+  }
+  
+  // Journal name (venue)
+  const journalName = data.venue || null;
+  
+  // DOI - extract from paperId if available
+  let doi = null;
+  if (data.paperId) {
+    // Semantic Scholar paperId is not a DOI, but we can check externalIds
+    if (data.externalIds && data.externalIds.DOI) {
+      doi = normalizeDoi(data.externalIds.DOI);
+    }
+  }
   
   return {
     abstract: data.abstract || null,
-    pdfUrl: data.openAccessPdf?.url || null,
+    sourceUrl: data.openAccessPdf?.url || null,
     title: data.title || null,
     year: data.year || null,
+    authors,
+    journalName,
+    doi,
   };
 }
 
@@ -329,10 +426,10 @@ async function fetchPublisherPage(doi, delay = 1000) {
 }
 
 function extractFromPublisherPage(html) {
-  if (!html) return { abstract: null, pdfUrl: null };
+  if (!html) return { abstract: null, sourceUrl: null };
   
   // Simple regex-based extraction (cheerio would be better but avoiding dependency for now)
-  const results = { abstract: null, pdfUrl: null };
+  const results = { abstract: null, sourceUrl: null };
   
   // Extract abstract from meta tags
   const abstractPatterns = [
@@ -349,7 +446,7 @@ function extractFromPublisherPage(html) {
     }
   }
   
-  // Extract PDF URL from meta tags
+  // Extract PDF URL from meta tags (rename to sourceUrl)
   const pdfPatterns = [
     /<meta\s+name=["']citation_pdf_url["']\s+content=["']([^"']+)["']/i,
     /<link\s+rel=["']alternate["']\s+type=["']application\/pdf["']\s+href=["']([^"']+)["']/i,
@@ -358,13 +455,13 @@ function extractFromPublisherPage(html) {
   for (const pattern of pdfPatterns) {
     const match = html.match(pattern);
     if (match && match[1]) {
-      results.pdfUrl = match[1].trim();
+      results.sourceUrl = match[1].trim();
       break;
     }
   }
   
   // Also check for common PDF URL patterns in anchors
-  if (!results.pdfUrl) {
+  if (!results.sourceUrl) {
     const anchorPatterns = [
       /href=["']([^"']*\/doi\/pdf\/[^"']+)["']/i,
       /href=["']([^"']*\/pdf\/[^"']+)["']/i,
@@ -376,14 +473,14 @@ function extractFromPublisherPage(html) {
     for (const pattern of anchorPatterns) {
       const match = html.match(pattern);
       if (match && match[1]) {
-        let pdfUrl = match[1];
+        let sourceUrl = match[1];
         // Convert relative URLs to absolute
-        if (pdfUrl.startsWith('/')) {
+        if (sourceUrl.startsWith('/')) {
           // Would need base URL, skip for now
-        } else if (!pdfUrl.startsWith('http')) {
+        } else if (!sourceUrl.startsWith('http')) {
           // Relative URL, would need base URL
         } else {
-          results.pdfUrl = pdfUrl;
+          results.sourceUrl = sourceUrl;
           break;
         }
       }
@@ -477,15 +574,12 @@ async function extractAbstractFromPdf(pdfPath) {
 // ============================================================================
 
 async function enrichPaper(paper, args, stats) {
-  const doi = paper.doi || paper.identifiers?.doi;
-  if (!doi) {
-    return { status: 'skipped', reason: 'no DOI' };
-  }
+  let doi = paper.doi || paper.identifiers?.doi;
+  const normalizedDoi = doi ? normalizeDoi(doi) : null;
   
-  const normalizedDoi = normalizeDoi(doi);
   const logEntry = {
     slug: paper.slug,
-    doi: normalizedDoi,
+    doi: normalizedDoi || null,
     updates: {},
     skipped: [],
     errors: [],
@@ -496,31 +590,67 @@ async function enrichPaper(paper, args, stats) {
   
   // Check what's missing
   const needsAbstract = isMissing(paper.abstract) || isShortAbstract(paper.abstract);
-  const needsPdfUrl = isMissing(paper.access?.localPdfUrl) && isMissing(paper.access?.sourceUrl);
+  const needsSourceUrl = isMissing(paper.access?.sourceUrl);
+  const needsAuthors = isMissing(paper.authors) || (Array.isArray(paper.authors) && paper.authors.length === 0);
+  const needsJournalName = isMissing(paper.journal?.name);
+  const needsYear = isMissing(paper.publication?.year);
+  const needsDoi = isMissing(paper.doi) && isMissing(paper.identifiers?.doi);
   
-  if (!needsAbstract && !needsPdfUrl) {
+  if (!needsAbstract && !needsSourceUrl && !needsAuthors && !needsJournalName && !needsYear && !needsDoi) {
     return { status: 'skipped', reason: 'no missing fields' };
   }
   
-  // Try OpenAlex
-  if (sources.includes('openalex') && (needsAbstract || needsPdfUrl)) {
+  let workData = null;
+  let extracted = null;
+  
+  // If no DOI, try title-based search
+  if (!doi && paper.title && sources.includes('openalex')) {
     try {
-      const data = await fetchOpenAlex(doi, args.delay);
-      if (data) {
-        const extracted = extractFromOpenAlex(data);
-        const validation = validateMatch(paper, extracted.title, extracted.year);
+      const searchResults = await searchOpenAlexByTitle(paper.title, paper.publication?.year, args.delay);
+      if (searchResults && searchResults.length > 0) {
+        // Find best match
+        let bestMatch = null;
+        let bestScore = 0;
         
-        if (validation.valid) {
-          if (needsAbstract && extracted.abstract) {
-            updates.abstract = extracted.abstract;
-            logEntry.updates.abstract = { source: 'openalex', confidence: validation.confidence };
+        for (const result of searchResults) {
+          const extractedCandidate = extractFromOpenAlex(result);
+          const validation = validateMatch(paper, extractedCandidate.title, extractedCandidate.year);
+          if (validation.valid && validation.confidence > bestScore) {
+            bestScore = validation.confidence;
+            bestMatch = result;
+            extracted = extractedCandidate;
           }
-          if (needsPdfUrl && extracted.pdfUrl) {
-            updates.pdfUrl = extracted.pdfUrl;
-            logEntry.updates['access.localPdfUrl'] = { source: 'openalex', confidence: validation.confidence };
+        }
+        
+        if (bestMatch) {
+          workData = bestMatch;
+          logEntry.updates._foundViaTitleSearch = { source: 'openalex', confidence: bestScore };
+          // If we found a DOI, use it for subsequent lookups
+          if (extracted.doi) {
+            doi = extracted.doi;
+            logEntry.doi = extracted.doi;
           }
         } else {
+          logEntry.errors.push('OpenAlex title search: no valid match found');
+        }
+      }
+    } catch (error) {
+      logEntry.errors.push(`OpenAlex title search: ${error.message}`);
+    }
+  }
+  
+  // Try OpenAlex by DOI (or use workData from title search)
+  if (sources.includes('openalex') && doi && !workData) {
+    try {
+      workData = await fetchOpenAlex(doi, args.delay);
+      if (workData) {
+        extracted = extractFromOpenAlex(workData);
+        const validation = validateMatch(paper, extracted.title, extracted.year);
+        
+        if (!validation.valid) {
           logEntry.errors.push(`OpenAlex validation failed: ${validation.reason}`);
+          workData = null;
+          extracted = null;
         }
       }
     } catch (error) {
@@ -528,22 +658,65 @@ async function enrichPaper(paper, args, stats) {
     }
   }
   
-  // Try Semantic Scholar
-  if (sources.includes('semantic') && ((needsAbstract && !updates.abstract) || (needsPdfUrl && !updates.pdfUrl))) {
+  // Apply OpenAlex data if we have it
+  if (extracted && workData) {
+    if (needsAbstract && extracted.abstract) {
+      updates.abstract = extracted.abstract;
+      logEntry.updates.abstract = { source: 'openalex', confidence: extracted.title ? stringSimilarity(paper.title, extracted.title) : 0.90 };
+    }
+    if (needsSourceUrl && extracted.sourceUrl) {
+      updates.sourceUrl = extracted.sourceUrl;
+      logEntry.updates['access.sourceUrl'] = { source: 'openalex', confidence: 0.90 };
+    }
+    if (needsAuthors && extracted.authors && extracted.authors.length > 0) {
+      updates.authors = extracted.authors;
+      logEntry.updates.authors = { source: 'openalex', confidence: 0.90 };
+    }
+    if (needsJournalName && extracted.journalName) {
+      updates.journalName = extracted.journalName;
+      logEntry.updates['journal.name'] = { source: 'openalex', confidence: 0.90 };
+    }
+    if (needsYear && extracted.year) {
+      updates.year = extracted.year;
+      logEntry.updates['publication.year'] = { source: 'openalex', confidence: 0.90 };
+    }
+    if (needsDoi && extracted.doi) {
+      updates.doi = extracted.doi;
+      logEntry.updates['identifiers.doi'] = { source: 'openalex', confidence: 0.90 };
+    }
+  }
+  
+  // Try Semantic Scholar (only if we still need fields and have a DOI)
+  if (doi && sources.includes('semantic') && 
+      ((needsAbstract && !updates.abstract) || (needsSourceUrl && !updates.sourceUrl) || 
+       (needsAuthors && !updates.authors) || (needsJournalName && !updates.journalName) || 
+       (needsYear && !updates.year))) {
     try {
       const data = await fetchSemanticScholar(doi, args.delay);
       if (data) {
-        const extracted = extractFromSemanticScholar(data);
-        const validation = validateMatch(paper, extracted.title, extracted.year);
+        const extractedS2 = extractFromSemanticScholar(data);
+        const validation = validateMatch(paper, extractedS2.title, extractedS2.year);
         
         if (validation.valid) {
-          if (needsAbstract && !updates.abstract && extracted.abstract) {
-            updates.abstract = extracted.abstract;
+          if (needsAbstract && !updates.abstract && extractedS2.abstract) {
+            updates.abstract = extractedS2.abstract;
             logEntry.updates.abstract = { source: 'semantic', confidence: validation.confidence };
           }
-          if (needsPdfUrl && !updates.pdfUrl && extracted.pdfUrl) {
-            updates.pdfUrl = extracted.pdfUrl;
-            logEntry.updates['access.localPdfUrl'] = { source: 'semantic', confidence: validation.confidence };
+          if (needsSourceUrl && !updates.sourceUrl && extractedS2.sourceUrl) {
+            updates.sourceUrl = extractedS2.sourceUrl;
+            logEntry.updates['access.sourceUrl'] = { source: 'semantic', confidence: validation.confidence };
+          }
+          if (needsAuthors && !updates.authors && extractedS2.authors && extractedS2.authors.length > 0) {
+            updates.authors = extractedS2.authors;
+            logEntry.updates.authors = { source: 'semantic', confidence: validation.confidence };
+          }
+          if (needsJournalName && !updates.journalName && extractedS2.journalName) {
+            updates.journalName = extractedS2.journalName;
+            logEntry.updates['journal.name'] = { source: 'semantic', confidence: validation.confidence };
+          }
+          if (needsYear && !updates.year && extractedS2.year) {
+            updates.year = extractedS2.year;
+            logEntry.updates['publication.year'] = { source: 'semantic', confidence: validation.confidence };
           }
         } else {
           logEntry.errors.push(`Semantic Scholar validation failed: ${validation.reason}`);
@@ -554,20 +727,21 @@ async function enrichPaper(paper, args, stats) {
     }
   }
   
-  // Try Publisher page scraping
-  if (sources.includes('publisher') && ((needsAbstract && !updates.abstract) || (needsPdfUrl && !updates.pdfUrl))) {
+  // Try Publisher page scraping (only if we have a DOI and still need fields)
+  if (doi && sources.includes('publisher') && 
+      ((needsAbstract && !updates.abstract) || (needsSourceUrl && !updates.sourceUrl))) {
     try {
       const html = await fetchPublisherPage(doi, args.delay);
       if (html) {
-        const extracted = extractFromPublisherPage(html);
+        const extractedPub = extractFromPublisherPage(html);
         
-        if (needsAbstract && !updates.abstract && extracted.abstract) {
-          updates.abstract = extracted.abstract;
+        if (needsAbstract && !updates.abstract && extractedPub.abstract) {
+          updates.abstract = extractedPub.abstract;
           logEntry.updates.abstract = { source: 'publisher', confidence: 0.80 };
         }
-        if (needsPdfUrl && !updates.pdfUrl && extracted.pdfUrl) {
-          updates.pdfUrl = extracted.pdfUrl;
-          logEntry.updates['access.localPdfUrl'] = { source: 'publisher', confidence: 0.75 };
+        if (needsSourceUrl && !updates.sourceUrl && extractedPub.sourceUrl) {
+          updates.sourceUrl = extractedPub.sourceUrl;
+          logEntry.updates['access.sourceUrl'] = { source: 'publisher', confidence: 0.75 };
         }
       }
     } catch (error) {
@@ -583,7 +757,7 @@ async function enrichPaper(paper, args, stats) {
       if (paper.access?.localPdfUrl) {
         const relativePath = paper.access.localPdfUrl;
         pdfPath = join(ROOT_DIR, 'public', relativePath);
-      } else {
+      } else if (doi) {
         // Try common library path
         const libraryPath = join(ROOT_DIR, 'public', 'library', `${doiToSlug(doi)}.pdf`);
         if (existsSync(libraryPath)) {
@@ -617,11 +791,33 @@ async function enrichPaper(paper, args, stats) {
   if (updates.abstract) {
     updatedPaper.abstract = updates.abstract;
   }
-  if (updates.pdfUrl) {
+  if (updates.sourceUrl) {
     if (!updatedPaper.access) {
       updatedPaper.access = {};
     }
-    updatedPaper.access.sourceUrl = updates.pdfUrl;
+    updatedPaper.access.sourceUrl = updates.sourceUrl;
+  }
+  if (updates.authors) {
+    updatedPaper.authors = updates.authors;
+  }
+  if (updates.journalName) {
+    if (!updatedPaper.journal) {
+      updatedPaper.journal = {};
+    }
+    updatedPaper.journal.name = updates.journalName;
+  }
+  if (updates.year) {
+    if (!updatedPaper.publication) {
+      updatedPaper.publication = {};
+    }
+    updatedPaper.publication.year = updates.year;
+  }
+  if (updates.doi) {
+    updatedPaper.doi = updates.doi;
+    if (!updatedPaper.identifiers) {
+      updatedPaper.identifiers = {};
+    }
+    updatedPaper.identifiers.doi = updates.doi;
   }
   
   // Write file
@@ -633,7 +829,11 @@ async function enrichPaper(paper, args, stats) {
   
   // Update stats
   if (updates.abstract) stats.abstractsUpdated++;
-  if (updates.pdfUrl) stats.pdfUrlsUpdated++;
+  if (updates.sourceUrl) stats.pdfUrlsUpdated++;
+  if (updates.authors) stats.authorsUpdated = (stats.authorsUpdated || 0) + 1;
+  if (updates.journalName) stats.journalNamesUpdated = (stats.journalNamesUpdated || 0) + 1;
+  if (updates.year) stats.yearsUpdated = (stats.yearsUpdated || 0) + 1;
+  if (updates.doi) stats.doisUpdated = (stats.doisUpdated || 0) + 1;
   
   return { status: args.dryRun ? 'would-update' : 'updated', updates, logEntry };
 }
@@ -711,10 +911,15 @@ async function main() {
     skip_empty_lines: true,
   });
   
-  // Filter for papers needing abstract or PDF URL
+  // Filter for papers needing any enrichment (abstract, sourceUrl, authors, journal.name, publication.year, identifiers.doi)
   let papersToEnrich = records.filter(record => {
     const missingFields = (record.missing_fields || '').split(';');
-    return missingFields.includes('abstract') || missingFields.includes('access.localPdfUrl');
+    return missingFields.includes('abstract') || 
+           missingFields.includes('access.localPdfUrl') || 
+           missingFields.includes('authors') || 
+           missingFields.includes('journal.name') || 
+           missingFields.includes('publication.year') || 
+           missingFields.includes('identifiers.doi');
   });
   
   // Filter by DOI if specified
@@ -750,6 +955,10 @@ async function main() {
     errors: 0,
     abstractsUpdated: 0,
     pdfUrlsUpdated: 0,
+    authorsUpdated: 0,
+    journalNamesUpdated: 0,
+    yearsUpdated: 0,
+    doisUpdated: 0,
   };
   
   const logEntries = [];
@@ -823,8 +1032,14 @@ async function main() {
   console.log(`Papers updated: ${stats.updated}`);
   console.log(`Skipped: ${stats.skipped}`);
   console.log(`Errors: ${stats.errors}`);
-  console.log(`Abstracts updated: ${stats.abstractsUpdated}`);
-  console.log(`PDF URLs updated: ${stats.pdfUrlsUpdated}`);
+  console.log('');
+  console.log('Fields updated:');
+  if (stats.abstractsUpdated > 0) console.log(`  Abstracts: ${stats.abstractsUpdated}`);
+  if (stats.pdfUrlsUpdated > 0) console.log(`  PDF URLs: ${stats.pdfUrlsUpdated}`);
+  if (stats.authorsUpdated > 0) console.log(`  Authors: ${stats.authorsUpdated}`);
+  if (stats.journalNamesUpdated > 0) console.log(`  Journal names: ${stats.journalNamesUpdated}`);
+  if (stats.yearsUpdated > 0) console.log(`  Publication years: ${stats.yearsUpdated}`);
+  if (stats.doisUpdated > 0) console.log(`  DOIs: ${stats.doisUpdated}`);
   console.log('='.repeat(60));
   
   if (logEntries.length > 0) {

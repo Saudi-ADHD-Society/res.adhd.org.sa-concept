@@ -30,15 +30,22 @@
     }
   },
   "access": {
-    "status": "unknown",
-    "source": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Legislative-Rules-for-Students-with-Disabilities-in-the-United-States-and-Saudi-Arabia-A-Comparative-Study-2013.pdf",
-    "sourceUrl": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Legislative-Rules-for-Students-with-Disabilities-in-the-United-States-and-Saudi-Arabia-A-Comparative-Study-2013.pdf",
+    "status": "closed",
     "localPdfUrl": "library/legislative-rules-for-students-with-disabilities-in-the-united-states-and-saudi-arabia-a-comparative-study-2013-253847f62f.pdf"
   },
   "identifiers": {
-    "url": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Legislative-Rules-for-Students-with-Disabilities-in-the-United-States-and-Saudi-Arabia-A-Comparative-Study-2013.pdf"
+    "doi": "10.12816/0002942"
   },
   "visibility": {
     "hidden": false
-  }
+  },
+  "authors": [
+    {
+      "given": "Turki",
+      "family": "Alquraini",
+      "orcid": "https://orcid.org/0000-0002-8148-2106",
+      "sequence": 1
+    }
+  ],
+  "doi": "10.12816/0002942"
 }

@@ -27,14 +27,43 @@
   },
   "access": {
     "status": "unknown",
-    "source": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Attention-Deficit-Hyperactivity-Disorder-Knowledge-and-Perception-of-Dental-Care-Providers-Nuwaiser-2017.pdf",
-    "sourceUrl": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Attention-Deficit-Hyperactivity-Disorder-Knowledge-and-Perception-of-Dental-Care-Providers-Nuwaiser-2017.pdf",
     "localPdfUrl": "library/attention-deficit-hyperactivity-disorder-knowledge-and-perception-of-dental-care-providers-2017-13dbdcdbee.pdf"
-  },
-  "identifiers": {
-    "url": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Attention-Deficit-Hyperactivity-Disorder-Knowledge-and-Perception-of-Dental-Care-Providers-Nuwaiser-2017.pdf"
   },
   "visibility": {
     "hidden": false
-  }
+  },
+  "authors": [
+    {
+      "given": "Abeer Al",
+      "family": "Nowaiser",
+      "sequence": 1
+    },
+    {
+      "given": "Heba",
+      "family": "Elkhodary",
+      "orcid": "https://orcid.org/0000-0002-3593-3025",
+      "sequence": 2
+    },
+    {
+      "given": "Omar El",
+      "family": "Meligy",
+      "orcid": "https://orcid.org/0000-0003-1069-6374",
+      "sequence": 3
+    },
+    {
+      "given": "Lana A.",
+      "family": "Shinawi",
+      "sequence": 4
+    },
+    {
+      "given": "Elham",
+      "family": "Asiri",
+      "sequence": 5
+    },
+    {
+      "given": "Shuroog",
+      "family": "Aldosari",
+      "sequence": 6
+    }
+  ]
 }

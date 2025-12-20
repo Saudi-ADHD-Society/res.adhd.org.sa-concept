@@ -27,15 +27,33 @@
     }
   },
   "access": {
-    "status": "unknown",
-    "source": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Eye-controlled-Games-for-Behavioral-Therapy-of-Attention-Disorders-Al-Shathri-A-2013.pdf",
-    "sourceUrl": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Eye-controlled-Games-for-Behavioral-Therapy-of-Attention-Disorders-Al-Shathri-A-2013.pdf",
+    "status": "closed",
     "localPdfUrl": "library/eye-controlled-games-for-behavioral-therapy-of-attention-deficit-disorders-2013-966e41fc92.pdf"
   },
   "identifiers": {
-    "url": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Eye-controlled-Games-for-Behavioral-Therapy-of-Attention-Disorders-Al-Shathri-A-2013.pdf"
+    "doi": "10.1007/978-3-642-39473-7_114"
   },
   "visibility": {
     "hidden": false
-  }
+  },
+  "authors": [
+    {
+      "given": "Ashwag",
+      "family": "Al-Shathri",
+      "sequence": 1
+    },
+    {
+      "given": "Areej",
+      "family": "Al‐Wabil",
+      "orcid": "https://orcid.org/0000-0002-3756-5721",
+      "sequence": 2
+    },
+    {
+      "given": "Yousef",
+      "family": "Al-Ohali",
+      "orcid": "https://orcid.org/0000-0002-4228-7199",
+      "sequence": 3
+    }
+  ],
+  "doi": "10.1007/978-3-642-39473-7_114"
 }

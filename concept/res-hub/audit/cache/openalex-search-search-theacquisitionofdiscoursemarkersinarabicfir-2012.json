@@ -1,0 +1,907 @@
+{
+  "meta": {
+    "count": 1,
+    "db_response_time_ms": 83,
+    "page": 1,
+    "per_page": 10,
+    "groups_count": null
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W109166806",
+      "doi": "https://doi.org/10.13140/rg.2.2.36353.81764",
+      "title": "Sentence Recall in Monolingual and ELL with and without Parental Concerns about Language Development",
+      "display_name": "Sentence Recall in Monolingual and ELL with and without Parental Concerns about Language Development",
+      "relevance_score": 0.9783381,
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W109166806",
+        "doi": "https://doi.org/10.13140/rg.2.2.36353.81764",
+        "mag": "109166806"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "pmh:oai:ir.lib.uwo.ca:etd-1848",
+        "is_oa": true,
+        "landing_page_url": "https://ir.lib.uwo.ca/etd/624",
+        "pdf_url": "https://ir.lib.uwo.ca/etd/624",
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Electronic Thesis and Dissertation Repository",
+        "raw_type": "text"
+      },
+      "type": "article",
+      "indexed_in": [
+        "datacite"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ir.lib.uwo.ca/etd/624",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5060718583",
+            "display_name": "Areej Mazin Balilah",
+            "orcid": "https://orcid.org/0000-0002-1808-624X"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Areej Mazin Balilah",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5060718583"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": true,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.02298705,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10730",
+        "display_name": "Language Development and Disorders",
+        "score": 0.9998000264167786,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3204",
+          "display_name": "Developmental and Educational Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10730",
+          "display_name": "Language Development and Disorders",
+          "score": 0.9998000264167786,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3204",
+            "display_name": "Developmental and Educational Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10265",
+          "display_name": "Multilingual Education and Policy",
+          "score": 0.9976999759674072,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3310",
+            "display_name": "Linguistics and Language"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10103",
+          "display_name": "Reading and Literacy Development",
+          "score": 0.995199978351593,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3204",
+            "display_name": "Developmental and Educational Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/recall",
+          "display_name": "Recall",
+          "score": 0.6643355488777161
+        },
+        {
+          "id": "https://openalex.org/keywords/linguistics",
+          "display_name": "Linguistics",
+          "score": 0.6253142952919006
+        },
+        {
+          "id": "https://openalex.org/keywords/sentence",
+          "display_name": "Sentence",
+          "score": 0.602784276008606
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.4666483402252197
+        },
+        {
+          "id": "https://openalex.org/keywords/philosophy",
+          "display_name": "Philosophy",
+          "score": 0.08536678552627563
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C100660578",
+          "wikidata": "https://www.wikidata.org/wiki/Q18733",
+          "display_name": "Recall",
+          "level": 2,
+          "score": 0.6643355488777161
+        },
+        {
+          "id": "https://openalex.org/C41895202",
+          "wikidata": "https://www.wikidata.org/wiki/Q8162",
+          "display_name": "Linguistics",
+          "level": 1,
+          "score": 0.6253142952919006
+        },
+        {
+          "id": "https://openalex.org/C2777530160",
+          "wikidata": "https://www.wikidata.org/wiki/Q41796",
+          "display_name": "Sentence",
+          "level": 2,
+          "score": 0.602784276008606
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.4666483402252197
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0.08536678552627563
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "pmh:oai:ir.lib.uwo.ca:etd-1848",
+          "is_oa": true,
+          "landing_page_url": "https://ir.lib.uwo.ca/etd/624",
+          "pdf_url": "https://ir.lib.uwo.ca/etd/624",
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Electronic Thesis and Dissertation Repository",
+          "raw_type": "text"
+        },
+        {
+          "id": "doi:10.13140/rg.2.2.36353.81764",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.13140/rg.2.2.36353.81764",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": "article-journal"
+        },
+        {
+          "id": "mag:109166806",
+          "is_oa": false,
+          "landing_page_url": "https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1848&context=etd",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:ir.lib.uwo.ca:etd-1848",
+        "is_oa": true,
+        "landing_page_url": "https://ir.lib.uwo.ca/etd/624",
+        "pdf_url": "https://ir.lib.uwo.ca/etd/624",
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Electronic Thesis and Dissertation Repository",
+        "raw_type": "text"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "score": 0.7799999713897705,
+          "display_name": "Quality Education"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": true
+      },
+      "referenced_works_count": 168,
+      "referenced_works": [
+        "https://openalex.org/W648996536",
+        "https://openalex.org/W1998447874",
+        "https://openalex.org/W2149452649",
+        "https://openalex.org/W2057871879",
+        "https://openalex.org/W2019230976",
+        "https://openalex.org/W2079043420",
+        "https://openalex.org/W2025250724",
+        "https://openalex.org/W1999341138",
+        "https://openalex.org/W2080930250",
+        "https://openalex.org/W2057651230",
+        "https://openalex.org/W2047087690",
+        "https://openalex.org/W2156351496",
+        "https://openalex.org/W1975038450",
+        "https://openalex.org/W2172137572",
+        "https://openalex.org/W2131789329",
+        "https://openalex.org/W1978224525",
+        "https://openalex.org/W2018358894",
+        "https://openalex.org/W2901781462",
+        "https://openalex.org/W2073555576",
+        "https://openalex.org/W2036181417",
+        "https://openalex.org/W1559758698",
+        "https://openalex.org/W2114463806",
+        "https://openalex.org/W1964722983",
+        "https://openalex.org/W2125201329",
+        "https://openalex.org/W1605976614",
+        "https://openalex.org/W2174039653",
+        "https://openalex.org/W2043455996",
+        "https://openalex.org/W2056148697",
+        "https://openalex.org/W2130153111",
+        "https://openalex.org/W1993146344",
+        "https://openalex.org/W1965407379",
+        "https://openalex.org/W2036373211",
+        "https://openalex.org/W1981901813",
+        "https://openalex.org/W2080663090",
+        "https://openalex.org/W2002308484",
+        "https://openalex.org/W2155865349",
+        "https://openalex.org/W2145867161",
+        "https://openalex.org/W2068368695",
+        "https://openalex.org/W2092334071",
+        "https://openalex.org/W2048024763",
+        "https://openalex.org/W1974734769",
+        "https://openalex.org/W1560713539",
+        "https://openalex.org/W2519482724",
+        "https://openalex.org/W2150009733",
+        "https://openalex.org/W2062226112",
+        "https://openalex.org/W2030675660",
+        "https://openalex.org/W2031436996",
+        "https://openalex.org/W2503959085",
+        "https://openalex.org/W1981543659",
+        "https://openalex.org/W2102537716",
+        "https://openalex.org/W2064947417",
+        "https://openalex.org/W2167337955",
+        "https://openalex.org/W2022317508",
+        "https://openalex.org/W2058409343",
+        "https://openalex.org/W1685816913",
+        "https://openalex.org/W2064691415",
+        "https://openalex.org/W1973390899",
+        "https://openalex.org/W1970527109",
+        "https://openalex.org/W1978578901",
+        "https://openalex.org/W2024611175",
+        "https://openalex.org/W2169251786",
+        "https://openalex.org/W2081857220",
+        "https://openalex.org/W2026410875",
+        "https://openalex.org/W1547426584",
+        "https://openalex.org/W1995707728",
+        "https://openalex.org/W2078995112",
+        "https://openalex.org/W2019900286",
+        "https://openalex.org/W2036812833",
+        "https://openalex.org/W1965033403",
+        "https://openalex.org/W2901016894",
+        "https://openalex.org/W2069255827",
+        "https://openalex.org/W2131635757",
+        "https://openalex.org/W2057735592",
+        "https://openalex.org/W2169314706",
+        "https://openalex.org/W2128372969",
+        "https://openalex.org/W2018047968",
+        "https://openalex.org/W1963883425",
+        "https://openalex.org/W2057664862",
+        "https://openalex.org/W2031092624",
+        "https://openalex.org/W2125255226",
+        "https://openalex.org/W2099354060",
+        "https://openalex.org/W2153708500",
+        "https://openalex.org/W2089071167",
+        "https://openalex.org/W2006311614",
+        "https://openalex.org/W2005750438",
+        "https://openalex.org/W2018299191",
+        "https://openalex.org/W2101124659",
+        "https://openalex.org/W2149347736",
+        "https://openalex.org/W2166305690",
+        "https://openalex.org/W2108294118",
+        "https://openalex.org/W2091318280",
+        "https://openalex.org/W1986757395",
+        "https://openalex.org/W2086447147",
+        "https://openalex.org/W2091301272",
+        "https://openalex.org/W1999784374",
+        "https://openalex.org/W2163687125",
+        "https://openalex.org/W2096443213",
+        "https://openalex.org/W2064534815",
+        "https://openalex.org/W2078602442",
+        "https://openalex.org/W2022592403",
+        "https://openalex.org/W1970084545",
+        "https://openalex.org/W2059627836",
+        "https://openalex.org/W2104189793",
+        "https://openalex.org/W2090141876",
+        "https://openalex.org/W2079176543",
+        "https://openalex.org/W2102356712",
+        "https://openalex.org/W2071775050",
+        "https://openalex.org/W2028520710",
+        "https://openalex.org/W2132924772",
+        "https://openalex.org/W2065096458",
+        "https://openalex.org/W2153345564",
+        "https://openalex.org/W2050980777",
+        "https://openalex.org/W2046365343",
+        "https://openalex.org/W2137975564",
+        "https://openalex.org/W2138092468",
+        "https://openalex.org/W2031922762",
+        "https://openalex.org/W2076021309",
+        "https://openalex.org/W2047926969",
+        "https://openalex.org/W2156099755",
+        "https://openalex.org/W2084647588",
+        "https://openalex.org/W2052837677",
+        "https://openalex.org/W2134556720",
+        "https://openalex.org/W609797524",
+        "https://openalex.org/W2074669617",
+        "https://openalex.org/W2025660010",
+        "https://openalex.org/W2092159735",
+        "https://openalex.org/W2061124480",
+        "https://openalex.org/W1501595855",
+        "https://openalex.org/W2031875226",
+        "https://openalex.org/W1863849972",
+        "https://openalex.org/W2060761342",
+        "https://openalex.org/W2067469434",
+        "https://openalex.org/W2038659813",
+        "https://openalex.org/W2111964645",
+        "https://openalex.org/W2053371124",
+        "https://openalex.org/W1986346898",
+        "https://openalex.org/W2488264003",
+        "https://openalex.org/W2057013770",
+        "https://openalex.org/W2156160073",
+        "https://openalex.org/W1540762994",
+        "https://openalex.org/W2040545352",
+        "https://openalex.org/W1234758719",
+        "https://openalex.org/W2115219734",
+        "https://openalex.org/W2041716350",
+        "https://openalex.org/W2116525913",
+        "https://openalex.org/W2055279992",
+        "https://openalex.org/W2004596168",
+        "https://openalex.org/W2400247365",
+        "https://openalex.org/W2057276493",
+        "https://openalex.org/W2034219086",
+        "https://openalex.org/W2127338728",
+        "https://openalex.org/W1986503780",
+        "https://openalex.org/W1964430379",
+        "https://openalex.org/W1982623206",
+        "https://openalex.org/W2151859326",
+        "https://openalex.org/W2045609006",
+        "https://openalex.org/W2030864846",
+        "https://openalex.org/W1987748396",
+        "https://openalex.org/W1988816666",
+        "https://openalex.org/W2033724648",
+        "https://openalex.org/W2054375945",
+        "https://openalex.org/W2045543760",
+        "https://openalex.org/W2062272808",
+        "https://openalex.org/W2099475077",
+        "https://openalex.org/W1981794329",
+        "https://openalex.org/W2000676152",
+        "https://openalex.org/W623309718",
+        "https://openalex.org/W1998724638"
+      ],
+      "related_works": [
+        "https://openalex.org/W94655821",
+        "https://openalex.org/W2946266196",
+        "https://openalex.org/W2146546824",
+        "https://openalex.org/W2148326256",
+        "https://openalex.org/W2806999027",
+        "https://openalex.org/W2101321935",
+        "https://openalex.org/W2412490559",
+        "https://openalex.org/W1995989230",
+        "https://openalex.org/W1497442829",
+        "https://openalex.org/W2003225678",
+        "https://openalex.org/W2627054864",
+        "https://openalex.org/W2064666459",
+        "https://openalex.org/W81981947",
+        "https://openalex.org/W303027215",
+        "https://openalex.org/W2040545352",
+        "https://openalex.org/W1575574674",
+        "https://openalex.org/W194841800",
+        "https://openalex.org/W2790957342",
+        "https://openalex.org/W2108656324",
+        "https://openalex.org/W2113520244"
+      ],
+      "abstract_inverted_index": {
+        "1253": [
+          59
+        ],
+        "Sentence": [
+          0
+        ],
+        "recall": [
+          1,
+          20,
+          44,
+          66
+        ],
+        "has": [
+          2,
+          34
+        ],
+        "been": [
+          3,
+          36
+        ],
+        "identified": [
+          4
+        ],
+        "as": [
+          5
+        ],
+        "a": [
+          6,
+          64,
+          91
+        ],
+        "potential": [
+          7
+        ],
+        "clinical": [
+          8
+        ],
+        "marker": [
+          9
+        ],
+        "of": [
+          10,
+          90,
+          159
+        ],
+        "Specific": [
+          11
+        ],
+        "Language": [
+          12,
+          31
+        ],
+        "Impairment": [
+          13
+        ],
+        "(SLI).": [
+          14
+        ],
+        "The": [
+          15,
+          117,
+          156
+        ],
+        "extent": [
+          16
+        ],
+        "to": [
+          17,
+          49,
+          105
+        ],
+        "which": [
+          18
+        ],
+        "sentence": [
+          19,
+          43,
+          65
+        ],
+        "may": [
+          21,
+          45
+        ],
+        "be": [
+          22,
+          46
+        ],
+        "useful": [
+          23
+        ],
+        "in": [
+          24,
+          94,
+          98,
+          152
+        ],
+        "distinguishing": [
+          25
+        ],
+        "children": [
+          26,
+          62
+        ],
+        "with": [
+          27
+        ],
+        "SLI": [
+          28
+        ],
+        "from": [
+          29
+        ],
+        "English": [
+          30,
+          77
+        ],
+        "Learners": [
+          32
+        ],
+        "(ELL)": [
+          33
+        ],
+        "not": [
+          35
+        ],
+        "examined.": [
+          37
+        ],
+        "Despite": [
+          38
+        ],
+        "tapping": [
+          39
+        ],
+        "existing": [
+          40
+        ],
+        "language": [
+          41,
+          75,
+          85,
+          96
+        ],
+        "knowledge,": [
+          42
+        ],
+        "sufficiently": [
+          47
+        ],
+        "sensitive": [
+          48
+        ],
+        "reveal": [
+          50
+        ],
+        "differences": [
+          51
+        ],
+        "between": [
+          52
+        ],
+        "these": [
+          53,
+          160
+        ],
+        "groups.": [
+          54
+        ],
+        "In": [
+          55
+        ],
+        "the": [
+          56,
+          88,
+          121,
+          133,
+          140,
+          144,
+          149,
+          153
+        ],
+        "present": [
+          57
+        ],
+        "study,": [
+          58
+        ],
+        "school": [
+          60
+        ],
+        "age": [
+          61
+        ],
+        "completed": [
+          63
+        ],
+        "task": [
+          67
+        ],
+        "and": [
+          68,
+          78,
+          143
+        ],
+        "their": [
+          69,
+          73
+        ],
+        "parents": [
+          70
+        ],
+        "declared": [
+          71
+        ],
+        "whether": [
+          72,
+          79
+        ],
+        "first": [
+          74
+        ],
+        "was": [
+          76,
+          162
+        ],
+        "there": [
+          80
+        ],
+        "were": [
+          81
+        ],
+        "any": [
+          82
+        ],
+        "concerns": [
+          83
+        ],
+        "about": [
+          84
+        ],
+        "development.": [
+          86
+        ],
+        "Given": [
+          87
+        ],
+        "lack": [
+          89
+        ],
+        "gold": [
+          92
+        ],
+        "standard": [
+          93
+        ],
+        "identifying": [
+          95
+        ],
+        "impairment": [
+          97
+        ],
+        "bilingual": [
+          99
+        ],
+        "groups,": [
+          100
+        ],
+        "we": [
+          101
+        ],
+        "used": [
+          102
+        ],
+        "parental": [
+          103
+        ],
+        "concern": [
+          104
+        ],
+        "compare": [
+          106
+        ],
+        "four": [
+          107
+        ],
+        "groups:": [
+          108
+        ],
+        "(1)": [
+          109
+        ],
+        "monolingual-no-parental-concerns;": [
+          110
+        ],
+        "(2)": [
+          111
+        ],
+        "monolingual-with-concerns;": [
+          112
+        ],
+        "(3)": [
+          113
+        ],
+        "ELL-no-concerns;": [
+          114
+        ],
+        "(4)": [
+          115
+        ],
+        "ELL-with-concerns.": [
+          116
+        ],
+        "results": [
+          118
+        ],
+        "indicated": [
+          119
+        ],
+        "that": [
+          120
+        ],
+        "monolingual-no-concerns": [
+          122
+        ],
+        "group": [
+          123,
+          135,
+          142,
+          146
+        ],
+        "recalled": [
+          124
+        ],
+        "sentences": [
+          125
+        ],
+        "more": [
+          126
+        ],
+        "accurately": [
+          127
+        ],
+        "than": [
+          128
+        ],
+        "all": [
+          129
+        ],
+        "remaining": [
+          130
+        ],
+        "groups": [
+          131
+        ],
+        "while": [
+          132
+        ],
+        "ELL-with-concerns": [
+          134
+        ],
+        "performed": [
+          136
+        ],
+        "least": [
+          137
+        ],
+        "well.": [
+          138
+        ],
+        "Interestingly,": [
+          139
+        ],
+        "monolingual-with-concern": [
+          141
+        ],
+        "ELL-no-concern": [
+          145
+        ],
+        "achieved": [
+          147
+        ],
+        "almost": [
+          148
+        ],
+        "similar": [
+          150
+        ],
+        "scores": [
+          151
+        ],
+        "middle": [
+          154
+        ],
+        "range.": [
+          155
+        ],
+        "developmental": [
+          157
+        ],
+        "consistency": [
+          158
+        ],
+        "findings": [
+          161
+        ],
+        "striking": [
+          163
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2025-11-06T06:51:31.235846",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  ],
+  "group_by": []
+}

@@ -6,7 +6,13 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Dr. Howaida Moawad Ahmed",
+      "family": "Ali",
+      "sequence": 1
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.5281__zenodo.3742099.pdf"
@@ -14,5 +20,11 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.5281-zenodo.3742099"
+  "id": "doi-10.5281-zenodo.3742099",
+  "journal": {
+    "name": "Zenodo (CERN European Organization for Nuclear Research)"
+  },
+  "publication": {
+    "year": 2020
+  }
 }

@@ -21,18 +21,26 @@
     "pages": {
       "start": "1",
       "end": "6"
-    }
+    },
+    "name": "i-manager’s Journal on Educational Psychology"
   },
   "access": {
-    "status": "unknown",
-    "source": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Involving-children-with-ADHD-and-their-parents-in-research-in-Saudi-Arabia.-Abed-M-2014.pdf",
-    "sourceUrl": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Involving-children-with-ADHD-and-their-parents-in-research-in-Saudi-Arabia.-Abed-M-2014.pdf",
+    "status": "closed",
     "localPdfUrl": "library/involving-children-with-adhd-and-their-parents-in-research-in-saudi-arabia-2014-03db9a0409.pdf"
   },
   "identifiers": {
-    "url": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Involving-children-with-ADHD-and-their-parents-in-research-in-Saudi-Arabia.-Abed-M-2014.pdf"
+    "doi": "10.26634/jpsy.8.2.2899"
   },
   "visibility": {
     "hidden": false
-  }
+  },
+  "authors": [
+    {
+      "given": "Mohaned G.",
+      "family": "Abed",
+      "orcid": "https://orcid.org/0000-0002-3425-4725",
+      "sequence": 1
+    }
+  ],
+  "doi": "10.26634/jpsy.8.2.2899"
 }

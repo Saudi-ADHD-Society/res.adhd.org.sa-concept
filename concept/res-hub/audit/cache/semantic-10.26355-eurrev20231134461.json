@@ -1,0 +1,55 @@
+{
+  "paperId": "6320b2a8b7df397ca6ce6f20ad49e9bcbd0c81d6",
+  "title": "Adult Attention Deficit Hyperactivity Disorder (ADHD) among residents of Saudi Arabia: a cross-sectional study.",
+  "venue": "European Review for Medical and Pharmacological Sciences",
+  "year": 2023,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.26355/eurrev_202311_34461?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.26355/eurrev_202311_34461, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "authors": [
+    {
+      "authorId": "1411990763",
+      "name": "N. Alharbi"
+    },
+    {
+      "authorId": "2270296429",
+      "name": "K. F. Alotaibi"
+    },
+    {
+      "authorId": "2270288354",
+      "name": "G. K. Althaqel"
+    },
+    {
+      "authorId": "2270295521",
+      "name": "N. Y. Alasmari"
+    },
+    {
+      "authorId": "2090514947",
+      "name": "A. F. Alahmari"
+    },
+    {
+      "authorId": "2270297737",
+      "name": "O. Y. Alasmari"
+    },
+    {
+      "authorId": "2270088608",
+      "name": "M. S. Alshahrani"
+    },
+    {
+      "authorId": "2270304005",
+      "name": "L. A. Alghamdi"
+    },
+    {
+      "authorId": "2270293356",
+      "name": "H. A. Alrashed"
+    },
+    {
+      "authorId": "2270300155",
+      "name": "N. A. Shugair"
+    }
+  ],
+  "abstract": null
+}

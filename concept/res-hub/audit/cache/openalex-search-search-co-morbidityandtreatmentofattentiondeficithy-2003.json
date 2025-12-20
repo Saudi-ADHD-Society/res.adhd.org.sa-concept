@@ -1,0 +1,1235 @@
+{
+  "meta": {
+    "count": 1,
+    "db_response_time_ms": 37,
+    "page": 1,
+    "per_page": 10,
+    "groups_count": null
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W1602893043",
+      "doi": "https://doi.org/10.26719/2003.9.5-6.988",
+      "title": "Co-morbidity and treatment of attention deficit hyperactivity disorder in Saudi Arabia",
+      "display_name": "Co-morbidity and treatment of attention deficit hyperactivity disorder in Saudi Arabia",
+      "relevance_score": 1757.6908,
+      "publication_year": 2003,
+      "publication_date": "2003-03-31",
+      "ids": {
+        "openalex": "https://openalex.org/W1602893043",
+        "doi": "https://doi.org/10.26719/2003.9.5-6.988",
+        "mag": "1602893043",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/16450529"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.26719/2003.9.5-6.988",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.26719/2003.9.5-6.988",
+        "pdf_url": "https://doi.org/10.26719/2003.9.5-6.988",
+        "source": {
+          "id": "https://openalex.org/S175879142",
+          "display_name": "Eastern Mediterranean Health Journal",
+          "issn_l": "1020-3397",
+          "issn": [
+            "1020-3397",
+            "1687-1634"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319663",
+          "host_organization_name": "World Health Organization",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319663",
+            "https://openalex.org/P4310321776"
+          ],
+          "host_organization_lineage_names": [
+            "World Health Organization",
+            "United Nations"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Eastern Mediterranean Health Journal",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://doi.org/10.26719/2003.9.5-6.988",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5109881142",
+            "display_name": "Farah Al Haidar",
+            "orcid": "https://orcid.org/0009-0009-4044-1111"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210138988",
+              "display_name": "King Khalid University Hospital",
+              "ror": "https://ror.org/046gga527",
+              "country_code": "SA",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210138988"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "F. A. Al Haidar",
+          "raw_affiliation_strings": [
+            "Department of Psychiatry, King Khalid University Hospital, Riyadh, Saudi Arabia.",
+            "La Revue de Santé de la Méditerranée orientale,"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "La Revue de Santé de la Méditerranée orientale,",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Department of Psychiatry, King Khalid University Hospital, Riyadh, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I4210138988"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5109881142"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210138988"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.19897334,
+      "has_fulltext": true,
+      "cited_by_count": 24,
+      "citation_normalized_percentile": {
+        "value": 0.48495456,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "9",
+        "issue": "5-6",
+        "first_page": "988",
+        "last_page": "995"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10537",
+        "display_name": "Attention Deficit Hyperactivity Disorder",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2738",
+          "display_name": "Psychiatry and Mental health"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10537",
+          "display_name": "Attention Deficit Hyperactivity Disorder",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2738",
+            "display_name": "Psychiatry and Mental health"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10182",
+          "display_name": "Child and Adolescent Psychosocial and Emotional Development",
+          "score": 0.9538000226020813,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3203",
+            "display_name": "Clinical Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10854",
+          "display_name": "Bipolar Disorder and Treatment",
+          "score": 0.911899983882904,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2738",
+            "display_name": "Psychiatry and Mental health"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/methylphenidate",
+          "display_name": "Methylphenidate",
+          "score": 0.8728086948394775
+        },
+        {
+          "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+          "display_name": "Attention deficit hyperactivity disorder",
+          "score": 0.6955735683441162
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.6081209778785706
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.5983990430831909
+        },
+        {
+          "id": "https://openalex.org/keywords/imipramine",
+          "display_name": "Imipramine",
+          "score": 0.5804373025894165
+        },
+        {
+          "id": "https://openalex.org/keywords/retrospective-cohort-study",
+          "display_name": "Retrospective cohort study",
+          "score": 0.512129545211792
+        },
+        {
+          "id": "https://openalex.org/keywords/pediatrics",
+          "display_name": "Pediatrics",
+          "score": 0.4739537239074707
+        },
+        {
+          "id": "https://openalex.org/keywords/attention-deficit-disorder",
+          "display_name": "Attention deficit disorder",
+          "score": 0.4369209408760071
+        },
+        {
+          "id": "https://openalex.org/keywords/alternative-medicine",
+          "display_name": "Alternative medicine",
+          "score": 0.12357360124588013
+        },
+        {
+          "id": "https://openalex.org/keywords/internal-medicine",
+          "display_name": "Internal medicine",
+          "score": 0.11773490905761719
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2777112843",
+          "wikidata": "https://www.wikidata.org/wiki/Q422112",
+          "display_name": "Methylphenidate",
+          "level": 3,
+          "score": 0.8728086948394775
+        },
+        {
+          "id": "https://openalex.org/C2780783007",
+          "wikidata": "https://www.wikidata.org/wiki/Q181923",
+          "display_name": "Attention deficit hyperactivity disorder",
+          "level": 2,
+          "score": 0.6955735683441162
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.6081209778785706
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.5983990430831909
+        },
+        {
+          "id": "https://openalex.org/C2779145073",
+          "wikidata": "https://www.wikidata.org/wiki/Q58396",
+          "display_name": "Imipramine",
+          "level": 3,
+          "score": 0.5804373025894165
+        },
+        {
+          "id": "https://openalex.org/C167135981",
+          "wikidata": "https://www.wikidata.org/wiki/Q2146302",
+          "display_name": "Retrospective cohort study",
+          "level": 2,
+          "score": 0.512129545211792
+        },
+        {
+          "id": "https://openalex.org/C187212893",
+          "wikidata": "https://www.wikidata.org/wiki/Q123028",
+          "display_name": "Pediatrics",
+          "level": 1,
+          "score": 0.4739537239074707
+        },
+        {
+          "id": "https://openalex.org/C2994409691",
+          "wikidata": "https://www.wikidata.org/wiki/Q181923",
+          "display_name": "Attention deficit disorder",
+          "level": 2,
+          "score": 0.4369209408760071
+        },
+        {
+          "id": "https://openalex.org/C204787440",
+          "wikidata": "https://www.wikidata.org/wiki/Q188504",
+          "display_name": "Alternative medicine",
+          "level": 2,
+          "score": 0.12357360124588013
+        },
+        {
+          "id": "https://openalex.org/C126322002",
+          "wikidata": "https://www.wikidata.org/wiki/Q11180",
+          "display_name": "Internal medicine",
+          "level": 1,
+          "score": 0.11773490905761719
+        },
+        {
+          "id": "https://openalex.org/C142724271",
+          "wikidata": "https://www.wikidata.org/wiki/Q7208",
+          "display_name": "Pathology",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [
+        {
+          "descriptor_ui": "D000929",
+          "descriptor_name": "Antidepressive Agents, Tricyclic",
+          "qualifier_ui": "Q000627",
+          "qualifier_name": "therapeutic use",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001289",
+          "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+          "qualifier_ui": "Q000150",
+          "qualifier_name": "complications",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001289",
+          "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+          "qualifier_ui": "Q000175",
+          "qualifier_name": "diagnosis",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001289",
+          "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+          "qualifier_ui": "Q000453",
+          "qualifier_name": "epidemiology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001289",
+          "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+          "qualifier_ui": "Q000628",
+          "qualifier_name": "therapy",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001521",
+          "descriptor_name": "Behavior Therapy",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000697",
+          "descriptor_name": "Central Nervous System Stimulants",
+          "qualifier_ui": "Q000627",
+          "qualifier_name": "therapeutic use",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D002648",
+          "descriptor_name": "Child",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D002665",
+          "descriptor_name": "Child Psychiatry",
+          "qualifier_ui": "Q000379",
+          "qualifier_name": "methods",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D003131",
+          "descriptor_name": "Combined Modality Therapy",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D015897",
+          "descriptor_name": "Comorbidity",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005196",
+          "descriptor_name": "Family Therapy",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005260",
+          "descriptor_name": "Female",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006785",
+          "descriptor_name": "Hospitals, University",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D007099",
+          "descriptor_name": "Imipramine",
+          "qualifier_ui": "Q000627",
+          "qualifier_name": "therapeutic use",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008607",
+          "descriptor_name": "Intellectual Disability",
+          "qualifier_ui": "Q000150",
+          "qualifier_name": "complications",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008607",
+          "descriptor_name": "Intellectual Disability",
+          "qualifier_ui": "Q000453",
+          "qualifier_name": "epidemiology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D007806",
+          "descriptor_name": "Language Disorders",
+          "qualifier_ui": "Q000150",
+          "qualifier_name": "complications",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D007806",
+          "descriptor_name": "Language Disorders",
+          "qualifier_ui": "Q000453",
+          "qualifier_name": "epidemiology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008297",
+          "descriptor_name": "Male",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008774",
+          "descriptor_name": "Methylphenidate",
+          "qualifier_ui": "Q000627",
+          "qualifier_name": "therapeutic use",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D010044",
+          "descriptor_name": "Outpatient Clinics, Hospital",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D015995",
+          "descriptor_name": "Prevalence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012111",
+          "descriptor_name": "Residence Characteristics",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012189",
+          "descriptor_name": "Retrospective Studies",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012529",
+          "descriptor_name": "Saudi Arabia",
+          "qualifier_ui": "Q000453",
+          "qualifier_name": "epidemiology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D017678",
+          "descriptor_name": "Sex Distribution",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D016896",
+          "descriptor_name": "Treatment Outcome",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000929",
+          "descriptor_name": "Antidepressive Agents, Tricyclic",
+          "qualifier_ui": "Q000627",
+          "qualifier_name": "therapeutic use",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001289",
+          "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+          "qualifier_ui": "Q000150",
+          "qualifier_name": "complications",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001289",
+          "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+          "qualifier_ui": "Q000175",
+          "qualifier_name": "diagnosis",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001289",
+          "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+          "qualifier_ui": "Q000453",
+          "qualifier_name": "epidemiology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001289",
+          "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+          "qualifier_ui": "Q000628",
+          "qualifier_name": "therapy",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001521",
+          "descriptor_name": "Behavior Therapy",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000697",
+          "descriptor_name": "Central Nervous System Stimulants",
+          "qualifier_ui": "Q000627",
+          "qualifier_name": "therapeutic use",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D002648",
+          "descriptor_name": "Child",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D002665",
+          "descriptor_name": "Child Psychiatry",
+          "qualifier_ui": "Q000379",
+          "qualifier_name": "methods",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D003131",
+          "descriptor_name": "Combined Modality Therapy",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D015897",
+          "descriptor_name": "Comorbidity",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005196",
+          "descriptor_name": "Family Therapy",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005260",
+          "descriptor_name": "Female",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006785",
+          "descriptor_name": "Hospitals, University",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D007099",
+          "descriptor_name": "Imipramine",
+          "qualifier_ui": "Q000627",
+          "qualifier_name": "therapeutic use",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008607",
+          "descriptor_name": "Intellectual Disability",
+          "qualifier_ui": "Q000150",
+          "qualifier_name": "complications",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008607",
+          "descriptor_name": "Intellectual Disability",
+          "qualifier_ui": "Q000453",
+          "qualifier_name": "epidemiology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D007806",
+          "descriptor_name": "Language Disorders",
+          "qualifier_ui": "Q000150",
+          "qualifier_name": "complications",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D007806",
+          "descriptor_name": "Language Disorders",
+          "qualifier_ui": "Q000453",
+          "qualifier_name": "epidemiology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008297",
+          "descriptor_name": "Male",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008774",
+          "descriptor_name": "Methylphenidate",
+          "qualifier_ui": "Q000627",
+          "qualifier_name": "therapeutic use",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D010044",
+          "descriptor_name": "Outpatient Clinics, Hospital",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D015995",
+          "descriptor_name": "Prevalence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012111",
+          "descriptor_name": "Residence Characteristics",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012189",
+          "descriptor_name": "Retrospective Studies",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012529",
+          "descriptor_name": "Saudi Arabia",
+          "qualifier_ui": "Q000453",
+          "qualifier_name": "epidemiology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D017678",
+          "descriptor_name": "Sex Distribution",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D016896",
+          "descriptor_name": "Treatment Outcome",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        }
+      ],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.26719/2003.9.5-6.988",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.26719/2003.9.5-6.988",
+          "pdf_url": "https://doi.org/10.26719/2003.9.5-6.988",
+          "source": {
+            "id": "https://openalex.org/S175879142",
+            "display_name": "Eastern Mediterranean Health Journal",
+            "issn_l": "1020-3397",
+            "issn": [
+              "1020-3397",
+              "1687-1634"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319663",
+            "host_organization_name": "World Health Organization",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319663",
+              "https://openalex.org/P4310321776"
+            ],
+            "host_organization_lineage_names": [
+              "World Health Organization",
+              "United Nations"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Eastern Mediterranean Health Journal",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:16450529",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/16450529",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Eastern Mediterranean health journal = La revue de sante de la Mediterranee orientale = al-Majallah al-sihhiyah li-sharq al-mutawassit",
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.26719/2003.9.5-6.988",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.26719/2003.9.5-6.988",
+        "pdf_url": "https://doi.org/10.26719/2003.9.5-6.988",
+        "source": {
+          "id": "https://openalex.org/S175879142",
+          "display_name": "Eastern Mediterranean Health Journal",
+          "issn_l": "1020-3397",
+          "issn": [
+            "1020-3397",
+            "1687-1634"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319663",
+          "host_organization_name": "World Health Organization",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319663",
+            "https://openalex.org/P4310321776"
+          ],
+          "host_organization_lineage_names": [
+            "World Health Organization",
+            "United Nations"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Eastern Mediterranean Health Journal",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.6299999952316284,
+          "display_name": "Good health and well-being",
+          "id": "https://metadata.un.org/sdg/3"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "referenced_works_count": 28,
+      "referenced_works": [
+        "https://openalex.org/W2054555385",
+        "https://openalex.org/W2060149847",
+        "https://openalex.org/W1907913791",
+        "https://openalex.org/W4205387604",
+        "https://openalex.org/W4244256930",
+        "https://openalex.org/W2032018732",
+        "https://openalex.org/W4249508602",
+        "https://openalex.org/W2020166566",
+        "https://openalex.org/W2167367466",
+        "https://openalex.org/W2014864409",
+        "https://openalex.org/W2043537094",
+        "https://openalex.org/W1997216824",
+        "https://openalex.org/W4255538138",
+        "https://openalex.org/W4240276837",
+        "https://openalex.org/W2060394686",
+        "https://openalex.org/W2127851575",
+        "https://openalex.org/W4231078079",
+        "https://openalex.org/W2013845620",
+        "https://openalex.org/W2044113231",
+        "https://openalex.org/W2023323019",
+        "https://openalex.org/W4252882327",
+        "https://openalex.org/W2047047646",
+        "https://openalex.org/W1976167965",
+        "https://openalex.org/W2028250101",
+        "https://openalex.org/W1925687875",
+        "https://openalex.org/W1604476085",
+        "https://openalex.org/W2006058627",
+        "https://openalex.org/W1986211709"
+      ],
+      "related_works": [
+        "https://openalex.org/W4235309561",
+        "https://openalex.org/W2372624207",
+        "https://openalex.org/W2505393482",
+        "https://openalex.org/W3157204895",
+        "https://openalex.org/W4253279078",
+        "https://openalex.org/W4229070625",
+        "https://openalex.org/W2018209581",
+        "https://openalex.org/W2769102483",
+        "https://openalex.org/W2807107960",
+        "https://openalex.org/W2883769265"
+      ],
+      "abstract_inverted_index": {
+        "19": [
+          30
+        ],
+        "To": [
+          0
+        ],
+        "review": [
+          1
+        ],
+        "the": [
+          2,
+          35,
+          55,
+          89
+        ],
+        "experience": [
+          3
+        ],
+        "of": [
+          4,
+          14,
+          54
+        ],
+        "a": [
+          5,
+          22,
+          102
+        ],
+        "child": [
+          6
+        ],
+        "psychiatric": [
+          7
+        ],
+        "clinic": [
+          8,
+          36
+        ],
+        "regarding": [
+          9
+        ],
+        "co-morbidity": [
+          10
+        ],
+        "and": [
+          11,
+          37,
+          43,
+          65
+        ],
+        "treatment": [
+          12,
+          44
+        ],
+        "characteristics": [
+          13,
+          45
+        ],
+        "children": [
+          15
+        ],
+        "with": [
+          16,
+          40
+        ],
+        "attention": [
+          17
+        ],
+        "deficit": [
+          18
+        ],
+        "hyperactivity": [
+          19
+        ],
+        "disorder": [
+          20,
+          64
+        ],
+        "[ADHD],": [
+          21
+        ],
+        "retrospective": [
+          23
+        ],
+        "study": [
+          24
+        ],
+        "was": [
+          25,
+          50,
+          74,
+          88
+        ],
+        "done": [
+          26
+        ],
+        "on": [
+          27
+        ],
+        "patients": [
+          28
+        ],
+        "under": [
+          29
+        ],
+        "years": [
+          31
+        ],
+        "who": [
+          32
+        ],
+        "were": [
+          33,
+          38,
+          46,
+          82,
+          95
+        ],
+        "attending": [
+          34
+        ],
+        "diagnosed": [
+          39,
+          51
+        ],
+        "ADHD.": [
+          41
+        ],
+        "Co-morbidity": [
+          42
+        ],
+        "also": [
+          47
+        ],
+        "studied.": [
+          48
+        ],
+        "ADHD": [
+          49
+        ],
+        "in": [
+          52
+        ],
+        "25.5%": [
+          53
+        ],
+        "patients.": [
+          56
+        ],
+        "Of": [
+          57
+        ],
+        "these,": [
+          58
+        ],
+        "28.3%": [
+          59
+        ],
+        "had": [
+          60,
+          101
+        ],
+        "coexistent": [
+          61,
+          67
+        ],
+        "expressive": [
+          62
+        ],
+        "language": [
+          63
+        ],
+        "38.7%": [
+          66
+        ],
+        "mild": [
+          68
+        ],
+        "mental": [
+          69
+        ],
+        "retardation.": [
+          70
+        ],
+        "A": [
+          71
+        ],
+        "psychostimulant": [
+          72
+        ],
+        "[methylphenidate]": [
+          73
+        ],
+        "prescribed": [
+          75,
+          83
+        ],
+        "to": [
+          76,
+          84
+        ],
+        "23.6%": [
+          77
+        ],
+        "while": [
+          78
+        ],
+        "antidepressants": [
+          79
+        ],
+        "[primarily": [
+          80
+        ],
+        "imipramine]": [
+          81
+        ],
+        "35.9%.": [
+          85
+        ],
+        "Behavioural": [
+          86
+        ],
+        "therapy": [
+          87
+        ],
+        "most": [
+          90
+        ],
+        "commonly": [
+          91
+        ],
+        "offered": [
+          92
+        ],
+        "psychotherapy.": [
+          93
+        ],
+        "Antidepressants": [
+          94
+        ],
+        "used": [
+          96
+        ],
+        "more": [
+          97,
+          103
+        ],
+        "than": [
+          98,
+          106
+        ],
+        "psychostimulants.": [
+          99
+        ],
+        "Psychotropics": [
+          100
+        ],
+        "beneficial": [
+          104
+        ],
+        "effect": [
+          105
+        ],
+        "psychotherapy": [
+          107
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  ],
+  "group_by": []
+}

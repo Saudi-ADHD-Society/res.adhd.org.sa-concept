@@ -28,15 +28,32 @@
     }
   },
   "access": {
-    "status": "unknown",
-    "source": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/EMHJ-2012-Al-Habeeb1.pdf",
-    "sourceUrl": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/EMHJ-2012-Al-Habeeb1.pdf",
-    "localPdfUrl": "library/pattern-of-child-and-adolescent-psychiatric-disorders-among-patients-consulting-publicly-funded-child-psychiatric-clinics-in-saudi-arabia-2012-5bd09f8a16.pdf"
+    "status": "open",
+    "localPdfUrl": "library/pattern-of-child-and-adolescent-psychiatric-disorders-among-patients-consulting-publicly-funded-child-psychiatric-clinics-in-saudi-arabia-2012-5bd09f8a16.pdf",
+    "sourceUrl": "https://doi.org/10.26719/2012.18.2.112"
   },
   "identifiers": {
-    "url": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/EMHJ-2012-Al-Habeeb1.pdf"
+    "doi": "10.26719/2012.18.2.112"
   },
   "visibility": {
     "hidden": false
-  }
+  },
+  "authors": [
+    {
+      "given": "Abdulhameed Abdullah",
+      "family": "Alhabeeb",
+      "sequence": 1
+    },
+    {
+      "given": "N.A.",
+      "family": "Qureshi",
+      "sequence": 2
+    },
+    {
+      "given": "T.A.",
+      "family": "Al-Maliki",
+      "sequence": 3
+    }
+  ],
+  "doi": "10.26719/2012.18.2.112"
 }

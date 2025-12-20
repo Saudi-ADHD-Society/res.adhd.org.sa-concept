@@ -31,5 +31,18 @@
   },
   "visibility": {
     "hidden": false
-  }
+  },
+  "authors": [
+    {
+      "given": "Gehan M.",
+      "family": "Ahmed",
+      "orcid": "https://orcid.org/0000-0002-9650-6203",
+      "sequence": 1
+    },
+    {
+      "given": "Samiha",
+      "family": "Mohamed",
+      "sequence": 2
+    }
+  ]
 }

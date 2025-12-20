@@ -1,0 +1,882 @@
+{
+  "meta": {
+    "count": 1,
+    "db_response_time_ms": 85,
+    "page": 1,
+    "per_page": 10,
+    "groups_count": null
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2218051891",
+      "doi": null,
+      "title": "Challenging Gifted Children and the Phenomenon of AD/HD: A Qualitative Study of Teachers' and Parents' Perceptions in a Saudi Arabian Primary School",
+      "display_name": "Challenging Gifted Children and the Phenomenon of AD/HD: A Qualitative Study of Teachers' and Parents' Perceptions in a Saudi Arabian Primary School",
+      "relevance_score": 1015.8422,
+      "publication_year": 2010,
+      "publication_date": "2010-06-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2218051891",
+        "mag": "2218051891"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "mag:2218051891",
+        "is_oa": false,
+        "landing_page_url": "https://adhd.org.sa/wp-content/uploads/2014/05/G-Education-2010-Alamiri.pdf",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764897733",
+          "display_name": "Australasian Journal of Gifted Education",
+          "issn_l": "1323-9686",
+          "issn": [
+            "1323-9686"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Australasian Journal of Gifted Education",
+        "raw_type": null
+      },
+      "type": "article",
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5075479833",
+            "display_name": "Faisal Alamiri",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Faisal Alamiri",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5109227719",
+            "display_name": "Michael Faulkner",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Michael Faulkner",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 3,
+      "citation_normalized_percentile": {
+        "value": 0.21319843,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 94
+      },
+      "biblio": {
+        "volume": "19",
+        "issue": "1",
+        "first_page": "6",
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10547",
+        "display_name": "Education, Achievement, and Giftedness",
+        "score": 0.9993000030517578,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3205",
+          "display_name": "Experimental and Cognitive Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10547",
+          "display_name": "Education, Achievement, and Giftedness",
+          "score": 0.9993000030517578,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3205",
+            "display_name": "Experimental and Cognitive Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11400",
+          "display_name": "Motivation and Self-Concept in Sports",
+          "score": 0.9959999918937683,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11998",
+          "display_name": "Youth Development and Social Support",
+          "score": 0.9876000285148621,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3311",
+            "display_name": "Safety Research"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/confusion",
+          "display_name": "Confusion",
+          "score": 0.7596746683120728
+        },
+        {
+          "id": "https://openalex.org/keywords/mainstream",
+          "display_name": "Mainstream",
+          "score": 0.7192710041999817
+        },
+        {
+          "id": "https://openalex.org/keywords/perception",
+          "display_name": "Perception",
+          "score": 0.6617593765258789
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.6319849491119385
+        },
+        {
+          "id": "https://openalex.org/keywords/qualitative-research",
+          "display_name": "Qualitative research",
+          "score": 0.6203219890594482
+        },
+        {
+          "id": "https://openalex.org/keywords/developmental-psychology",
+          "display_name": "Developmental psychology",
+          "score": 0.558857262134552
+        },
+        {
+          "id": "https://openalex.org/keywords/gifted-education",
+          "display_name": "Gifted education",
+          "score": 0.5559666752815247
+        },
+        {
+          "id": "https://openalex.org/keywords/project-commissioning",
+          "display_name": "Project commissioning",
+          "score": 0.5384056568145752
+        },
+        {
+          "id": "https://openalex.org/keywords/interpretative-phenomenological-analysis",
+          "display_name": "Interpretative phenomenological analysis",
+          "score": 0.47263285517692566
+        },
+        {
+          "id": "https://openalex.org/keywords/phenomenology",
+          "display_name": "Phenomenology (philosophy)",
+          "score": 0.43700188398361206
+        },
+        {
+          "id": "https://openalex.org/keywords/phenomenon",
+          "display_name": "Phenomenon",
+          "score": 0.42534366250038147
+        },
+        {
+          "id": "https://openalex.org/keywords/publishing",
+          "display_name": "Publishing",
+          "score": 0.3949536681175232
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics-education",
+          "display_name": "Mathematics education",
+          "score": 0.3271697163581848
+        },
+        {
+          "id": "https://openalex.org/keywords/social-science",
+          "display_name": "Social science",
+          "score": 0.1310579478740692
+        },
+        {
+          "id": "https://openalex.org/keywords/sociology",
+          "display_name": "Sociology",
+          "score": 0.1237020194530487
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2781140086",
+          "wikidata": "https://www.wikidata.org/wiki/Q557945",
+          "display_name": "Confusion",
+          "level": 2,
+          "score": 0.7596746683120728
+        },
+        {
+          "id": "https://openalex.org/C2777617010",
+          "wikidata": "https://www.wikidata.org/wiki/Q18957",
+          "display_name": "Mainstream",
+          "level": 2,
+          "score": 0.7192710041999817
+        },
+        {
+          "id": "https://openalex.org/C26760741",
+          "wikidata": "https://www.wikidata.org/wiki/Q160402",
+          "display_name": "Perception",
+          "level": 2,
+          "score": 0.6617593765258789
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.6319849491119385
+        },
+        {
+          "id": "https://openalex.org/C190248442",
+          "wikidata": "https://www.wikidata.org/wiki/Q839486",
+          "display_name": "Qualitative research",
+          "level": 2,
+          "score": 0.6203219890594482
+        },
+        {
+          "id": "https://openalex.org/C138496976",
+          "wikidata": "https://www.wikidata.org/wiki/Q175002",
+          "display_name": "Developmental psychology",
+          "level": 1,
+          "score": 0.558857262134552
+        },
+        {
+          "id": "https://openalex.org/C72564820",
+          "wikidata": "https://www.wikidata.org/wiki/Q814279",
+          "display_name": "Gifted education",
+          "level": 2,
+          "score": 0.5559666752815247
+        },
+        {
+          "id": "https://openalex.org/C165347436",
+          "wikidata": "https://www.wikidata.org/wiki/Q1514547",
+          "display_name": "Project commissioning",
+          "level": 3,
+          "score": 0.5384056568145752
+        },
+        {
+          "id": "https://openalex.org/C113470044",
+          "wikidata": "https://www.wikidata.org/wiki/Q6056506",
+          "display_name": "Interpretative phenomenological analysis",
+          "level": 3,
+          "score": 0.47263285517692566
+        },
+        {
+          "id": "https://openalex.org/C84269361",
+          "wikidata": "https://www.wikidata.org/wiki/Q179235",
+          "display_name": "Phenomenology (philosophy)",
+          "level": 2,
+          "score": 0.43700188398361206
+        },
+        {
+          "id": "https://openalex.org/C50335755",
+          "wikidata": "https://www.wikidata.org/wiki/Q483247",
+          "display_name": "Phenomenon",
+          "level": 2,
+          "score": 0.42534366250038147
+        },
+        {
+          "id": "https://openalex.org/C151719136",
+          "wikidata": "https://www.wikidata.org/wiki/Q3972943",
+          "display_name": "Publishing",
+          "level": 2,
+          "score": 0.3949536681175232
+        },
+        {
+          "id": "https://openalex.org/C145420912",
+          "wikidata": "https://www.wikidata.org/wiki/Q853077",
+          "display_name": "Mathematics education",
+          "level": 1,
+          "score": 0.3271697163581848
+        },
+        {
+          "id": "https://openalex.org/C36289849",
+          "wikidata": "https://www.wikidata.org/wiki/Q34749",
+          "display_name": "Social science",
+          "level": 1,
+          "score": 0.1310579478740692
+        },
+        {
+          "id": "https://openalex.org/C144024400",
+          "wikidata": "https://www.wikidata.org/wiki/Q21201",
+          "display_name": "Sociology",
+          "level": 0,
+          "score": 0.1237020194530487
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C11171543",
+          "wikidata": "https://www.wikidata.org/wiki/Q41630",
+          "display_name": "Psychoanalysis",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C169760540",
+          "wikidata": "https://www.wikidata.org/wiki/Q207011",
+          "display_name": "Neuroscience",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C27206212",
+          "wikidata": "https://www.wikidata.org/wiki/Q34178",
+          "display_name": "Theology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C111472728",
+          "wikidata": "https://www.wikidata.org/wiki/Q9471",
+          "display_name": "Epistemology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C62520636",
+          "wikidata": "https://www.wikidata.org/wiki/Q944",
+          "display_name": "Quantum mechanics",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "mag:2218051891",
+          "is_oa": false,
+          "landing_page_url": "https://adhd.org.sa/wp-content/uploads/2014/05/G-Education-2010-Alamiri.pdf",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764897733",
+            "display_name": "Australasian Journal of Gifted Education",
+            "issn_l": "1323-9686",
+            "issn": [
+              "1323-9686"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": "Australasian Journal of Gifted Education",
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "score": 0.8700000047683716,
+          "display_name": "Quality Education"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "referenced_works_count": 24,
+      "referenced_works": [
+        "https://openalex.org/W2002678903",
+        "https://openalex.org/W62941269",
+        "https://openalex.org/W3212306793",
+        "https://openalex.org/W2073645804",
+        "https://openalex.org/W2197507563",
+        "https://openalex.org/W1653156779",
+        "https://openalex.org/W436145257",
+        "https://openalex.org/W105531690",
+        "https://openalex.org/W2090832797",
+        "https://openalex.org/W562340080",
+        "https://openalex.org/W2159175781",
+        "https://openalex.org/W143436174",
+        "https://openalex.org/W2030140342",
+        "https://openalex.org/W81808854",
+        "https://openalex.org/W1729549116",
+        "https://openalex.org/W2339399614",
+        "https://openalex.org/W2189567122",
+        "https://openalex.org/W1539265701",
+        "https://openalex.org/W1996444189",
+        "https://openalex.org/W321018022",
+        "https://openalex.org/W2053860594",
+        "https://openalex.org/W2112450657",
+        "https://openalex.org/W2074300080",
+        "https://openalex.org/W595273557"
+      ],
+      "related_works": [
+        "https://openalex.org/W1559314219",
+        "https://openalex.org/W2241829980",
+        "https://openalex.org/W2041131157",
+        "https://openalex.org/W2033370292",
+        "https://openalex.org/W1990455824",
+        "https://openalex.org/W2149973957",
+        "https://openalex.org/W2264661871",
+        "https://openalex.org/W2115462433",
+        "https://openalex.org/W2121252686",
+        "https://openalex.org/W1998169902",
+        "https://openalex.org/W2136177624",
+        "https://openalex.org/W2073458661",
+        "https://openalex.org/W2619070461",
+        "https://openalex.org/W2109582897",
+        "https://openalex.org/W2087869356",
+        "https://openalex.org/W2175719633",
+        "https://openalex.org/W1977921438",
+        "https://openalex.org/W2036138352",
+        "https://openalex.org/W1498474140",
+        "https://openalex.org/W2161994256"
+      ],
+      "abstract_inverted_index": {
+        "This": [
+          0
+        ],
+        "study": [
+          1,
+          30
+        ],
+        "overviews": [
+          2
+        ],
+        "the": [
+          3,
+          16,
+          20,
+          35,
+          56,
+          69,
+          83,
+          109,
+          114,
+          122
+        ],
+        "circumstances": [
+          4
+        ],
+        "surrounding": [
+          5
+        ],
+        "gifted": [
+          6,
+          53,
+          60,
+          74,
+          125
+        ],
+        "children": [
+          7,
+          61,
+          75,
+          126
+        ],
+        "who": [
+          8
+        ],
+        "manifest": [
+          9
+        ],
+        "challenging": [
+          10
+        ],
+        "behaviours": [
+          11
+        ],
+        "at": [
+          12,
+          76,
+          79
+        ],
+        "school,": [
+          13
+        ],
+        "and": [
+          14,
+          37,
+          42,
+          55,
+          78,
+          91,
+          95,
+          97,
+          103
+        ],
+        "where": [
+          15
+        ],
+        "explanatory": [
+          17
+        ],
+        "use": [
+          18
+        ],
+        "of": [
+          19,
+          52,
+          58,
+          72,
+          113,
+          118,
+          124
+        ],
+        "diagnostic": [
+          21,
+          38,
+          87
+        ],
+        "descriptor,": [
+          22
+        ],
+        "AD/HD,": [
+          23
+        ],
+        "is": [
+          24
+        ],
+        "invoked.": [
+          25
+        ],
+        "Specifically,": [
+          26
+        ],
+        "this": [
+          27
+        ],
+        "qualitative": [
+          28
+        ],
+        "research": [
+          29,
+          134
+        ],
+        "in": [
+          31
+        ],
+        "Saudi": [
+          32
+        ],
+        "Arabia": [
+          33
+        ],
+        "investigated": [
+          34
+        ],
+        "phenomenological": [
+          36
+        ],
+        "confusion": [
+          39
+        ],
+        "between": [
+          40,
+          89
+        ],
+        "giftedness": [
+          41,
+          90
+        ],
+        "AD/HD.": [
+          43
+        ],
+        "Three": [
+          44
+        ],
+        "mainstream": [
+          45
+        ],
+        "regular": [
+          46
+        ],
+        "classroom": [
+          47
+        ],
+        "teachers,": [
+          48
+        ],
+        "one": [
+          49
+        ],
+        "specialist": [
+          50
+        ],
+        "teacher": [
+          51
+        ],
+        "children,": [
+          54
+        ],
+        "parents": [
+          57
+        ],
+        "three": [
+          59
+        ],
+        "were": [
+          62,
+          93
+        ],
+        "interviewed.": [
+          63
+        ],
+        "All": [
+          64
+        ],
+        "participants'": [
+          65
+        ],
+        "perceptions": [
+          66
+        ],
+        "focused": [
+          67
+        ],
+        "on": [
+          68
+        ],
+        "behavioural": [
+          70
+        ],
+        "dimensions": [
+          71
+        ],
+        "teacher-nominated": [
+          73
+        ],
+        "school": [
+          77
+        ],
+        "home.": [
+          80
+        ],
+        "In": [
+          81,
+          111
+        ],
+        "general,": [
+          82
+        ],
+        "results": [
+          84
+        ],
+        "indicate": [
+          85
+        ],
+        "that": [
+          86
+        ],
+        "confusions": [
+          88
+        ],
+        "AD/HD": [
+          92
+        ],
+        "manifest,": [
+          94
+        ],
+        "teachers'": [
+          96
+        ],
+        "parents'": [
+          98
+        ],
+        "perspectives": [
+          99
+        ],
+        "differed.": [
+          100
+        ],
+        "Some": [
+          101,
+          129
+        ],
+        "unanticipated": [
+          102
+        ],
+        "interesting": [
+          104
+        ],
+        "data": [
+          105
+        ],
+        "also": [
+          106
+        ],
+        "emerged": [
+          107
+        ],
+        "from": [
+          108
+        ],
+        "research.": [
+          110
+        ],
+        "discussion": [
+          112
+        ],
+        "results,": [
+          115
+        ],
+        "a": [
+          116
+        ],
+        "number": [
+          117
+        ],
+        "themes": [
+          119
+        ],
+        "relating": [
+          120
+        ],
+        "to": [
+          121
+        ],
+        "misidentification": [
+          123
+        ],
+        "are": [
+          127,
+          136
+        ],
+        "discussed.": [
+          128
+        ],
+        "educational": [
+          130
+        ],
+        "implications": [
+          131
+        ],
+        "for": [
+          132
+        ],
+        "future": [
+          133
+        ],
+        "directions": [
+          135
+        ],
+        "offered.": [
+          137
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-10-10T17:16:08.811792",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  ],
+  "group_by": []
+}

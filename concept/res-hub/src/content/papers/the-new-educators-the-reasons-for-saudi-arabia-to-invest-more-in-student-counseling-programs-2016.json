@@ -30,5 +30,16 @@
   },
   "visibility": {
     "hidden": false
+  },
+  "authors": [
+    {
+      "given": "Turki",
+      "family": "Alotaibi",
+      "sequence": 1
+    }
+  ],
+  "doi": "10.5281/zenodo.1126759",
+  "identifiers": {
+    "doi": "10.5281/zenodo.1126759"
   }
 }

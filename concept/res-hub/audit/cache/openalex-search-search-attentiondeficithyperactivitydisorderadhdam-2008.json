@@ -1,0 +1,531 @@
+{
+  "meta": {
+    "count": 1,
+    "db_response_time_ms": 55,
+    "page": 1,
+    "per_page": 10,
+    "groups_count": null
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2128947758",
+      "doi": null,
+      "title": "Attention Deficit Hyperactivity Disorder (ADHD) among Male Primary School Children in Dammam, Saudi Arabia: Prevalence and Associated Factors.",
+      "display_name": "Attention Deficit Hyperactivity Disorder (ADHD) among Male Primary School Children in Dammam, Saudi Arabia: Prevalence and Associated Factors.",
+      "relevance_score": 3504.8567,
+      "publication_year": 2008,
+      "publication_date": "2008-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2128947758",
+        "mag": "2128947758",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/19302773"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "pmid:19302773",
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/19302773",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Journal of the Egyptian Public Health Association",
+        "raw_type": null
+      },
+      "type": "article",
+      "indexed_in": [
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5087331956",
+            "display_name": "Jamal H Al Hamed",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Jamal H Al Hamed",
+          "raw_affiliation_strings": [
+            "Misistry of Health, Eastern Province, Saudi Arabia. amrsabra_eg@yahoo.com."
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Misistry of Health, Eastern Province, Saudi Arabia. amrsabra_eg@yahoo.com.",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5109102187",
+            "display_name": "Attia Z. Taha",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Attia Z Taha",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039184438",
+            "display_name": "Amr Sabra",
+            "orcid": "https://orcid.org/0000-0001-8983-6231"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Amr A Sabra",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5083654382",
+            "display_name": "Hassan Bella",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Hassan Bella",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.39434525,
+      "has_fulltext": false,
+      "cited_by_count": 64,
+      "citation_normalized_percentile": {
+        "value": 0.61901916,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 91,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "83",
+        "issue": "3-4",
+        "first_page": "165",
+        "last_page": "82"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10537",
+        "display_name": "Attention Deficit Hyperactivity Disorder",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2738",
+          "display_name": "Psychiatry and Mental health"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10537",
+          "display_name": "Attention Deficit Hyperactivity Disorder",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2738",
+            "display_name": "Psychiatry and Mental health"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12241",
+          "display_name": "Children's Physical and Motor Development",
+          "score": 0.9253000020980835,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3204",
+            "display_name": "Developmental and Educational Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/impulsivity",
+          "display_name": "Impulsivity",
+          "score": 0.7649713754653931
+        },
+        {
+          "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+          "display_name": "Attention deficit hyperactivity disorder",
+          "score": 0.7290729880332947
+        },
+        {
+          "id": "https://openalex.org/keywords/attention-deficit",
+          "display_name": "Attention deficit",
+          "score": 0.553132176399231
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.5427317023277283
+        },
+        {
+          "id": "https://openalex.org/keywords/psychosocial",
+          "display_name": "Psychosocial",
+          "score": 0.5162534713745117
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.505096971988678
+        },
+        {
+          "id": "https://openalex.org/keywords/clinical-psychology",
+          "display_name": "Clinical psychology",
+          "score": 0.38303399085998535
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.34157565236091614
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2780319597",
+          "wikidata": "https://www.wikidata.org/wiki/Q1549918",
+          "display_name": "Impulsivity",
+          "level": 2,
+          "score": 0.7649713754653931
+        },
+        {
+          "id": "https://openalex.org/C2780783007",
+          "wikidata": "https://www.wikidata.org/wiki/Q181923",
+          "display_name": "Attention deficit hyperactivity disorder",
+          "level": 2,
+          "score": 0.7290729880332947
+        },
+        {
+          "id": "https://openalex.org/C3017694942",
+          "wikidata": "https://www.wikidata.org/wiki/Q16254243",
+          "display_name": "Attention deficit",
+          "level": 3,
+          "score": 0.553132176399231
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.5427317023277283
+        },
+        {
+          "id": "https://openalex.org/C150966472",
+          "wikidata": "https://www.wikidata.org/wiki/Q3410145",
+          "display_name": "Psychosocial",
+          "level": 2,
+          "score": 0.5162534713745117
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.505096971988678
+        },
+        {
+          "id": "https://openalex.org/C70410870",
+          "wikidata": "https://www.wikidata.org/wiki/Q199906",
+          "display_name": "Clinical psychology",
+          "level": 1,
+          "score": 0.38303399085998535
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.34157565236091614
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "pmid:19302773",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/19302773",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "The Journal of the Egyptian Public Health Association",
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Good health and well-being",
+          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/3"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "referenced_works_count": 23,
+      "referenced_works": [
+        "https://openalex.org/W1969109489",
+        "https://openalex.org/W1962057515",
+        "https://openalex.org/W2412955056",
+        "https://openalex.org/W2086631327",
+        "https://openalex.org/W1996697010",
+        "https://openalex.org/W2145731565",
+        "https://openalex.org/W3000868",
+        "https://openalex.org/W1981089515",
+        "https://openalex.org/W1602893043",
+        "https://openalex.org/W28812920",
+        "https://openalex.org/W2335460664",
+        "https://openalex.org/W168895048",
+        "https://openalex.org/W1487676954",
+        "https://openalex.org/W1966233888",
+        "https://openalex.org/W2072240683",
+        "https://openalex.org/W2041549689",
+        "https://openalex.org/W263802236",
+        "https://openalex.org/W2469623876",
+        "https://openalex.org/W1985958268",
+        "https://openalex.org/W135903649",
+        "https://openalex.org/W2136654356",
+        "https://openalex.org/W2166295422",
+        "https://openalex.org/W2401565175"
+      ],
+      "related_works": [
+        "https://openalex.org/W1870638723",
+        "https://openalex.org/W1978065573",
+        "https://openalex.org/W3035368453",
+        "https://openalex.org/W2034610692",
+        "https://openalex.org/W2110914776",
+        "https://openalex.org/W1980529171",
+        "https://openalex.org/W3011231998",
+        "https://openalex.org/W2124652886",
+        "https://openalex.org/W2058327672",
+        "https://openalex.org/W1966351870"
+      ],
+      "abstract_inverted_index": {
+        "several": [
+          0
+        ],
+        "approaches": [
+          1
+        ],
+        "directed": [
+          2
+        ],
+        "to": [
+          3,
+          20
+        ],
+        "the": [
+          4,
+          7,
+          12,
+          15,
+          22
+        ],
+        "child,": [
+          5
+        ],
+        "family,": [
+          6
+        ],
+        "primary": [
+          8
+        ],
+        "health": [
+          9
+        ],
+        "care": [
+          10
+        ],
+        "services,": [
+          11
+        ],
+        "school,": [
+          13
+        ],
+        "and": [
+          14,
+          24
+        ],
+        "community": [
+          16
+        ],
+        "should": [
+          17
+        ],
+        "be": [
+          18
+        ],
+        "implemented": [
+          19
+        ],
+        "reduce": [
+          21
+        ],
+        "prevalence": [
+          23
+        ],
+        "incidence": [
+          25
+        ],
+        "of": [
+          26
+        ],
+        "ADHD.": [
+          27
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 4
+        }
+      ],
+      "updated_date": "2025-11-06T04:12:42.849631",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  ],
+  "group_by": []
+}

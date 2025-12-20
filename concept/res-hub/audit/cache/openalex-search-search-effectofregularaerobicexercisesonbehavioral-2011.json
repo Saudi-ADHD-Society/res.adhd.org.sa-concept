@@ -1,0 +1,3924 @@
+{
+  "meta": {
+    "count": 4,
+    "db_response_time_ms": 62,
+    "page": 1,
+    "per_page": 10,
+    "groups_count": null
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2566296554",
+      "doi": null,
+      "title": "Effect of Regular Aerobic Exercises on Behavioral, Cognitive and Psychological Response in Patients with Attention Deficit-Hyperactivity Disorder",
+      "display_name": "Effect of Regular Aerobic Exercises on Behavioral, Cognitive and Psychological Response in Patients with Attention Deficit-Hyperactivity Disorder",
+      "relevance_score": 3053.3765,
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2566296554",
+        "mag": "2566296554"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "mag:2566296554",
+        "is_oa": false,
+        "landing_page_url": "http://www.lifesciencesite.com/lsj/life0802/50_5181life0802_366_371.pdf",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": null
+      },
+      "type": "article",
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5049570196",
+            "display_name": "Gehan M. Ahmed",
+            "orcid": "https://orcid.org/0000-0002-9650-6203"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Gehan M. Ahmed",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5057630166",
+            "display_name": "Samiha Mohamed",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Samiha Mohamed",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.62092657,
+      "has_fulltext": false,
+      "cited_by_count": 48,
+      "citation_normalized_percentile": {
+        "value": 0.67531784,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 99
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10537",
+        "display_name": "Attention Deficit Hyperactivity Disorder",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2738",
+          "display_name": "Psychiatry and Mental health"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10537",
+          "display_name": "Attention Deficit Hyperactivity Disorder",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2738",
+            "display_name": "Psychiatry and Mental health"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12241",
+          "display_name": "Children's Physical and Motor Development",
+          "score": 0.9945999979972839,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3204",
+            "display_name": "Developmental and Educational Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11060",
+          "display_name": "Infant Development and Preterm Care",
+          "score": 0.9009000062942505,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2735",
+            "display_name": "Pediatrics, Perinatology and Child Health"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/aerobic-exercise",
+          "display_name": "Aerobic exercise",
+          "score": 0.6807159185409546
+        },
+        {
+          "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+          "display_name": "Attention deficit hyperactivity disorder",
+          "score": 0.5872479677200317
+        },
+        {
+          "id": "https://openalex.org/keywords/physical-therapy",
+          "display_name": "Physical therapy",
+          "score": 0.542853832244873
+        },
+        {
+          "id": "https://openalex.org/keywords/rating-scale",
+          "display_name": "Rating scale",
+          "score": 0.48635369539260864
+        },
+        {
+          "id": "https://openalex.org/keywords/cognition",
+          "display_name": "Cognition",
+          "score": 0.4800744652748108
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.42221707105636597
+        },
+        {
+          "id": "https://openalex.org/keywords/attention-deficit",
+          "display_name": "Attention deficit",
+          "score": 0.4148039221763611
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.4062032401561737
+        },
+        {
+          "id": "https://openalex.org/keywords/clinical-psychology",
+          "display_name": "Clinical psychology",
+          "score": 0.3244807720184326
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.2707936763763428
+        },
+        {
+          "id": "https://openalex.org/keywords/developmental-psychology",
+          "display_name": "Developmental psychology",
+          "score": 0.13908204436302185
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C103038586",
+          "wikidata": "https://www.wikidata.org/wiki/Q1152037",
+          "display_name": "Aerobic exercise",
+          "level": 2,
+          "score": 0.6807159185409546
+        },
+        {
+          "id": "https://openalex.org/C2780783007",
+          "wikidata": "https://www.wikidata.org/wiki/Q181923",
+          "display_name": "Attention deficit hyperactivity disorder",
+          "level": 2,
+          "score": 0.5872479677200317
+        },
+        {
+          "id": "https://openalex.org/C1862650",
+          "wikidata": "https://www.wikidata.org/wiki/Q186005",
+          "display_name": "Physical therapy",
+          "level": 1,
+          "score": 0.542853832244873
+        },
+        {
+          "id": "https://openalex.org/C83849319",
+          "wikidata": "https://www.wikidata.org/wiki/Q7295720",
+          "display_name": "Rating scale",
+          "level": 2,
+          "score": 0.48635369539260864
+        },
+        {
+          "id": "https://openalex.org/C169900460",
+          "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+          "display_name": "Cognition",
+          "level": 2,
+          "score": 0.4800744652748108
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.42221707105636597
+        },
+        {
+          "id": "https://openalex.org/C3017694942",
+          "wikidata": "https://www.wikidata.org/wiki/Q16254243",
+          "display_name": "Attention deficit",
+          "level": 3,
+          "score": 0.4148039221763611
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.4062032401561737
+        },
+        {
+          "id": "https://openalex.org/C70410870",
+          "wikidata": "https://www.wikidata.org/wiki/Q199906",
+          "display_name": "Clinical psychology",
+          "level": 1,
+          "score": 0.3244807720184326
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.2707936763763428
+        },
+        {
+          "id": "https://openalex.org/C138496976",
+          "wikidata": "https://www.wikidata.org/wiki/Q175002",
+          "display_name": "Developmental psychology",
+          "level": 1,
+          "score": 0.13908204436302185
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "mag:2566296554",
+          "is_oa": false,
+          "landing_page_url": "http://www.lifesciencesite.com/lsj/life0802/50_5181life0802_366_371.pdf",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "referenced_works_count": 27,
+      "referenced_works": [
+        "https://openalex.org/W2120600980",
+        "https://openalex.org/W2090373908",
+        "https://openalex.org/W2079691822",
+        "https://openalex.org/W2161628960",
+        "https://openalex.org/W1514128735",
+        "https://openalex.org/W1591931294",
+        "https://openalex.org/W2018384867",
+        "https://openalex.org/W2073976265",
+        "https://openalex.org/W2081317398",
+        "https://openalex.org/W205605985",
+        "https://openalex.org/W3133219156",
+        "https://openalex.org/W1981124124",
+        "https://openalex.org/W2124895292",
+        "https://openalex.org/W1974656276",
+        "https://openalex.org/W2054555385",
+        "https://openalex.org/W2089127919",
+        "https://openalex.org/W2044653300",
+        "https://openalex.org/W2469623876",
+        "https://openalex.org/W2149696172",
+        "https://openalex.org/W2066559731",
+        "https://openalex.org/W1992956381",
+        "https://openalex.org/W1984719574",
+        "https://openalex.org/W2064577656",
+        "https://openalex.org/W2124614877",
+        "https://openalex.org/W2169171221",
+        "https://openalex.org/W1970583855",
+        "https://openalex.org/W2171148318"
+      ],
+      "related_works": [
+        "https://openalex.org/W2146175308",
+        "https://openalex.org/W2107762576",
+        "https://openalex.org/W2011822081",
+        "https://openalex.org/W2008040160",
+        "https://openalex.org/W2073976265",
+        "https://openalex.org/W2017808741",
+        "https://openalex.org/W1591931294",
+        "https://openalex.org/W2150992831",
+        "https://openalex.org/W2028399766",
+        "https://openalex.org/W1996330147",
+        "https://openalex.org/W1966393275",
+        "https://openalex.org/W2159011576",
+        "https://openalex.org/W2058913720",
+        "https://openalex.org/W2165105591",
+        "https://openalex.org/W2131467366",
+        "https://openalex.org/W2084114500",
+        "https://openalex.org/W2083003378",
+        "https://openalex.org/W2031910010",
+        "https://openalex.org/W1983071555",
+        "https://openalex.org/W2074867689"
+      ],
+      "abstract_inverted_index": {
+        "40": [
+          116
+        ],
+        "50": [
+          129
+        ],
+        "84": [
+          57
+        ],
+        "Background": [
+          0
+        ],
+        "and": [
+          1,
+          15,
+          29,
+          52,
+          95,
+          118,
+          143,
+          176,
+          178,
+          208,
+          219
+        ],
+        "purpose:": [
+          2
+        ],
+        "Attention": [
+          3,
+          225
+        ],
+        "Deficit-Hyperactivity": [
+          4,
+          226
+        ],
+        "Disorder": [
+          5
+        ],
+        "(ADHD)": [
+          6
+        ],
+        "is": [
+          7,
+          16
+        ],
+        "a": [
+          8,
+          21,
+          161,
+          197
+        ],
+        "common": [
+          9
+        ],
+        "behavioral": [
+          10
+        ],
+        "disorder": [
+          11
+        ],
+        "started": [
+          12
+        ],
+        "in": [
+          13,
+          119,
+          164,
+          171,
+          200,
+          222
+        ],
+        "childhood": [
+          14
+        ],
+        "characterized": [
+          17
+        ],
+        "by": [
+          18
+        ],
+        "one": [
+          19
+        ],
+        "or": [
+          20
+        ],
+        "combination": [
+          22
+        ],
+        "of": [
+          23,
+          33,
+          42,
+          48,
+          147,
+          150,
+          156,
+          166,
+          203,
+          212
+        ],
+        "three": [
+          24,
+          102,
+          165
+        ],
+        "behaviors,": [
+          25
+        ],
+        "named": [
+          26
+        ],
+        "hyperactivity,": [
+          27
+        ],
+        "inattentiveness": [
+          28
+        ],
+        "impulsiveness.": [
+          30
+        ],
+        "The": [
+          31,
+          71,
+          80
+        ],
+        "aim": [
+          32
+        ],
+        "this": [
+          34
+        ],
+        "study": [
+          35,
+          55
+        ],
+        "was": [
+          36,
+          134
+        ],
+        "to": [
+          37,
+          68,
+          127,
+          136
+        ],
+        "find": [
+          38
+        ],
+        "out": [
+          39
+        ],
+        "the": [
+          40,
+          107,
+          111,
+          120,
+          124,
+          138,
+          145,
+          151,
+          157,
+          167,
+          172
+        ],
+        "value": [
+          41
+        ],
+        "aerobic": [
+          43,
+          86,
+          193
+        ],
+        "exercises": [
+          44,
+          87,
+          97,
+          194
+        ],
+        "on": [
+          45,
+          216
+        ],
+        "improvement": [
+          46,
+          163
+        ],
+        "symptoms": [
+          47,
+          202
+        ],
+        "ADHD.": [
+          49,
+          62,
+          204
+        ],
+        "Patients,": [
+          50
+        ],
+        "Materials": [
+          51
+        ],
+        "Methods:": [
+          53
+        ],
+        "This": [
+          54
+        ],
+        "included": [
+          56,
+          89
+        ],
+        "students": [
+          58,
+          72,
+          139
+        ],
+        "diagnosed": [
+          59
+        ],
+        "as": [
+          60,
+          98,
+          100
+        ],
+        "having": [
+          61
+        ],
+        "Their": [
+          63
+        ],
+        "age": [
+          64
+        ],
+        "ranged": [
+          65
+        ],
+        "from": [
+          66
+        ],
+        "eleven": [
+          67
+        ],
+        "sixteen": [
+          69
+        ],
+        "years.": [
+          70
+        ],
+        "were": [
+          73
+        ],
+        "randomly": [
+          74
+        ],
+        "divided": [
+          75
+        ],
+        "into": [
+          76
+        ],
+        "two": [
+          77
+        ],
+        "equal": [
+          78
+        ],
+        "groups.": [
+          79
+        ],
+        "exercise": [
+          81,
+          152,
+          158
+        ],
+        "group": [
+          82,
+          159
+        ],
+        "received": [
+          83
+        ],
+        "ten": [
+          84,
+          148
+        ],
+        "weeks": [
+          85,
+          110,
+          123,
+          149
+        ],
+        "program": [
+          88,
+          195
+        ],
+        "upper": [
+          90
+        ],
+        "limb,": [
+          91,
+          93
+        ],
+        "lower": [
+          92
+        ],
+        "trunk": [
+          94
+        ],
+        "neck": [
+          96
+        ],
+        "well": [
+          99
+        ],
+        "running": [
+          101
+        ],
+        "sessions": [
+          103
+        ],
+        "per": [
+          104
+        ],
+        "week(": [
+          105
+        ],
+        "In": [
+          106
+        ],
+        "first": [
+          108
+        ],
+        "four": [
+          109
+        ],
+        "session": [
+          112,
+          125
+        ],
+        "lasted": [
+          113
+        ],
+        "for": [
+          114
+        ],
+        "about": [
+          115
+        ],
+        "minutes": [
+          117
+        ],
+        "last": [
+          121
+        ],
+        "six": [
+          122
+        ],
+        "extended": [
+          126
+        ],
+        "be": [
+          128,
+          189
+        ],
+        "minutes).": [
+          130
+        ],
+        "Behavior": [
+          131
+        ],
+        "Rating": [
+          132
+        ],
+        "scale": [
+          133
+        ],
+        "used": [
+          135
+        ],
+        "assess": [
+          137
+        ],
+        "behavior": [
+          140
+        ],
+        "before": [
+          141
+        ],
+        "starting": [
+          142
+        ],
+        "after": [
+          144
+        ],
+        "end": [
+          146
+        ],
+        "program.": [
+          153
+        ],
+        "Results:": [
+          154
+        ],
+        "Results": [
+          155
+        ],
+        "revealed": [
+          160
+        ],
+        "significant": [
+          162
+        ],
+        "five": [
+          168
+        ],
+        "items": [
+          169
+        ],
+        "involved": [
+          170
+        ],
+        "scale(attention,": [
+          173
+        ],
+        "motor": [
+          174
+        ],
+        "skills": [
+          175
+        ],
+        "academic": [
+          177
+        ],
+        "classroom": [
+          179
+        ],
+        "behavior)": [
+          180
+        ],
+        "with": [
+          181,
+          224
+        ],
+        "p": [
+          182
+        ],
+        "0.05).": [
+          185
+        ],
+        "Conclusion:": [
+          186
+        ],
+        "It": [
+          187
+        ],
+        "could": [
+          188
+        ],
+        "concluded": [
+          190
+        ],
+        "that": [
+          191
+        ],
+        "regular": [
+          192
+        ],
+        "has": [
+          196
+        ],
+        "positive": [
+          198
+        ],
+        "effect": [
+          199
+        ],
+        "improving": [
+          201
+        ],
+        "(Gehan": [
+          205
+        ],
+        "M.": [
+          206
+        ],
+        "Ahmed": [
+          207
+        ],
+        "Samiha": [
+          209
+        ],
+        "Mohamed.": [
+          210
+        ],
+        "Effect": [
+          211
+        ],
+        "Regular": [
+          213
+        ],
+        "Aerobic": [
+          214
+        ],
+        "Exercises": [
+          215
+        ],
+        "Behavioral,": [
+          217
+        ],
+        "Cognitive": [
+          218
+        ],
+        "Psychological": [
+          220
+        ],
+        "Response": [
+          221
+        ],
+        "Patients": [
+          223
+        ],
+        "Disorder,": [
+          227
+        ],
+        "Life": [
+          228
+        ],
+        "Science": [
+          229
+        ],
+        "Journal.": [
+          230
+        ],
+        "2011;8(2):366-371)": [
+          231
+        ],
+        "(ISSN:1097-8135).": [
+          232
+        ],
+        "http://www.lifesciencesite.com": [
+          233
+        ],
+        ".": [
+          234
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-11-06T04:12:42.849631",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2128995640",
+      "doi": "https://doi.org/10.2522/ptj.20110218",
+      "title": "Systematic Review of the Benefits of Physical Therapy Within a Multidisciplinary Care Approach for People With Schizophrenia",
+      "display_name": "Systematic Review of the Benefits of Physical Therapy Within a Multidisciplinary Care Approach for People With Schizophrenia",
+      "relevance_score": 32.734745,
+      "publication_year": 2011,
+      "publication_date": "2011-11-04",
+      "ids": {
+        "openalex": "https://openalex.org/W2128995640",
+        "doi": "https://doi.org/10.2522/ptj.20110218",
+        "mag": "2128995640",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/22052946"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2522/ptj.20110218",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2522/ptj.20110218",
+        "pdf_url": "https://academic.oup.com/ptj/article-pdf/92/1/11/31671113/ptj0011.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210185354",
+          "display_name": "Physical Therapy",
+          "issn_l": "0031-9023",
+          "issn": [
+            "0031-9023",
+            "1538-6724"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310311648",
+          "host_organization_name": "Oxford University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311648",
+            "https://openalex.org/P4310311647"
+          ],
+          "host_organization_lineage_names": [
+            "Oxford University Press",
+            "University of Oxford"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Physical Therapy",
+        "raw_type": "journal-article"
+      },
+      "type": "review",
+      "indexed_in": [
+        "crossref",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://academic.oup.com/ptj/article-pdf/92/1/11/31671113/ptj0011.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5030050325",
+            "display_name": "Davy Vancampfort",
+            "orcid": "https://orcid.org/0000-0002-4592-8625"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I99464096",
+              "display_name": "KU Leuven",
+              "ror": "https://ror.org/05f950310",
+              "country_code": "BE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I99464096"
+              ]
+            }
+          ],
+          "countries": [
+            "BE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Davy Vancampfort",
+          "raw_affiliation_strings": [
+            "D. Vancampfort, PT, MSc, Faculty of Kinesiology and Rehabilitation Sciences, Catholic University Leuven, Leuven, Belgium, and University Psychiatric Centre, Catholic University Leuven, Campus Kortenberg, Leuvensesteenweg 517, 3070 Kortenberg, Belgium."
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "D. Vancampfort, PT, MSc, Faculty of Kinesiology and Rehabilitation Sciences, Catholic University Leuven, Leuven, Belgium, and University Psychiatric Centre, Catholic University Leuven, Campus Kortenberg, Leuvensesteenweg 517, 3070 Kortenberg, Belgium.",
+              "institution_ids": [
+                "https://openalex.org/I99464096"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5088589942",
+            "display_name": "Michel Probst",
+            "orcid": "https://orcid.org/0000-0002-1389-4862"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I84470341",
+              "display_name": "Catholic University of America",
+              "ror": "https://ror.org/047yk3s18",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I84470341"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michel Probst",
+          "raw_affiliation_strings": [
+            "M. Probst, PT, PhD, University Psychiatric Centre, Catholic University Leuven, Campus Kortenberg, and Faculty of Kinesiology and Rehabilitation Sciences, Catholic University Leuven."
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "M. Probst, PT, PhD, University Psychiatric Centre, Catholic University Leuven, Campus Kortenberg, and Faculty of Kinesiology and Rehabilitation Sciences, Catholic University Leuven.",
+              "institution_ids": [
+                "https://openalex.org/I84470341"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5009803685",
+            "display_name": "Liv Helvik Skjærven",
+            "orcid": "https://orcid.org/0000-0001-8122-7781"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4432739",
+              "display_name": "University of Bergen",
+              "ror": "https://ror.org/03zga2b32",
+              "country_code": "NO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4432739"
+              ]
+            }
+          ],
+          "countries": [
+            "NO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Liv Helvik Skjaerven",
+          "raw_affiliation_strings": [
+            "L. Helvik Skjaerven, PT, MSc, Department of Physical Therapy, Faculty of Health and Sciences, Bergen University College, Bergen, Norway."
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "L. Helvik Skjaerven, PT, MSc, Department of Physical Therapy, Faculty of Health and Sciences, Bergen University College, Bergen, Norway.",
+              "institution_ids": [
+                "https://openalex.org/I4432739"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5063283545",
+            "display_name": "Daniel Catalán-Matamoros",
+            "orcid": "https://orcid.org/0000-0001-7783-4984"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I52354020",
+              "display_name": "University of Almería",
+              "ror": "https://ror.org/003d3xx08",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I52354020"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Daniel Catalán-Matamoros",
+          "raw_affiliation_strings": [
+            "D. Catalán-Matamoros, PT, PhD, Faculty of Health Sciences, University of Almeria, Almeria, Spain."
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "D. Catalán-Matamoros, PT, PhD, Faculty of Health Sciences, University of Almeria, Almeria, Spain.",
+              "institution_ids": [
+                "https://openalex.org/I52354020"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5066942301",
+            "display_name": "Amanda Lundvik Gyllensten",
+            "orcid": "https://orcid.org/0000-0001-6289-9347"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I187531555",
+              "display_name": "Lund University",
+              "ror": "https://ror.org/012a77v79",
+              "country_code": "SE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I187531555"
+              ]
+            }
+          ],
+          "countries": [
+            "SE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Amanda Lundvik-Gyllensten",
+          "raw_affiliation_strings": [
+            "A. Lundvik-Gyllensten, PT, PhD, Division of Physical Therapy, Faculty of Health Sciences, Lund University, Lund, Sweden."
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "A. Lundvik-Gyllensten, PT, PhD, Division of Physical Therapy, Faculty of Health Sciences, Lund University, Lund, Sweden.",
+              "institution_ids": [
+                "https://openalex.org/I187531555"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5038617489",
+            "display_name": "Antonia Gómez‐Conesa",
+            "orcid": "https://orcid.org/0000-0001-9448-4998"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I80180929",
+              "display_name": "Universidad de Murcia",
+              "ror": "https://ror.org/03p3aeb86",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I80180929"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Antonia Gómez-Conesa",
+          "raw_affiliation_strings": [
+            "A. Gómez-Conesa, PT, PhD, Department of Physical Therapy, University of Murcia, Murcia, Spain."
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "A. Gómez-Conesa, PT, PhD, Department of Physical Therapy, University of Murcia, Murcia, Spain.",
+              "institution_ids": [
+                "https://openalex.org/I80180929"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5042475508",
+            "display_name": "Rutger Ijntema",
+            "orcid": "https://orcid.org/0000-0003-2968-8796"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I173063890",
+              "display_name": "University of Applied Sciences Utrecht",
+              "ror": "https://ror.org/028z9kw20",
+              "country_code": "NL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I173063890"
+              ]
+            }
+          ],
+          "countries": [
+            "NL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rutger Ijntema",
+          "raw_affiliation_strings": [
+            "R. Ijntema, PT, MBA, Institute of Human Movement Studies, Faculty of Health Care, HU University of Applied Sciences Utrecht, Utrecht, the Netherlands."
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "R. Ijntema, PT, MBA, Institute of Human Movement Studies, Faculty of Health Care, HU University of Applied Sciences Utrecht, Utrecht, the Netherlands.",
+              "institution_ids": [
+                "https://openalex.org/I173063890"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5054306814",
+            "display_name": "Marc D. Binder",
+            "orcid": "https://orcid.org/0000-0003-4255-5920"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I84470341",
+              "display_name": "Catholic University of America",
+              "ror": "https://ror.org/047yk3s18",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I84470341"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Marc De Hert",
+          "raw_affiliation_strings": [
+            "M. De Hert, MD, PhD, University Psychiatric Centre, Catholic University Leuven, Campus Kortenberg, and Faculty of Medicine, Catholic University Leuven."
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "M. De Hert, MD, PhD, University Psychiatric Centre, Catholic University Leuven, Campus Kortenberg, and Faculty of Medicine, Catholic University Leuven.",
+              "institution_ids": [
+                "https://openalex.org/I84470341"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 6,
+      "institutions_distinct_count": 8,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 3880,
+        "currency": "USD",
+        "value_usd": 3880
+      },
+      "apc_paid": null,
+      "fwci": 9.31389854,
+      "has_fulltext": true,
+      "cited_by_count": 141,
+      "citation_normalized_percentile": {
+        "value": 0.98341232,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 91,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "92",
+        "issue": "1",
+        "first_page": "11",
+        "last_page": "23"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10023",
+        "display_name": "Schizophrenia research and treatment",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2738",
+          "display_name": "Psychiatry and Mental health"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10023",
+          "display_name": "Schizophrenia research and treatment",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2738",
+            "display_name": "Psychiatry and Mental health"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11334",
+          "display_name": "Psychosomatic Disorders and Their Treatments",
+          "score": 0.9997000098228455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2738",
+            "display_name": "Psychiatry and Mental health"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12308",
+          "display_name": "Mental Health and Psychiatry",
+          "score": 0.9944999814033508,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1211",
+            "display_name": "Philosophy"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/cinahl",
+          "display_name": "CINAHL",
+          "score": 0.7157818675041199
+        },
+        {
+          "id": "https://openalex.org/keywords/progressive-muscle-relaxation",
+          "display_name": "Progressive muscle relaxation",
+          "score": 0.5831620693206787
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.5768665075302124
+        },
+        {
+          "id": "https://openalex.org/keywords/randomized-controlled-trial",
+          "display_name": "Randomized controlled trial",
+          "score": 0.5761852264404297
+        },
+        {
+          "id": "https://openalex.org/keywords/psycinfo",
+          "display_name": "PsycINFO",
+          "score": 0.5693684220314026
+        },
+        {
+          "id": "https://openalex.org/keywords/physical-therapy",
+          "display_name": "Physical therapy",
+          "score": 0.5399205088615417
+        },
+        {
+          "id": "https://openalex.org/keywords/anxiety",
+          "display_name": "Anxiety",
+          "score": 0.5297518968582153
+        },
+        {
+          "id": "https://openalex.org/keywords/quality-of-life",
+          "display_name": "Quality of life (healthcare)",
+          "score": 0.5060181021690369
+        },
+        {
+          "id": "https://openalex.org/keywords/medline",
+          "display_name": "MEDLINE",
+          "score": 0.5049541592597961
+        },
+        {
+          "id": "https://openalex.org/keywords/cochrane-library",
+          "display_name": "Cochrane Library",
+          "score": 0.487592875957489
+        },
+        {
+          "id": "https://openalex.org/keywords/relaxation-therapy",
+          "display_name": "Relaxation Therapy",
+          "score": 0.46720001101493835
+        },
+        {
+          "id": "https://openalex.org/keywords/psychological-intervention",
+          "display_name": "Psychological intervention",
+          "score": 0.4658461809158325
+        },
+        {
+          "id": "https://openalex.org/keywords/schizophrenia",
+          "display_name": "Schizophrenia (object-oriented programming)",
+          "score": 0.43461573123931885
+        },
+        {
+          "id": "https://openalex.org/keywords/rehabilitation",
+          "display_name": "Rehabilitation",
+          "score": 0.41306138038635254
+        },
+        {
+          "id": "https://openalex.org/keywords/clinical-psychology",
+          "display_name": "Clinical psychology",
+          "score": 0.3774736821651459
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.31117314100265503
+        },
+        {
+          "id": "https://openalex.org/keywords/nursing",
+          "display_name": "Nursing",
+          "score": 0.13569122552871704
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2781145037",
+          "wikidata": "https://www.wikidata.org/wiki/Q5011772",
+          "display_name": "CINAHL",
+          "level": 3,
+          "score": 0.7157818675041199
+        },
+        {
+          "id": "https://openalex.org/C2776304158",
+          "wikidata": "https://www.wikidata.org/wiki/Q1751958",
+          "display_name": "Progressive muscle relaxation",
+          "level": 3,
+          "score": 0.5831620693206787
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.5768665075302124
+        },
+        {
+          "id": "https://openalex.org/C168563851",
+          "wikidata": "https://www.wikidata.org/wiki/Q1436668",
+          "display_name": "Randomized controlled trial",
+          "level": 2,
+          "score": 0.5761852264404297
+        },
+        {
+          "id": "https://openalex.org/C2779549880",
+          "wikidata": "https://www.wikidata.org/wiki/Q5542226",
+          "display_name": "PsycINFO",
+          "level": 3,
+          "score": 0.5693684220314026
+        },
+        {
+          "id": "https://openalex.org/C1862650",
+          "wikidata": "https://www.wikidata.org/wiki/Q186005",
+          "display_name": "Physical therapy",
+          "level": 1,
+          "score": 0.5399205088615417
+        },
+        {
+          "id": "https://openalex.org/C558461103",
+          "wikidata": "https://www.wikidata.org/wiki/Q154430",
+          "display_name": "Anxiety",
+          "level": 2,
+          "score": 0.5297518968582153
+        },
+        {
+          "id": "https://openalex.org/C2779951463",
+          "wikidata": "https://www.wikidata.org/wiki/Q7268788",
+          "display_name": "Quality of life (healthcare)",
+          "level": 2,
+          "score": 0.5060181021690369
+        },
+        {
+          "id": "https://openalex.org/C2779473830",
+          "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+          "display_name": "MEDLINE",
+          "level": 2,
+          "score": 0.5049541592597961
+        },
+        {
+          "id": "https://openalex.org/C2776478404",
+          "wikidata": "https://www.wikidata.org/wiki/Q1105187",
+          "display_name": "Cochrane Library",
+          "level": 3,
+          "score": 0.487592875957489
+        },
+        {
+          "id": "https://openalex.org/C2910053781",
+          "wikidata": "https://www.wikidata.org/wiki/Q955260",
+          "display_name": "Relaxation Therapy",
+          "level": 3,
+          "score": 0.46720001101493835
+        },
+        {
+          "id": "https://openalex.org/C27415008",
+          "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+          "display_name": "Psychological intervention",
+          "level": 2,
+          "score": 0.4658461809158325
+        },
+        {
+          "id": "https://openalex.org/C2776412080",
+          "wikidata": "https://www.wikidata.org/wiki/Q7431605",
+          "display_name": "Schizophrenia (object-oriented programming)",
+          "level": 2,
+          "score": 0.43461573123931885
+        },
+        {
+          "id": "https://openalex.org/C2778818304",
+          "wikidata": "https://www.wikidata.org/wiki/Q1819478",
+          "display_name": "Rehabilitation",
+          "level": 2,
+          "score": 0.41306138038635254
+        },
+        {
+          "id": "https://openalex.org/C70410870",
+          "wikidata": "https://www.wikidata.org/wiki/Q199906",
+          "display_name": "Clinical psychology",
+          "level": 1,
+          "score": 0.3774736821651459
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.31117314100265503
+        },
+        {
+          "id": "https://openalex.org/C159110408",
+          "wikidata": "https://www.wikidata.org/wiki/Q121176",
+          "display_name": "Nursing",
+          "level": 1,
+          "score": 0.13569122552871704
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C141071460",
+          "wikidata": "https://www.wikidata.org/wiki/Q40821",
+          "display_name": "Surgery",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [
+        {
+          "descriptor_ui": "D019033",
+          "descriptor_name": "Delivery of Health Care, Integrated",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D005081",
+          "descriptor_name": "Exercise Therapy",
+          "qualifier_ui": "Q000379",
+          "qualifier_name": "methods",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D026741",
+          "descriptor_name": "Physical Therapy Modalities",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D016032",
+          "descriptor_name": "Randomized Controlled Trials as Topic",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012559",
+          "descriptor_name": "Schizophrenia",
+          "qualifier_ui": "Q000534",
+          "qualifier_name": "rehabilitation",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D019033",
+          "descriptor_name": "Delivery of Health Care, Integrated",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D005081",
+          "descriptor_name": "Exercise Therapy",
+          "qualifier_ui": "Q000379",
+          "qualifier_name": "methods",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D026741",
+          "descriptor_name": "Physical Therapy Modalities",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D016032",
+          "descriptor_name": "Randomized Controlled Trials as Topic",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012559",
+          "descriptor_name": "Schizophrenia",
+          "qualifier_ui": "Q000534",
+          "qualifier_name": "rehabilitation",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D019033",
+          "descriptor_name": "Delivery of Health Care, Integrated",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D005081",
+          "descriptor_name": "Exercise Therapy",
+          "qualifier_ui": "Q000379",
+          "qualifier_name": "methods",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D026741",
+          "descriptor_name": "Physical Therapy Modalities",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D016032",
+          "descriptor_name": "Randomized Controlled Trials as Topic",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012559",
+          "descriptor_name": "Schizophrenia",
+          "qualifier_ui": "Q000534",
+          "qualifier_name": "rehabilitation",
+          "is_major_topic": false
+        }
+      ],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.2522/ptj.20110218",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.2522/ptj.20110218",
+          "pdf_url": "https://academic.oup.com/ptj/article-pdf/92/1/11/31671113/ptj0011.pdf",
+          "source": {
+            "id": "https://openalex.org/S4210185354",
+            "display_name": "Physical Therapy",
+            "issn_l": "0031-9023",
+            "issn": [
+              "0031-9023",
+              "1538-6724"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310311648",
+            "host_organization_name": "Oxford University Press",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310311648",
+              "https://openalex.org/P4310311647"
+            ],
+            "host_organization_lineage_names": [
+              "Oxford University Press",
+              "University of Oxford"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Physical Therapy",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:22052946",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/22052946",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Physical therapy",
+          "raw_type": null
+        },
+        {
+          "id": "pmh:oai:lirias2repo.kuleuven.be:123456789/305404",
+          "is_oa": false,
+          "landing_page_url": "https://lirias.kuleuven.be/bitstream/123456789/305404/3/vancampfort%20review%20benifits%20physical%20therapy%20schizophrenia%20physical%20therapy%202012.pdf",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401954",
+            "display_name": "Lirias (KU Leuven)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I99464096",
+            "host_organization_name": "KU Leuven",
+            "host_organization_lineage": [
+              "https://openalex.org/I99464096"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "pmh:oai:lup.lub.lu.se:e0d4cdeb-3188-4e28-89dd-4fc6d1ff00c2",
+          "is_oa": false,
+          "landing_page_url": "https://lup.lub.lu.se/record/2333611",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400536",
+            "display_name": "Lund University Publications (Lund University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I187531555",
+            "host_organization_name": "Lund University",
+            "host_organization_lineage": [
+              "https://openalex.org/I187531555"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "ISSN: 0031-9023",
+          "raw_type": "text"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.2522/ptj.20110218",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2522/ptj.20110218",
+        "pdf_url": "https://academic.oup.com/ptj/article-pdf/92/1/11/31671113/ptj0011.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210185354",
+          "display_name": "Physical Therapy",
+          "issn_l": "0031-9023",
+          "issn": [
+            "0031-9023",
+            "1538-6724"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310311648",
+          "host_organization_name": "Oxford University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311648",
+            "https://openalex.org/P4310311647"
+          ],
+          "host_organization_lineage_names": [
+            "Oxford University Press",
+            "University of Oxford"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Physical Therapy",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.6700000166893005,
+          "id": "https://metadata.un.org/sdg/10",
+          "display_name": "Reduced inequalities"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "referenced_works_count": 58,
+      "referenced_works": [
+        "https://openalex.org/W2166739899",
+        "https://openalex.org/W2105527159",
+        "https://openalex.org/W2070140643",
+        "https://openalex.org/W2043796470",
+        "https://openalex.org/W2139078690",
+        "https://openalex.org/W4211174138",
+        "https://openalex.org/W2121893520",
+        "https://openalex.org/W2314730702",
+        "https://openalex.org/W2170014289",
+        "https://openalex.org/W2083948158",
+        "https://openalex.org/W2014734109",
+        "https://openalex.org/W1984245194",
+        "https://openalex.org/W1955135223",
+        "https://openalex.org/W2116251861",
+        "https://openalex.org/W1565350250",
+        "https://openalex.org/W2140154855",
+        "https://openalex.org/W1964522439",
+        "https://openalex.org/W6629782530",
+        "https://openalex.org/W2113463828",
+        "https://openalex.org/W2149288810",
+        "https://openalex.org/W1974866475",
+        "https://openalex.org/W2079718624",
+        "https://openalex.org/W2121430396",
+        "https://openalex.org/W4299415359",
+        "https://openalex.org/W2088628443",
+        "https://openalex.org/W1541639759",
+        "https://openalex.org/W1968929298",
+        "https://openalex.org/W2057806510",
+        "https://openalex.org/W1986215651",
+        "https://openalex.org/W2031385454",
+        "https://openalex.org/W2070220127",
+        "https://openalex.org/W2016255938",
+        "https://openalex.org/W2216574195",
+        "https://openalex.org/W2161668412",
+        "https://openalex.org/W2079913867",
+        "https://openalex.org/W2157804877",
+        "https://openalex.org/W2017421360",
+        "https://openalex.org/W2020874403",
+        "https://openalex.org/W2075385160",
+        "https://openalex.org/W1594729591",
+        "https://openalex.org/W2161851141",
+        "https://openalex.org/W1968575711",
+        "https://openalex.org/W2156780901",
+        "https://openalex.org/W2171918417",
+        "https://openalex.org/W1970758318",
+        "https://openalex.org/W2026810208",
+        "https://openalex.org/W1996966348",
+        "https://openalex.org/W6776281216",
+        "https://openalex.org/W1974227955",
+        "https://openalex.org/W2021554589",
+        "https://openalex.org/W2115002868",
+        "https://openalex.org/W1536938194",
+        "https://openalex.org/W2132485329",
+        "https://openalex.org/W2043133248",
+        "https://openalex.org/W2140348893",
+        "https://openalex.org/W1493671385",
+        "https://openalex.org/W2476124422",
+        "https://openalex.org/W607131927"
+      ],
+      "related_works": [
+        "https://openalex.org/W2113043745",
+        "https://openalex.org/W2766839180",
+        "https://openalex.org/W3088773868",
+        "https://openalex.org/W2971604386",
+        "https://openalex.org/W4308638646",
+        "https://openalex.org/W2531219817",
+        "https://openalex.org/W2054290182",
+        "https://openalex.org/W2232330152",
+        "https://openalex.org/W4390408219",
+        "https://openalex.org/W3177551556"
+      ],
+      "abstract_inverted_index": {
+        "2": [
+          153
+        ],
+        "6": [
+          140
+        ],
+        "15": [
+          16
+        ],
+        "44": [
+          18
+        ],
+        "Background": [
+          0
+        ],
+        "Although": [
+          1
+        ],
+        "schizophrenia": [
+          2
+        ],
+        "is": [
+          3,
+          172
+        ],
+        "the": [
+          4,
+          20,
+          48,
+          80,
+          111,
+          145,
+          165,
+          216,
+          219,
+          224,
+          232,
+          244
+        ],
+        "fifth": [
+          5
+        ],
+        "leading": [
+          6
+        ],
+        "cause": [
+          7
+        ],
+        "of": [
+          8,
+          23,
+          36,
+          50,
+          64,
+          113,
+          141,
+          147,
+          154,
+          167,
+          193,
+          215,
+          223,
+          247
+        ],
+        "disability-adjusted": [
+          9
+        ],
+        "life": [
+          10
+        ],
+        "years": [
+          11
+        ],
+        "worldwide": [
+          12
+        ],
+        "in": [
+          13,
+          243
+        ],
+        "people": [
+          14,
+          54,
+          248
+        ],
+        "aged": [
+          15
+        ],
+        "to": [
+          17,
+          40,
+          68
+        ],
+        "years,": [
+          19
+        ],
+        "clinical": [
+          21
+        ],
+        "evidence": [
+          22,
+          173
+        ],
+        "physical": [
+          24,
+          51
+        ],
+        "therapy": [
+          25,
+          52,
+          239
+        ],
+        "as": [
+          26
+        ],
+        "a": [
+          27
+        ],
+        "complementary": [
+          28
+        ],
+        "treatment": [
+          29
+        ],
+        "remains": [
+          30
+        ],
+        "largely": [
+          31
+        ],
+        "unknown.": [
+          32
+        ],
+        "Purpose": [
+          33
+        ],
+        "The": [
+          34,
+          213
+        ],
+        "purpose": [
+          35
+        ],
+        "this": [
+          37
+        ],
+        "study": [
+          38,
+          108,
+          120,
+          126
+        ],
+        "was": [
+          39
+        ],
+        "systematically": [
+          41
+        ],
+        "review": [
+          42
+        ],
+        "randomized": [
+          43
+        ],
+        "controlled": [
+          44
+        ],
+        "trials": [
+          45
+        ],
+        "(RCTs)": [
+          46
+        ],
+        "evaluating": [
+          47
+        ],
+        "effectiveness": [
+          49
+        ],
+        "for": [
+          53,
+          92,
+          234
+        ],
+        "with": [
+          55,
+          249
+        ],
+        "schizophrenia.": [
+          56,
+          250
+        ],
+        "Data": [
+          57,
+          116,
+          132
+        ],
+        "Sources": [
+          58
+        ],
+        "EMBASE,": [
+          59
+        ],
+        "PsycINFO,": [
+          60
+        ],
+        "PubMed,": [
+          61
+        ],
+        "ISI": [
+          62
+        ],
+        "Web": [
+          63
+        ],
+        "Science,": [
+          65
+        ],
+        "Cumulative": [
+          66
+        ],
+        "Index": [
+          67
+        ],
+        "Nursing": [
+          69
+        ],
+        "and": [
+          70,
+          79,
+          122,
+          130,
+          149,
+          176,
+          179,
+          186,
+          189,
+          201,
+          209,
+          218,
+          230
+        ],
+        "Allied": [
+          71
+        ],
+        "Health": [
+          72
+        ],
+        "Literature": [
+          73
+        ],
+        "(CINAHL),": [
+          74
+        ],
+        "Physiotherapy": [
+          75
+        ],
+        "Evidence": [
+          76
+        ],
+        "Database": [
+          77
+        ],
+        "(PEDro),": [
+          78
+        ],
+        "Cochrane": [
+          81
+        ],
+        "Library": [
+          82
+        ],
+        "were": [
+          83,
+          100,
+          160
+        ],
+        "searched": [
+          84
+        ],
+        "from": [
+          85
+        ],
+        "their": [
+          86
+        ],
+        "inception": [
+          87
+        ],
+        "until": [
+          88
+        ],
+        "July": [
+          89
+        ],
+        "1,": [
+          90
+        ],
+        "2011,": [
+          91
+        ],
+        "relevant": [
+          93
+        ],
+        "RCTs.": [
+          94
+        ],
+        "In": [
+          95,
+          152
+        ],
+        "addition,": [
+          96
+        ],
+        "manual": [
+          97
+        ],
+        "search": [
+          98
+        ],
+        "strategies": [
+          99
+        ],
+        "used.": [
+          101
+        ],
+        "Study": [
+          102
+        ],
+        "Selection": [
+          103
+        ],
+        "Two": [
+          104
+        ],
+        "reviewers": [
+          105
+        ],
+        "independently": [
+          106
+        ],
+        "determined": [
+          107
+        ],
+        "eligibility": [
+          109
+        ],
+        "on": [
+          110
+        ],
+        "basis": [
+          112
+        ],
+        "inclusion": [
+          114
+        ],
+        "criteria.": [
+          115
+        ],
+        "Extraction": [
+          117
+        ],
+        "Reviewers": [
+          118
+        ],
+        "rated": [
+          119
+        ],
+        "quality": [
+          121,
+          192
+        ],
+        "extracted": [
+          123
+        ],
+        "information": [
+          124
+        ],
+        "about": [
+          125
+        ],
+        "methods,": [
+          127
+        ],
+        "design,": [
+          128
+        ],
+        "intervention,": [
+          129
+        ],
+        "results.": [
+          131
+        ],
+        "Synthesis": [
+          133
+        ],
+        "Ten": [
+          134
+        ],
+        "RCTs": [
+          135
+        ],
+        "met": [
+          136
+        ],
+        "all": [
+          137
+        ],
+        "selection": [
+          138
+        ],
+        "criteria;": [
+          139
+        ],
+        "these": [
+          142,
+          155
+        ],
+        "studies": [
+          143,
+          163,
+          226
+        ],
+        "addressed": [
+          144,
+          164
+        ],
+        "use": [
+          146,
+          166
+        ],
+        "aerobic": [
+          148,
+          175,
+          196
+        ],
+        "strength": [
+          150,
+          177
+        ],
+        "exercises.": [
+          151
+        ],
+        "studies,": [
+          156
+        ],
+        "yoga": [
+          157,
+          180
+        ],
+        "techniques": [
+          158
+        ],
+        "also": [
+          159
+        ],
+        "investigated.": [
+          161
+        ],
+        "Four": [
+          162
+        ],
+        "progressive": [
+          168,
+          203
+        ],
+        "muscle": [
+          169,
+          204
+        ],
+        "relaxation.": [
+          170
+        ],
+        "There": [
+          171
+        ],
+        "that": [
+          174,
+          195,
+          202
+        ],
+        "exercises": [
+          178
+        ],
+        "reduce": [
+          181
+        ],
+        "psychiatric": [
+          182
+        ],
+        "symptoms,": [
+          183
+        ],
+        "state": [
+          184,
+          207
+        ],
+        "anxiety,": [
+          185
+        ],
+        "psychological": [
+          187,
+          210
+        ],
+        "distress": [
+          188
+        ],
+        "improve": [
+          190
+        ],
+        "health-related": [
+          191
+        ],
+        "life,": [
+          194
+        ],
+        "exercise": [
+          197
+        ],
+        "improves": [
+          198
+        ],
+        "short-term": [
+          199
+        ],
+        "memory,": [
+          200
+        ],
+        "relaxation": [
+          205
+        ],
+        "reduces": [
+          206
+        ],
+        "anxiety": [
+          208
+        ],
+        "distress.": [
+          211
+        ],
+        "Limitations": [
+          212
+        ],
+        "heterogeneity": [
+          214
+        ],
+        "interventions": [
+          217
+        ],
+        "small": [
+          220
+        ],
+        "sample": [
+          221
+        ],
+        "sizes": [
+          222
+        ],
+        "included": [
+          225
+        ],
+        "limit": [
+          227
+        ],
+        "overall": [
+          228
+        ],
+        "conclusions": [
+          229
+        ],
+        "highlight": [
+          231
+        ],
+        "need": [
+          233
+        ],
+        "further": [
+          235
+        ],
+        "research.": [
+          236
+        ],
+        "Conclusions": [
+          237
+        ],
+        "Physical": [
+          238
+        ],
+        "offers": [
+          240
+        ],
+        "added": [
+          241
+        ],
+        "value": [
+          242
+        ],
+        "multidisciplinary": [
+          245
+        ],
+        "care": [
+          246
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 13
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 11
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 19
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 19
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 18
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 8
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W996797512",
+      "doi": null,
+      "title": "Mindfulness for the Millennial Generation: A Clinician’s Handbook for College Counseling Centers",
+      "display_name": "Mindfulness for the Millennial Generation: A Clinician’s Handbook for College Counseling Centers",
+      "relevance_score": 4.0343795,
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W996797512",
+        "mag": "996797512"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "pmh:oai:corescholar.libraries.wright.edu:etd_all-2246",
+        "is_oa": true,
+        "landing_page_url": "https://corescholar.libraries.wright.edu/etd_all/1107",
+        "pdf_url": "https://corescholar.libraries.wright.edu/etd_all/1107",
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Browse all Theses and Dissertations",
+        "raw_type": "text"
+      },
+      "type": "article",
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://corescholar.libraries.wright.edu/etd_all/1107",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5005369633",
+            "display_name": "Shaznin Percy Daruwalla",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I19648265",
+              "display_name": "Wright State University",
+              "ror": "https://ror.org/04qk6pt94",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I19648265"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Shaznin Percy Daruwalla",
+          "raw_affiliation_strings": [
+            "Wright State University;"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Wright State University;",
+              "institution_ids": [
+                "https://openalex.org/I19648265"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5005369633"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I19648265"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": true,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.06424156,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 93
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10708",
+        "display_name": "Mindfulness and Compassion Interventions",
+        "score": 0.9557999968528748,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3203",
+          "display_name": "Clinical Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10708",
+          "display_name": "Mindfulness and Compassion Interventions",
+          "score": 0.9557999968528748,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3203",
+            "display_name": "Clinical Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/mindfulness",
+          "display_name": "Mindfulness",
+          "score": 0.5112879276275635
+        },
+        {
+          "id": "https://openalex.org/keywords/medical-education",
+          "display_name": "Medical education",
+          "score": 0.4884756803512573
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.45134350657463074
+        },
+        {
+          "id": "https://openalex.org/keywords/gerontology",
+          "display_name": "Gerontology",
+          "score": 0.3781159222126007
+        },
+        {
+          "id": "https://openalex.org/keywords/psychotherapist",
+          "display_name": "Psychotherapist",
+          "score": 0.3600562810897827
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.3378404974937439
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2780444219",
+          "wikidata": "https://www.wikidata.org/wiki/Q341045",
+          "display_name": "Mindfulness",
+          "level": 2,
+          "score": 0.5112879276275635
+        },
+        {
+          "id": "https://openalex.org/C509550671",
+          "wikidata": "https://www.wikidata.org/wiki/Q126945",
+          "display_name": "Medical education",
+          "level": 1,
+          "score": 0.4884756803512573
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.45134350657463074
+        },
+        {
+          "id": "https://openalex.org/C74909509",
+          "wikidata": "https://www.wikidata.org/wiki/Q10387",
+          "display_name": "Gerontology",
+          "level": 1,
+          "score": 0.3781159222126007
+        },
+        {
+          "id": "https://openalex.org/C542102704",
+          "wikidata": "https://www.wikidata.org/wiki/Q183257",
+          "display_name": "Psychotherapist",
+          "level": 1,
+          "score": 0.3600562810897827
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.3378404974937439
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "pmh:oai:corescholar.libraries.wright.edu:etd_all-2246",
+          "is_oa": true,
+          "landing_page_url": "https://corescholar.libraries.wright.edu/etd_all/1107",
+          "pdf_url": "https://corescholar.libraries.wright.edu/etd_all/1107",
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Browse all Theses and Dissertations",
+          "raw_type": "text"
+        },
+        {
+          "id": "pmh:oai:etd.ohiolink.edu:wsupsych1307980446",
+          "is_oa": true,
+          "landing_page_url": "http://rave.ohiolink.edu/etdc/view?acc_num=wsupsych1307980446",
+          "pdf_url": "http://rave.ohiolink.edu/etdc/view?acc_num=wsupsych1307980446",
+          "source": {
+            "id": "https://openalex.org/S4377196344",
+            "display_name": "OhioLink ETD Center (Ohio Library and Information Network)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I4210155183",
+            "host_organization_name": "Ohio Library and Information Network",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210155183"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "http://rave.ohiolink.edu/etdc/view?acc_num=wsupsych1307980446",
+          "raw_type": "text"
+        },
+        {
+          "id": "mag:996797512",
+          "is_oa": false,
+          "landing_page_url": "https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?article=2246&context=etd_all",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:corescholar.libraries.wright.edu:etd_all-2246",
+        "is_oa": true,
+        "landing_page_url": "https://corescholar.libraries.wright.edu/etd_all/1107",
+        "pdf_url": "https://corescholar.libraries.wright.edu/etd_all/1107",
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Browse all Theses and Dissertations",
+        "raw_type": "text"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": true
+      },
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W3012825748",
+        "https://openalex.org/W2960088298",
+        "https://openalex.org/W2543206014",
+        "https://openalex.org/W2524601979",
+        "https://openalex.org/W3010173755",
+        "https://openalex.org/W2531048047",
+        "https://openalex.org/W3163375248",
+        "https://openalex.org/W2884475188",
+        "https://openalex.org/W1995138446",
+        "https://openalex.org/W2522671209",
+        "https://openalex.org/W2801843792",
+        "https://openalex.org/W2393495415",
+        "https://openalex.org/W2969566068",
+        "https://openalex.org/W2328888484",
+        "https://openalex.org/W1992382936",
+        "https://openalex.org/W2339926007",
+        "https://openalex.org/W262129317",
+        "https://openalex.org/W134592734",
+        "https://openalex.org/W1573341618",
+        "https://openalex.org/W2791818307"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0,
+          100
+        ],
+        "current": [
+          1,
+          73,
+          101
+        ],
+        "generation": [
+          2,
+          76
+        ],
+        "of": [
+          3,
+          32,
+          43,
+          136,
+          150
+        ],
+        "college": [
+          4,
+          66,
+          74,
+          128,
+          179
+        ],
+        "students,": [
+          5
+        ],
+        "the": [
+          6,
+          41,
+          72,
+          81,
+          104,
+          126,
+          137,
+          140,
+          171
+        ],
+        "Millennials": [
+          7
+        ],
+        "(Howe": [
+          8
+        ],
+        "&amp;": [
+          9
+        ],
+        "Strauss,": [
+          10
+        ],
+        "2000,": [
+          11
+        ],
+        "2007)": [
+          12
+        ],
+        "lead": [
+          13
+        ],
+        "highly": [
+          14
+        ],
+        "pressured": [
+          15
+        ],
+        "and": [
+          16,
+          56,
+          77,
+          98,
+          154,
+          162,
+          174
+        ],
+        "achievement-oriented": [
+          17
+        ],
+        "lives.": [
+          18
+        ],
+        "Along": [
+          19
+        ],
+        "with": [
+          20,
+          59,
+          181
+        ],
+        "generational": [
+          21
+        ],
+        "changes,": [
+          22
+        ],
+        "change": [
+          23
+        ],
+        "is": [
+          24,
+          37
+        ],
+        "occurring": [
+          25
+        ],
+        "on": [
+          26,
+          144
+        ],
+        "university": [
+          27,
+          89
+        ],
+        "campuses,": [
+          28
+        ],
+        "especially": [
+          29
+        ],
+        "in": [
+          30,
+          40,
+          71
+        ],
+        "terms": [
+          31
+        ],
+        "mental": [
+          33,
+          61
+        ],
+        "health": [
+          34,
+          62
+        ],
+        "demographics.": [
+          35
+        ],
+        "There": [
+          36
+        ],
+        "an": [
+          38,
+          84
+        ],
+        "increase": [
+          39
+        ],
+        "severity": [
+          42
+        ],
+        "presenting": [
+          44
+        ],
+        "concerns": [
+          45
+        ],
+        "reported": [
+          46
+        ],
+        "by": [
+          47
+        ],
+        "students": [
+          48,
+          58,
+          180
+        ],
+        "as": [
+          49,
+          159
+        ],
+        "seen": [
+          50
+        ],
+        "at": [
+          51
+        ],
+        "counseling": [
+          52
+        ],
+        "centers": [
+          53
+        ],
+        "(Gallagher,": [
+          54,
+          68
+        ],
+        "2008),": [
+          55
+        ],
+        "more": [
+          57
+        ],
+        "existing": [
+          60
+        ],
+        "diagnoses": [
+          63
+        ],
+        "are": [
+          64
+        ],
+        "seeking": [
+          65
+        ],
+        "admissions": [
+          67
+        ],
+        "2009).": [
+          69
+        ],
+        "Changes": [
+          70
+        ],
+        "student": [
+          75,
+          129
+        ],
+        "socio-cultural": [
+          78
+        ],
+        "changes": [
+          79
+        ],
+        "underscore": [
+          80
+        ],
+        "need": [
+          82
+        ],
+        "for": [
+          83,
+          88,
+          116,
+          122,
+          170,
+          178
+        ],
+        "effective": [
+          85
+        ],
+        "stress-reduction": [
+          86
+        ],
+        "program": [
+          87
+        ],
+        "students.": [
+          90
+        ],
+        "Mindfulness-based": [
+          91
+        ],
+        "interventions": [
+          92
+        ],
+        "have": [
+          93
+        ],
+        "received": [
+          94
+        ],
+        "attention": [
+          95
+        ],
+        "from": [
+          96
+        ],
+        "researchers": [
+          97
+        ],
+        "clinicians.": [
+          99
+        ],
+        "dissertation": [
+          102
+        ],
+        "modifies": [
+          103
+        ],
+        "traditional": [
+          105
+        ],
+        "Mindfulness-Based": [
+          106
+        ],
+        "Stress": [
+          107
+        ],
+        "Reduction": [
+          108
+        ],
+        "(Kabat-Zinn,": [
+          109
+        ],
+        "1990)": [
+          110
+        ],
+        "to": [
+          111,
+          133
+        ],
+        "propose": [
+          112
+        ],
+        "a": [
+          113,
+          118
+        ],
+        "new": [
+          114
+        ],
+        "format": [
+          115,
+          173
+        ],
+        "facilitating": [
+          117
+        ],
+        "mindfulness": [
+          119,
+          152,
+          156
+        ],
+        "group": [
+          120,
+          138
+        ],
+        "suited": [
+          121
+        ],
+        "beginning": [
+          123
+        ],
+        "meditators": [
+          124
+        ],
+        "within": [
+          125
+        ],
+        "Millennial": [
+          127
+        ],
+        "population.": [
+          130
+        ],
+        "In": [
+          131
+        ],
+        "addition": [
+          132
+        ],
+        "emphasizing": [
+          134
+        ],
+        "flexibility": [
+          135
+        ],
+        "program,": [
+          139
+        ],
+        "handbook": [
+          141
+        ],
+        "includes": [
+          142
+        ],
+        "information": [
+          143
+        ],
+        "conducting": [
+          145
+        ],
+        "pre-group": [
+          146
+        ],
+        "screening,": [
+          147
+        ],
+        "debriefing,": [
+          148
+        ],
+        "assessment": [
+          149
+        ],
+        "members'": [
+          151
+        ],
+        "skills,": [
+          153
+        ],
+        "allied": [
+          155
+        ],
+        "practices": [
+          157,
+          176
+        ],
+        "such": [
+          158
+        ],
+        "Tai": [
+          160
+        ],
+        "chi": [
+          161
+        ],
+        "Qigong.": [
+          163
+        ],
+        "Future": [
+          164
+        ],
+        "directions": [
+          165
+        ],
+        "include": [
+          166
+        ],
+        "gathering": [
+          167
+        ],
+        "empirical": [
+          168
+        ],
+        "support": [
+          169
+        ],
+        "proposed": [
+          172
+        ],
+        "including": [
+          175
+        ],
+        "suitable": [
+          177
+        ],
+        "severe": [
+          182
+        ],
+        "psychological": [
+          183
+        ],
+        "concerns.": [
+          184
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-11-06T04:12:42.849631",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2103688837",
+      "doi": null,
+      "title": "Exercise as a Primary, Secondary and Tertiary Intervention in Alzheimer's Disease",
+      "display_name": "Exercise as a Primary, Secondary and Tertiary Intervention in Alzheimer's Disease",
+      "relevance_score": 1.2884517,
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2103688837",
+        "mag": "2103688837"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "pmh:oai:sophia.stkate.edu:ma_nursing-1032",
+        "is_oa": true,
+        "landing_page_url": "https://sophia.stkate.edu/ma_nursing/33",
+        "pdf_url": "https://sophia.stkate.edu/ma_nursing/33",
+        "source": {
+          "id": "https://openalex.org/S4377196708",
+          "display_name": "SOPHIA (St. Catherine University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I142767807",
+          "host_organization_name": "St. Catherine University",
+          "host_organization_lineage": [
+            "https://openalex.org/I142767807"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Master of Arts/Science in Nursing Scholarly Projects",
+        "raw_type": "text"
+      },
+      "type": "article",
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://sophia.stkate.edu/ma_nursing/33",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5050289492",
+            "display_name": "Sara Duerr",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Sara Duerr",
+          "raw_affiliation_strings": [
+            "St. Catherine University."
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "St. Catherine University.",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5050289492"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": true,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.16900372,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10397",
+        "display_name": "Nutrition and Health in Aging",
+        "score": 0.9539999961853027,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2737",
+          "display_name": "Physiology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10397",
+          "display_name": "Nutrition and Health in Aging",
+          "score": 0.9539999961853027,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2737",
+            "display_name": "Physiology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10352",
+          "display_name": "Physical Activity and Health",
+          "score": 0.9358999729156494,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2737",
+            "display_name": "Physiology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12267",
+          "display_name": "Diet and metabolism studies",
+          "score": 0.925000011920929,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2737",
+            "display_name": "Physiology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/disease",
+          "display_name": "Disease",
+          "score": 0.5516563057899475
+        },
+        {
+          "id": "https://openalex.org/keywords/intervention",
+          "display_name": "Intervention (counseling)",
+          "score": 0.48529475927352905
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.4826350808143616
+        },
+        {
+          "id": "https://openalex.org/keywords/gerontology",
+          "display_name": "Gerontology",
+          "score": 0.40421897172927856
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.3722693920135498
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.28512075543403625
+        },
+        {
+          "id": "https://openalex.org/keywords/internal-medicine",
+          "display_name": "Internal medicine",
+          "score": 0.12524288892745972
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779134260",
+          "wikidata": "https://www.wikidata.org/wiki/Q12136",
+          "display_name": "Disease",
+          "level": 2,
+          "score": 0.5516563057899475
+        },
+        {
+          "id": "https://openalex.org/C2780665704",
+          "wikidata": "https://www.wikidata.org/wiki/Q959298",
+          "display_name": "Intervention (counseling)",
+          "level": 2,
+          "score": 0.48529475927352905
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.4826350808143616
+        },
+        {
+          "id": "https://openalex.org/C74909509",
+          "wikidata": "https://www.wikidata.org/wiki/Q10387",
+          "display_name": "Gerontology",
+          "level": 1,
+          "score": 0.40421897172927856
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.3722693920135498
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.28512075543403625
+        },
+        {
+          "id": "https://openalex.org/C126322002",
+          "wikidata": "https://www.wikidata.org/wiki/Q11180",
+          "display_name": "Internal medicine",
+          "level": 1,
+          "score": 0.12524288892745972
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "pmh:oai:sophia.stkate.edu:ma_nursing-1032",
+          "is_oa": true,
+          "landing_page_url": "https://sophia.stkate.edu/ma_nursing/33",
+          "pdf_url": "https://sophia.stkate.edu/ma_nursing/33",
+          "source": {
+            "id": "https://openalex.org/S4377196708",
+            "display_name": "SOPHIA (St. Catherine University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I142767807",
+            "host_organization_name": "St. Catherine University",
+            "host_organization_lineage": [
+              "https://openalex.org/I142767807"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Master of Arts/Science in Nursing Scholarly Projects",
+          "raw_type": "text"
+        },
+        {
+          "id": "mag:2103688837",
+          "is_oa": false,
+          "landing_page_url": "https://sophia.stkate.edu/cgi/viewcontent.cgi?article=1032&context=ma_nursing",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:sophia.stkate.edu:ma_nursing-1032",
+        "is_oa": true,
+        "landing_page_url": "https://sophia.stkate.edu/ma_nursing/33",
+        "pdf_url": "https://sophia.stkate.edu/ma_nursing/33",
+        "source": {
+          "id": "https://openalex.org/S4377196708",
+          "display_name": "SOPHIA (St. Catherine University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I142767807",
+          "host_organization_name": "St. Catherine University",
+          "host_organization_lineage": [
+            "https://openalex.org/I142767807"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Master of Arts/Science in Nursing Scholarly Projects",
+        "raw_type": "text"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "referenced_works_count": 50,
+      "referenced_works": [
+        "https://openalex.org/W2036850467",
+        "https://openalex.org/W2009916013",
+        "https://openalex.org/W2125657871",
+        "https://openalex.org/W91863762",
+        "https://openalex.org/W2100464372",
+        "https://openalex.org/W2003059879",
+        "https://openalex.org/W1971334793",
+        "https://openalex.org/W2154908600",
+        "https://openalex.org/W2289765202",
+        "https://openalex.org/W2103976492",
+        "https://openalex.org/W1556698056",
+        "https://openalex.org/W2107820540",
+        "https://openalex.org/W2114330749",
+        "https://openalex.org/W2054397809",
+        "https://openalex.org/W2104792456",
+        "https://openalex.org/W2092674727",
+        "https://openalex.org/W2155210372",
+        "https://openalex.org/W2141309434",
+        "https://openalex.org/W2155862337",
+        "https://openalex.org/W2059083799",
+        "https://openalex.org/W2126657859",
+        "https://openalex.org/W2145944042",
+        "https://openalex.org/W1986909933",
+        "https://openalex.org/W2005170723",
+        "https://openalex.org/W2129662855",
+        "https://openalex.org/W2227813149",
+        "https://openalex.org/W2413193555",
+        "https://openalex.org/W2093757589",
+        "https://openalex.org/W2157803415",
+        "https://openalex.org/W2031252520",
+        "https://openalex.org/W2111983495",
+        "https://openalex.org/W2136681119",
+        "https://openalex.org/W1968843233",
+        "https://openalex.org/W1702894073",
+        "https://openalex.org/W2027923333",
+        "https://openalex.org/W2119757776",
+        "https://openalex.org/W2153631628",
+        "https://openalex.org/W1982469889",
+        "https://openalex.org/W2128895419",
+        "https://openalex.org/W2113385406",
+        "https://openalex.org/W2064404113",
+        "https://openalex.org/W2122320288",
+        "https://openalex.org/W2105489250",
+        "https://openalex.org/W2146816610",
+        "https://openalex.org/W2134510725",
+        "https://openalex.org/W2060683563",
+        "https://openalex.org/W2138879960",
+        "https://openalex.org/W1939937489",
+        "https://openalex.org/W2107501599",
+        "https://openalex.org/W2415969077"
+      ],
+      "related_works": [
+        "https://openalex.org/W2937635151",
+        "https://openalex.org/W2409636906",
+        "https://openalex.org/W2079858415",
+        "https://openalex.org/W2914257998",
+        "https://openalex.org/W2582373022",
+        "https://openalex.org/W2224045462",
+        "https://openalex.org/W2617156123",
+        "https://openalex.org/W2913284622",
+        "https://openalex.org/W2528228973",
+        "https://openalex.org/W2411887138",
+        "https://openalex.org/W2494293961",
+        "https://openalex.org/W2309696447",
+        "https://openalex.org/W610136359",
+        "https://openalex.org/W2436948674",
+        "https://openalex.org/W43221252",
+        "https://openalex.org/W2277663901",
+        "https://openalex.org/W2070940957",
+        "https://openalex.org/W2333433437",
+        "https://openalex.org/W2461330732",
+        "https://openalex.org/W2788609152"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [],
+      "updated_date": "2025-11-06T04:12:42.849631",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  ],
+  "group_by": []
+}

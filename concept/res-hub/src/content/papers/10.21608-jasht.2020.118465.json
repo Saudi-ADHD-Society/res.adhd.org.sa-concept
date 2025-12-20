@@ -6,7 +6,13 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Rabab",
+      "family": "Alharbi",
+      "sequence": 1
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.21608__jasht.2020.118465.pdf"
@@ -14,5 +20,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.21608-jasht.2020.118465"
+  "id": "doi-10.21608-jasht.2020.118465",
+  "publication": {
+    "year": 2020
+  }
 }

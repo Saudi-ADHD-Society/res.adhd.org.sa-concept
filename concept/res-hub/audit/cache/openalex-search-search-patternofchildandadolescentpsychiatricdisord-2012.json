@@ -1,0 +1,5138 @@
+{
+  "meta": {
+    "count": 4,
+    "db_response_time_ms": 71,
+    "page": 1,
+    "per_page": 10,
+    "groups_count": null
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W1584837172",
+      "doi": "https://doi.org/10.26719/2012.18.2.112",
+      "title": "Pattern of child and adolescent psychiatric disorders among patients consulting publicly-funded child psychiatric clinics in Saudi Arabia",
+      "display_name": "Pattern of child and adolescent psychiatric disorders among patients consulting publicly-funded child psychiatric clinics in Saudi Arabia",
+      "relevance_score": 2020.4589,
+      "publication_year": 2012,
+      "publication_date": "2012-02-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1584837172",
+        "doi": "https://doi.org/10.26719/2012.18.2.112",
+        "mag": "1584837172",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/22571086"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.26719/2012.18.2.112",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.26719/2012.18.2.112",
+        "pdf_url": "https://doi.org/10.26719/2012.18.2.112",
+        "source": {
+          "id": "https://openalex.org/S175879142",
+          "display_name": "Eastern Mediterranean Health Journal",
+          "issn_l": "1020-3397",
+          "issn": [
+            "1020-3397",
+            "1687-1634"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319663",
+          "host_organization_name": "World Health Organization",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319663",
+            "https://openalex.org/P4310321776"
+          ],
+          "host_organization_lineage_names": [
+            "World Health Organization",
+            "United Nations"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Eastern Mediterranean Health Journal",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://doi.org/10.26719/2012.18.2.112",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5110969619",
+            "display_name": "Abdulhameed Abdullah Alhabeeb",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210127754",
+              "display_name": "Ministry of Health",
+              "ror": "https://ror.org/030atj633",
+              "country_code": "SA",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210127754"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A.A. Al-Habeeb",
+          "raw_affiliation_strings": [
+            "General Administration for Mental Health and Social Services, Ministry of Health, Riyadh, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "General Administration for Mental Health and Social Services, Ministry of Health, Riyadh, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210127754"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5113697141",
+            "display_name": "N.A. Qureshi",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210127754",
+              "display_name": "Ministry of Health",
+              "ror": "https://ror.org/030atj633",
+              "country_code": "SA",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210127754"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "N.A. Qureshi",
+          "raw_affiliation_strings": [
+            "General Administration for Mental Health and Social Services, Ministry of Health, Riyadh, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "General Administration for Mental Health and Social Services, Ministry of Health, Riyadh, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210127754"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5041501997",
+            "display_name": "T.A. Al-Maliki",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210127754",
+              "display_name": "Ministry of Health",
+              "ror": "https://ror.org/030atj633",
+              "country_code": "SA",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210127754"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "T.A. Al-Maliki",
+          "raw_affiliation_strings": [
+            "General Administration for Mental Health and Social Services, Ministry of Health, Riyadh, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "General Administration for Mental Health and Social Services, Ministry of Health, Riyadh, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210127754"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.55679503,
+      "has_fulltext": true,
+      "cited_by_count": 18,
+      "citation_normalized_percentile": {
+        "value": 0.81437863,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "18",
+        "issue": "2",
+        "first_page": "112",
+        "last_page": "119"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10182",
+        "display_name": "Child and Adolescent Psychosocial and Emotional Development",
+        "score": 0.9998000264167786,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3203",
+          "display_name": "Clinical Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10182",
+          "display_name": "Child and Adolescent Psychosocial and Emotional Development",
+          "score": 0.9998000264167786,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3203",
+            "display_name": "Clinical Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13883",
+          "display_name": "Child and Adolescent Health",
+          "score": 0.989799976348877,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3600",
+            "display_name": "General Health Professions"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/36",
+            "display_name": "Health Professions"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10786",
+          "display_name": "Maternal Mental Health During Pregnancy and Postpartum",
+          "score": 0.9801999926567078,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2739",
+            "display_name": "Public Health, Environmental and Occupational Health"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.7349110245704651
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.7036800980567932
+        },
+        {
+          "id": "https://openalex.org/keywords/psychosocial",
+          "display_name": "Psychosocial",
+          "score": 0.6828402280807495
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatric-comorbidity",
+          "display_name": "Psychiatric comorbidity",
+          "score": 0.5205914974212646
+        },
+        {
+          "id": "https://openalex.org/keywords/comorbidity",
+          "display_name": "Comorbidity",
+          "score": 0.4650638699531555
+        },
+        {
+          "id": "https://openalex.org/keywords/child-and-adolescent-psychiatry",
+          "display_name": "Child and adolescent psychiatry",
+          "score": 0.4601711630821228
+        },
+        {
+          "id": "https://openalex.org/keywords/stressor",
+          "display_name": "Stressor",
+          "score": 0.4487723410129547
+        },
+        {
+          "id": "https://openalex.org/keywords/retrospective-cohort-study",
+          "display_name": "Retrospective cohort study",
+          "score": 0.43197399377822876
+        },
+        {
+          "id": "https://openalex.org/keywords/epidemiology-of-child-psychiatric-disorders",
+          "display_name": "Epidemiology of child psychiatric disorders",
+          "score": 0.4260624945163727
+        },
+        {
+          "id": "https://openalex.org/keywords/public-health",
+          "display_name": "Public health",
+          "score": 0.4178480803966522
+        },
+        {
+          "id": "https://openalex.org/keywords/pediatrics",
+          "display_name": "Pediatrics",
+          "score": 0.3855974078178406
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.7349110245704651
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.7036800980567932
+        },
+        {
+          "id": "https://openalex.org/C150966472",
+          "wikidata": "https://www.wikidata.org/wiki/Q3410145",
+          "display_name": "Psychosocial",
+          "level": 2,
+          "score": 0.6828402280807495
+        },
+        {
+          "id": "https://openalex.org/C3018243667",
+          "wikidata": "https://www.wikidata.org/wiki/Q1414874",
+          "display_name": "Psychiatric comorbidity",
+          "level": 3,
+          "score": 0.5205914974212646
+        },
+        {
+          "id": "https://openalex.org/C2779159551",
+          "wikidata": "https://www.wikidata.org/wiki/Q1414874",
+          "display_name": "Comorbidity",
+          "level": 2,
+          "score": 0.4650638699531555
+        },
+        {
+          "id": "https://openalex.org/C557119937",
+          "wikidata": "https://www.wikidata.org/wiki/Q1741745",
+          "display_name": "Child and adolescent psychiatry",
+          "level": 2,
+          "score": 0.4601711630821228
+        },
+        {
+          "id": "https://openalex.org/C125370674",
+          "wikidata": "https://www.wikidata.org/wiki/Q1527480",
+          "display_name": "Stressor",
+          "level": 2,
+          "score": 0.4487723410129547
+        },
+        {
+          "id": "https://openalex.org/C167135981",
+          "wikidata": "https://www.wikidata.org/wiki/Q2146302",
+          "display_name": "Retrospective cohort study",
+          "level": 2,
+          "score": 0.43197399377822876
+        },
+        {
+          "id": "https://openalex.org/C140682164",
+          "wikidata": "https://www.wikidata.org/wiki/Q5382718",
+          "display_name": "Epidemiology of child psychiatric disorders",
+          "level": 2,
+          "score": 0.4260624945163727
+        },
+        {
+          "id": "https://openalex.org/C138816342",
+          "wikidata": "https://www.wikidata.org/wiki/Q189603",
+          "display_name": "Public health",
+          "level": 2,
+          "score": 0.4178480803966522
+        },
+        {
+          "id": "https://openalex.org/C187212893",
+          "wikidata": "https://www.wikidata.org/wiki/Q123028",
+          "display_name": "Pediatrics",
+          "level": 1,
+          "score": 0.3855974078178406
+        },
+        {
+          "id": "https://openalex.org/C126322002",
+          "wikidata": "https://www.wikidata.org/wiki/Q11180",
+          "display_name": "Internal medicine",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C159110408",
+          "wikidata": "https://www.wikidata.org/wiki/Q121176",
+          "display_name": "Nursing",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [
+        {
+          "descriptor_ui": "D000293",
+          "descriptor_name": "Adolescent",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D002648",
+          "descriptor_name": "Child",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D002675",
+          "descriptor_name": "Child, Preschool",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D015897",
+          "descriptor_name": "Comorbidity",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005190",
+          "descriptor_name": "Family",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005260",
+          "descriptor_name": "Female",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D007223",
+          "descriptor_name": "Infant",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008297",
+          "descriptor_name": "Male",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008499",
+          "descriptor_name": "Medical Records",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001523",
+          "descriptor_name": "Mental Disorders",
+          "qualifier_ui": "Q000175",
+          "qualifier_name": "diagnosis",
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001523",
+          "descriptor_name": "Mental Disorders",
+          "qualifier_ui": "Q000453",
+          "qualifier_name": "epidemiology",
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001523",
+          "descriptor_name": "Mental Disorders",
+          "qualifier_ui": "Q000209",
+          "qualifier_name": "etiology",
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001523",
+          "descriptor_name": "Mental Disorders",
+          "qualifier_ui": "Q000628",
+          "qualifier_name": "therapy",
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D007744",
+          "descriptor_name": "Obstetric Labor Complications",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D011247",
+          "descriptor_name": "Pregnancy",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D011248",
+          "descriptor_name": "Pregnancy Complications",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012189",
+          "descriptor_name": "Retrospective Studies",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012307",
+          "descriptor_name": "Risk Factors",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012529",
+          "descriptor_name": "Saudi Arabia",
+          "qualifier_ui": "Q000453",
+          "qualifier_name": "epidemiology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D055815",
+          "descriptor_name": "Young Adult",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000293",
+          "descriptor_name": "Adolescent",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D002648",
+          "descriptor_name": "Child",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D002675",
+          "descriptor_name": "Child, Preschool",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D015897",
+          "descriptor_name": "Comorbidity",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005190",
+          "descriptor_name": "Family",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005260",
+          "descriptor_name": "Female",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D007223",
+          "descriptor_name": "Infant",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008297",
+          "descriptor_name": "Male",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008499",
+          "descriptor_name": "Medical Records",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001523",
+          "descriptor_name": "Mental Disorders",
+          "qualifier_ui": "Q000175",
+          "qualifier_name": "diagnosis",
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001523",
+          "descriptor_name": "Mental Disorders",
+          "qualifier_ui": "Q000453",
+          "qualifier_name": "epidemiology",
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001523",
+          "descriptor_name": "Mental Disorders",
+          "qualifier_ui": "Q000209",
+          "qualifier_name": "etiology",
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001523",
+          "descriptor_name": "Mental Disorders",
+          "qualifier_ui": "Q000628",
+          "qualifier_name": "therapy",
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D007744",
+          "descriptor_name": "Obstetric Labor Complications",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D011247",
+          "descriptor_name": "Pregnancy",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D011248",
+          "descriptor_name": "Pregnancy Complications",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012189",
+          "descriptor_name": "Retrospective Studies",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012307",
+          "descriptor_name": "Risk Factors",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012529",
+          "descriptor_name": "Saudi Arabia",
+          "qualifier_ui": "Q000453",
+          "qualifier_name": "epidemiology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D055815",
+          "descriptor_name": "Young Adult",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        }
+      ],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.26719/2012.18.2.112",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.26719/2012.18.2.112",
+          "pdf_url": "https://doi.org/10.26719/2012.18.2.112",
+          "source": {
+            "id": "https://openalex.org/S175879142",
+            "display_name": "Eastern Mediterranean Health Journal",
+            "issn_l": "1020-3397",
+            "issn": [
+              "1020-3397",
+              "1687-1634"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319663",
+            "host_organization_name": "World Health Organization",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319663",
+              "https://openalex.org/P4310321776"
+            ],
+            "host_organization_lineage_names": [
+              "World Health Organization",
+              "United Nations"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Eastern Mediterranean Health Journal",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:22571086",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/22571086",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Eastern Mediterranean health journal = La revue de sante de la Mediterranee orientale = al-Majallah al-sihhiyah li-sharq al-mutawassit",
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.26719/2012.18.2.112",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.26719/2012.18.2.112",
+        "pdf_url": "https://doi.org/10.26719/2012.18.2.112",
+        "source": {
+          "id": "https://openalex.org/S175879142",
+          "display_name": "Eastern Mediterranean Health Journal",
+          "issn_l": "1020-3397",
+          "issn": [
+            "1020-3397",
+            "1687-1634"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319663",
+          "host_organization_name": "World Health Organization",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319663",
+            "https://openalex.org/P4310321776"
+          ],
+          "host_organization_lineage_names": [
+            "World Health Organization",
+            "United Nations"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Eastern Mediterranean Health Journal",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.5400000214576721,
+          "display_name": "Good health and well-being",
+          "id": "https://metadata.un.org/sdg/3"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "referenced_works_count": 28,
+      "referenced_works": [
+        "https://openalex.org/W2151994257",
+        "https://openalex.org/W2099642725",
+        "https://openalex.org/W1928999099",
+        "https://openalex.org/W2161080393",
+        "https://openalex.org/W2430301942",
+        "https://openalex.org/W2027707552",
+        "https://openalex.org/W1979207344",
+        "https://openalex.org/W2087838750",
+        "https://openalex.org/W105318348",
+        "https://openalex.org/W1964289903",
+        "https://openalex.org/W1986020391",
+        "https://openalex.org/W1970834718",
+        "https://openalex.org/W2399957740",
+        "https://openalex.org/W2412985202",
+        "https://openalex.org/W1969112540",
+        "https://openalex.org/W2189346005",
+        "https://openalex.org/W2317205396",
+        "https://openalex.org/W2079878051",
+        "https://openalex.org/W1197823737",
+        "https://openalex.org/W2025263030",
+        "https://openalex.org/W2414671826",
+        "https://openalex.org/W2081906299",
+        "https://openalex.org/W2032544222",
+        "https://openalex.org/W1558129559",
+        "https://openalex.org/W2161722590",
+        "https://openalex.org/W1993133232",
+        "https://openalex.org/W2010259610",
+        "https://openalex.org/W2107876359"
+      ],
+      "related_works": [
+        "https://openalex.org/W4304787146",
+        "https://openalex.org/W2501976389",
+        "https://openalex.org/W1981692276",
+        "https://openalex.org/W2034604467",
+        "https://openalex.org/W2724152478",
+        "https://openalex.org/W3215089920",
+        "https://openalex.org/W4385669877",
+        "https://openalex.org/W2426080310",
+        "https://openalex.org/W1994797318",
+        "https://openalex.org/W2946600713"
+      ],
+      "abstract_inverted_index": {
+        "3": [
+          30
+        ],
+        "Data": [
+          0
+        ],
+        "about": [
+          1
+        ],
+        "psychiatric": [
+          2,
+          25,
+          32,
+          80
+        ],
+        "problems": [
+          3
+        ],
+        "among": [
+          4,
+          27
+        ],
+        "young": [
+          5
+        ],
+        "people": [
+          6
+        ],
+        "are": [
+          7
+        ],
+        "scarce": [
+          8
+        ],
+        "in": [
+          9,
+          34,
+          72,
+          84,
+          92,
+          101,
+          113
+        ],
+        "the": [
+          10,
+          19,
+          38,
+          46,
+          110,
+          122
+        ],
+        "Gulf": [
+          11
+        ],
+        "countries.": [
+          12
+        ],
+        "This": [
+          13
+        ],
+        "retrospective": [
+          14
+        ],
+        "review": [
+          15
+        ],
+        "of": [
+          16,
+          21,
+          57,
+          75,
+          79,
+          86,
+          94,
+          115,
+          134
+        ],
+        "records": [
+          17
+        ],
+        "describes": [
+          18
+        ],
+        "pattern": [
+          20
+        ],
+        "child": [
+          22,
+          31
+        ],
+        "and": [
+          23,
+          59,
+          66,
+          138
+        ],
+        "adolescent": [
+          24
+        ],
+        "disorders": [
+          26
+        ],
+        "patients": [
+          28,
+          42,
+          58
+        ],
+        "consulting": [
+          29
+        ],
+        "clinics": [
+          33
+        ],
+        "Saudi": [
+          35
+        ],
+        "Arabia": [
+          36
+        ],
+        "during": [
+          37
+        ],
+        "year": [
+          39
+        ],
+        "2008.": [
+          40
+        ],
+        "Most": [
+          41
+        ],
+        "were": [
+          43,
+          53,
+          70,
+          99,
+          130
+        ],
+        "referred": [
+          44
+        ],
+        "from": [
+          45
+        ],
+        "public": [
+          47
+        ],
+        "health": [
+          48
+        ],
+        "sector": [
+          49
+        ],
+        "(92.8%).": [
+          50
+        ],
+        "Psychotropic": [
+          51
+        ],
+        "drugs": [
+          52
+        ],
+        "prescribed": [
+          54
+        ],
+        "for": [
+          55,
+          61
+        ],
+        "86.2%": [
+          56
+        ],
+        "psychotherapy": [
+          60
+        ],
+        "55.2%.": [
+          62
+        ],
+        "Maternal": [
+          63
+        ],
+        "perinatal": [
+          64,
+          139
+        ],
+        "complications": [
+          65,
+          140
+        ],
+        "other": [
+          67
+        ],
+        "psychosocial": [
+          68
+        ],
+        "stressors": [
+          69
+        ],
+        "noted": [
+          71,
+          91,
+          100
+        ],
+        "almost": [
+          73
+        ],
+        "45.8%": [
+          74
+        ],
+        "cases.": [
+          76,
+          116
+        ],
+        "Family": [
+          77
+        ],
+        "history": [
+          78
+        ],
+        "disorder": [
+          81
+        ],
+        "was": [
+          82,
+          90,
+          105
+        ],
+        "reported": [
+          83
+        ],
+        "31.5%": [
+          85
+        ],
+        "patients.": [
+          87
+        ],
+        "Psychiatric": [
+          88
+        ],
+        "comorbidity": [
+          89
+        ],
+        "40.5%": [
+          93
+        ],
+        "cases": [
+          95
+        ],
+        "while": [
+          96
+        ],
+        "physical": [
+          97
+        ],
+        "diseases": [
+          98
+        ],
+        "29.9%.": [
+          102
+        ],
+        "The": [
+          103
+        ],
+        "outcome": [
+          104,
+          129
+        ],
+        "classified": [
+          106
+        ],
+        "as": [
+          107
+        ],
+        "unstable": [
+          108,
+          128
+        ],
+        "at": [
+          109
+        ],
+        "last": [
+          111
+        ],
+        "consultation": [
+          112
+        ],
+        "17.9%": [
+          114
+        ],
+        "In": [
+          117
+        ],
+        "a": [
+          118,
+          131
+        ],
+        "linear": [
+          119
+        ],
+        "regression": [
+          120
+        ],
+        "analysis": [
+          121
+        ],
+        "only": [
+          123
+        ],
+        "factors": [
+          124
+        ],
+        "significantly": [
+          125
+        ],
+        "associated": [
+          126
+        ],
+        "with": [
+          127
+        ],
+        "higher": [
+          132
+        ],
+        "load": [
+          133
+        ],
+        "symptoms": [
+          135
+        ],
+        "(OR": [
+          136,
+          141
+        ],
+        "2.64)": [
+          137
+        ],
+        "2.84).": [
+          142
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2112553362",
+      "doi": "https://doi.org/10.1093/humupd/dms030",
+      "title": "Overweight, obesity and central obesity in women with polycystic ovary syndrome: a systematic review and meta-analysis",
+      "display_name": "Overweight, obesity and central obesity in women with polycystic ovary syndrome: a systematic review and meta-analysis",
+      "relevance_score": 66.4559,
+      "publication_year": 2012,
+      "publication_date": "2012-07-04",
+      "ids": {
+        "openalex": "https://openalex.org/W2112553362",
+        "doi": "https://doi.org/10.1093/humupd/dms030",
+        "mag": "2112553362",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/22767467"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1093/humupd/dms030",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1093/humupd/dms030",
+        "pdf_url": "https://academic.oup.com/humupd/article-pdf/18/6/618/17055828/dms030.pdf",
+        "source": {
+          "id": "https://openalex.org/S19450991",
+          "display_name": "Human Reproduction Update",
+          "issn_l": "1355-4786",
+          "issn": [
+            "1355-4786",
+            "1362-4946",
+            "1460-2369"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310311648",
+          "host_organization_name": "Oxford University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311648",
+            "https://openalex.org/P4310311647"
+          ],
+          "host_organization_lineage_names": [
+            "Oxford University Press",
+            "University of Oxford"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Human Reproduction Update",
+        "raw_type": "journal-article"
+      },
+      "type": "review",
+      "indexed_in": [
+        "crossref",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://academic.oup.com/humupd/article-pdf/18/6/618/17055828/dms030.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5002392282",
+            "display_name": "Siew Lim",
+            "orcid": "https://orcid.org/0000-0002-5333-6451"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I5681781",
+              "display_name": "The University of Adelaide",
+              "ror": "https://ror.org/00892tw58",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I5681781"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "S.S. Lim",
+          "raw_affiliation_strings": [
+            "The Robinson Institute, University of Adelaide, Adelaide, SA 5005, Australia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "The Robinson Institute, University of Adelaide, Adelaide, SA 5005, Australia",
+              "institution_ids": [
+                "https://openalex.org/I5681781"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5024193480",
+            "display_name": "Michael J. Davies",
+            "orcid": "https://orcid.org/0000-0003-1526-0801"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I5681781",
+              "display_name": "The University of Adelaide",
+              "ror": "https://ror.org/00892tw58",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I5681781"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M.J. Davies",
+          "raw_affiliation_strings": [
+            "The Robinson Institute, University of Adelaide, Adelaide, SA 5005, Australia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "The Robinson Institute, University of Adelaide, Adelaide, SA 5005, Australia",
+              "institution_ids": [
+                "https://openalex.org/I5681781"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5047480968",
+            "display_name": "Robert J. Norman",
+            "orcid": "https://orcid.org/0000-0002-3118-3896"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I5681781",
+              "display_name": "The University of Adelaide",
+              "ror": "https://ror.org/00892tw58",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I5681781"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R.J. Norman",
+          "raw_affiliation_strings": [
+            "The Robinson Institute, University of Adelaide, Adelaide, SA 5005, Australia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "The Robinson Institute, University of Adelaide, Adelaide, SA 5005, Australia",
+              "institution_ids": [
+                "https://openalex.org/I5681781"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5020019905",
+            "display_name": "Lisa Moran",
+            "orcid": "https://orcid.org/0000-0001-5772-6484"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I5681781",
+              "display_name": "The University of Adelaide",
+              "ror": "https://ror.org/00892tw58",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I5681781"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "L.J. Moran",
+          "raw_affiliation_strings": [
+            "The Robinson Institute, University of Adelaide, Adelaide, SA 5005, Australia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "The Robinson Institute, University of Adelaide, Adelaide, SA 5005, Australia",
+              "institution_ids": [
+                "https://openalex.org/I5681781"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 3638,
+        "currency": "EUR",
+        "value_usd": 3923
+      },
+      "apc_paid": null,
+      "fwci": 37.58007595,
+      "has_fulltext": true,
+      "cited_by_count": 851,
+      "citation_normalized_percentile": {
+        "value": 0.99844693,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 96,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "18",
+        "issue": "6",
+        "first_page": "618",
+        "last_page": "637"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10390",
+        "display_name": "Ovarian function and disorders",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2743",
+          "display_name": "Reproductive Medicine"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10390",
+          "display_name": "Ovarian function and disorders",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2743",
+            "display_name": "Reproductive Medicine"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10364",
+          "display_name": "Reproductive Biology and Fertility",
+          "score": 0.9922999739646912,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2739",
+            "display_name": "Public Health, Environmental and Occupational Health"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13430",
+          "display_name": "Lipid metabolism and disorders",
+          "score": 0.9556999802589417,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2705",
+            "display_name": "Cardiology and Cardiovascular Medicine"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/polycystic-ovary",
+          "display_name": "Polycystic ovary",
+          "score": 0.916864275932312
+        },
+        {
+          "id": "https://openalex.org/keywords/obesity",
+          "display_name": "Obesity",
+          "score": 0.8582725524902344
+        },
+        {
+          "id": "https://openalex.org/keywords/overweight",
+          "display_name": "Overweight",
+          "score": 0.850114643573761
+        },
+        {
+          "id": "https://openalex.org/keywords/meta-analysis",
+          "display_name": "Meta-analysis",
+          "score": 0.7446125745773315
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.7055383920669556
+        },
+        {
+          "id": "https://openalex.org/keywords/confounding",
+          "display_name": "Confounding",
+          "score": 0.665296733379364
+        },
+        {
+          "id": "https://openalex.org/keywords/body-mass-index",
+          "display_name": "Body mass index",
+          "score": 0.474464476108551
+        },
+        {
+          "id": "https://openalex.org/keywords/internal-medicine",
+          "display_name": "Internal medicine",
+          "score": 0.360755980014801
+        },
+        {
+          "id": "https://openalex.org/keywords/insulin-resistance",
+          "display_name": "Insulin resistance",
+          "score": 0.07177311182022095
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C3018442814",
+          "wikidata": "https://www.wikidata.org/wiki/Q500816",
+          "display_name": "Polycystic ovary",
+          "level": 4,
+          "score": 0.916864275932312
+        },
+        {
+          "id": "https://openalex.org/C511355011",
+          "wikidata": "https://www.wikidata.org/wiki/Q12174",
+          "display_name": "Obesity",
+          "level": 2,
+          "score": 0.8582725524902344
+        },
+        {
+          "id": "https://openalex.org/C2780586474",
+          "wikidata": "https://www.wikidata.org/wiki/Q332428",
+          "display_name": "Overweight",
+          "level": 3,
+          "score": 0.850114643573761
+        },
+        {
+          "id": "https://openalex.org/C95190672",
+          "wikidata": "https://www.wikidata.org/wiki/Q815382",
+          "display_name": "Meta-analysis",
+          "level": 2,
+          "score": 0.7446125745773315
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.7055383920669556
+        },
+        {
+          "id": "https://openalex.org/C77350462",
+          "wikidata": "https://www.wikidata.org/wiki/Q1125472",
+          "display_name": "Confounding",
+          "level": 2,
+          "score": 0.665296733379364
+        },
+        {
+          "id": "https://openalex.org/C2780221984",
+          "wikidata": "https://www.wikidata.org/wiki/Q131191",
+          "display_name": "Body mass index",
+          "level": 2,
+          "score": 0.474464476108551
+        },
+        {
+          "id": "https://openalex.org/C126322002",
+          "wikidata": "https://www.wikidata.org/wiki/Q11180",
+          "display_name": "Internal medicine",
+          "level": 1,
+          "score": 0.360755980014801
+        },
+        {
+          "id": "https://openalex.org/C2777391703",
+          "wikidata": "https://www.wikidata.org/wiki/Q1053470",
+          "display_name": "Insulin resistance",
+          "level": 3,
+          "score": 0.07177311182022095
+        }
+      ],
+      "mesh": [
+        {
+          "descriptor_ui": "D000293",
+          "descriptor_name": "Adolescent",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000328",
+          "descriptor_name": "Adult",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000367",
+          "descriptor_name": "Age Factors",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005260",
+          "descriptor_name": "Female",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D009765",
+          "descriptor_name": "Obesity",
+          "qualifier_ui": "Q000150",
+          "qualifier_name": "complications",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D009765",
+          "descriptor_name": "Obesity",
+          "qualifier_ui": "Q000453",
+          "qualifier_name": "epidemiology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D009765",
+          "descriptor_name": "Obesity",
+          "qualifier_ui": "Q000208",
+          "qualifier_name": "ethnology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D056128",
+          "descriptor_name": "Obesity, Abdominal",
+          "qualifier_ui": "Q000150",
+          "qualifier_name": "complications",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D056128",
+          "descriptor_name": "Obesity, Abdominal",
+          "qualifier_ui": "Q000453",
+          "qualifier_name": "epidemiology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D056128",
+          "descriptor_name": "Obesity, Abdominal",
+          "qualifier_ui": "Q000208",
+          "qualifier_name": "ethnology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D050177",
+          "descriptor_name": "Overweight",
+          "qualifier_ui": "Q000150",
+          "qualifier_name": "complications",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D050177",
+          "descriptor_name": "Overweight",
+          "qualifier_ui": "Q000453",
+          "qualifier_name": "epidemiology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D050177",
+          "descriptor_name": "Overweight",
+          "qualifier_ui": "Q000208",
+          "qualifier_name": "ethnology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D011085",
+          "descriptor_name": "Polycystic Ovary Syndrome",
+          "qualifier_ui": "Q000150",
+          "qualifier_name": "complications",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D015995",
+          "descriptor_name": "Prevalence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000293",
+          "descriptor_name": "Adolescent",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000328",
+          "descriptor_name": "Adult",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000367",
+          "descriptor_name": "Age Factors",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005260",
+          "descriptor_name": "Female",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D009765",
+          "descriptor_name": "Obesity",
+          "qualifier_ui": "Q000150",
+          "qualifier_name": "complications",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D009765",
+          "descriptor_name": "Obesity",
+          "qualifier_ui": "Q000453",
+          "qualifier_name": "epidemiology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D009765",
+          "descriptor_name": "Obesity",
+          "qualifier_ui": "Q000208",
+          "qualifier_name": "ethnology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D056128",
+          "descriptor_name": "Obesity, Abdominal",
+          "qualifier_ui": "Q000150",
+          "qualifier_name": "complications",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D056128",
+          "descriptor_name": "Obesity, Abdominal",
+          "qualifier_ui": "Q000453",
+          "qualifier_name": "epidemiology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D056128",
+          "descriptor_name": "Obesity, Abdominal",
+          "qualifier_ui": "Q000208",
+          "qualifier_name": "ethnology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D050177",
+          "descriptor_name": "Overweight",
+          "qualifier_ui": "Q000150",
+          "qualifier_name": "complications",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D050177",
+          "descriptor_name": "Overweight",
+          "qualifier_ui": "Q000453",
+          "qualifier_name": "epidemiology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D050177",
+          "descriptor_name": "Overweight",
+          "qualifier_ui": "Q000208",
+          "qualifier_name": "ethnology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D011085",
+          "descriptor_name": "Polycystic Ovary Syndrome",
+          "qualifier_ui": "Q000150",
+          "qualifier_name": "complications",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D015995",
+          "descriptor_name": "Prevalence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000293",
+          "descriptor_name": "Adolescent",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000328",
+          "descriptor_name": "Adult",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000367",
+          "descriptor_name": "Age Factors",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005260",
+          "descriptor_name": "Female",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D009765",
+          "descriptor_name": "Obesity",
+          "qualifier_ui": "Q000150",
+          "qualifier_name": "complications",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D009765",
+          "descriptor_name": "Obesity",
+          "qualifier_ui": "Q000453",
+          "qualifier_name": "epidemiology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D009765",
+          "descriptor_name": "Obesity",
+          "qualifier_ui": "Q000208",
+          "qualifier_name": "ethnology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D056128",
+          "descriptor_name": "Obesity, Abdominal",
+          "qualifier_ui": "Q000150",
+          "qualifier_name": "complications",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D056128",
+          "descriptor_name": "Obesity, Abdominal",
+          "qualifier_ui": "Q000453",
+          "qualifier_name": "epidemiology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D056128",
+          "descriptor_name": "Obesity, Abdominal",
+          "qualifier_ui": "Q000208",
+          "qualifier_name": "ethnology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D050177",
+          "descriptor_name": "Overweight",
+          "qualifier_ui": "Q000150",
+          "qualifier_name": "complications",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D050177",
+          "descriptor_name": "Overweight",
+          "qualifier_ui": "Q000453",
+          "qualifier_name": "epidemiology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D050177",
+          "descriptor_name": "Overweight",
+          "qualifier_ui": "Q000208",
+          "qualifier_name": "ethnology",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D011085",
+          "descriptor_name": "Polycystic Ovary Syndrome",
+          "qualifier_ui": "Q000150",
+          "qualifier_name": "complications",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D015995",
+          "descriptor_name": "Prevalence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        }
+      ],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.1093/humupd/dms030",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1093/humupd/dms030",
+          "pdf_url": "https://academic.oup.com/humupd/article-pdf/18/6/618/17055828/dms030.pdf",
+          "source": {
+            "id": "https://openalex.org/S19450991",
+            "display_name": "Human Reproduction Update",
+            "issn_l": "1355-4786",
+            "issn": [
+              "1355-4786",
+              "1362-4946",
+              "1460-2369"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310311648",
+            "host_organization_name": "Oxford University Press",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310311648",
+              "https://openalex.org/P4310311647"
+            ],
+            "host_organization_lineage_names": [
+              "Oxford University Press",
+              "University of Oxford"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Human Reproduction Update",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:22767467",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/22767467",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Human reproduction update",
+          "raw_type": null
+        },
+        {
+          "id": "pmh:oai:digital.library.adelaide.edu.au:2440/74475",
+          "is_oa": false,
+          "landing_page_url": "http://hdl.handle.net/2440/74475",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401835",
+            "display_name": "Adelaide Research & Scholarship (AR&S) (University of Adelaide)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I5681781",
+            "host_organization_name": "University of Adelaide",
+            "host_organization_lineage": [
+              "https://openalex.org/I5681781"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "http://dx.doi.org/10.1093/humupd/dms030",
+          "raw_type": "Journal article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1093/humupd/dms030",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1093/humupd/dms030",
+        "pdf_url": "https://academic.oup.com/humupd/article-pdf/18/6/618/17055828/dms030.pdf",
+        "source": {
+          "id": "https://openalex.org/S19450991",
+          "display_name": "Human Reproduction Update",
+          "issn_l": "1355-4786",
+          "issn": [
+            "1355-4786",
+            "1362-4946",
+            "1460-2369"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310311648",
+          "host_organization_name": "Oxford University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311648",
+            "https://openalex.org/P4310311647"
+          ],
+          "host_organization_lineage_names": [
+            "Oxford University Press",
+            "University of Oxford"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Human Reproduction Update",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.49000000953674316,
+          "display_name": "Good health and well-being",
+          "id": "https://metadata.un.org/sdg/3"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "referenced_works_count": 216,
+      "referenced_works": [
+        "https://openalex.org/W2027727732",
+        "https://openalex.org/W1987766293",
+        "https://openalex.org/W2110636727",
+        "https://openalex.org/W2107732097",
+        "https://openalex.org/W6629606895",
+        "https://openalex.org/W4245078977",
+        "https://openalex.org/W2106216399",
+        "https://openalex.org/W2108380448",
+        "https://openalex.org/W2070239197",
+        "https://openalex.org/W2089468974",
+        "https://openalex.org/W1986856837",
+        "https://openalex.org/W6676897373",
+        "https://openalex.org/W6681912955",
+        "https://openalex.org/W2163069137",
+        "https://openalex.org/W2096887626",
+        "https://openalex.org/W2118575626",
+        "https://openalex.org/W2249620842",
+        "https://openalex.org/W2058587994",
+        "https://openalex.org/W2043289274",
+        "https://openalex.org/W2132809867",
+        "https://openalex.org/W2131451413",
+        "https://openalex.org/W2160506126",
+        "https://openalex.org/W2026929955",
+        "https://openalex.org/W1978803105",
+        "https://openalex.org/W2133421321",
+        "https://openalex.org/W2403626915",
+        "https://openalex.org/W2034212170",
+        "https://openalex.org/W1992527366",
+        "https://openalex.org/W2026071202",
+        "https://openalex.org/W2030643176",
+        "https://openalex.org/W2157699773",
+        "https://openalex.org/W2055594461",
+        "https://openalex.org/W2081736153",
+        "https://openalex.org/W2161063310",
+        "https://openalex.org/W2087397014",
+        "https://openalex.org/W2061027090",
+        "https://openalex.org/W2153304278",
+        "https://openalex.org/W2042305931",
+        "https://openalex.org/W1981964403",
+        "https://openalex.org/W2104763965",
+        "https://openalex.org/W2058524510",
+        "https://openalex.org/W2334269910",
+        "https://openalex.org/W2008044207",
+        "https://openalex.org/W2101635094",
+        "https://openalex.org/W2045759085",
+        "https://openalex.org/W2021745137",
+        "https://openalex.org/W2073943375",
+        "https://openalex.org/W2169811270",
+        "https://openalex.org/W2030487355",
+        "https://openalex.org/W2135436482",
+        "https://openalex.org/W2167664512",
+        "https://openalex.org/W2148998017",
+        "https://openalex.org/W1981665764",
+        "https://openalex.org/W2166751367",
+        "https://openalex.org/W2050998122",
+        "https://openalex.org/W2115094946",
+        "https://openalex.org/W2110925381",
+        "https://openalex.org/W2167631142",
+        "https://openalex.org/W1989338729",
+        "https://openalex.org/W2026333172",
+        "https://openalex.org/W1965674416",
+        "https://openalex.org/W2157823046",
+        "https://openalex.org/W2007816906",
+        "https://openalex.org/W2121081996",
+        "https://openalex.org/W2139815035",
+        "https://openalex.org/W2129639179",
+        "https://openalex.org/W2132850483",
+        "https://openalex.org/W2040874437",
+        "https://openalex.org/W2189072909",
+        "https://openalex.org/W2116405604",
+        "https://openalex.org/W2046859247",
+        "https://openalex.org/W1976688529",
+        "https://openalex.org/W1972192125",
+        "https://openalex.org/W2046866637",
+        "https://openalex.org/W2172190672",
+        "https://openalex.org/W2047386659",
+        "https://openalex.org/W2160402854",
+        "https://openalex.org/W2057326698",
+        "https://openalex.org/W2067573869",
+        "https://openalex.org/W1486665559",
+        "https://openalex.org/W2058543893",
+        "https://openalex.org/W2067094952",
+        "https://openalex.org/W2170951003",
+        "https://openalex.org/W2097617267",
+        "https://openalex.org/W2070817937",
+        "https://openalex.org/W2079593358",
+        "https://openalex.org/W2082824038",
+        "https://openalex.org/W2123436272",
+        "https://openalex.org/W6646570148",
+        "https://openalex.org/W1964881603",
+        "https://openalex.org/W2122851449",
+        "https://openalex.org/W1966372322",
+        "https://openalex.org/W2055987994",
+        "https://openalex.org/W2107119205",
+        "https://openalex.org/W2139144534",
+        "https://openalex.org/W2043682976",
+        "https://openalex.org/W6604781832",
+        "https://openalex.org/W2039418122",
+        "https://openalex.org/W6661945756",
+        "https://openalex.org/W2101752738",
+        "https://openalex.org/W2046428082",
+        "https://openalex.org/W2108920926",
+        "https://openalex.org/W2037933947",
+        "https://openalex.org/W2119563175",
+        "https://openalex.org/W2046769215",
+        "https://openalex.org/W1983827201",
+        "https://openalex.org/W2072158197",
+        "https://openalex.org/W1982990106",
+        "https://openalex.org/W2017562795",
+        "https://openalex.org/W6667155423",
+        "https://openalex.org/W2014698814",
+        "https://openalex.org/W2412912475",
+        "https://openalex.org/W6835562793",
+        "https://openalex.org/W6607459415",
+        "https://openalex.org/W2004708554",
+        "https://openalex.org/W2047021937",
+        "https://openalex.org/W2162893032",
+        "https://openalex.org/W2032354145",
+        "https://openalex.org/W6820585160",
+        "https://openalex.org/W2143478996",
+        "https://openalex.org/W2042914452",
+        "https://openalex.org/W1988469475",
+        "https://openalex.org/W2083827626",
+        "https://openalex.org/W2148162244",
+        "https://openalex.org/W2108067228",
+        "https://openalex.org/W2085917939",
+        "https://openalex.org/W2103238716",
+        "https://openalex.org/W2040481203",
+        "https://openalex.org/W2050661930",
+        "https://openalex.org/W6715132133",
+        "https://openalex.org/W2113278318",
+        "https://openalex.org/W2030677405",
+        "https://openalex.org/W2102318195",
+        "https://openalex.org/W2032005206",
+        "https://openalex.org/W4230379470",
+        "https://openalex.org/W2016548273",
+        "https://openalex.org/W2101316067",
+        "https://openalex.org/W2105823904",
+        "https://openalex.org/W6690812845",
+        "https://openalex.org/W2120558931",
+        "https://openalex.org/W2032442332",
+        "https://openalex.org/W2050201102",
+        "https://openalex.org/W2169617115",
+        "https://openalex.org/W2161739242",
+        "https://openalex.org/W4238251256",
+        "https://openalex.org/W2120275557",
+        "https://openalex.org/W2109391442",
+        "https://openalex.org/W2089200181",
+        "https://openalex.org/W2029926624",
+        "https://openalex.org/W2089391845",
+        "https://openalex.org/W1999038249",
+        "https://openalex.org/W1839219219",
+        "https://openalex.org/W2154191356",
+        "https://openalex.org/W2036203117",
+        "https://openalex.org/W2162040165",
+        "https://openalex.org/W1971712685",
+        "https://openalex.org/W2157508850",
+        "https://openalex.org/W1993061903",
+        "https://openalex.org/W2103639453",
+        "https://openalex.org/W2159683357",
+        "https://openalex.org/W1969361347",
+        "https://openalex.org/W2049586554",
+        "https://openalex.org/W2025022882",
+        "https://openalex.org/W2166895358",
+        "https://openalex.org/W1977529722",
+        "https://openalex.org/W2137194800",
+        "https://openalex.org/W1977809216",
+        "https://openalex.org/W2151351634",
+        "https://openalex.org/W2116647894",
+        "https://openalex.org/W2123950715",
+        "https://openalex.org/W2065404502",
+        "https://openalex.org/W2144550387",
+        "https://openalex.org/W2089565090",
+        "https://openalex.org/W2146575867",
+        "https://openalex.org/W2030589970",
+        "https://openalex.org/W1998506244",
+        "https://openalex.org/W2018784939",
+        "https://openalex.org/W1995186041",
+        "https://openalex.org/W2106645488",
+        "https://openalex.org/W1969572218",
+        "https://openalex.org/W2107125713",
+        "https://openalex.org/W2057674932",
+        "https://openalex.org/W2018481548",
+        "https://openalex.org/W1600739567",
+        "https://openalex.org/W6737378426",
+        "https://openalex.org/W2103329833",
+        "https://openalex.org/W2101492737",
+        "https://openalex.org/W2004147182",
+        "https://openalex.org/W1983476468",
+        "https://openalex.org/W2145360267",
+        "https://openalex.org/W144473362",
+        "https://openalex.org/W4214807362",
+        "https://openalex.org/W2612891587",
+        "https://openalex.org/W2413286039",
+        "https://openalex.org/W185095169",
+        "https://openalex.org/W4238628454",
+        "https://openalex.org/W2081877349",
+        "https://openalex.org/W2066323486",
+        "https://openalex.org/W1985411823",
+        "https://openalex.org/W2348501931",
+        "https://openalex.org/W2118310760",
+        "https://openalex.org/W1901523133",
+        "https://openalex.org/W71228264",
+        "https://openalex.org/W117545426",
+        "https://openalex.org/W4254005293",
+        "https://openalex.org/W2161231016",
+        "https://openalex.org/W2974296131",
+        "https://openalex.org/W2044827656",
+        "https://openalex.org/W1969062482",
+        "https://openalex.org/W1492975071",
+        "https://openalex.org/W4211231448",
+        "https://openalex.org/W2096126402",
+        "https://openalex.org/W2246022741",
+        "https://openalex.org/W21823512",
+        "https://openalex.org/W4297918764",
+        "https://openalex.org/W2111611092"
+      ],
+      "related_works": [
+        "https://openalex.org/W2102483815",
+        "https://openalex.org/W2915991879",
+        "https://openalex.org/W236355199",
+        "https://openalex.org/W1842607881",
+        "https://openalex.org/W2005900879",
+        "https://openalex.org/W2158854695",
+        "https://openalex.org/W4283698857",
+        "https://openalex.org/W2104088531",
+        "https://openalex.org/W2399319687",
+        "https://openalex.org/W2760047697"
+      ],
+      "abstract_inverted_index": {
+        "35": [
+          125
+        ],
+        "106": [
+          119
+        ],
+        "BACKGROUND": [
+          0
+        ],
+        "Polycystic": [
+          1
+        ],
+        "ovary": [
+          2
+        ],
+        "syndrome": [
+          3
+        ],
+        "(PCOS)": [
+          4
+        ],
+        "is": [
+          5
+        ],
+        "closely": [
+          6
+        ],
+        "associated": [
+          7
+        ],
+        "with": [
+          8,
+          37,
+          88,
+          130,
+          154,
+          161,
+          174,
+          177,
+          195
+        ],
+        "obesity": [
+          9,
+          14,
+          31,
+          34,
+          82,
+          85,
+          143,
+          149,
+          168,
+          203,
+          215
+        ],
+        "but": [
+          10
+        ],
+        "the": [
+          11,
+          27,
+          44,
+          52,
+          58,
+          78,
+          122,
+          171,
+          223,
+          236,
+          247
+        ],
+        "prevalence": [
+          12,
+          28,
+          79,
+          96,
+          134,
+          169
+        ],
+        "of": [
+          13,
+          21,
+          29,
+          47,
+          55,
+          67,
+          80,
+          135,
+          201,
+          238,
+          243,
+          251
+        ],
+        "varies": [
+          15
+        ],
+        "between": [
+          16,
+          191,
+          214,
+          226
+        ],
+        "published": [
+          17
+        ],
+        "studies.": [
+          18
+        ],
+        "The": [
+          19,
+          158
+        ],
+        "objective": [
+          20
+        ],
+        "this": [
+          22,
+          239
+        ],
+        "research": [
+          23
+        ],
+        "was": [
+          24
+        ],
+        "to": [
+          25,
+          42,
+          110,
+          234
+        ],
+        "describe": [
+          26
+        ],
+        "overweight,": [
+          30,
+          81,
+          202
+        ],
+        "and": [
+          32,
+          38,
+          41,
+          51,
+          71,
+          89,
+          98,
+          147,
+          204,
+          216,
+          228,
+          249,
+          253
+        ],
+        "central": [
+          33,
+          84,
+          148,
+          205
+        ],
+        "in": [
+          35,
+          86,
+          167
+        ],
+        "women": [
+          36,
+          87,
+          155,
+          160,
+          173,
+          178
+        ],
+        "without": [
+          39,
+          90,
+          156,
+          179
+        ],
+        "PCOS": [
+          40,
+          56,
+          131,
+          162,
+          175,
+          180,
+          196,
+          244
+        ],
+        "assess": [
+          43
+        ],
+        "confounding": [
+          45
+        ],
+        "effect": [
+          46
+        ],
+        "ethnicity,": [
+          48
+        ],
+        "geographic": [
+          49
+        ],
+        "regions": [
+          50
+        ],
+        "diagnostic": [
+          53
+        ],
+        "criteria": [
+          54
+        ],
+        "on": [
+          57
+        ],
+        "prevalence.": [
+          59
+        ],
+        "METHODS": [
+          60
+        ],
+        "MEDLINE,": [
+          61
+        ],
+        "EMBASE,": [
+          62
+        ],
+        "CINAHL,": [
+          63
+        ],
+        "Cochrane": [
+          64
+        ],
+        "Central": [
+          65
+        ],
+        "Register": [
+          66
+        ],
+        "Controlled": [
+          68
+        ],
+        "Trials": [
+          69
+        ],
+        "(CENTRAL)": [
+          70
+        ],
+        "PSYCINFO": [
+          72
+        ],
+        "were": [
+          73,
+          93,
+          108
+        ],
+        "searched": [
+          74
+        ],
+        "for": [
+          75
+        ],
+        "studies": [
+          76,
+          120,
+          126,
+          227,
+          230
+        ],
+        "reporting": [
+          77
+        ],
+        "or": [
+          83
+        ],
+        "PCOS.": [
+          91,
+          157
+        ],
+        "Data": [
+          92
+        ],
+        "presented": [
+          94
+        ],
+        "as": [
+          95
+        ],
+        "(%)": [
+          97
+        ],
+        "risk": [
+          99,
+          200
+        ],
+        "ratio": [
+          100
+        ],
+        "(RR)": [
+          101
+        ],
+        "[95%": [
+          102
+        ],
+        "confidence": [
+          103
+        ],
+        "interval": [
+          104
+        ],
+        "(CI)].": [
+          105
+        ],
+        "Random-effect": [
+          106
+        ],
+        "models": [
+          107
+        ],
+        "used": [
+          109
+        ],
+        "calculate": [
+          111
+        ],
+        "pooled": [
+          112
+        ],
+        "RR.": [
+          113
+        ],
+        "RESULTS": [
+          114
+        ],
+        "This": [
+          115
+        ],
+        "systematic": [
+          116
+        ],
+        "review": [
+          117
+        ],
+        "included": [
+          118,
+          124
+        ],
+        "while": [
+          121
+        ],
+        "meta-analysis": [
+          123
+        ],
+        "(15129": [
+          127
+        ],
+        "women).": [
+          128
+        ],
+        "Women": [
+          129,
+          194
+        ],
+        "had": [
+          132,
+          163,
+          197
+        ],
+        "increased": [
+          133
+        ],
+        "overweight": [
+          136,
+          252
+        ],
+        "[RR": [
+          137
+        ],
+        "(95%": [
+          138
+        ],
+        "CI):": [
+          139
+        ],
+        "1.95": [
+          140
+        ],
+        "(1.52,": [
+          141
+        ],
+        "2.50)],": [
+          142
+        ],
+        "[2.77": [
+          144
+        ],
+        "(1.88,": [
+          145
+        ],
+        "4.10)]": [
+          146
+        ],
+        "[1.73": [
+          150
+        ],
+        "(1.31,": [
+          151
+        ],
+        "2.30)]": [
+          152
+        ],
+        "compared": [
+          153,
+          176
+        ],
+        "Caucasian": [
+          159
+        ],
+        "a": [
+          164,
+          198,
+          211
+        ],
+        "greater": [
+          165,
+          199
+        ],
+        "increase": [
+          166
+        ],
+        "than": [
+          170
+        ],
+        "Asian": [
+          172
+        ],
+        "[10.79": [
+          181
+        ],
+        "(5.36,": [
+          182
+        ],
+        "21.70)": [
+          183
+        ],
+        "versus": [
+          184
+        ],
+        "2.31": [
+          185
+        ],
+        "(1.33,": [
+          186
+        ],
+        "4.00),": [
+          187
+        ],
+        "P": [
+          188
+        ],
+        "<": [
+          189
+        ],
+        "0.001": [
+          190
+        ],
+        "subgroups).": [
+          192
+        ],
+        "CONCLUSIONS": [
+          193
+        ],
+        "obesity.": [
+          206,
+          254
+        ],
+        "Although": [
+          207
+        ],
+        "our": [
+          208,
+          218
+        ],
+        "findings": [
+          209
+        ],
+        "support": [
+          210
+        ],
+        "positive": [
+          212
+        ],
+        "association": [
+          213
+        ],
+        "PCOS,": [
+          217
+        ],
+        "conclusions": [
+          219
+        ],
+        "are": [
+          220,
+          231
+        ],
+        "limited": [
+          221
+        ],
+        "by": [
+          222
+        ],
+        "significant": [
+          224
+        ],
+        "heterogeneity": [
+          225
+        ],
+        "further": [
+          229
+        ],
+        "now": [
+          232
+        ],
+        "required": [
+          233
+        ],
+        "determine": [
+          235
+        ],
+        "source": [
+          237
+        ],
+        "heterogeneity.": [
+          240
+        ],
+        "Clinical": [
+          241
+        ],
+        "management": [
+          242,
+          250
+        ],
+        "should": [
+          245
+        ],
+        "include": [
+          246
+        ],
+        "prevention": [
+          248
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 98
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 97
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 101
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 95
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 93
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 73
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 46
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 54
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 50
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 43
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 47
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 33
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 16
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W1560947638",
+      "doi": "https://doi.org/10.1002/brb3.37",
+      "title": "Contemporary use and practice of electroconvulsive therapy worldwide",
+      "display_name": "Contemporary use and practice of electroconvulsive therapy worldwide",
+      "relevance_score": 54.149303,
+      "publication_year": 2012,
+      "publication_date": "2012-03-20",
+      "ids": {
+        "openalex": "https://openalex.org/W1560947638",
+        "doi": "https://doi.org/10.1002/brb3.37",
+        "mag": "1560947638",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/22741102"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1002/brb3.37",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1002/brb3.37",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/brb3.37",
+        "source": {
+          "id": "https://openalex.org/S2764450051",
+          "display_name": "Brain and Behavior",
+          "issn_l": "2162-3279",
+          "issn": [
+            "2162-3279"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Brain and Behavior",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/brb3.37",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5028010883",
+            "display_name": "Kari Ann Leiknes",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210105959",
+              "display_name": "Nasjonalt Kunnskapssenter for Helsetjenesten",
+              "ror": "https://ror.org/01thff661",
+              "country_code": "NO",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210105959"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I184942183",
+              "display_name": "University of Oslo",
+              "ror": "https://ror.org/01xtthb56",
+              "country_code": "NO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I184942183"
+              ]
+            }
+          ],
+          "countries": [
+            "NO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kari Ann Leiknes",
+          "raw_affiliation_strings": [
+            "Department of Behavioural Sciences in Medicine, Institute of Basic Medical Sciences, University of Oslo, Oslo, Norway",
+            "Norwegian Knowledge Centre for the Health Services, Evidence Based Practice, St. Olavs plass, Oslo, Norway"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Behavioural Sciences in Medicine, Institute of Basic Medical Sciences, University of Oslo, Oslo, Norway",
+              "institution_ids": [
+                "https://openalex.org/I184942183"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Norwegian Knowledge Centre for the Health Services, Evidence Based Practice, St. Olavs plass, Oslo, Norway",
+              "institution_ids": [
+                "https://openalex.org/I4210105959"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5098087209",
+            "display_name": "Lindy Jarosh‐von Schweder",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I204778367",
+              "display_name": "Norwegian University of Science and Technology",
+              "ror": "https://ror.org/05xg72x27",
+              "country_code": "NO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I204778367"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210104358",
+              "display_name": "St Olav's University Hospital",
+              "ror": "https://ror.org/01a4hbq44",
+              "country_code": "NO",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210104358"
+              ]
+            }
+          ],
+          "countries": [
+            "NO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Lindy Jarosh‐von Schweder",
+          "raw_affiliation_strings": [
+            "Division of Psychiatry, Department of Research and Development, St. Olav's University Hospital, Lade, Trondheim, Norway",
+            "Faculty of Medicine, Department of Neuroscience, NTNU, Trondheim, Norway"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculty of Medicine, Department of Neuroscience, NTNU, Trondheim, Norway",
+              "institution_ids": [
+                "https://openalex.org/I204778367"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Division of Psychiatry, Department of Research and Development, St. Olav's University Hospital, Lade, Trondheim, Norway",
+              "institution_ids": [
+                "https://openalex.org/I4210104358"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5067345920",
+            "display_name": "Bjørg Høie",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210105959",
+              "display_name": "Nasjonalt Kunnskapssenter for Helsetjenesten",
+              "ror": "https://ror.org/01thff661",
+              "country_code": "NO",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210105959"
+              ]
+            }
+          ],
+          "countries": [
+            "NO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bjørg Høie",
+          "raw_affiliation_strings": [
+            "Norwegian Knowledge Centre for the Health Services, Evidence Based Medicine, St. Olavs plass, Oslo, Norway"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Norwegian Knowledge Centre for the Health Services, Evidence Based Medicine, St. Olavs plass, Oslo, Norway",
+              "institution_ids": [
+                "https://openalex.org/I4210105959"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 2200,
+        "currency": "EUR",
+        "value_usd": 2900
+      },
+      "apc_paid": {
+        "value": 2200,
+        "currency": "EUR",
+        "value_usd": 2900
+      },
+      "fwci": 9.26938045,
+      "has_fulltext": true,
+      "cited_by_count": 361,
+      "citation_normalized_percentile": {
+        "value": 0.97988005,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "2",
+        "issue": "3",
+        "first_page": "283",
+        "last_page": "344"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11921",
+        "display_name": "Electroconvulsive Therapy Studies",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2738",
+          "display_name": "Psychiatry and Mental health"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11921",
+          "display_name": "Electroconvulsive Therapy Studies",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2738",
+            "display_name": "Psychiatry and Mental health"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12082",
+          "display_name": "Takotsubo Cardiomyopathy and Associated Phenomena",
+          "score": 0.9894999861717224,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2705",
+            "display_name": "Cardiology and Cardiovascular Medicine"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11071",
+          "display_name": "Treatment of Major Depression",
+          "score": 0.9860000014305115,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2736",
+            "display_name": "Pharmacology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/electroconvulsive-therapy",
+          "display_name": "Electroconvulsive therapy",
+          "score": 0.8240600824356079
+        },
+        {
+          "id": "https://openalex.org/keywords/psycinfo",
+          "display_name": "PsycINFO",
+          "score": 0.7215372323989868
+        },
+        {
+          "id": "https://openalex.org/keywords/cinahl",
+          "display_name": "CINAHL",
+          "score": 0.6369657516479492
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.5959491729736328
+        },
+        {
+          "id": "https://openalex.org/keywords/medline",
+          "display_name": "MEDLINE",
+          "score": 0.4920007884502411
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.45968884229660034
+        },
+        {
+          "id": "https://openalex.org/keywords/family-medicine",
+          "display_name": "Family medicine",
+          "score": 0.4355866312980652
+        },
+        {
+          "id": "https://openalex.org/keywords/schizophrenia",
+          "display_name": "Schizophrenia (object-oriented programming)",
+          "score": 0.32969409227371216
+        },
+        {
+          "id": "https://openalex.org/keywords/political-science",
+          "display_name": "Political science",
+          "score": 0.1659357249736786
+        },
+        {
+          "id": "https://openalex.org/keywords/psychological-intervention",
+          "display_name": "Psychological intervention",
+          "score": 0.14404383301734924
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2777330709",
+          "wikidata": "https://www.wikidata.org/wiki/Q131543",
+          "display_name": "Electroconvulsive therapy",
+          "level": 3,
+          "score": 0.8240600824356079
+        },
+        {
+          "id": "https://openalex.org/C2779549880",
+          "wikidata": "https://www.wikidata.org/wiki/Q5542226",
+          "display_name": "PsycINFO",
+          "level": 3,
+          "score": 0.7215372323989868
+        },
+        {
+          "id": "https://openalex.org/C2781145037",
+          "wikidata": "https://www.wikidata.org/wiki/Q5011772",
+          "display_name": "CINAHL",
+          "level": 3,
+          "score": 0.6369657516479492
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.5959491729736328
+        },
+        {
+          "id": "https://openalex.org/C2779473830",
+          "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+          "display_name": "MEDLINE",
+          "level": 2,
+          "score": 0.4920007884502411
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.45968884229660034
+        },
+        {
+          "id": "https://openalex.org/C512399662",
+          "wikidata": "https://www.wikidata.org/wiki/Q3505712",
+          "display_name": "Family medicine",
+          "level": 1,
+          "score": 0.4355866312980652
+        },
+        {
+          "id": "https://openalex.org/C2776412080",
+          "wikidata": "https://www.wikidata.org/wiki/Q7431605",
+          "display_name": "Schizophrenia (object-oriented programming)",
+          "level": 2,
+          "score": 0.32969409227371216
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.1659357249736786
+        },
+        {
+          "id": "https://openalex.org/C27415008",
+          "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+          "display_name": "Psychological intervention",
+          "level": 2,
+          "score": 0.14404383301734924
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.1002/brb3.37",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1002/brb3.37",
+          "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/brb3.37",
+          "source": {
+            "id": "https://openalex.org/S2764450051",
+            "display_name": "Brain and Behavior",
+            "issn_l": "2162-3279",
+            "issn": [
+              "2162-3279"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320595",
+            "host_organization_name": "Wiley",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320595"
+            ],
+            "host_organization_lineage_names": [
+              "Wiley"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Brain and Behavior",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:22741102",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/22741102",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Brain and behavior",
+          "raw_type": null
+        },
+        {
+          "id": "pmh:oai:europepmc.org:2387403",
+          "is_oa": false,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3381633",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400806",
+            "display_name": "Europe PMC (PubMed Central)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1303153112",
+            "host_organization_name": "European Bioinformatics Institute",
+            "host_organization_lineage": [
+              "https://openalex.org/I1303153112"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:www.duo.uio.no:10852/44164",
+          "is_oa": true,
+          "landing_page_url": "http://hdl.handle.net/10852/44164",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401717",
+            "display_name": "Duo Research Archive (University of Oslo)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I184942183",
+            "host_organization_name": "University of Oslo",
+            "host_organization_lineage": [
+              "https://openalex.org/I184942183"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "2162-3279",
+          "raw_type": "info:eu-repo/semantics/article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1002/brb3.37",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1002/brb3.37",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/brb3.37",
+        "source": {
+          "id": "https://openalex.org/S2764450051",
+          "display_name": "Brain and Behavior",
+          "issn_l": "2162-3279",
+          "issn": [
+            "2162-3279"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Brain and Behavior",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "referenced_works_count": 121,
+      "referenced_works": [
+        "https://openalex.org/W2185832014",
+        "https://openalex.org/W2158696322",
+        "https://openalex.org/W607228449",
+        "https://openalex.org/W2442397550",
+        "https://openalex.org/W2083047372",
+        "https://openalex.org/W1916755949",
+        "https://openalex.org/W2003461377",
+        "https://openalex.org/W1994149797",
+        "https://openalex.org/W1514677920",
+        "https://openalex.org/W2204952504",
+        "https://openalex.org/W2006346865",
+        "https://openalex.org/W2044858751",
+        "https://openalex.org/W2415059906",
+        "https://openalex.org/W2013436937",
+        "https://openalex.org/W2205425022",
+        "https://openalex.org/W1971224859",
+        "https://openalex.org/W1999005834",
+        "https://openalex.org/W2416852334",
+        "https://openalex.org/W2071399779",
+        "https://openalex.org/W1488732394",
+        "https://openalex.org/W2411589963",
+        "https://openalex.org/W1994526102",
+        "https://openalex.org/W2047206220",
+        "https://openalex.org/W4804442",
+        "https://openalex.org/W2418484836",
+        "https://openalex.org/W2138986913",
+        "https://openalex.org/W2487667941",
+        "https://openalex.org/W2098709752",
+        "https://openalex.org/W2147258331",
+        "https://openalex.org/W2314301372",
+        "https://openalex.org/W1988094135",
+        "https://openalex.org/W1965537102",
+        "https://openalex.org/W2034769065",
+        "https://openalex.org/W2063891895",
+        "https://openalex.org/W2014858986",
+        "https://openalex.org/W2061079063",
+        "https://openalex.org/W2000128852",
+        "https://openalex.org/W2169075915",
+        "https://openalex.org/W2144575924",
+        "https://openalex.org/W2078592945",
+        "https://openalex.org/W2100336231",
+        "https://openalex.org/W2002322795",
+        "https://openalex.org/W2467187877",
+        "https://openalex.org/W1989053802",
+        "https://openalex.org/W2041495237",
+        "https://openalex.org/W2018630476",
+        "https://openalex.org/W2043710928",
+        "https://openalex.org/W2050879107",
+        "https://openalex.org/W2414569895",
+        "https://openalex.org/W21752099",
+        "https://openalex.org/W2141087407",
+        "https://openalex.org/W45251711",
+        "https://openalex.org/W2004227502",
+        "https://openalex.org/W2418102989",
+        "https://openalex.org/W2408465513",
+        "https://openalex.org/W6718770651",
+        "https://openalex.org/W1995973877",
+        "https://openalex.org/W2187255864",
+        "https://openalex.org/W2416390017",
+        "https://openalex.org/W1770378513",
+        "https://openalex.org/W2091157347",
+        "https://openalex.org/W1993315172",
+        "https://openalex.org/W2335499351",
+        "https://openalex.org/W2329151980",
+        "https://openalex.org/W2402329086",
+        "https://openalex.org/W2486927721",
+        "https://openalex.org/W2409273088",
+        "https://openalex.org/W6715651958",
+        "https://openalex.org/W2148025438",
+        "https://openalex.org/W2169058410",
+        "https://openalex.org/W2063483915",
+        "https://openalex.org/W2141042333",
+        "https://openalex.org/W2016418247",
+        "https://openalex.org/W1512602083",
+        "https://openalex.org/W2056351308",
+        "https://openalex.org/W6713691348",
+        "https://openalex.org/W2002536397",
+        "https://openalex.org/W2118318394",
+        "https://openalex.org/W2100453019",
+        "https://openalex.org/W201798409",
+        "https://openalex.org/W1976961444",
+        "https://openalex.org/W2150054074",
+        "https://openalex.org/W2023283305",
+        "https://openalex.org/W2055928735",
+        "https://openalex.org/W972988232",
+        "https://openalex.org/W2127138731",
+        "https://openalex.org/W184460116",
+        "https://openalex.org/W2021091964",
+        "https://openalex.org/W1491747254",
+        "https://openalex.org/W2313491870",
+        "https://openalex.org/W2332987629",
+        "https://openalex.org/W2017975786",
+        "https://openalex.org/W1573359722",
+        "https://openalex.org/W1543423462",
+        "https://openalex.org/W1972553388",
+        "https://openalex.org/W2020904390",
+        "https://openalex.org/W2147819750",
+        "https://openalex.org/W2087352676",
+        "https://openalex.org/W283169130",
+        "https://openalex.org/W2085833109",
+        "https://openalex.org/W2061798994",
+        "https://openalex.org/W1991647719",
+        "https://openalex.org/W2019095533",
+        "https://openalex.org/W2123111073",
+        "https://openalex.org/W2182104458",
+        "https://openalex.org/W6603519847",
+        "https://openalex.org/W2072611574",
+        "https://openalex.org/W2070817797",
+        "https://openalex.org/W3134718278",
+        "https://openalex.org/W2150184393",
+        "https://openalex.org/W4253821964",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W141246363",
+        "https://openalex.org/W592797365",
+        "https://openalex.org/W1990070712",
+        "https://openalex.org/W1975445959",
+        "https://openalex.org/W2913451446",
+        "https://openalex.org/W2138276163",
+        "https://openalex.org/W2187701292",
+        "https://openalex.org/W2410869279",
+        "https://openalex.org/W2031971922"
+      ],
+      "related_works": [
+        "https://openalex.org/W2113043745",
+        "https://openalex.org/W3088773868",
+        "https://openalex.org/W4308638646",
+        "https://openalex.org/W2531219817",
+        "https://openalex.org/W2054290182",
+        "https://openalex.org/W2971604386",
+        "https://openalex.org/W2232330152",
+        "https://openalex.org/W2766839180",
+        "https://openalex.org/W4390650821",
+        "https://openalex.org/W4393579342"
+      ],
+      "abstract_inverted_index": {
+        "12": [
+          90
+        ],
+        "15": [
+          98
+        ],
+        "33": [
+          95
+        ],
+        "1990": [
+          20
+        ],
+        "Abstract": [
+          0
+        ],
+        "To": [
+          1
+        ],
+        "explore": [
+          2
+        ],
+        "contemporary": [
+          3
+        ],
+        "(from": [
+          4
+        ],
+        "1990)": [
+          5
+        ],
+        "utilization": [
+          6,
+          40,
+          68
+        ],
+        "and": [
+          7,
+          21,
+          32,
+          41,
+          48,
+          59,
+          65,
+          69,
+          85,
+          92,
+          97,
+          103,
+          142,
+          215,
+          221,
+          245,
+          258
+        ],
+        "practice": [
+          8,
+          42,
+          70,
+          246
+        ],
+        "of": [
+          9,
+          180,
+          185,
+          253
+        ],
+        "electroconvulsive": [
+          10
+        ],
+        "therapy": [
+          11
+        ],
+        "(ECT)": [
+          12
+        ],
+        "worldwide.": [
+          13
+        ],
+        "Systematic": [
+          14
+        ],
+        "search": [
+          15
+        ],
+        "(limited": [
+          16
+        ],
+        "to": [
+          17,
+          62
+        ],
+        "studies": [
+          18,
+          79
+        ],
+        "published": [
+          19
+        ],
+        "after)": [
+          22
+        ],
+        "was": [
+          23,
+          118,
+          134,
+          147
+        ],
+        "undertaken": [
+          24
+        ],
+        "in": [
+          25,
+          43,
+          75,
+          120,
+          163,
+          171,
+          241
+        ],
+        "the": [
+          26,
+          208
+        ],
+        "databases": [
+          27
+        ],
+        "Medline,": [
+          28
+        ],
+        "Embase,": [
+          29
+        ],
+        "PsycINFO,": [
+          30
+        ],
+        "SveMed,": [
+          31
+        ],
+        "EBSCO/Cinahl.": [
+          33
+        ],
+        "Primary": [
+          34
+        ],
+        "data‐based": [
+          35
+        ],
+        "studies/surveys": [
+          36
+        ],
+        "with": [
+          37,
+          161,
+          169,
+          234
+        ],
+        "reported": [
+          38
+        ],
+        "ECT": [
+          39,
+          67,
+          101,
+          156,
+          174,
+          224,
+          236,
+          242
+        ],
+        "psychiatric": [
+          44
+        ],
+        "institutions": [
+          45,
+          206
+        ],
+        "internationally,": [
+          46
+        ],
+        "nationally,": [
+          47
+        ],
+        "regionally;": [
+          49
+        ],
+        "city": [
+          50
+        ],
+        "were": [
+          51,
+          80,
+          105,
+          113,
+          152,
+          158,
+          196,
+          203,
+          227
+        ],
+        "included.": [
+          52
+        ],
+        "Two": [
+          53
+        ],
+        "reviewers": [
+          54
+        ],
+        "independently": [
+          55
+        ],
+        "checked": [
+          56
+        ],
+        "study": [
+          57
+        ],
+        "titles": [
+          58
+        ],
+        "abstracts": [
+          60
+        ],
+        "according": [
+          61
+        ],
+        "inclusion": [
+          63
+        ],
+        "criteria,": [
+          64
+        ],
+        "extracted": [
+          66
+        ],
+        "data": [
+          71,
+          226
+        ],
+        "from": [
+          72,
+          83,
+          260
+        ],
+        "those": [
+          73
+        ],
+        "retrieved": [
+          74
+        ],
+        "full": [
+          76
+        ],
+        "text.": [
+          77
+        ],
+        "Seventy": [
+          78
+        ],
+        "included,": [
+          81
+        ],
+        "seven": [
+          82
+        ],
+        "Australia": [
+          84
+        ],
+        "New": [
+          86
+        ],
+        "Zealand,": [
+          87
+        ],
+        "three": [
+          88
+        ],
+        "Africa,": [
+          89,
+          124
+        ],
+        "North": [
+          91
+        ],
+        "Latin": [
+          93,
+          125
+        ],
+        "America,": [
+          94,
+          126
+        ],
+        "Europe,": [
+          96
+        ],
+        "Asia.": [
+          99
+        ],
+        "Worldwide": [
+          100,
+          130
+        ],
+        "differences": [
+          102
+        ],
+        "trends": [
+          104,
+          202
+        ],
+        "evident,": [
+          106
+        ],
+        "average": [
+          107
+        ],
+        "number": [
+          108
+        ],
+        "ECTs": [
+          109
+        ],
+        "administered": [
+          110,
+          190
+        ],
+        "per": [
+          111
+        ],
+        "patient": [
+          112
+        ],
+        "eight;": [
+          114
+        ],
+        "unmodified": [
+          115,
+          235
+        ],
+        "(without": [
+          116
+        ],
+        "anesthesia)": [
+          117
+        ],
+        "used": [
+          119
+        ],
+        "Asia": [
+          121
+        ],
+        "(over": [
+          122
+        ],
+        "90%),": [
+          123
+        ],
+        "Russia,": [
+          127
+        ],
+        "Turkey,": [
+          128
+        ],
+        "Spain.": [
+          129
+        ],
+        "preferred": [
+          131
+        ],
+        "electrode": [
+          132
+        ],
+        "placement": [
+          133
+        ],
+        "bilateral,": [
+          135
+        ],
+        "except": [
+          136
+        ],
+        "unilateral": [
+          137
+        ],
+        "at": [
+          138
+        ],
+        "some": [
+          139,
+          199,
+          205
+        ],
+        "places": [
+          140
+        ],
+        "(Europe": [
+          141
+        ],
+        "Australia/New": [
+          143
+        ],
+        "Zealand).": [
+          144
+        ],
+        "Although": [
+          145
+        ],
+        "mainstream": [
+          146
+        ],
+        "brief‐pulse": [
+          148
+        ],
+        "wave,": [
+          149
+        ],
+        "sine‐wave": [
+          150
+        ],
+        "devices": [
+          151
+        ],
+        "still": [
+          153,
+          232
+        ],
+        "used.": [
+          154
+        ],
+        "Majority": [
+          155
+        ],
+        "treated": [
+          157,
+          233
+        ],
+        "older": [
+          159
+        ],
+        "women": [
+          160
+        ],
+        "depression": [
+          162
+        ],
+        "Western": [
+          164
+        ],
+        "countries,": [
+          165
+        ],
+        "versus": [
+          166
+        ],
+        "younger": [
+          167
+        ],
+        "men": [
+          168
+        ],
+        "schizophrenia": [
+          170
+        ],
+        "Asian": [
+          172
+        ],
+        "countries.": [
+          173
+        ],
+        "under": [
+          175
+        ],
+        "involuntary": [
+          176
+        ],
+        "conditions": [
+          177
+        ],
+        "(admissions),": [
+          178
+        ],
+        "use": [
+          179
+        ],
+        "ambulatory‐ECT,": [
+          181
+        ],
+        "acute": [
+          182
+        ],
+        "first": [
+          183
+        ],
+        "line": [
+          184
+        ],
+        "treatment,": [
+          186
+        ],
+        "as": [
+          187,
+          189
+        ],
+        "well": [
+          188
+        ],
+        "by": [
+          191,
+          198
+        ],
+        "other": [
+          192
+        ],
+        "professions": [
+          193
+        ],
+        "(geriatricians,": [
+          194
+        ],
+        "nurses)": [
+          195
+        ],
+        "noted": [
+          197
+        ],
+        "sites.": [
+          200
+        ],
+        "General": [
+          201
+        ],
+        "only": [
+          204
+        ],
+        "within": [
+          207
+        ],
+        "same": [
+          209
+        ],
+        "country": [
+          210,
+          223
+        ],
+        "providing": [
+          211
+        ],
+        "ECT,": [
+          212,
+          256
+        ],
+        "training": [
+          213
+        ],
+        "inadequate,": [
+          214
+        ],
+        "guidelines": [
+          216
+        ],
+        "not": [
+          217
+        ],
+        "followed.": [
+          218
+        ],
+        "Mandatory": [
+          219
+        ],
+        "reporting": [
+          220
+        ],
+        "overall": [
+          222
+        ],
+        "register": [
+          225
+        ],
+        "sparse.": [
+          228
+        ],
+        "Many": [
+          229
+        ],
+        "patients": [
+          230
+        ],
+        "are": [
+          231
+        ],
+        "today.": [
+          237
+        ],
+        "Large": [
+          238
+        ],
+        "global": [
+          239
+        ],
+        "variation": [
+          240
+        ],
+        "utilization,": [
+          243
+        ],
+        "administration,": [
+          244
+        ],
+        "advocates": [
+          247
+        ],
+        "a": [
+          248
+        ],
+        "need": [
+          249
+        ],
+        "for": [
+          250
+        ],
+        "worldwide": [
+          251
+        ],
+        "sharing": [
+          252
+        ],
+        "knowledge": [
+          254
+        ],
+        "about": [
+          255
+        ],
+        "reflection,": [
+          257
+        ],
+        "learning": [
+          259
+        ],
+        "each": [
+          261
+        ],
+        "other's": [
+          262
+        ],
+        "experiences.": [
+          263
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 33
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 36
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 28
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 31
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 38
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 36
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 36
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 21
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 32
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 28
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 17
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 14
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W203997064",
+      "doi": null,
+      "title": "Mobility limitation, balance impairment and musculoskeletal pain among people aged ≥75 years : a study with a comprehensive geriatric intervention",
+      "display_name": "Mobility limitation, balance impairment and musculoskeletal pain among people aged ≥75 years : a study with a comprehensive geriatric intervention",
+      "relevance_score": 0.8383599,
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W203997064",
+        "mag": "203997064"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "pmh:oai:jyx.jyu.fi:123456789/37330",
+        "is_oa": true,
+        "landing_page_url": "http://urn.fi/URN:ISBN:978-951-39-4620-3",
+        "pdf_url": "http://urn.fi/URN:ISBN:978-951-39-4620-3",
+        "source": {
+          "id": "https://openalex.org/S4306400563",
+          "display_name": "Jyväskylä University Digital Archive (University of Jyväskylä)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I94722563",
+          "host_organization_name": "University of Jyväskylä",
+          "host_organization_lineage": [
+            "https://openalex.org/I94722563"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "doctoralThesis"
+      },
+      "type": "article",
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://urn.fi/URN:ISBN:978-951-39-4620-3",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5110069054",
+            "display_name": "Katri Lihavainen",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Katri Lihavainen",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5110069054"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": true,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.01360587,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": "177",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10084",
+        "display_name": "Musculoskeletal pain and rehabilitation",
+        "score": 0.9991999864578247,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2736",
+          "display_name": "Pharmacology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10084",
+          "display_name": "Musculoskeletal pain and rehabilitation",
+          "score": 0.9991999864578247,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2736",
+            "display_name": "Pharmacology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10114",
+          "display_name": "Balance, Gait, and Falls Prevention",
+          "score": 0.996399998664856,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3612",
+            "display_name": "Physical Therapy, Sports Therapy and Rehabilitation"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/36",
+            "display_name": "Health Professions"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11030",
+          "display_name": "Scoliosis diagnosis and treatment",
+          "score": 0.9955000281333923,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2746",
+            "display_name": "Surgery"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/balance",
+          "display_name": "Balance (ability)",
+          "score": 0.7189238667488098
+        },
+        {
+          "id": "https://openalex.org/keywords/intervention",
+          "display_name": "Intervention (counseling)",
+          "score": 0.7131280899047852
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.6240720748901367
+        },
+        {
+          "id": "https://openalex.org/keywords/physical-therapy",
+          "display_name": "Physical therapy",
+          "score": 0.6048635244369507
+        },
+        {
+          "id": "https://openalex.org/keywords/musculoskeletal-pain",
+          "display_name": "Musculoskeletal pain",
+          "score": 0.5150289535522461
+        },
+        {
+          "id": "https://openalex.org/keywords/physical-medicine-and-rehabilitation",
+          "display_name": "Physical medicine and rehabilitation",
+          "score": 0.492903470993042
+        },
+        {
+          "id": "https://openalex.org/keywords/gerontology",
+          "display_name": "Gerontology",
+          "score": 0.44100359082221985
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.13089999556541443
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C168031717",
+          "wikidata": "https://www.wikidata.org/wiki/Q1530280",
+          "display_name": "Balance (ability)",
+          "level": 2,
+          "score": 0.7189238667488098
+        },
+        {
+          "id": "https://openalex.org/C2780665704",
+          "wikidata": "https://www.wikidata.org/wiki/Q959298",
+          "display_name": "Intervention (counseling)",
+          "level": 2,
+          "score": 0.7131280899047852
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.6240720748901367
+        },
+        {
+          "id": "https://openalex.org/C1862650",
+          "wikidata": "https://www.wikidata.org/wiki/Q186005",
+          "display_name": "Physical therapy",
+          "level": 1,
+          "score": 0.6048635244369507
+        },
+        {
+          "id": "https://openalex.org/C2993471631",
+          "wikidata": "https://www.wikidata.org/wiki/Q4116663",
+          "display_name": "Musculoskeletal pain",
+          "level": 2,
+          "score": 0.5150289535522461
+        },
+        {
+          "id": "https://openalex.org/C99508421",
+          "wikidata": "https://www.wikidata.org/wiki/Q2678675",
+          "display_name": "Physical medicine and rehabilitation",
+          "level": 1,
+          "score": 0.492903470993042
+        },
+        {
+          "id": "https://openalex.org/C74909509",
+          "wikidata": "https://www.wikidata.org/wiki/Q10387",
+          "display_name": "Gerontology",
+          "level": 1,
+          "score": 0.44100359082221985
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.13089999556541443
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "pmh:oai:jyx.jyu.fi:123456789/37330",
+          "is_oa": true,
+          "landing_page_url": "http://urn.fi/URN:ISBN:978-951-39-4620-3",
+          "pdf_url": "http://urn.fi/URN:ISBN:978-951-39-4620-3",
+          "source": {
+            "id": "https://openalex.org/S4306400563",
+            "display_name": "Jyväskylä University Digital Archive (University of Jyväskylä)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I94722563",
+            "host_organization_name": "University of Jyväskylä",
+            "host_organization_lineage": [
+              "https://openalex.org/I94722563"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "doctoralThesis"
+        },
+        {
+          "id": "mag:203997064",
+          "is_oa": false,
+          "landing_page_url": "https://jyx.jyu.fi/bitstream/123456789/37330/1/9789513946203.pdf",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764627054",
+            "display_name": "Studies in sport, physical education and health",
+            "issn_l": "0356-1070",
+            "issn": [
+              "0356-1070"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": "Studies in sport, physical education and health",
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:jyx.jyu.fi:123456789/37330",
+        "is_oa": true,
+        "landing_page_url": "http://urn.fi/URN:ISBN:978-951-39-4620-3",
+        "pdf_url": "http://urn.fi/URN:ISBN:978-951-39-4620-3",
+        "source": {
+          "id": "https://openalex.org/S4306400563",
+          "display_name": "Jyväskylä University Digital Archive (University of Jyväskylä)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I94722563",
+          "host_organization_name": "University of Jyväskylä",
+          "host_organization_lineage": [
+            "https://openalex.org/I94722563"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "doctoralThesis"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "referenced_works_count": 258,
+      "referenced_works": [
+        "https://openalex.org/W3204776683",
+        "https://openalex.org/W1569909412",
+        "https://openalex.org/W2032993407",
+        "https://openalex.org/W1983427052",
+        "https://openalex.org/W1986309799",
+        "https://openalex.org/W2037194146",
+        "https://openalex.org/W2027180770",
+        "https://openalex.org/W2296347293",
+        "https://openalex.org/W2113277482",
+        "https://openalex.org/W3156841113",
+        "https://openalex.org/W2031358839",
+        "https://openalex.org/W2120614420",
+        "https://openalex.org/W2056096876",
+        "https://openalex.org/W1582398075",
+        "https://openalex.org/W3201689815",
+        "https://openalex.org/W1565975935",
+        "https://openalex.org/W2114302564",
+        "https://openalex.org/W2022268311",
+        "https://openalex.org/W2982637810",
+        "https://openalex.org/W2093469331",
+        "https://openalex.org/W2110957605",
+        "https://openalex.org/W1605791297",
+        "https://openalex.org/W2097760550",
+        "https://openalex.org/W1409004257",
+        "https://openalex.org/W2077162154",
+        "https://openalex.org/W1988847766",
+        "https://openalex.org/W2162571886",
+        "https://openalex.org/W1997800650",
+        "https://openalex.org/W191025203",
+        "https://openalex.org/W2022881699",
+        "https://openalex.org/W1550534467",
+        "https://openalex.org/W2048968739",
+        "https://openalex.org/W3041284877",
+        "https://openalex.org/W2003107163",
+        "https://openalex.org/W2006318999",
+        "https://openalex.org/W2037579883",
+        "https://openalex.org/W2040821793",
+        "https://openalex.org/W2129620737",
+        "https://openalex.org/W2155269109",
+        "https://openalex.org/W2237122565",
+        "https://openalex.org/W1560945320",
+        "https://openalex.org/W2436812036",
+        "https://openalex.org/W2060651800",
+        "https://openalex.org/W2095807272",
+        "https://openalex.org/W2065124392",
+        "https://openalex.org/W2147528407",
+        "https://openalex.org/W1995083258",
+        "https://openalex.org/W2104400247",
+        "https://openalex.org/W2037377025",
+        "https://openalex.org/W2128992276",
+        "https://openalex.org/W2154005589",
+        "https://openalex.org/W2110396808",
+        "https://openalex.org/W3127229701",
+        "https://openalex.org/W2010999668",
+        "https://openalex.org/W2142971300",
+        "https://openalex.org/W2079533927",
+        "https://openalex.org/W2104689152",
+        "https://openalex.org/W1823131733",
+        "https://openalex.org/W2341418474",
+        "https://openalex.org/W2030148506",
+        "https://openalex.org/W1997549535",
+        "https://openalex.org/W1847168837",
+        "https://openalex.org/W2142702103",
+        "https://openalex.org/W2159674572",
+        "https://openalex.org/W1777067760",
+        "https://openalex.org/W3199584668",
+        "https://openalex.org/W1991010426",
+        "https://openalex.org/W2108280389",
+        "https://openalex.org/W2089722232",
+        "https://openalex.org/W2145166734",
+        "https://openalex.org/W2093519534",
+        "https://openalex.org/W2108707239",
+        "https://openalex.org/W2067925574",
+        "https://openalex.org/W2064931591",
+        "https://openalex.org/W1563098518",
+        "https://openalex.org/W1971599835",
+        "https://openalex.org/W2056511992",
+        "https://openalex.org/W2159865397",
+        "https://openalex.org/W2104119749",
+        "https://openalex.org/W2109218006",
+        "https://openalex.org/W3206388549",
+        "https://openalex.org/W1981453909",
+        "https://openalex.org/W1526022547",
+        "https://openalex.org/W2120673540",
+        "https://openalex.org/W2067098675",
+        "https://openalex.org/W1974914237",
+        "https://openalex.org/W2170704717",
+        "https://openalex.org/W1995458911",
+        "https://openalex.org/W2074774859",
+        "https://openalex.org/W2054229177",
+        "https://openalex.org/W2131346398",
+        "https://openalex.org/W2041429274",
+        "https://openalex.org/W2107710263",
+        "https://openalex.org/W2134049139",
+        "https://openalex.org/W1978626885",
+        "https://openalex.org/W2091641562",
+        "https://openalex.org/W1992899973",
+        "https://openalex.org/W1975951182",
+        "https://openalex.org/W1499546297",
+        "https://openalex.org/W2316138036",
+        "https://openalex.org/W1974704788",
+        "https://openalex.org/W2325901017",
+        "https://openalex.org/W2127835340",
+        "https://openalex.org/W2020485644",
+        "https://openalex.org/W2170491703",
+        "https://openalex.org/W3106695736",
+        "https://openalex.org/W2172019660",
+        "https://openalex.org/W1558007178",
+        "https://openalex.org/W1996920948",
+        "https://openalex.org/W1963939905",
+        "https://openalex.org/W2124822907",
+        "https://openalex.org/W1989823305",
+        "https://openalex.org/W2105048386",
+        "https://openalex.org/W1517088215",
+        "https://openalex.org/W1969882672",
+        "https://openalex.org/W2116187703",
+        "https://openalex.org/W2111149452",
+        "https://openalex.org/W2116516133",
+        "https://openalex.org/W1482694899",
+        "https://openalex.org/W2086567515",
+        "https://openalex.org/W1919512356",
+        "https://openalex.org/W2124386684",
+        "https://openalex.org/W2074777889",
+        "https://openalex.org/W2134283050",
+        "https://openalex.org/W2084104292",
+        "https://openalex.org/W2406920986",
+        "https://openalex.org/W2141028270",
+        "https://openalex.org/W2158938545",
+        "https://openalex.org/W2124341651",
+        "https://openalex.org/W2092965122",
+        "https://openalex.org/W2167613032",
+        "https://openalex.org/W2169742106",
+        "https://openalex.org/W1695923532",
+        "https://openalex.org/W2055029844",
+        "https://openalex.org/W2107458404",
+        "https://openalex.org/W2032365720",
+        "https://openalex.org/W2317115473",
+        "https://openalex.org/W2071643809",
+        "https://openalex.org/W2140758315",
+        "https://openalex.org/W2052418484",
+        "https://openalex.org/W2024905544",
+        "https://openalex.org/W3012367002",
+        "https://openalex.org/W2003997185",
+        "https://openalex.org/W2073603108",
+        "https://openalex.org/W2131288319",
+        "https://openalex.org/W2069604912",
+        "https://openalex.org/W2162770979",
+        "https://openalex.org/W2055198799",
+        "https://openalex.org/W2095901107",
+        "https://openalex.org/W2141431718",
+        "https://openalex.org/W2128529067",
+        "https://openalex.org/W586410103",
+        "https://openalex.org/W2015440694",
+        "https://openalex.org/W2075433931",
+        "https://openalex.org/W2075694128",
+        "https://openalex.org/W1541923384",
+        "https://openalex.org/W3103565354",
+        "https://openalex.org/W2004798414",
+        "https://openalex.org/W2145028795",
+        "https://openalex.org/W1994179246",
+        "https://openalex.org/W2073750120",
+        "https://openalex.org/W2143751244",
+        "https://openalex.org/W2171014885",
+        "https://openalex.org/W2081518431",
+        "https://openalex.org/W1951003296",
+        "https://openalex.org/W2119958965",
+        "https://openalex.org/W2121062110",
+        "https://openalex.org/W2123960494",
+        "https://openalex.org/W2146657488",
+        "https://openalex.org/W2032971290",
+        "https://openalex.org/W2120657094",
+        "https://openalex.org/W2082358589",
+        "https://openalex.org/W2109589194",
+        "https://openalex.org/W2002886123",
+        "https://openalex.org/W1979528702",
+        "https://openalex.org/W2145860775",
+        "https://openalex.org/W2021586670",
+        "https://openalex.org/W2150465650",
+        "https://openalex.org/W2043112723",
+        "https://openalex.org/W2127113745",
+        "https://openalex.org/W2091053988",
+        "https://openalex.org/W2102235641",
+        "https://openalex.org/W2084518320",
+        "https://openalex.org/W2249241445",
+        "https://openalex.org/W2078772165",
+        "https://openalex.org/W1987883295",
+        "https://openalex.org/W2103781416",
+        "https://openalex.org/W2103637716",
+        "https://openalex.org/W2072087291",
+        "https://openalex.org/W2164297514",
+        "https://openalex.org/W1595287175",
+        "https://openalex.org/W1974815172",
+        "https://openalex.org/W1584893743",
+        "https://openalex.org/W251600151",
+        "https://openalex.org/W2169971235",
+        "https://openalex.org/W2144139273",
+        "https://openalex.org/W2043510441",
+        "https://openalex.org/W2136555832",
+        "https://openalex.org/W1989767384",
+        "https://openalex.org/W1973133737",
+        "https://openalex.org/W2154918359",
+        "https://openalex.org/W2104532270",
+        "https://openalex.org/W2113933207",
+        "https://openalex.org/W2050108470",
+        "https://openalex.org/W2080996502",
+        "https://openalex.org/W2054975254",
+        "https://openalex.org/W2166748744",
+        "https://openalex.org/W2011298625",
+        "https://openalex.org/W2491562722",
+        "https://openalex.org/W2084254617",
+        "https://openalex.org/W1729001225",
+        "https://openalex.org/W258842019",
+        "https://openalex.org/W2027176531",
+        "https://openalex.org/W2054066210",
+        "https://openalex.org/W2080600841",
+        "https://openalex.org/W1989453306",
+        "https://openalex.org/W2107536442",
+        "https://openalex.org/W2108588540",
+        "https://openalex.org/W1565670747",
+        "https://openalex.org/W1958542379",
+        "https://openalex.org/W2120185590",
+        "https://openalex.org/W2030745761",
+        "https://openalex.org/W2154263567",
+        "https://openalex.org/W1895736924",
+        "https://openalex.org/W1525849288",
+        "https://openalex.org/W2159630647",
+        "https://openalex.org/W2164513741",
+        "https://openalex.org/W2067037625",
+        "https://openalex.org/W2076331712",
+        "https://openalex.org/W2144900790",
+        "https://openalex.org/W1992011958",
+        "https://openalex.org/W1998044313",
+        "https://openalex.org/W2058542506",
+        "https://openalex.org/W1495326015",
+        "https://openalex.org/W2029456053",
+        "https://openalex.org/W2049713131",
+        "https://openalex.org/W2035671536",
+        "https://openalex.org/W2088748871",
+        "https://openalex.org/W2074206498",
+        "https://openalex.org/W2049665347",
+        "https://openalex.org/W1544359545",
+        "https://openalex.org/W2093020751",
+        "https://openalex.org/W2117436750",
+        "https://openalex.org/W2135112778",
+        "https://openalex.org/W2035647453",
+        "https://openalex.org/W2062975702",
+        "https://openalex.org/W2063494994",
+        "https://openalex.org/W1964410887",
+        "https://openalex.org/W2057643886",
+        "https://openalex.org/W1986900472",
+        "https://openalex.org/W1965516484",
+        "https://openalex.org/W2320909684",
+        "https://openalex.org/W2037914721",
+        "https://openalex.org/W2045883928",
+        "https://openalex.org/W2029073809",
+        "https://openalex.org/W2152724294",
+        "https://openalex.org/W2159296038",
+        "https://openalex.org/W2149765436"
+      ],
+      "related_works": [
+        "https://openalex.org/W2037053717",
+        "https://openalex.org/W2519988351",
+        "https://openalex.org/W2301797231",
+        "https://openalex.org/W1992877469",
+        "https://openalex.org/W2138819300",
+        "https://openalex.org/W3031193057",
+        "https://openalex.org/W2329288722",
+        "https://openalex.org/W3105816306",
+        "https://openalex.org/W2321189745",
+        "https://openalex.org/W2108883596",
+        "https://openalex.org/W2737687786",
+        "https://openalex.org/W1691571645",
+        "https://openalex.org/W3135118974",
+        "https://openalex.org/W2343321917",
+        "https://openalex.org/W2223995326",
+        "https://openalex.org/W2806638582",
+        "https://openalex.org/W2489334858",
+        "https://openalex.org/W2076552192",
+        "https://openalex.org/W1583786507",
+        "https://openalex.org/W2964230244"
+      ],
+      "abstract_inverted_index": {
+        "unknown": [
+          0
+        ],
+        "accessibility": [
+          1
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2025-10-10T17:16:08.811792",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  ],
+  "group_by": []
+}

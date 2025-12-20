@@ -1,0 +1,894 @@
+{
+  "meta": {
+    "count": 1,
+    "db_response_time_ms": 56,
+    "page": 1,
+    "per_page": 10,
+    "groups_count": null
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W4387136697",
+      "doi": "https://doi.org/10.51847/lx8i4gjzdl",
+      "title": "Neurodevelopmental Disorders Comorbid with Deafness in Children: A Review",
+      "display_name": "Neurodevelopmental Disorders Comorbid with Deafness in Children: A Review",
+      "relevance_score": 6.9189672,
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4387136697",
+        "doi": "https://doi.org/10.51847/lx8i4gjzdl"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.51847/lx8i4gjzdl",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.51847/lx8i4gjzdl",
+        "pdf_url": "https://archivepp.com/storage/files/article/365ffd2b-5fe2-4d62-b6f0-1b008166b5d3-eXWFw4g1S54XbTjm/AThVwUXVwhWh7qy.pdf",
+        "source": {
+          "id": "https://openalex.org/S2764486890",
+          "display_name": "Archives of Pharmacy Practice",
+          "issn_l": "2045-080X",
+          "issn": [
+            "2045-080X",
+            "2320-5210"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310320448",
+          "host_organization_name": "Medknow",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320448",
+            "https://openalex.org/P4310318547"
+          ],
+          "host_organization_lineage_names": [
+            "Medknow",
+            "Wolters Kluwer"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Archives of Pharmacy Practice",
+        "raw_type": "journal-article"
+      },
+      "type": "review",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://archivepp.com/storage/files/article/365ffd2b-5fe2-4d62-b6f0-1b008166b5d3-eXWFw4g1S54XbTjm/AThVwUXVwhWh7qy.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5092961123",
+            "display_name": "Manole Felicia",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I162871001",
+              "display_name": "University of Oradea",
+              "ror": "https://ror.org/00wzhv093",
+              "country_code": "RO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I162871001"
+              ]
+            }
+          ],
+          "countries": [
+            "RO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Manole Felicia",
+          "raw_affiliation_strings": [
+            "Department of Surgical, Faculty of Medicine and Pharmacy, University of Oradea, 410087 Oradea, Romania."
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Surgical, Faculty of Medicine and Pharmacy, University of Oradea, 410087 Oradea, Romania.",
+              "institution_ids": [
+                "https://openalex.org/I162871001"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052581132",
+            "display_name": "Florica Voiţă-Mekereş",
+            "orcid": "https://orcid.org/0000-0002-5960-9043"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I162871001",
+              "display_name": "University of Oradea",
+              "ror": "https://ror.org/00wzhv093",
+              "country_code": "RO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I162871001"
+              ]
+            }
+          ],
+          "countries": [
+            "RO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Florica Voiţă-Mekereş",
+          "raw_affiliation_strings": [
+            "Department of Morphological Discipline, Faculty of Medicine and Pharmacy, University of Oradea, 410087 Oradea, Romania."
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Morphological Discipline, Faculty of Medicine and Pharmacy, University of Oradea, 410087 Oradea, Romania.",
+              "institution_ids": [
+                "https://openalex.org/I162871001"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5027096904",
+            "display_name": "Ioan Bogdan Voiţă",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210090865",
+              "display_name": "Institutul Regional de Gastroenterologie Prof. Dr. Octavian Fodor",
+              "ror": "https://ror.org/00a34ea95",
+              "country_code": "RO",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210090865"
+              ]
+            }
+          ],
+          "countries": [
+            "RO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ioan Bogdan Voiță",
+          "raw_affiliation_strings": [
+            "Regional Institute of Gastroenterology and Hepatology \"Prof. Octavian Fodor\", Cluj-Napoca, Romania."
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Regional Institute of Gastroenterology and Hepatology \"Prof. Octavian Fodor\", Cluj-Napoca, Romania.",
+              "institution_ids": [
+                "https://openalex.org/I4210090865"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5018533188",
+            "display_name": "Gabriel Mihai Mekereș",
+            "orcid": "https://orcid.org/0000-0002-3096-4586"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I162871001",
+              "display_name": "University of Oradea",
+              "ror": "https://ror.org/00wzhv093",
+              "country_code": "RO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I162871001"
+              ]
+            }
+          ],
+          "countries": [
+            "RO"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Gabriel Mihai Mekeres",
+          "raw_affiliation_strings": [
+            "Faculty of Medicine and Pharmacy, University of Oradea, 410087 Oradea, Romania."
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculty of Medicine and Pharmacy, University of Oradea, 410087 Oradea, Romania.",
+              "institution_ids": [
+                "https://openalex.org/I162871001"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5018533188"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I162871001"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.61923925,
+      "has_fulltext": true,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.66971809,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 91,
+        "max": 95
+      },
+      "biblio": {
+        "volume": "14",
+        "issue": "1",
+        "first_page": "104",
+        "last_page": "108"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12241",
+        "display_name": "Children's Physical and Motor Development",
+        "score": 0.996399998664856,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3204",
+          "display_name": "Developmental and Educational Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12241",
+          "display_name": "Children's Physical and Motor Development",
+          "score": 0.996399998664856,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3204",
+            "display_name": "Developmental and Educational Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11060",
+          "display_name": "Infant Development and Preterm Care",
+          "score": 0.9954000115394592,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2735",
+            "display_name": "Pediatrics, Perinatology and Child Health"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10106",
+          "display_name": "Autism Spectrum Disorder Research",
+          "score": 0.9847000241279602,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2805",
+            "display_name": "Cognitive Neuroscience"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/28",
+            "display_name": "Neuroscience"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/audiology",
+          "display_name": "Audiology",
+          "score": 0.475528746843338
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.4546799957752228
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C548259974",
+          "wikidata": "https://www.wikidata.org/wiki/Q569965",
+          "display_name": "Audiology",
+          "level": 1,
+          "score": 0.475528746843338
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.4546799957752228
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.51847/lx8i4gjzdl",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.51847/lx8i4gjzdl",
+          "pdf_url": "https://archivepp.com/storage/files/article/365ffd2b-5fe2-4d62-b6f0-1b008166b5d3-eXWFw4g1S54XbTjm/AThVwUXVwhWh7qy.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764486890",
+            "display_name": "Archives of Pharmacy Practice",
+            "issn_l": "2045-080X",
+            "issn": [
+              "2045-080X",
+              "2320-5210"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": false,
+            "host_organization": "https://openalex.org/P4310320448",
+            "host_organization_name": "Medknow",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320448",
+              "https://openalex.org/P4310318547"
+            ],
+            "host_organization_lineage_names": [
+              "Medknow",
+              "Wolters Kluwer"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Archives of Pharmacy Practice",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.51847/lx8i4gjzdl",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.51847/lx8i4gjzdl",
+        "pdf_url": "https://archivepp.com/storage/files/article/365ffd2b-5fe2-4d62-b6f0-1b008166b5d3-eXWFw4g1S54XbTjm/AThVwUXVwhWh7qy.pdf",
+        "source": {
+          "id": "https://openalex.org/S2764486890",
+          "display_name": "Archives of Pharmacy Practice",
+          "issn_l": "2045-080X",
+          "issn": [
+            "2045-080X",
+            "2320-5210"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310320448",
+          "host_organization_name": "Medknow",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320448",
+            "https://openalex.org/P4310318547"
+          ],
+          "host_organization_lineage_names": [
+            "Medknow",
+            "Wolters Kluwer"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Archives of Pharmacy Practice",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/10",
+          "score": 0.4000000059604645,
+          "display_name": "Reduced inequalities"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "referenced_works_count": 40,
+      "referenced_works": [
+        "https://openalex.org/W2144977848",
+        "https://openalex.org/W2037939152",
+        "https://openalex.org/W2635013544",
+        "https://openalex.org/W1580584120",
+        "https://openalex.org/W4200120882",
+        "https://openalex.org/W2066424905",
+        "https://openalex.org/W3212624045",
+        "https://openalex.org/W1749701974",
+        "https://openalex.org/W4313208113",
+        "https://openalex.org/W2018763681",
+        "https://openalex.org/W2012668546",
+        "https://openalex.org/W4206306500",
+        "https://openalex.org/W4312660064",
+        "https://openalex.org/W2074484606",
+        "https://openalex.org/W2125776341",
+        "https://openalex.org/W2153971775",
+        "https://openalex.org/W3135841074",
+        "https://openalex.org/W2049224901",
+        "https://openalex.org/W1964403100",
+        "https://openalex.org/W4205843367",
+        "https://openalex.org/W2401101969",
+        "https://openalex.org/W2029835177",
+        "https://openalex.org/W2125617474",
+        "https://openalex.org/W1977793852",
+        "https://openalex.org/W2105763278",
+        "https://openalex.org/W2041531396",
+        "https://openalex.org/W2145154312",
+        "https://openalex.org/W1993747671",
+        "https://openalex.org/W2300038905",
+        "https://openalex.org/W2061876670",
+        "https://openalex.org/W1974058649",
+        "https://openalex.org/W2492091555",
+        "https://openalex.org/W2037137835",
+        "https://openalex.org/W2171991638",
+        "https://openalex.org/W2059615085",
+        "https://openalex.org/W2087277609",
+        "https://openalex.org/W2039832236",
+        "https://openalex.org/W2151803773",
+        "https://openalex.org/W2052597457",
+        "https://openalex.org/W2095324389"
+      ],
+      "related_works": [
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W3031052312",
+        "https://openalex.org/W3032375762",
+        "https://openalex.org/W1995515455",
+        "https://openalex.org/W2080531066",
+        "https://openalex.org/W3108674512",
+        "https://openalex.org/W1506200166",
+        "https://openalex.org/W2048182022",
+        "https://openalex.org/W2604872355"
+      ],
+      "abstract_inverted_index": {
+        "20": [
+          21
+        ],
+        "Deaf": [
+          0
+        ],
+        "children": [
+          1,
+          41
+        ],
+        "are": [
+          2
+        ],
+        "not": [
+          3
+        ],
+        "a": [
+          4,
+          154
+        ],
+        "homogenous": [
+          5
+        ],
+        "group": [
+          6
+        ],
+        "and": [
+          7,
+          14,
+          18,
+          48,
+          75,
+          99,
+          113,
+          123,
+          127,
+          130,
+          150
+        ],
+        "differ": [
+          8
+        ],
+        "in": [
+          9,
+          68,
+          108,
+          136,
+          157
+        ],
+        "terms": [
+          10
+        ],
+        "of": [
+          11,
+          16,
+          24,
+          77,
+          101,
+          111
+        ],
+        "type,": [
+          12
+        ],
+        "severity,": [
+          13
+        ],
+        "causes": [
+          15
+        ],
+        "damage": [
+          17
+        ],
+        "coexisting": [
+          19
+        ],
+        "disorders.In": [
+          20
+        ],
+        "to": [
+          22,
+          42,
+          59,
+          90,
+          163
+        ],
+        "30%": [
+          23
+        ],
+        "deaf": [
+          25
+        ],
+        "children,": [
+          26
+        ],
+        "there": [
+          27
+        ],
+        "is": [
+          28
+        ],
+        "at": [
+          29
+        ],
+        "least": [
+          30
+        ],
+        "one": [
+          31
+        ],
+        "co-occurring": [
+          32,
+          114,
+          158
+        ],
+        "disorder": [
+          33
+        ],
+        "that": [
+          34,
+          142
+        ],
+        "may": [
+          35
+        ],
+        "make": [
+          36
+        ],
+        "it": [
+          37,
+          139
+        ],
+        "difficult": [
+          38
+        ],
+        "for": [
+          39
+        ],
+        "these": [
+          40
+        ],
+        "achieve": [
+          43
+        ],
+        "the": [
+          44,
+          55,
+          61,
+          72,
+          83,
+          95,
+          105,
+          109,
+          133
+        ],
+        "language,": [
+          45
+        ],
+        "social,": [
+          46
+        ],
+        "emotional,": [
+          47
+        ],
+        "communication": [
+          49
+        ],
+        "skills": [
+          50
+        ],
+        "expected": [
+          51
+        ],
+        "from": [
+          52
+        ],
+        "rehabilitation": [
+          53,
+          76,
+          129
+        ],
+        "services.Therefore,": [
+          54
+        ],
+        "current": [
+          56
+        ],
+        "study": [
+          57
+        ],
+        "seeks": [
+          58
+        ],
+        "answer": [
+          60
+        ],
+        "question,": [
+          62
+        ],
+        "how": [
+          63
+        ],
+        "much": [
+          64
+        ],
+        "has": [
+          65
+        ],
+        "been": [
+          66
+        ],
+        "addressed": [
+          67
+        ],
+        "past": [
+          69
+        ],
+        "research": [
+          70,
+          106,
+          134
+        ],
+        "on": [
+          71
+        ],
+        "etiology,": [
+          73
+        ],
+        "evaluation,": [
+          74
+        ],
+        "neurodevelopmental": [
+          78,
+          165
+        ],
+        "disorders": [
+          79,
+          159
+        ],
+        "associated": [
+          80
+        ],
+        "with": [
+          81,
+          160
+        ],
+        "deafness?In": [
+          82
+        ],
+        "present": [
+          84
+        ],
+        "study,": [
+          85
+        ],
+        "an": [
+          86
+        ],
+        "attempt": [
+          87
+        ],
+        "was": [
+          88,
+          140
+        ],
+        "made": [
+          89
+        ],
+        "provide": [
+          91,
+          128
+        ],
+        "coherent": [
+          92
+        ],
+        "information": [
+          93
+        ],
+        "regarding": [
+          94
+        ],
+        "prevalence": [
+          96
+        ],
+        "rate,": [
+          97
+        ],
+        "methods,": [
+          98
+        ],
+        "barriers": [
+          100
+        ],
+        "evaluation": [
+          102
+        ],
+        "by": [
+          103
+        ],
+        "reviewing": [
+          104
+        ],
+        "conducted": [
+          107,
+          135
+        ],
+        "field": [
+          110
+        ],
+        "deafness": [
+          112,
+          161
+        ],
+        "disorders,": [
+          115
+        ],
+        "including": [
+          116
+        ],
+        "attention-deficit/hyperactivity": [
+          117,
+          143
+        ],
+        "disorder,": [
+          118,
+          144,
+          147
+        ],
+        "autism": [
+          119,
+          145
+        ],
+        "spectrum,": [
+          120
+        ],
+        "learning": [
+          121,
+          148
+        ],
+        "disability,": [
+          122,
+          149
+        ],
+        "mental": [
+          124,
+          151
+        ],
+        "disability": [
+          125
+        ],
+        "separately": [
+          126
+        ],
+        "training.By": [
+          131
+        ],
+        "studying": [
+          132
+        ],
+        "this": [
+          137
+        ],
+        "field,": [
+          138
+        ],
+        "found": [
+          141
+        ],
+        "spectrum": [
+          146
+        ],
+        "retardation": [
+          152
+        ],
+        "play": [
+          153
+        ],
+        "greater": [
+          155
+        ],
+        "role": [
+          156
+        ],
+        "compared": [
+          162
+        ],
+        "other": [
+          164
+        ],
+        "disorders.": [
+          166
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  ],
+  "group_by": []
+}

@@ -31,5 +31,16 @@
   },
   "visibility": {
     "hidden": false
+  },
+  "authors": [
+    {
+      "given": "Ahmed Elhassan Hamid",
+      "family": "Hassan",
+      "sequence": 1
+    }
+  ],
+  "doi": "10.32628/ijsrset162123",
+  "identifiers": {
+    "doi": "10.32628/ijsrset162123"
   }
 }

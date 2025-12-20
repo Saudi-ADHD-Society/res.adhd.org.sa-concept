@@ -1,0 +1,2478 @@
+{
+  "meta": {
+    "count": 2,
+    "db_response_time_ms": 53,
+    "page": 1,
+    "per_page": 10,
+    "groups_count": null
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2099419901",
+      "doi": "https://doi.org/10.1186/s40248-015-0011-6",
+      "title": "Research on psychosocial aspects of asthma in the Arab world: a literature review",
+      "display_name": "Research on psychosocial aspects of asthma in the Arab world: a literature review",
+      "relevance_score": 15.892428,
+      "publication_year": 2015,
+      "publication_date": "2015-04-14",
+      "ids": {
+        "openalex": "https://openalex.org/W2099419901",
+        "doi": "https://doi.org/10.1186/s40248-015-0011-6",
+        "mag": "2099419901",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/25905019"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1186/s40248-015-0011-6",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1186/s40248-015-0011-6",
+        "pdf_url": "https://mrmjournal.biomedcentral.com/track/pdf/10.1186/s40248-015-0011-6",
+        "source": {
+          "id": "https://openalex.org/S160879556",
+          "display_name": "Multidisciplinary Respiratory Medicine",
+          "issn_l": "1828-695X",
+          "issn": [
+            "1828-695X",
+            "2049-6958"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Multidisciplinary Respiratory Medicine",
+        "raw_type": "journal-article"
+      },
+      "type": "review",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://mrmjournal.biomedcentral.com/track/pdf/10.1186/s40248-015-0011-6",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5062404584",
+            "display_name": "Anas Al-khateeb",
+            "orcid": "https://orcid.org/0000-0003-1184-3102"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210155827",
+              "display_name": "Saint Michael's Medical Center",
+              "ror": "https://ror.org/04ned8342",
+              "country_code": "US",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210155827"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Anas J Al-khateeb",
+          "raw_affiliation_strings": [
+            "Internal Medicine Department, Saint Michael’s Medical Center, Newark, USA"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Internal Medicine Department, Saint Michael’s Medical Center, Newark, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210155827"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5108897346",
+            "display_name": "Jamal M. Al Khateeb",
+            "orcid": "https://orcid.org/0009-0002-7697-092X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ],
+          "countries": [
+            "JO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jamal M Al khateeb",
+          "raw_affiliation_strings": [
+            "Department of Counseling & Special Education, College of Education, University of Jordan, Amman, Jordan"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Counseling & Special Education, College of Education, University of Jordan, Amman, Jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 1250,
+        "currency": "EUR",
+        "value_usd": 1348
+      },
+      "apc_paid": {
+        "value": 1250,
+        "currency": "EUR",
+        "value_usd": 1348
+      },
+      "fwci": 1.04107047,
+      "has_fulltext": true,
+      "cited_by_count": 19,
+      "citation_normalized_percentile": {
+        "value": 0.75637339,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "10",
+        "issue": "1",
+        "first_page": "15",
+        "last_page": "15"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10051",
+        "display_name": "Asthma and respiratory diseases",
+        "score": 0.9993000030517578,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2737",
+          "display_name": "Physiology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10051",
+          "display_name": "Asthma and respiratory diseases",
+          "score": 0.9993000030517578,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2737",
+            "display_name": "Physiology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12418",
+          "display_name": "Respiratory and Cough-Related Research",
+          "score": 0.9740999937057495,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2740",
+            "display_name": "Pulmonary and Respiratory Medicine"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12947",
+          "display_name": "Health, psychology, and well-being",
+          "score": 0.9381999969482422,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3600",
+            "display_name": "General Health Professions"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/36",
+            "display_name": "Health Professions"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/psychosocial",
+          "display_name": "Psychosocial",
+          "score": 0.7696310877799988
+        },
+        {
+          "id": "https://openalex.org/keywords/asthma",
+          "display_name": "Asthma",
+          "score": 0.7683961391448975
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.613804817199707
+        },
+        {
+          "id": "https://openalex.org/keywords/absenteeism",
+          "display_name": "Absenteeism",
+          "score": 0.5442923903465271
+        },
+        {
+          "id": "https://openalex.org/keywords/palestine",
+          "display_name": "Palestine",
+          "score": 0.48758023977279663
+        },
+        {
+          "id": "https://openalex.org/keywords/family-medicine",
+          "display_name": "Family medicine",
+          "score": 0.44920292496681213
+        },
+        {
+          "id": "https://openalex.org/keywords/quality-of-life",
+          "display_name": "Quality of life (healthcare)",
+          "score": 0.4371185004711151
+        },
+        {
+          "id": "https://openalex.org/keywords/pediatrics",
+          "display_name": "Pediatrics",
+          "score": 0.34046465158462524
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.2974153757095337
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.2519969940185547
+        },
+        {
+          "id": "https://openalex.org/keywords/nursing",
+          "display_name": "Nursing",
+          "score": 0.17476001381874084
+        },
+        {
+          "id": "https://openalex.org/keywords/immunology",
+          "display_name": "Immunology",
+          "score": 0.11366888880729675
+        },
+        {
+          "id": "https://openalex.org/keywords/history",
+          "display_name": "History",
+          "score": 0.1013149619102478
+        },
+        {
+          "id": "https://openalex.org/keywords/ancient-history",
+          "display_name": "Ancient history",
+          "score": 0.0920121967792511
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C150966472",
+          "wikidata": "https://www.wikidata.org/wiki/Q3410145",
+          "display_name": "Psychosocial",
+          "level": 2,
+          "score": 0.7696310877799988
+        },
+        {
+          "id": "https://openalex.org/C2776042228",
+          "wikidata": "https://www.wikidata.org/wiki/Q35869",
+          "display_name": "Asthma",
+          "level": 2,
+          "score": 0.7683961391448975
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.613804817199707
+        },
+        {
+          "id": "https://openalex.org/C27400517",
+          "wikidata": "https://www.wikidata.org/wiki/Q332278",
+          "display_name": "Absenteeism",
+          "level": 2,
+          "score": 0.5442923903465271
+        },
+        {
+          "id": "https://openalex.org/C114362828",
+          "wikidata": "https://www.wikidata.org/wiki/Q23792",
+          "display_name": "Palestine",
+          "level": 2,
+          "score": 0.48758023977279663
+        },
+        {
+          "id": "https://openalex.org/C512399662",
+          "wikidata": "https://www.wikidata.org/wiki/Q3505712",
+          "display_name": "Family medicine",
+          "level": 1,
+          "score": 0.44920292496681213
+        },
+        {
+          "id": "https://openalex.org/C2779951463",
+          "wikidata": "https://www.wikidata.org/wiki/Q7268788",
+          "display_name": "Quality of life (healthcare)",
+          "level": 2,
+          "score": 0.4371185004711151
+        },
+        {
+          "id": "https://openalex.org/C187212893",
+          "wikidata": "https://www.wikidata.org/wiki/Q123028",
+          "display_name": "Pediatrics",
+          "level": 1,
+          "score": 0.34046465158462524
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.2974153757095337
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.2519969940185547
+        },
+        {
+          "id": "https://openalex.org/C159110408",
+          "wikidata": "https://www.wikidata.org/wiki/Q121176",
+          "display_name": "Nursing",
+          "level": 1,
+          "score": 0.17476001381874084
+        },
+        {
+          "id": "https://openalex.org/C203014093",
+          "wikidata": "https://www.wikidata.org/wiki/Q101929",
+          "display_name": "Immunology",
+          "level": 1,
+          "score": 0.11366888880729675
+        },
+        {
+          "id": "https://openalex.org/C95457728",
+          "wikidata": "https://www.wikidata.org/wiki/Q309",
+          "display_name": "History",
+          "level": 0,
+          "score": 0.1013149619102478
+        },
+        {
+          "id": "https://openalex.org/C195244886",
+          "wikidata": "https://www.wikidata.org/wiki/Q41493",
+          "display_name": "Ancient history",
+          "level": 1,
+          "score": 0.0920121967792511
+        },
+        {
+          "id": "https://openalex.org/C77805123",
+          "wikidata": "https://www.wikidata.org/wiki/Q161272",
+          "display_name": "Social psychology",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.1186/s40248-015-0011-6",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1186/s40248-015-0011-6",
+          "pdf_url": "https://mrmjournal.biomedcentral.com/track/pdf/10.1186/s40248-015-0011-6",
+          "source": {
+            "id": "https://openalex.org/S160879556",
+            "display_name": "Multidisciplinary Respiratory Medicine",
+            "issn_l": "1828-695X",
+            "issn": [
+              "1828-695X",
+              "2049-6958"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Multidisciplinary Respiratory Medicine",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:25905019",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/25905019",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Multidisciplinary respiratory medicine",
+          "raw_type": null
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:4405861",
+          "is_oa": true,
+          "landing_page_url": "http://doi.org/10.1186/s40248-015-0011-6",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Text"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1186/s40248-015-0011-6",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1186/s40248-015-0011-6",
+        "pdf_url": "https://mrmjournal.biomedcentral.com/track/pdf/10.1186/s40248-015-0011-6",
+        "source": {
+          "id": "https://openalex.org/S160879556",
+          "display_name": "Multidisciplinary Respiratory Medicine",
+          "issn_l": "1828-695X",
+          "issn": [
+            "1828-695X",
+            "2049-6958"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Multidisciplinary Respiratory Medicine",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Quality Education",
+          "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/4"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "referenced_works_count": 88,
+      "referenced_works": [
+        "https://openalex.org/W2161257371",
+        "https://openalex.org/W6681164078",
+        "https://openalex.org/W2062812016",
+        "https://openalex.org/W2120793327",
+        "https://openalex.org/W2062346210",
+        "https://openalex.org/W2063621237",
+        "https://openalex.org/W2004551193",
+        "https://openalex.org/W2106178073",
+        "https://openalex.org/W2140073065",
+        "https://openalex.org/W136971973",
+        "https://openalex.org/W2105240231",
+        "https://openalex.org/W2141479546",
+        "https://openalex.org/W55398263",
+        "https://openalex.org/W6602043119",
+        "https://openalex.org/W2158937315",
+        "https://openalex.org/W2090634918",
+        "https://openalex.org/W2096856326",
+        "https://openalex.org/W2184686371",
+        "https://openalex.org/W2132405776",
+        "https://openalex.org/W2169845019",
+        "https://openalex.org/W1977242813",
+        "https://openalex.org/W2063247290",
+        "https://openalex.org/W2134718919",
+        "https://openalex.org/W1499398775",
+        "https://openalex.org/W2419222773",
+        "https://openalex.org/W1979572671",
+        "https://openalex.org/W2034191362",
+        "https://openalex.org/W1548717006",
+        "https://openalex.org/W2011582885",
+        "https://openalex.org/W1967734542",
+        "https://openalex.org/W1681157119",
+        "https://openalex.org/W2121659537",
+        "https://openalex.org/W118264928",
+        "https://openalex.org/W1569240240",
+        "https://openalex.org/W1996323679",
+        "https://openalex.org/W2071083041",
+        "https://openalex.org/W51183579",
+        "https://openalex.org/W1938911181",
+        "https://openalex.org/W1988570272",
+        "https://openalex.org/W2425207897",
+        "https://openalex.org/W1995638830",
+        "https://openalex.org/W2143057253",
+        "https://openalex.org/W1969896154",
+        "https://openalex.org/W2189603319",
+        "https://openalex.org/W1970380746",
+        "https://openalex.org/W3036652646",
+        "https://openalex.org/W2070239443",
+        "https://openalex.org/W2091432565",
+        "https://openalex.org/W2161682241",
+        "https://openalex.org/W2429634823",
+        "https://openalex.org/W2066932895",
+        "https://openalex.org/W2022092946",
+        "https://openalex.org/W2321244078",
+        "https://openalex.org/W1963720329",
+        "https://openalex.org/W2620640274",
+        "https://openalex.org/W2112667446",
+        "https://openalex.org/W2010154453",
+        "https://openalex.org/W1976151388",
+        "https://openalex.org/W2111556556",
+        "https://openalex.org/W2035575433",
+        "https://openalex.org/W2010681958",
+        "https://openalex.org/W1992161314",
+        "https://openalex.org/W2126086792",
+        "https://openalex.org/W2014527048",
+        "https://openalex.org/W2158122675",
+        "https://openalex.org/W2047206369",
+        "https://openalex.org/W1698277395",
+        "https://openalex.org/W4232496573",
+        "https://openalex.org/W1994534673",
+        "https://openalex.org/W2042907886",
+        "https://openalex.org/W2050155857",
+        "https://openalex.org/W4240335944",
+        "https://openalex.org/W4248352064",
+        "https://openalex.org/W2017942669",
+        "https://openalex.org/W2065540831",
+        "https://openalex.org/W2087261951",
+        "https://openalex.org/W1486953525",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W2163128971",
+        "https://openalex.org/W2091267071",
+        "https://openalex.org/W2127331470",
+        "https://openalex.org/W4241190675",
+        "https://openalex.org/W2127455006",
+        "https://openalex.org/W2101455833",
+        "https://openalex.org/W2007486737",
+        "https://openalex.org/W1567692140",
+        "https://openalex.org/W2462131263",
+        "https://openalex.org/W2157946735"
+      ],
+      "related_works": [
+        "https://openalex.org/W2134662772",
+        "https://openalex.org/W4242416360",
+        "https://openalex.org/W2993715754",
+        "https://openalex.org/W3211115967",
+        "https://openalex.org/W2222151703",
+        "https://openalex.org/W2059249381",
+        "https://openalex.org/W2289841487",
+        "https://openalex.org/W2088302573",
+        "https://openalex.org/W1990824267",
+        "https://openalex.org/W1571394656"
+      ],
+      "abstract_inverted_index": {
+        "9": [
+          91
+        ],
+        "The": [
+          0,
+          140,
+          233
+        ],
+        "importance": [
+          1
+        ],
+        "of": [
+          2,
+          8,
+          20,
+          31,
+          122,
+          128,
+          143,
+          155,
+          182,
+          200,
+          212,
+          223,
+          242
+        ],
+        "psychosocial": [
+          3,
+          29
+        ],
+        "factors": [
+          4,
+          135
+        ],
+        "in": [
+          5,
+          23,
+          34,
+          90,
+          100,
+          110,
+          184,
+          251
+        ],
+        "the": [
+          6,
+          24,
+          50,
+          101,
+          111,
+          144,
+          240
+        ],
+        "management": [
+          7,
+          178
+        ],
+        "bronchial": [
+          9,
+          32,
+          53
+        ],
+        "asthma": [
+          10,
+          33,
+          159,
+          165,
+          177,
+          195,
+          218
+        ],
+        "has": [
+          11
+        ],
+        "long": [
+          12
+        ],
+        "been": [
+          13
+        ],
+        "recognized.": [
+          14
+        ],
+        "This": [
+          15
+        ],
+        "paper": [
+          16,
+          234
+        ],
+        "offers": [
+          17
+        ],
+        "a": [
+          18,
+          197,
+          205,
+          237,
+          246
+        ],
+        "review": [
+          19
+        ],
+        "research": [
+          21,
+          250
+        ],
+        "published": [
+          22,
+          99
+        ],
+        "English": [
+          25
+        ],
+        "language": [
+          26
+        ],
+        "related": [
+          27,
+          136
+        ],
+        "to": [
+          28,
+          137,
+          229
+        ],
+        "aspects": [
+          30
+        ],
+        "Arab": [
+          35,
+          55,
+          82,
+          92
+        ],
+        "countries.": [
+          36,
+          93
+        ],
+        "Several": [
+          37
+        ],
+        "databases": [
+          38
+        ],
+        "(PubMed,": [
+          39
+        ],
+        "Science": [
+          40
+        ],
+        "Direct,": [
+          41
+        ],
+        "Springer": [
+          42
+        ],
+        "Link,": [
+          43
+        ],
+        "ERIC,": [
+          44
+        ],
+        "and": [
+          45,
+          84,
+          123,
+          131,
+          134,
+          152,
+          156,
+          171,
+          174,
+          176,
+          186,
+          203,
+          214,
+          225,
+          245
+        ],
+        "PsychInfo)": [
+          46
+        ],
+        "were": [
+          47,
+          88,
+          98,
+          160
+        ],
+        "searched": [
+          48
+        ],
+        "using": [
+          49
+        ],
+        "following": [
+          51
+        ],
+        "keywords:": [
+          52
+        ],
+        "asthma,": [
+          54,
+          126,
+          193
+        ],
+        "countries,": [
+          56
+        ],
+        "Algiers,": [
+          57
+        ],
+        "Bahrain,": [
+          58
+        ],
+        "Comoros,": [
+          59
+        ],
+        "Djibouti,": [
+          60
+        ],
+        "Egypt,": [
+          61
+        ],
+        "Iraq,": [
+          62
+        ],
+        "Jordan,": [
+          63
+        ],
+        "Kuwait,": [
+          64
+        ],
+        "Lebanon,": [
+          65
+        ],
+        "Libya,": [
+          66
+        ],
+        "Mauritania,": [
+          67
+        ],
+        "Morocco,": [
+          68
+        ],
+        "Oman,": [
+          69
+        ],
+        "Palestine": [
+          70
+        ],
+        "(West": [
+          71
+        ],
+        "Bank,": [
+          72
+        ],
+        "Gaza),": [
+          73
+        ],
+        "Qatar,": [
+          74
+        ],
+        "Saudi": [
+          75
+        ],
+        "Arabia,": [
+          76
+        ],
+        "Syria,": [
+          77
+        ],
+        "Tunisia,": [
+          78
+        ],
+        "Sudan,": [
+          79
+        ],
+        "Somalia;": [
+          80
+        ],
+        "United": [
+          81
+        ],
+        "Emirates,": [
+          83
+        ],
+        "Yemen.": [
+          85
+        ],
+        "Thirty-two": [
+          86
+        ],
+        "studies": [
+          87,
+          96,
+          119,
+          145
+        ],
+        "conducted": [
+          89
+        ],
+        "Almost": [
+          94
+        ],
+        "all": [
+          95
+        ],
+        "found": [
+          97
+        ],
+        "last": [
+          102,
+          112
+        ],
+        "fourteen": [
+          103
+        ],
+        "years": [
+          104
+        ],
+        "with": [
+          105,
+          217,
+          236
+        ],
+        "an": [
+          106
+        ],
+        "apparent": [
+          107
+        ],
+        "increasing": [
+          108
+        ],
+        "rate": [
+          109
+        ],
+        "five": [
+          113
+        ],
+        "years.": [
+          114
+        ],
+        "In": [
+          115
+        ],
+        "descending": [
+          116
+        ],
+        "order,": [
+          117
+        ],
+        "these": [
+          118,
+          243
+        ],
+        "addressed:": [
+          120
+        ],
+        "knowledge": [
+          121,
+          154,
+          173
+        ],
+        "attitudes": [
+          124,
+          157
+        ],
+        "toward": [
+          125,
+          158
+        ],
+        "quality": [
+          127,
+          181
+        ],
+        "life,": [
+          129
+        ],
+        "behavioral": [
+          130,
+          224
+        ],
+        "emotional": [
+          132,
+          226
+        ],
+        "problems": [
+          133
+        ],
+        "academic": [
+          138,
+          210
+        ],
+        "achievement.": [
+          139
+        ],
+        "main": [
+          141
+        ],
+        "results": [
+          142,
+          244
+        ],
+        "reviewed": [
+          146
+        ],
+        "were:": [
+          147
+        ],
+        "(a)": [
+          148
+        ],
+        "physicians',": [
+          149
+        ],
+        "school": [
+          150,
+          201
+        ],
+        "staff's,": [
+          151
+        ],
+        "parents'": [
+          153
+        ],
+        "generally": [
+          161
+        ],
+        "unsatisfactory,": [
+          162
+        ],
+        "(b)": [
+          163
+        ],
+        "in-service": [
+          164
+        ],
+        "education": [
+          166
+        ],
+        "programs": [
+          167
+        ],
+        "significantly": [
+          168,
+          189,
+          220
+        ],
+        "impacted": [
+          169
+        ],
+        "parent": [
+          170
+        ],
+        "staff": [
+          172
+        ],
+        "attitudes,": [
+          175
+        ],
+        "practices,": [
+          179
+        ],
+        "(c)": [
+          180
+        ],
+        "life": [
+          183
+        ],
+        "children": [
+          185
+        ],
+        "adolescents": [
+          187
+        ],
+        "was": [
+          188,
+          196
+        ],
+        "adversely": [
+          190
+        ],
+        "affected": [
+          191
+        ],
+        "by": [
+          192
+        ],
+        "(d)": [
+          194
+        ],
+        "common": [
+          198
+        ],
+        "cause": [
+          199
+        ],
+        "absenteeism,": [
+          202
+        ],
+        "had": [
+          204,
+          219
+        ],
+        "significant": [
+          206
+        ],
+        "negative": [
+          207
+        ],
+        "impact": [
+          208
+        ],
+        "on": [
+          209
+        ],
+        "achievement": [
+          211
+        ],
+        "students,": [
+          213
+        ],
+        "(e)": [
+          215
+        ],
+        "students": [
+          216,
+          230
+        ],
+        "higher": [
+          221
+        ],
+        "rates": [
+          222
+        ],
+        "difficulties": [
+          227
+        ],
+        "compared": [
+          228
+        ],
+        "without": [
+          231
+        ],
+        "asthma.": [
+          232
+        ],
+        "concludes": [
+          235
+        ],
+        "discussion": [
+          238
+        ],
+        "about": [
+          239
+        ],
+        "implications": [
+          241
+        ],
+        "call": [
+          247
+        ],
+        "for": [
+          248
+        ],
+        "further": [
+          249
+        ],
+        "this": [
+          252
+        ],
+        "area.": [
+          253
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4248751450",
+      "doi": "https://doi.org/10.4081/mrm.2015.289",
+      "title": "Research on psychosocial aspects of asthma in the Arab world: a literature review",
+      "display_name": "Research on psychosocial aspects of asthma in the Arab world: a literature review",
+      "relevance_score": 8.927515,
+      "publication_year": 2015,
+      "publication_date": "2015-04-15",
+      "ids": {
+        "openalex": "https://openalex.org/W4248751450",
+        "doi": "https://doi.org/10.4081/mrm.2015.289"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.4081/mrm.2015.289",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.4081/mrm.2015.289",
+        "pdf_url": "https://mrmjournal.org/mrm/article/download/289/303",
+        "source": {
+          "id": "https://openalex.org/S160879556",
+          "display_name": "Multidisciplinary Respiratory Medicine",
+          "issn_l": "1828-695X",
+          "issn": [
+            "1828-695X",
+            "2049-6958"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Multidisciplinary Respiratory Medicine",
+        "raw_type": "journal-article"
+      },
+      "type": "review",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://mrmjournal.org/mrm/article/download/289/303",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5062404584",
+            "display_name": "Anas Al-khateeb",
+            "orcid": "https://orcid.org/0000-0003-1184-3102"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210155827",
+              "display_name": "Saint Michael's Medical Center",
+              "ror": "https://ror.org/04ned8342",
+              "country_code": "US",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210155827"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Anas J. Al-Khateeb",
+          "raw_affiliation_strings": [
+            "Internal Medicine Department, Saint Michael’s Medical Center, Newark, New Jersey"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Internal Medicine Department, Saint Michael’s Medical Center, Newark, New Jersey",
+              "institution_ids": [
+                "https://openalex.org/I4210155827"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5036878676",
+            "display_name": "Jamal M. Alkhateeb",
+            "orcid": "https://orcid.org/0000-0002-1667-5710"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210155827",
+              "display_name": "Saint Michael's Medical Center",
+              "ror": "https://ror.org/04ned8342",
+              "country_code": "US",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210155827"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Jamal M. Al-Khateeb",
+          "raw_affiliation_strings": [
+            "Internal Medicine Department, Saint Michael’s Medical Center, Newark, New Jersey"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Internal Medicine Department, Saint Michael’s Medical Center, Newark, New Jersey",
+              "institution_ids": [
+                "https://openalex.org/I4210155827"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5036878676",
+        "https://openalex.org/A5062404584"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210155827"
+      ],
+      "apc_list": {
+        "value": 1250,
+        "currency": "EUR",
+        "value_usd": 1348
+      },
+      "apc_paid": {
+        "value": 1250,
+        "currency": "EUR",
+        "value_usd": 1348
+      },
+      "fwci": 0.20821409,
+      "has_fulltext": true,
+      "cited_by_count": 4,
+      "citation_normalized_percentile": {
+        "value": 0.6321023,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 95
+      },
+      "biblio": {
+        "volume": "10",
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10051",
+        "display_name": "Asthma and respiratory diseases",
+        "score": 0.9811000227928162,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2737",
+          "display_name": "Physiology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10051",
+          "display_name": "Asthma and respiratory diseases",
+          "score": 0.9811000227928162,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2737",
+            "display_name": "Physiology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/asthma",
+          "display_name": "Asthma",
+          "score": 0.7706527709960938
+        },
+        {
+          "id": "https://openalex.org/keywords/psychosocial",
+          "display_name": "Psychosocial",
+          "score": 0.7601036429405212
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.6147312521934509
+        },
+        {
+          "id": "https://openalex.org/keywords/absenteeism",
+          "display_name": "Absenteeism",
+          "score": 0.5507947206497192
+        },
+        {
+          "id": "https://openalex.org/keywords/palestine",
+          "display_name": "Palestine",
+          "score": 0.4776935875415802
+        },
+        {
+          "id": "https://openalex.org/keywords/family-medicine",
+          "display_name": "Family medicine",
+          "score": 0.45392367243766785
+        },
+        {
+          "id": "https://openalex.org/keywords/quality-of-life",
+          "display_name": "Quality of life (healthcare)",
+          "score": 0.43859851360321045
+        },
+        {
+          "id": "https://openalex.org/keywords/pediatrics",
+          "display_name": "Pediatrics",
+          "score": 0.3354511857032776
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.2980945408344269
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.2453819215297699
+        },
+        {
+          "id": "https://openalex.org/keywords/nursing",
+          "display_name": "Nursing",
+          "score": 0.17509561777114868
+        },
+        {
+          "id": "https://openalex.org/keywords/immunology",
+          "display_name": "Immunology",
+          "score": 0.1092008650302887
+        },
+        {
+          "id": "https://openalex.org/keywords/history",
+          "display_name": "History",
+          "score": 0.10029968619346619
+        },
+        {
+          "id": "https://openalex.org/keywords/ancient-history",
+          "display_name": "Ancient history",
+          "score": 0.09363013505935669
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2776042228",
+          "wikidata": "https://www.wikidata.org/wiki/Q35869",
+          "display_name": "Asthma",
+          "level": 2,
+          "score": 0.7706527709960938
+        },
+        {
+          "id": "https://openalex.org/C150966472",
+          "wikidata": "https://www.wikidata.org/wiki/Q3410145",
+          "display_name": "Psychosocial",
+          "level": 2,
+          "score": 0.7601036429405212
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.6147312521934509
+        },
+        {
+          "id": "https://openalex.org/C27400517",
+          "wikidata": "https://www.wikidata.org/wiki/Q332278",
+          "display_name": "Absenteeism",
+          "level": 2,
+          "score": 0.5507947206497192
+        },
+        {
+          "id": "https://openalex.org/C114362828",
+          "wikidata": "https://www.wikidata.org/wiki/Q23792",
+          "display_name": "Palestine",
+          "level": 2,
+          "score": 0.4776935875415802
+        },
+        {
+          "id": "https://openalex.org/C512399662",
+          "wikidata": "https://www.wikidata.org/wiki/Q3505712",
+          "display_name": "Family medicine",
+          "level": 1,
+          "score": 0.45392367243766785
+        },
+        {
+          "id": "https://openalex.org/C2779951463",
+          "wikidata": "https://www.wikidata.org/wiki/Q7268788",
+          "display_name": "Quality of life (healthcare)",
+          "level": 2,
+          "score": 0.43859851360321045
+        },
+        {
+          "id": "https://openalex.org/C187212893",
+          "wikidata": "https://www.wikidata.org/wiki/Q123028",
+          "display_name": "Pediatrics",
+          "level": 1,
+          "score": 0.3354511857032776
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.2980945408344269
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.2453819215297699
+        },
+        {
+          "id": "https://openalex.org/C159110408",
+          "wikidata": "https://www.wikidata.org/wiki/Q121176",
+          "display_name": "Nursing",
+          "level": 1,
+          "score": 0.17509561777114868
+        },
+        {
+          "id": "https://openalex.org/C203014093",
+          "wikidata": "https://www.wikidata.org/wiki/Q101929",
+          "display_name": "Immunology",
+          "level": 1,
+          "score": 0.1092008650302887
+        },
+        {
+          "id": "https://openalex.org/C95457728",
+          "wikidata": "https://www.wikidata.org/wiki/Q309",
+          "display_name": "History",
+          "level": 0,
+          "score": 0.10029968619346619
+        },
+        {
+          "id": "https://openalex.org/C195244886",
+          "wikidata": "https://www.wikidata.org/wiki/Q41493",
+          "display_name": "Ancient history",
+          "level": 1,
+          "score": 0.09363013505935669
+        },
+        {
+          "id": "https://openalex.org/C77805123",
+          "wikidata": "https://www.wikidata.org/wiki/Q161272",
+          "display_name": "Social psychology",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.4081/mrm.2015.289",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.4081/mrm.2015.289",
+          "pdf_url": "https://mrmjournal.org/mrm/article/download/289/303",
+          "source": {
+            "id": "https://openalex.org/S160879556",
+            "display_name": "Multidisciplinary Respiratory Medicine",
+            "issn_l": "1828-695X",
+            "issn": [
+              "1828-695X",
+              "2049-6958"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Multidisciplinary Respiratory Medicine",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.4081/mrm.2015.289",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.4081/mrm.2015.289",
+        "pdf_url": "https://mrmjournal.org/mrm/article/download/289/303",
+        "source": {
+          "id": "https://openalex.org/S160879556",
+          "display_name": "Multidisciplinary Respiratory Medicine",
+          "issn_l": "1828-695X",
+          "issn": [
+            "1828-695X",
+            "2049-6958"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Multidisciplinary Respiratory Medicine",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Quality Education",
+          "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/4"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "referenced_works_count": 82,
+      "referenced_works": [
+        "https://openalex.org/W6668052254",
+        "https://openalex.org/W6681164078",
+        "https://openalex.org/W2120793327",
+        "https://openalex.org/W6665868447",
+        "https://openalex.org/W2063621237",
+        "https://openalex.org/W2106178073",
+        "https://openalex.org/W6680871493",
+        "https://openalex.org/W6602043119",
+        "https://openalex.org/W6679763738",
+        "https://openalex.org/W6666364798",
+        "https://openalex.org/W2134718919",
+        "https://openalex.org/W1979572671",
+        "https://openalex.org/W6658956511",
+        "https://openalex.org/W2011582885",
+        "https://openalex.org/W1681157119",
+        "https://openalex.org/W2121659537",
+        "https://openalex.org/W118264928",
+        "https://openalex.org/W1996323679",
+        "https://openalex.org/W6647242235",
+        "https://openalex.org/W6608540560",
+        "https://openalex.org/W1969896154",
+        "https://openalex.org/W2189603319",
+        "https://openalex.org/W3036652646",
+        "https://openalex.org/W2091432565",
+        "https://openalex.org/W2161682241",
+        "https://openalex.org/W1963720329",
+        "https://openalex.org/W2620640274",
+        "https://openalex.org/W2010154453",
+        "https://openalex.org/W6644168211",
+        "https://openalex.org/W1992161314",
+        "https://openalex.org/W2126086792",
+        "https://openalex.org/W2014527048",
+        "https://openalex.org/W2047206369",
+        "https://openalex.org/W1698277395",
+        "https://openalex.org/W4232496573",
+        "https://openalex.org/W1994534673",
+        "https://openalex.org/W2087261951",
+        "https://openalex.org/W4248352064",
+        "https://openalex.org/W1970380746",
+        "https://openalex.org/W2158122675",
+        "https://openalex.org/W1988570272",
+        "https://openalex.org/W2105240231",
+        "https://openalex.org/W2062812016",
+        "https://openalex.org/W1995638830",
+        "https://openalex.org/W2017942669",
+        "https://openalex.org/W4250410223",
+        "https://openalex.org/W1976151388",
+        "https://openalex.org/W2062346210",
+        "https://openalex.org/W2462131263",
+        "https://openalex.org/W2042907886",
+        "https://openalex.org/W2143057253",
+        "https://openalex.org/W2184686371",
+        "https://openalex.org/W2132405776",
+        "https://openalex.org/W2469265413",
+        "https://openalex.org/W2096856326",
+        "https://openalex.org/W4240335944",
+        "https://openalex.org/W2140073065",
+        "https://openalex.org/W1486953525",
+        "https://openalex.org/W1977242813",
+        "https://openalex.org/W4237490534",
+        "https://openalex.org/W2063247290",
+        "https://openalex.org/W4385786065",
+        "https://openalex.org/W2022092946",
+        "https://openalex.org/W2034191362",
+        "https://openalex.org/W2090634918",
+        "https://openalex.org/W2163128971",
+        "https://openalex.org/W2010681958",
+        "https://openalex.org/W2007486737",
+        "https://openalex.org/W2141479546",
+        "https://openalex.org/W2419222773",
+        "https://openalex.org/W2425207897",
+        "https://openalex.org/W2050155857",
+        "https://openalex.org/W136971973",
+        "https://openalex.org/W2429634823",
+        "https://openalex.org/W2004551193",
+        "https://openalex.org/W55398263",
+        "https://openalex.org/W2066932895",
+        "https://openalex.org/W2161257371",
+        "https://openalex.org/W1569240240",
+        "https://openalex.org/W2111556556",
+        "https://openalex.org/W2035575433",
+        "https://openalex.org/W2169845019"
+      ],
+      "related_works": [
+        "https://openalex.org/W2134662772",
+        "https://openalex.org/W4242416360",
+        "https://openalex.org/W2993715754",
+        "https://openalex.org/W3211115967",
+        "https://openalex.org/W2222151703",
+        "https://openalex.org/W2289841487",
+        "https://openalex.org/W2088302573",
+        "https://openalex.org/W2059249381",
+        "https://openalex.org/W1990824267",
+        "https://openalex.org/W1571394656"
+      ],
+      "abstract_inverted_index": {
+        "9": [
+          91
+        ],
+        "The": [
+          0,
+          140,
+          233
+        ],
+        "importance": [
+          1
+        ],
+        "of": [
+          2,
+          8,
+          20,
+          31,
+          122,
+          128,
+          143,
+          155,
+          182,
+          200,
+          212,
+          223,
+          242
+        ],
+        "psychosocial": [
+          3,
+          29
+        ],
+        "factors": [
+          4,
+          135
+        ],
+        "in": [
+          5,
+          23,
+          34,
+          90,
+          100,
+          110,
+          184,
+          251
+        ],
+        "the": [
+          6,
+          24,
+          50,
+          101,
+          111,
+          144,
+          240
+        ],
+        "management": [
+          7,
+          178
+        ],
+        "bronchial": [
+          9,
+          32,
+          53
+        ],
+        "asthma": [
+          10,
+          33,
+          159,
+          165,
+          177,
+          195,
+          218
+        ],
+        "has": [
+          11
+        ],
+        "long": [
+          12
+        ],
+        "been": [
+          13
+        ],
+        "recognized.": [
+          14
+        ],
+        "This": [
+          15
+        ],
+        "paper": [
+          16,
+          234
+        ],
+        "offers": [
+          17
+        ],
+        "a": [
+          18,
+          197,
+          205,
+          237,
+          246
+        ],
+        "review": [
+          19
+        ],
+        "research": [
+          21,
+          250
+        ],
+        "published": [
+          22,
+          99
+        ],
+        "English": [
+          25
+        ],
+        "language": [
+          26
+        ],
+        "related": [
+          27,
+          136
+        ],
+        "to": [
+          28,
+          137,
+          229
+        ],
+        "aspects": [
+          30
+        ],
+        "Arab": [
+          35,
+          55,
+          82,
+          92
+        ],
+        "countries.": [
+          36,
+          93
+        ],
+        "Several": [
+          37
+        ],
+        "databases": [
+          38
+        ],
+        "(PubMed,": [
+          39
+        ],
+        "Science": [
+          40
+        ],
+        "Direct,": [
+          41
+        ],
+        "Springer": [
+          42
+        ],
+        "Link,": [
+          43
+        ],
+        "ERIC,": [
+          44
+        ],
+        "and": [
+          45,
+          84,
+          123,
+          131,
+          134,
+          152,
+          156,
+          171,
+          174,
+          176,
+          186,
+          203,
+          214,
+          225,
+          245
+        ],
+        "PsychInfo)": [
+          46
+        ],
+        "were": [
+          47,
+          88,
+          98,
+          160
+        ],
+        "searched": [
+          48
+        ],
+        "using": [
+          49
+        ],
+        "following": [
+          51
+        ],
+        "keywords:": [
+          52
+        ],
+        "asthma,": [
+          54,
+          126,
+          193
+        ],
+        "countries,": [
+          56
+        ],
+        "Algiers,": [
+          57
+        ],
+        "Bahrain,": [
+          58
+        ],
+        "Comoros,": [
+          59
+        ],
+        "Djibouti,": [
+          60
+        ],
+        "Egypt,": [
+          61
+        ],
+        "Iraq,": [
+          62
+        ],
+        "Jordan,": [
+          63
+        ],
+        "Kuwait,": [
+          64
+        ],
+        "Lebanon,": [
+          65
+        ],
+        "Libya,": [
+          66
+        ],
+        "Mauritania,": [
+          67
+        ],
+        "Morocco,": [
+          68
+        ],
+        "Oman,": [
+          69
+        ],
+        "Palestine": [
+          70
+        ],
+        "(West": [
+          71
+        ],
+        "Bank,": [
+          72
+        ],
+        "Gaza),": [
+          73
+        ],
+        "Qatar,": [
+          74
+        ],
+        "Saudi": [
+          75
+        ],
+        "Arabia,": [
+          76
+        ],
+        "Syria,": [
+          77
+        ],
+        "Tunisia,": [
+          78
+        ],
+        "Sudan,": [
+          79
+        ],
+        "Somalia;": [
+          80
+        ],
+        "United": [
+          81
+        ],
+        "Emirates,": [
+          83
+        ],
+        "Yemen.": [
+          85
+        ],
+        "Thirty-two": [
+          86
+        ],
+        "studies": [
+          87,
+          96,
+          119,
+          145
+        ],
+        "conducted": [
+          89
+        ],
+        "Almost": [
+          94
+        ],
+        "all": [
+          95
+        ],
+        "found": [
+          97
+        ],
+        "last": [
+          102,
+          112
+        ],
+        "fourteen": [
+          103
+        ],
+        "years": [
+          104
+        ],
+        "with": [
+          105,
+          217,
+          236
+        ],
+        "an": [
+          106
+        ],
+        "apparent": [
+          107
+        ],
+        "increasing": [
+          108
+        ],
+        "rate": [
+          109
+        ],
+        "five": [
+          113
+        ],
+        "years.": [
+          114
+        ],
+        "In": [
+          115
+        ],
+        "descending": [
+          116
+        ],
+        "order,": [
+          117
+        ],
+        "these": [
+          118,
+          243
+        ],
+        "addressed:": [
+          120
+        ],
+        "knowledge": [
+          121,
+          154,
+          173
+        ],
+        "attitudes": [
+          124,
+          157
+        ],
+        "toward": [
+          125,
+          158
+        ],
+        "quality": [
+          127,
+          181
+        ],
+        "life,": [
+          129
+        ],
+        "behavioral": [
+          130,
+          224
+        ],
+        "emotional": [
+          132,
+          226
+        ],
+        "problems": [
+          133
+        ],
+        "academic": [
+          138,
+          210
+        ],
+        "achievement.": [
+          139
+        ],
+        "main": [
+          141
+        ],
+        "results": [
+          142,
+          244
+        ],
+        "reviewed": [
+          146
+        ],
+        "were:": [
+          147
+        ],
+        "(a)": [
+          148
+        ],
+        "physicians’,": [
+          149
+        ],
+        "school": [
+          150,
+          201
+        ],
+        "staff’s,": [
+          151
+        ],
+        "parents’": [
+          153
+        ],
+        "generally": [
+          161
+        ],
+        "unsatisfactory,": [
+          162
+        ],
+        "(b)": [
+          163
+        ],
+        "in-service": [
+          164
+        ],
+        "education": [
+          166
+        ],
+        "programs": [
+          167
+        ],
+        "significantly": [
+          168,
+          189,
+          220
+        ],
+        "impacted": [
+          169
+        ],
+        "parent": [
+          170
+        ],
+        "staff": [
+          172
+        ],
+        "attitudes,": [
+          175
+        ],
+        "practices,": [
+          179
+        ],
+        "(c)": [
+          180
+        ],
+        "life": [
+          183
+        ],
+        "children": [
+          185
+        ],
+        "adolescents": [
+          187
+        ],
+        "was": [
+          188,
+          196
+        ],
+        "adversely": [
+          190
+        ],
+        "affected": [
+          191
+        ],
+        "by": [
+          192
+        ],
+        "(d)": [
+          194
+        ],
+        "common": [
+          198
+        ],
+        "cause": [
+          199
+        ],
+        "absenteeism,": [
+          202
+        ],
+        "had": [
+          204,
+          219
+        ],
+        "significant": [
+          206
+        ],
+        "negative": [
+          207
+        ],
+        "impact": [
+          208
+        ],
+        "on": [
+          209
+        ],
+        "achievement": [
+          211
+        ],
+        "students,": [
+          213
+        ],
+        "(e)": [
+          215
+        ],
+        "students": [
+          216,
+          230
+        ],
+        "higher": [
+          221
+        ],
+        "rates": [
+          222
+        ],
+        "difficulties": [
+          227
+        ],
+        "compared": [
+          228
+        ],
+        "without": [
+          231
+        ],
+        "asthma.": [
+          232
+        ],
+        "concludes": [
+          235
+        ],
+        "discussion": [
+          238
+        ],
+        "about": [
+          239
+        ],
+        "implications": [
+          241
+        ],
+        "call": [
+          247
+        ],
+        "for": [
+          248
+        ],
+        "further": [
+          249
+        ],
+        "this": [
+          252
+        ],
+        "area.": [
+          253
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  ],
+  "group_by": []
+}

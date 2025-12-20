@@ -1,0 +1,1759 @@
+{
+  "meta": {
+    "count": 1,
+    "db_response_time_ms": 43,
+    "page": 1,
+    "per_page": 10,
+    "groups_count": null
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W1528579000",
+      "doi": null,
+      "title": "A quadripolar model of identity in adolescent foreign language learners",
+      "display_name": "A quadripolar model of identity in adolescent foreign language learners",
+      "relevance_score": 3.518148,
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1528579000",
+        "mag": "1528579000"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "pmh:oai:uilis.unsyiah.ac.id:4961",
+        "is_oa": false,
+        "landing_page_url": "http://uilis.unsyiah.ac.id/opentheses/items/show/4961",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401199",
+          "display_name": "Jurnal Natural (Faculty of Mathematics and Natural Science, Syiah Kuala University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I187494767",
+          "host_organization_name": "Syiah Kuala University",
+          "host_organization_lineage": [
+            "https://openalex.org/I187494767"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "Thesis (University of Nottingham only)"
+      },
+      "type": "dissertation",
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://eprints.nottingham.ac.uk/11931/1/Taylor_%282010%29_-_A_quadripolar_model_of_identity_in_adolescent_foreign_language_learners_%28PhD_thesis%29.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5069747631",
+            "display_name": "Florentina Taylor",
+            "orcid": "https://orcid.org/0000-0003-4790-4384"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Florentina Taylor",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5069747631"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": null,
+      "has_fulltext": true,
+      "cited_by_count": 11,
+      "citation_normalized_percentile": null,
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10021",
+        "display_name": "EFL/ESL Teaching and Learning",
+        "score": 0.9761999845504761,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1203",
+          "display_name": "Language and Linguistics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10021",
+          "display_name": "EFL/ESL Teaching and Learning",
+          "score": 0.9761999845504761,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1203",
+            "display_name": "Language and Linguistics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10008",
+          "display_name": "Teacher Education and Leadership Studies",
+          "score": 0.972100019454956,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10589",
+          "display_name": "Early Childhood Education and Development",
+          "score": 0.9627000093460083,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.6555692553520203
+        },
+        {
+          "id": "https://openalex.org/keywords/social-psychology",
+          "display_name": "Social psychology",
+          "score": 0.5451949238777161
+        },
+        {
+          "id": "https://openalex.org/keywords/identity",
+          "display_name": "Identity (music)",
+          "score": 0.4786011874675751
+        },
+        {
+          "id": "https://openalex.org/keywords/foreign-language",
+          "display_name": "Foreign language",
+          "score": 0.4546601474285126
+        },
+        {
+          "id": "https://openalex.org/keywords/attribution",
+          "display_name": "Attribution",
+          "score": 0.45401325821876526
+        },
+        {
+          "id": "https://openalex.org/keywords/competence",
+          "display_name": "Competence (human resources)",
+          "score": 0.44478896260261536
+        },
+        {
+          "id": "https://openalex.org/keywords/ethos",
+          "display_name": "Ethos",
+          "score": 0.4131143093109131
+        },
+        {
+          "id": "https://openalex.org/keywords/developmental-psychology",
+          "display_name": "Developmental psychology",
+          "score": 0.3936827480792999
+        },
+        {
+          "id": "https://openalex.org/keywords/pedagogy",
+          "display_name": "Pedagogy",
+          "score": 0.2758273482322693
+        },
+        {
+          "id": "https://openalex.org/keywords/linguistics",
+          "display_name": "Linguistics",
+          "score": 0.11976030468940735
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.6555692553520203
+        },
+        {
+          "id": "https://openalex.org/C77805123",
+          "wikidata": "https://www.wikidata.org/wiki/Q161272",
+          "display_name": "Social psychology",
+          "level": 1,
+          "score": 0.5451949238777161
+        },
+        {
+          "id": "https://openalex.org/C2778355321",
+          "wikidata": "https://www.wikidata.org/wiki/Q17079427",
+          "display_name": "Identity (music)",
+          "level": 2,
+          "score": 0.4786011874675751
+        },
+        {
+          "id": "https://openalex.org/C114010052",
+          "wikidata": "https://www.wikidata.org/wiki/Q150352",
+          "display_name": "Foreign language",
+          "level": 2,
+          "score": 0.4546601474285126
+        },
+        {
+          "id": "https://openalex.org/C143299363",
+          "wikidata": "https://www.wikidata.org/wiki/Q900584",
+          "display_name": "Attribution",
+          "level": 2,
+          "score": 0.45401325821876526
+        },
+        {
+          "id": "https://openalex.org/C100521375",
+          "wikidata": "https://www.wikidata.org/wiki/Q2015382",
+          "display_name": "Competence (human resources)",
+          "level": 2,
+          "score": 0.44478896260261536
+        },
+        {
+          "id": "https://openalex.org/C2776932993",
+          "wikidata": "https://www.wikidata.org/wiki/Q484318",
+          "display_name": "Ethos",
+          "level": 2,
+          "score": 0.4131143093109131
+        },
+        {
+          "id": "https://openalex.org/C138496976",
+          "wikidata": "https://www.wikidata.org/wiki/Q175002",
+          "display_name": "Developmental psychology",
+          "level": 1,
+          "score": 0.3936827480792999
+        },
+        {
+          "id": "https://openalex.org/C19417346",
+          "wikidata": "https://www.wikidata.org/wiki/Q7922",
+          "display_name": "Pedagogy",
+          "level": 1,
+          "score": 0.2758273482322693
+        },
+        {
+          "id": "https://openalex.org/C41895202",
+          "wikidata": "https://www.wikidata.org/wiki/Q8162",
+          "display_name": "Linguistics",
+          "level": 1,
+          "score": 0.11976030468940735
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C24890656",
+          "wikidata": "https://www.wikidata.org/wiki/Q82811",
+          "display_name": "Acoustics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 5,
+      "locations": [
+        {
+          "id": "pmh:oai:uilis.unsyiah.ac.id:4961",
+          "is_oa": false,
+          "landing_page_url": "http://uilis.unsyiah.ac.id/opentheses/items/show/4961",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401199",
+            "display_name": "Jurnal Natural (Faculty of Mathematics and Natural Science, Syiah Kuala University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I187494767",
+            "host_organization_name": "Syiah Kuala University",
+            "host_organization_lineage": [
+              "https://openalex.org/I187494767"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Thesis (University of Nottingham only)"
+        },
+        {
+          "id": "pmh:oai:eprints.nottingham.ac.uk:11931",
+          "is_oa": true,
+          "landing_page_url": null,
+          "pdf_url": "http://eprints.nottingham.ac.uk/11931/1/Taylor_%282010%29_-_A_quadripolar_model_of_identity_in_adolescent_foreign_language_learners_%28PhD_thesis%29.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306402013",
+            "display_name": "Nottingham ePrints (University of Nottingham)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I142263535",
+            "host_organization_name": "University of Nottingham",
+            "host_organization_lineage": [
+              "https://openalex.org/I142263535"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "NonPeerReviewed"
+        },
+        {
+          "id": "pmh:oai:eprints.whiterose.ac.uk:75132",
+          "is_oa": true,
+          "landing_page_url": "https://orcid.org/0000-0003-4790-4384>",
+          "pdf_url": "https://eprints.whiterose.ac.uk/75132/1/Taylor_2010_A_quadripolar_model_of_identity_in_adolescent_foreign_language_learners_PhD_thesis_.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400854",
+            "display_name": "White Rose Research Online (University of Leeds, The University of Sheffield, University of York)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I2800616092",
+            "host_organization_name": "White Rose University Consortium",
+            "host_organization_lineage": [
+              "https://openalex.org/I2800616092"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "NonPeerReviewed"
+        },
+        {
+          "id": "pmh:hdl:10068/984527",
+          "is_oa": false,
+          "landing_page_url": "http://hdl.handle.net/10068/984527",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "U - Thesis"
+        },
+        {
+          "id": "mag:1528579000",
+          "is_oa": false,
+          "landing_page_url": "http://eprints.nottingham.ac.uk/11931/",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:eprints.nottingham.ac.uk:11931",
+        "is_oa": true,
+        "landing_page_url": null,
+        "pdf_url": "http://eprints.nottingham.ac.uk/11931/1/Taylor_%282010%29_-_A_quadripolar_model_of_identity_in_adolescent_foreign_language_learners_%28PhD_thesis%29.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306402013",
+          "display_name": "Nottingham ePrints (University of Nottingham)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I142263535",
+          "host_organization_name": "University of Nottingham",
+          "host_organization_lineage": [
+            "https://openalex.org/I142263535"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "NonPeerReviewed"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Quality Education",
+          "score": 0.5799999833106995,
+          "id": "https://metadata.un.org/sdg/4"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": true
+      },
+      "referenced_works_count": 520,
+      "referenced_works": [
+        "https://openalex.org/W2084302054",
+        "https://openalex.org/W1890753574",
+        "https://openalex.org/W2020191227",
+        "https://openalex.org/W2058848600",
+        "https://openalex.org/W2801954960",
+        "https://openalex.org/W2126063095",
+        "https://openalex.org/W1601952277",
+        "https://openalex.org/W2791435367",
+        "https://openalex.org/W2280195032",
+        "https://openalex.org/W2415283121",
+        "https://openalex.org/W573862516",
+        "https://openalex.org/W1968420080",
+        "https://openalex.org/W2006395886",
+        "https://openalex.org/W1972987799",
+        "https://openalex.org/W1982655023",
+        "https://openalex.org/W2155456686",
+        "https://openalex.org/W2153429133",
+        "https://openalex.org/W1966131916",
+        "https://openalex.org/W2173645153",
+        "https://openalex.org/W2994643085",
+        "https://openalex.org/W587384013",
+        "https://openalex.org/W2117740831",
+        "https://openalex.org/W2116090647",
+        "https://openalex.org/W30209452",
+        "https://openalex.org/W2172028161",
+        "https://openalex.org/W2087484885",
+        "https://openalex.org/W1998211088",
+        "https://openalex.org/W2066308709",
+        "https://openalex.org/W2481302272",
+        "https://openalex.org/W72249436",
+        "https://openalex.org/W2034572535",
+        "https://openalex.org/W629824087",
+        "https://openalex.org/W2023316955",
+        "https://openalex.org/W2083495026",
+        "https://openalex.org/W2056855771",
+        "https://openalex.org/W2071854134",
+        "https://openalex.org/W1505848824",
+        "https://openalex.org/W2486298609",
+        "https://openalex.org/W2156829957",
+        "https://openalex.org/W604762180",
+        "https://openalex.org/W1600526478",
+        "https://openalex.org/W2058414694",
+        "https://openalex.org/W2169110067",
+        "https://openalex.org/W2049709243",
+        "https://openalex.org/W2027821482",
+        "https://openalex.org/W1715289948",
+        "https://openalex.org/W2022252677",
+        "https://openalex.org/W2072187206",
+        "https://openalex.org/W2161569591",
+        "https://openalex.org/W2038617428",
+        "https://openalex.org/W2900160827",
+        "https://openalex.org/W3193532866",
+        "https://openalex.org/W1645349419",
+        "https://openalex.org/W2033698708",
+        "https://openalex.org/W2049201705",
+        "https://openalex.org/W2006391955",
+        "https://openalex.org/W581785791",
+        "https://openalex.org/W2125272352",
+        "https://openalex.org/W2088633726",
+        "https://openalex.org/W2799282198",
+        "https://openalex.org/W2141846678",
+        "https://openalex.org/W2214878",
+        "https://openalex.org/W2782872443",
+        "https://openalex.org/W2528341065",
+        "https://openalex.org/W2003378933",
+        "https://openalex.org/W2002326029",
+        "https://openalex.org/W112053848",
+        "https://openalex.org/W2052660601",
+        "https://openalex.org/W2047859811",
+        "https://openalex.org/W2786620630",
+        "https://openalex.org/W1950299194",
+        "https://openalex.org/W55702864",
+        "https://openalex.org/W1542722502",
+        "https://openalex.org/W2039751323",
+        "https://openalex.org/W3157407122",
+        "https://openalex.org/W1554674486",
+        "https://openalex.org/W1581700072",
+        "https://openalex.org/W202593076",
+        "https://openalex.org/W2900509361",
+        "https://openalex.org/W1970552379",
+        "https://openalex.org/W1730662991",
+        "https://openalex.org/W2042995780",
+        "https://openalex.org/W2046503950",
+        "https://openalex.org/W1974650438",
+        "https://openalex.org/W1529024143",
+        "https://openalex.org/W2072739076",
+        "https://openalex.org/W3015756422",
+        "https://openalex.org/W1496830972",
+        "https://openalex.org/W2083113231",
+        "https://openalex.org/W2069611781",
+        "https://openalex.org/W1901419097",
+        "https://openalex.org/W2028801795",
+        "https://openalex.org/W2754888167",
+        "https://openalex.org/W1514303121",
+        "https://openalex.org/W2148234910",
+        "https://openalex.org/W2046221161",
+        "https://openalex.org/W1585950573",
+        "https://openalex.org/W2168460911",
+        "https://openalex.org/W1486761075",
+        "https://openalex.org/W2093032015",
+        "https://openalex.org/W1545149603",
+        "https://openalex.org/W1793541250",
+        "https://openalex.org/W110108132",
+        "https://openalex.org/W194314649",
+        "https://openalex.org/W193819578",
+        "https://openalex.org/W2156616450",
+        "https://openalex.org/W2061034218",
+        "https://openalex.org/W2126608486",
+        "https://openalex.org/W2075847637",
+        "https://openalex.org/W1447267401",
+        "https://openalex.org/W2560868387",
+        "https://openalex.org/W2171947451",
+        "https://openalex.org/W1856260766",
+        "https://openalex.org/W2020058350",
+        "https://openalex.org/W2113819132",
+        "https://openalex.org/W1598343779",
+        "https://openalex.org/W2074634962",
+        "https://openalex.org/W125827716",
+        "https://openalex.org/W2039238778",
+        "https://openalex.org/W2039264823",
+        "https://openalex.org/W2142631948",
+        "https://openalex.org/W2102584570",
+        "https://openalex.org/W639687956",
+        "https://openalex.org/W2165949404",
+        "https://openalex.org/W2169757511",
+        "https://openalex.org/W2061688833",
+        "https://openalex.org/W2484541230",
+        "https://openalex.org/W1625786276",
+        "https://openalex.org/W1553286440",
+        "https://openalex.org/W2063970960",
+        "https://openalex.org/W3008891899",
+        "https://openalex.org/W1994750264",
+        "https://openalex.org/W2026028281",
+        "https://openalex.org/W2167884222",
+        "https://openalex.org/W355312245",
+        "https://openalex.org/W2782781084",
+        "https://openalex.org/W2130672793",
+        "https://openalex.org/W207136423",
+        "https://openalex.org/W1847155334",
+        "https://openalex.org/W1532542650",
+        "https://openalex.org/W599427391",
+        "https://openalex.org/W1989327017",
+        "https://openalex.org/W1999217919",
+        "https://openalex.org/W1656851898",
+        "https://openalex.org/W1571296490",
+        "https://openalex.org/W2034199199",
+        "https://openalex.org/W2111766109",
+        "https://openalex.org/W1556634710",
+        "https://openalex.org/W2072942682",
+        "https://openalex.org/W2162510130",
+        "https://openalex.org/W1933507511",
+        "https://openalex.org/W2104694067",
+        "https://openalex.org/W2026309884",
+        "https://openalex.org/W2048521010",
+        "https://openalex.org/W2048362741",
+        "https://openalex.org/W1961827137",
+        "https://openalex.org/W2109675355",
+        "https://openalex.org/W2171272012",
+        "https://openalex.org/W2102896090",
+        "https://openalex.org/W1600350826",
+        "https://openalex.org/W635707828",
+        "https://openalex.org/W2739822254",
+        "https://openalex.org/W2083677164",
+        "https://openalex.org/W2005173811",
+        "https://openalex.org/W1588931168",
+        "https://openalex.org/W3067181",
+        "https://openalex.org/W2036923589",
+        "https://openalex.org/W2154291984",
+        "https://openalex.org/W335830165",
+        "https://openalex.org/W131748864",
+        "https://openalex.org/W1963742915",
+        "https://openalex.org/W568667186",
+        "https://openalex.org/W2006451753",
+        "https://openalex.org/W1628514447",
+        "https://openalex.org/W617474969",
+        "https://openalex.org/W2045705244",
+        "https://openalex.org/W2099044475",
+        "https://openalex.org/W1575920512",
+        "https://openalex.org/W3023460273",
+        "https://openalex.org/W2099334334",
+        "https://openalex.org/W2092373156",
+        "https://openalex.org/W369757293",
+        "https://openalex.org/W2120924077",
+        "https://openalex.org/W2004041133",
+        "https://openalex.org/W3214237441",
+        "https://openalex.org/W1728275924",
+        "https://openalex.org/W1987863856",
+        "https://openalex.org/W1973409527",
+        "https://openalex.org/W2023432679",
+        "https://openalex.org/W2491380873",
+        "https://openalex.org/W2041421895",
+        "https://openalex.org/W2049616194",
+        "https://openalex.org/W639875998",
+        "https://openalex.org/W1607549176",
+        "https://openalex.org/W2462864754",
+        "https://openalex.org/W2088151626",
+        "https://openalex.org/W1501669146",
+        "https://openalex.org/W2003801234",
+        "https://openalex.org/W1542788001",
+        "https://openalex.org/W2505101963",
+        "https://openalex.org/W2089371540",
+        "https://openalex.org/W1480239324",
+        "https://openalex.org/W2903179850",
+        "https://openalex.org/W1983307842",
+        "https://openalex.org/W1879281336",
+        "https://openalex.org/W1989116988",
+        "https://openalex.org/W2056393248",
+        "https://openalex.org/W1819101903",
+        "https://openalex.org/W1766441201",
+        "https://openalex.org/W2064262884",
+        "https://openalex.org/W2169888706",
+        "https://openalex.org/W2134049139",
+        "https://openalex.org/W2061168104",
+        "https://openalex.org/W1540195631",
+        "https://openalex.org/W2022863041",
+        "https://openalex.org/W2149028807",
+        "https://openalex.org/W2046228833",
+        "https://openalex.org/W1928370076",
+        "https://openalex.org/W2090736430",
+        "https://openalex.org/W2118039289",
+        "https://openalex.org/W1497396804",
+        "https://openalex.org/W2044631368",
+        "https://openalex.org/W1551383178",
+        "https://openalex.org/W2033931522",
+        "https://openalex.org/W2124743631",
+        "https://openalex.org/W1830025886",
+        "https://openalex.org/W2156231772",
+        "https://openalex.org/W2076256760",
+        "https://openalex.org/W1999069442",
+        "https://openalex.org/W655068602",
+        "https://openalex.org/W1973948212",
+        "https://openalex.org/W115394847",
+        "https://openalex.org/W2057455896",
+        "https://openalex.org/W2137370939",
+        "https://openalex.org/W2122014897",
+        "https://openalex.org/W2148443142",
+        "https://openalex.org/W1974373570",
+        "https://openalex.org/W2044233129",
+        "https://openalex.org/W2012904234",
+        "https://openalex.org/W1541046134",
+        "https://openalex.org/W1932985692",
+        "https://openalex.org/W145744083",
+        "https://openalex.org/W1718614823",
+        "https://openalex.org/W1495478112",
+        "https://openalex.org/W2060955279",
+        "https://openalex.org/W2017285126",
+        "https://openalex.org/W2016986929",
+        "https://openalex.org/W2335841795",
+        "https://openalex.org/W2495524535",
+        "https://openalex.org/W2053531221",
+        "https://openalex.org/W2114736937",
+        "https://openalex.org/W2790841064",
+        "https://openalex.org/W1703385441",
+        "https://openalex.org/W2789028011",
+        "https://openalex.org/W158261050",
+        "https://openalex.org/W644835840",
+        "https://openalex.org/W1585658960",
+        "https://openalex.org/W2028370616",
+        "https://openalex.org/W2118882740",
+        "https://openalex.org/W2154797511",
+        "https://openalex.org/W2032688480",
+        "https://openalex.org/W2077763609",
+        "https://openalex.org/W2504752331",
+        "https://openalex.org/W970406465",
+        "https://openalex.org/W2766729703",
+        "https://openalex.org/W2100848308",
+        "https://openalex.org/W1537259130",
+        "https://openalex.org/W2054537603",
+        "https://openalex.org/W2730880253",
+        "https://openalex.org/W2183788529",
+        "https://openalex.org/W1556033561",
+        "https://openalex.org/W2054090706",
+        "https://openalex.org/W2612005181",
+        "https://openalex.org/W2485438980",
+        "https://openalex.org/W1500457431",
+        "https://openalex.org/W2170274818",
+        "https://openalex.org/W3025212106",
+        "https://openalex.org/W1982914430",
+        "https://openalex.org/W75045543",
+        "https://openalex.org/W2155870673",
+        "https://openalex.org/W2161630514",
+        "https://openalex.org/W3148862665",
+        "https://openalex.org/W1992597487",
+        "https://openalex.org/W24811834",
+        "https://openalex.org/W2898031890",
+        "https://openalex.org/W2503891246",
+        "https://openalex.org/W2137895352",
+        "https://openalex.org/W2132413438",
+        "https://openalex.org/W1971383556",
+        "https://openalex.org/W1556808170",
+        "https://openalex.org/W1994324487",
+        "https://openalex.org/W1544350589",
+        "https://openalex.org/W654836972",
+        "https://openalex.org/W623905151",
+        "https://openalex.org/W1992930663",
+        "https://openalex.org/W2085151426",
+        "https://openalex.org/W2141525130",
+        "https://openalex.org/W1523961089",
+        "https://openalex.org/W2169047435",
+        "https://openalex.org/W2978796458",
+        "https://openalex.org/W2945424237",
+        "https://openalex.org/W1744790774",
+        "https://openalex.org/W1581710858",
+        "https://openalex.org/W2153599889",
+        "https://openalex.org/W1636115385",
+        "https://openalex.org/W1994599550",
+        "https://openalex.org/W2969200100",
+        "https://openalex.org/W1996777018",
+        "https://openalex.org/W1744050555",
+        "https://openalex.org/W1698319060",
+        "https://openalex.org/W2007349775",
+        "https://openalex.org/W2056339794",
+        "https://openalex.org/W2500692071",
+        "https://openalex.org/W2007851141",
+        "https://openalex.org/W2907602543",
+        "https://openalex.org/W138857810",
+        "https://openalex.org/W2148757405",
+        "https://openalex.org/W1984857358",
+        "https://openalex.org/W2146786458",
+        "https://openalex.org/W2052600223",
+        "https://openalex.org/W2120889591",
+        "https://openalex.org/W1526529576",
+        "https://openalex.org/W1973046398",
+        "https://openalex.org/W2058585041",
+        "https://openalex.org/W1573234480",
+        "https://openalex.org/W2801329646",
+        "https://openalex.org/W1982478788",
+        "https://openalex.org/W1534612420",
+        "https://openalex.org/W2155803911",
+        "https://openalex.org/W2121303152",
+        "https://openalex.org/W1997410866",
+        "https://openalex.org/W2086592868",
+        "https://openalex.org/W571883432",
+        "https://openalex.org/W2052006297",
+        "https://openalex.org/W2053235922",
+        "https://openalex.org/W2402554802",
+        "https://openalex.org/W2497834069",
+        "https://openalex.org/W2897971917",
+        "https://openalex.org/W186447774",
+        "https://openalex.org/W377218205",
+        "https://openalex.org/W1557998370",
+        "https://openalex.org/W2064357899",
+        "https://openalex.org/W2171886329",
+        "https://openalex.org/W1550951310",
+        "https://openalex.org/W2596076238",
+        "https://openalex.org/W1914972138",
+        "https://openalex.org/W1491389660",
+        "https://openalex.org/W2063240449",
+        "https://openalex.org/W2169570446",
+        "https://openalex.org/W2316183976",
+        "https://openalex.org/W2029009881",
+        "https://openalex.org/W2044950274",
+        "https://openalex.org/W2090735321",
+        "https://openalex.org/W1741036149",
+        "https://openalex.org/W2038030734",
+        "https://openalex.org/W1983778662",
+        "https://openalex.org/W2049988325",
+        "https://openalex.org/W1970610158",
+        "https://openalex.org/W2122517769",
+        "https://openalex.org/W2110940731",
+        "https://openalex.org/W2047424060",
+        "https://openalex.org/W2164921538",
+        "https://openalex.org/W1973418462",
+        "https://openalex.org/W112949365",
+        "https://openalex.org/W652940789",
+        "https://openalex.org/W1669060952",
+        "https://openalex.org/W1855579098",
+        "https://openalex.org/W1540310006",
+        "https://openalex.org/W2067330009",
+        "https://openalex.org/W1511284107",
+        "https://openalex.org/W2160531877",
+        "https://openalex.org/W2069082810",
+        "https://openalex.org/W2034764148",
+        "https://openalex.org/W2017796685",
+        "https://openalex.org/W2210654492",
+        "https://openalex.org/W2162153512",
+        "https://openalex.org/W2053551547",
+        "https://openalex.org/W2018689505",
+        "https://openalex.org/W1991949010",
+        "https://openalex.org/W107461050",
+        "https://openalex.org/W2970460809",
+        "https://openalex.org/W2950907409",
+        "https://openalex.org/W2047116349",
+        "https://openalex.org/W2116774734",
+        "https://openalex.org/W2088361616",
+        "https://openalex.org/W2052278955",
+        "https://openalex.org/W2593583145",
+        "https://openalex.org/W1999220143",
+        "https://openalex.org/W2013891329",
+        "https://openalex.org/W1857170875",
+        "https://openalex.org/W1496408748",
+        "https://openalex.org/W2076332561",
+        "https://openalex.org/W2006616889",
+        "https://openalex.org/W2055129086",
+        "https://openalex.org/W110158352",
+        "https://openalex.org/W2178742119",
+        "https://openalex.org/W2011454573",
+        "https://openalex.org/W2001776363",
+        "https://openalex.org/W1571015388",
+        "https://openalex.org/W2121766457",
+        "https://openalex.org/W193260610",
+        "https://openalex.org/W643025172",
+        "https://openalex.org/W2212959445",
+        "https://openalex.org/W2799247388",
+        "https://openalex.org/W1985426371",
+        "https://openalex.org/W2065972270",
+        "https://openalex.org/W2012987867",
+        "https://openalex.org/W2042466495",
+        "https://openalex.org/W2028577457",
+        "https://openalex.org/W2134412561",
+        "https://openalex.org/W9012761",
+        "https://openalex.org/W1636536540",
+        "https://openalex.org/W1544170612",
+        "https://openalex.org/W1599418893",
+        "https://openalex.org/W2078546623",
+        "https://openalex.org/W2151663171",
+        "https://openalex.org/W2150941754",
+        "https://openalex.org/W1561644443",
+        "https://openalex.org/W2136267859",
+        "https://openalex.org/W1719871446",
+        "https://openalex.org/W2079539391",
+        "https://openalex.org/W2053547454",
+        "https://openalex.org/W1998024529",
+        "https://openalex.org/W2162070030",
+        "https://openalex.org/W1768959932",
+        "https://openalex.org/W2517491336",
+        "https://openalex.org/W2007585292",
+        "https://openalex.org/W1517238499",
+        "https://openalex.org/W1968517740",
+        "https://openalex.org/W1486953525",
+        "https://openalex.org/W2007286593",
+        "https://openalex.org/W1602672075",
+        "https://openalex.org/W1551600018",
+        "https://openalex.org/W628475466",
+        "https://openalex.org/W2101929716",
+        "https://openalex.org/W3143515237",
+        "https://openalex.org/W58592783",
+        "https://openalex.org/W2074338790",
+        "https://openalex.org/W2169043596",
+        "https://openalex.org/W2033612445",
+        "https://openalex.org/W2754859070",
+        "https://openalex.org/W2500973106",
+        "https://openalex.org/W2009497884",
+        "https://openalex.org/W2096646082",
+        "https://openalex.org/W2116921867",
+        "https://openalex.org/W1564529347",
+        "https://openalex.org/W2109685530",
+        "https://openalex.org/W2157752308",
+        "https://openalex.org/W2080144150",
+        "https://openalex.org/W3019273456",
+        "https://openalex.org/W2052074814",
+        "https://openalex.org/W1809423317",
+        "https://openalex.org/W1481769595",
+        "https://openalex.org/W1988890243",
+        "https://openalex.org/W2004223223",
+        "https://openalex.org/W2007563658",
+        "https://openalex.org/W1967447548",
+        "https://openalex.org/W579403533",
+        "https://openalex.org/W2002664886",
+        "https://openalex.org/W1507835867",
+        "https://openalex.org/W2169991719",
+        "https://openalex.org/W2017087379",
+        "https://openalex.org/W2064718737",
+        "https://openalex.org/W2081031067",
+        "https://openalex.org/W2024637565",
+        "https://openalex.org/W1809542217",
+        "https://openalex.org/W2022132965",
+        "https://openalex.org/W387117406",
+        "https://openalex.org/W1987604705",
+        "https://openalex.org/W2965274312",
+        "https://openalex.org/W580943183",
+        "https://openalex.org/W107175980",
+        "https://openalex.org/W1996652948",
+        "https://openalex.org/W2031713261",
+        "https://openalex.org/W1978286377",
+        "https://openalex.org/W1484465616",
+        "https://openalex.org/W1969653121",
+        "https://openalex.org/W578537041",
+        "https://openalex.org/W217082584",
+        "https://openalex.org/W2082231935",
+        "https://openalex.org/W2062492090",
+        "https://openalex.org/W2009198194",
+        "https://openalex.org/W2486334447",
+        "https://openalex.org/W2124668684",
+        "https://openalex.org/W1989276990",
+        "https://openalex.org/W608188456",
+        "https://openalex.org/W2982130005",
+        "https://openalex.org/W2081779142",
+        "https://openalex.org/W3047614709",
+        "https://openalex.org/W2780127043",
+        "https://openalex.org/W1721577666",
+        "https://openalex.org/W2491890116",
+        "https://openalex.org/W2039703741",
+        "https://openalex.org/W1995067334",
+        "https://openalex.org/W2000315467",
+        "https://openalex.org/W1524072062",
+        "https://openalex.org/W1942803103",
+        "https://openalex.org/W1538050091",
+        "https://openalex.org/W1562208008",
+        "https://openalex.org/W618128466",
+        "https://openalex.org/W3189125080",
+        "https://openalex.org/W1514027943",
+        "https://openalex.org/W2049826494",
+        "https://openalex.org/W1980098668",
+        "https://openalex.org/W101457370",
+        "https://openalex.org/W2117424207",
+        "https://openalex.org/W2308085244",
+        "https://openalex.org/W566876742",
+        "https://openalex.org/W1831475266",
+        "https://openalex.org/W2037377210",
+        "https://openalex.org/W2914341307",
+        "https://openalex.org/W1494472992",
+        "https://openalex.org/W2999284692",
+        "https://openalex.org/W1977775666",
+        "https://openalex.org/W1559737604",
+        "https://openalex.org/W2172077013",
+        "https://openalex.org/W2092648739",
+        "https://openalex.org/W2122838852",
+        "https://openalex.org/W2958912330",
+        "https://openalex.org/W2084850387"
+      ],
+      "related_works": [
+        "https://openalex.org/W3134402228",
+        "https://openalex.org/W3173237401",
+        "https://openalex.org/W2169933223",
+        "https://openalex.org/W2955338486",
+        "https://openalex.org/W2772423635",
+        "https://openalex.org/W2511688872",
+        "https://openalex.org/W1879917889",
+        "https://openalex.org/W2080565195",
+        "https://openalex.org/W2775729206",
+        "https://openalex.org/W2218067221",
+        "https://openalex.org/W2285967610",
+        "https://openalex.org/W2153616112",
+        "https://openalex.org/W1988649826",
+        "https://openalex.org/W1779815013",
+        "https://openalex.org/W2014703106",
+        "https://openalex.org/W2099400754",
+        "https://openalex.org/W2169206872",
+        "https://openalex.org/W2024368460",
+        "https://openalex.org/W1996388742",
+        "https://openalex.org/W2631539675"
+      ],
+      "abstract_inverted_index": {
+        "32": [
+          155
+        ],
+        "61": [
+          126
+        ],
+        "339": [
+          122
+        ],
+        "645": [
+          124
+        ],
+        "Integrating": [
+          0
+        ],
+        "several": [
+          1
+        ],
+        "psychological": [
+          2
+        ],
+        "theories": [
+          3
+        ],
+        "(e.g.,": [
+          4,
+          78
+        ],
+        "self": [
+          5,
+          46,
+          62,
+          200
+        ],
+        "and": [
+          6,
+          9,
+          13,
+          51,
+          67,
+          163,
+          224,
+          229,
+          271,
+          286,
+          293
+        ],
+        "identity,": [
+          7
+        ],
+        "self-presentation": [
+          8
+        ],
+        "internalisation,": [
+          10
+        ],
+        "possible": [
+          11
+        ],
+        "selves": [
+          12,
+          250
+        ],
+        "self-discrepancy,": [
+          14
+        ],
+        "developmental": [
+          15
+        ],
+        "processes": [
+          16,
+          86
+        ],
+        "in": [
+          17,
+          103,
+          136,
+          157,
+          202,
+          212,
+          267,
+          273,
+          282
+        ],
+        "adolescence),": [
+          18
+        ],
+        "this": [
+          19,
+          99
+        ],
+        "thesis": [
+          20
+        ],
+        "proposes": [
+          21
+        ],
+        "a": [
+          22,
+          29,
+          112,
+          133,
+          150,
+          169
+        ],
+        "new": [
+          23,
+          100,
+          151
+        ],
+        "theoretical": [
+          24,
+          101
+        ],
+        "framework": [
+          25,
+          102
+        ],
+        "aiming": [
+          26
+        ],
+        "to": [
+          27,
+          58,
+          70,
+          76,
+          89,
+          194,
+          208,
+          242
+        ],
+        "facilitate": [
+          28
+        ],
+        "better": [
+          30
+        ],
+        "understanding": [
+          31
+        ],
+        "of": [
+          32,
+          39,
+          44,
+          61,
+          98,
+          127,
+          141,
+          180,
+          198,
+          234,
+          247
+        ],
+        "foreign": [
+          33,
+          104,
+          134,
+          219
+        ],
+        "language": [
+          34,
+          105,
+          135
+        ],
+        "learning.": [
+          35
+        ],
+        "The": [
+          36
+        ],
+        "Quadripolar": [
+          37,
+          178
+        ],
+        "Model": [
+          38,
+          179
+        ],
+        "Identity": [
+          40
+        ],
+        "postulates": [
+          41
+        ],
+        "the": [
+          42,
+          93,
+          107,
+          145,
+          161,
+          177,
+          196,
+          218,
+          232,
+          244,
+          256,
+          264,
+          268
+        ],
+        "existence": [
+          43
+        ],
+        "four": [
+          45,
+          59
+        ],
+        "components": [
+          47
+        ],
+        "(private,": [
+          48
+        ],
+        "public,": [
+          49
+        ],
+        "ideal": [
+          50
+        ],
+        "imposed),": [
+          52
+        ],
+        "whose": [
+          53
+        ],
+        "pluridirectional": [
+          54
+        ],
+        "interactions": [
+          55
+        ],
+        "may": [
+          56
+        ],
+        "lead": [
+          57
+        ],
+        "types": [
+          60
+        ],
+        "system": [
+          63,
+          201
+        ],
+        "(submissive,": [
+          64
+        ],
+        "duplicitous,": [
+          65
+        ],
+        "rebellious": [
+          66
+        ],
+        "harmonious)": [
+          68
+        ],
+        "hypothesised": [
+          69
+        ],
+        "differ": [
+          71
+        ],
+        "from": [
+          72
+        ],
+        "one": [
+          73
+        ],
+        "relational": [
+          74
+        ],
+        "context": [
+          75
+        ],
+        "another": [
+          77
+        ],
+        "school,": [
+          79
+        ],
+        "family,": [
+          80
+        ],
+        "friends).": [
+          81
+        ],
+        "For": [
+          82
+        ],
+        "students,": [
+          83
+        ],
+        "these": [
+          84
+        ],
+        "identity": [
+          85,
+          288
+        ],
+        "are": [
+          87,
+          296
+        ],
+        "expected": [
+          88
+        ],
+        "fluctuate": [
+          90
+        ],
+        "depending": [
+          91
+        ],
+        "on": [
+          92
+        ],
+        "subject": [
+          94
+        ],
+        "studied.\\n\\nA": [
+          95
+        ],
+        "preliminary": [
+          96
+        ],
+        "validation": [
+          97
+        ],
+        "learning,": [
+          106
+        ],
+        "study": [
+          108
+        ],
+        "reported": [
+          109
+        ],
+        "here": [
+          110
+        ],
+        "represents": [
+          111
+        ],
+        "mixed-method": [
+          113
+        ],
+        "cross-sectional": [
+          114
+        ],
+        "investigation": [
+          115
+        ],
+        "with": [
+          116,
+          217,
+          255,
+          279
+        ],
+        "1,045": [
+          117,
+          146
+        ],
+        "participants": [
+          118
+        ],
+        "(mean": [
+          119
+        ],
+        "age": [
+          120
+        ],
+        "16.47;": [
+          121
+        ],
+        "boys,": [
+          123
+        ],
+        "girls,": [
+          125
+        ],
+        "undeclared": [
+          128
+        ],
+        "gender)": [
+          129
+        ],
+        "learning": [
+          130,
+          222
+        ],
+        "English": [
+          131,
+          269
+        ],
+        "as": [
+          132,
+          190,
+          263
+        ],
+        "five": [
+          137
+        ],
+        "Romanian": [
+          138
+        ],
+        "secondary": [
+          139
+        ],
+        "schools": [
+          140
+        ],
+        "different": [
+          142
+        ],
+        "specialisms.": [
+          143
+        ],
+        "Of": [
+          144
+        ],
+        "students": [
+          147
+        ],
+        "who": [
+          148
+        ],
+        "completed": [
+          149
+        ],
+        "purposefully-designed": [
+          152
+        ],
+        "self-reported": [
+          153
+        ],
+        "questionnaire,": [
+          154
+        ],
+        "participated": [
+          156
+        ],
+        "individual": [
+          158
+        ],
+        "in-depth": [
+          159
+        ],
+        "interviews,": [
+          160
+        ],
+        "quantitative": [
+          162
+        ],
+        "qualitative": [
+          164
+        ],
+        "findings": [
+          165
+        ],
+        "being": [
+          166,
+          205
+        ],
+        "integrated": [
+          167
+        ],
+        "into": [
+          168
+        ],
+        "meta-inferential": [
+          170
+        ],
+        "discussion.\\n\\nThe": [
+          171
+        ],
+        "results": [
+          172
+        ],
+        "offered": [
+          173
+        ],
+        "consistent": [
+          174
+        ],
+        "support": [
+          175
+        ],
+        "for": [
+          176,
+          227,
+          291
+        ],
+        "Identity,": [
+          181
+        ],
+        "while": [
+          182,
+          204
+        ],
+        "also": [
+          183,
+          206
+        ],
+        "facilitating": [
+          184
+        ],
+        "invaluable": [
+          185
+        ],
+        "unexpected": [
+          186
+        ],
+        "insights.": [
+          187
+        ],
+        "Students’": [
+          188
+        ],
+        "appreciation": [
+          189
+        ],
+        "individuals": [
+          191
+        ],
+        "was": [
+          192,
+          240
+        ],
+        "found": [
+          193,
+          241
+        ],
+        "predict": [
+          195
+        ],
+        "nature": [
+          197
+        ],
+        "their": [
+          199,
+          209,
+          214,
+          221,
+          225
+        ],
+        "class,": [
+          203
+        ],
+        "related": [
+          207
+        ],
+        "perceived": [
+          210,
+          274,
+          283
+        ],
+        "competence": [
+          211,
+          285
+        ],
+        "English,": [
+          213
+        ],
+        "affective": [
+          215
+        ],
+        "affinities": [
+          216
+        ],
+        "language,": [
+          220
+        ],
+        "orientation": [
+          223
+        ],
+        "attributions": [
+          226
+        ],
+        "success": [
+          228
+        ],
+        "failure.": [
+          230
+        ],
+        "In": [
+          231
+        ],
+        "absence": [
+          233
+        ],
+        "personal": [
+          235
+        ],
+        "appreciation,": [
+          236
+        ],
+        "an": [
+          237
+        ],
+        "assessment-driven": [
+          238
+        ],
+        "ethos": [
+          239
+        ],
+        "stimulate": [
+          243
+        ],
+        "manipulative": [
+          245
+        ],
+        "display": [
+          246
+        ],
+        "various": [
+          248
+        ],
+        "public": [
+          249
+        ],
+        "that": [
+          251
+        ],
+        "had": [
+          252
+        ],
+        "little": [
+          253
+        ],
+        "connection": [
+          254
+        ],
+        "students’": [
+          257
+        ],
+        "private": [
+          258
+        ],
+        "selves.": [
+          259
+        ],
+        "Teachers": [
+          260
+        ],
+        "were": [
+          261,
+          277
+        ],
+        "identified": [
+          262
+        ],
+        "principal": [
+          265
+        ],
+        "motivator": [
+          266
+        ],
+        "class": [
+          270
+        ],
+        "differences": [
+          272,
+          281
+        ],
+        "teacher": [
+          275
+        ],
+        "interest": [
+          276
+        ],
+        "associated": [
+          278
+        ],
+        "gender": [
+          280
+        ],
+        "L2": [
+          284
+        ],
+        "context-induced": [
+          287
+        ],
+        "display.": [
+          289
+        ],
+        "Implications": [
+          290
+        ],
+        "research": [
+          292
+        ],
+        "teaching": [
+          294
+        ],
+        "practice": [
+          295
+        ],
+        "discussed.": [
+          297
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-11-06T04:12:42.849631",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  ],
+  "group_by": []
+}

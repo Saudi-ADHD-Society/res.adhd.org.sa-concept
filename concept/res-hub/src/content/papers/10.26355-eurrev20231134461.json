@@ -6,7 +6,58 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "N.",
+      "family": "Alharbi",
+      "sequence": 1
+    },
+    {
+      "given": "K. F.",
+      "family": "Alotaibi",
+      "sequence": 2
+    },
+    {
+      "given": "G. K.",
+      "family": "Althaqel",
+      "sequence": 3
+    },
+    {
+      "given": "N. Y.",
+      "family": "Alasmari",
+      "sequence": 4
+    },
+    {
+      "given": "A. F.",
+      "family": "Alahmari",
+      "sequence": 5
+    },
+    {
+      "given": "O. Y.",
+      "family": "Alasmari",
+      "sequence": 6
+    },
+    {
+      "given": "M. S.",
+      "family": "Alshahrani",
+      "sequence": 7
+    },
+    {
+      "given": "L. A.",
+      "family": "Alghamdi",
+      "sequence": 8
+    },
+    {
+      "given": "H. A.",
+      "family": "Alrashed",
+      "sequence": 9
+    },
+    {
+      "given": "N. A.",
+      "family": "Shugair",
+      "sequence": 10
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.26355__eurrev_202311_34461.pdf"
@@ -14,5 +65,11 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.26355-eurrev_202311_34461"
+  "id": "doi-10.26355-eurrev_202311_34461",
+  "journal": {
+    "name": "European Review for Medical and Pharmacological Sciences"
+  },
+  "publication": {
+    "year": 2023
+  }
 }

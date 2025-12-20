@@ -1,0 +1,2955 @@
+{
+  "meta": {
+    "count": 2,
+    "db_response_time_ms": 56,
+    "page": 1,
+    "per_page": 10,
+    "groups_count": null
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2296194290",
+      "doi": "https://doi.org/10.1002/ajmg.b.32438",
+      "title": "An examination of the language construct in NIMH's research domain criteria: Time for reconceptualization!",
+      "display_name": "An examination of the language construct in NIMH's research domain criteria: Time for reconceptualization!",
+      "relevance_score": 9.710184,
+      "publication_year": 2016,
+      "publication_date": "2016-03-10",
+      "ids": {
+        "openalex": "https://openalex.org/W2296194290",
+        "doi": "https://doi.org/10.1002/ajmg.b.32438",
+        "mag": "2296194290",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/26968151"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1002/ajmg.b.32438",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1002/ajmg.b.32438",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ajmg.b.32438",
+        "source": {
+          "id": "https://openalex.org/S2764647521",
+          "display_name": "American Journal of Medical Genetics Part B Neuropsychiatric Genetics",
+          "issn_l": "1552-4841",
+          "issn": [
+            "1552-4841",
+            "1552-485X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "American Journal of Medical Genetics Part B: Neuropsychiatric Genetics",
+        "raw_type": "journal-article"
+      },
+      "type": "review",
+      "indexed_in": [
+        "crossref",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ajmg.b.32438",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5019489674",
+            "display_name": "Brita Elvevåg",
+            "orcid": "https://orcid.org/0000-0003-0441-3729"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I78037679",
+              "display_name": "UiT The Arctic University of Norway",
+              "ror": "https://ror.org/00wge5k78",
+              "country_code": "NO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I78037679"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1298853749",
+              "display_name": "University Hospital of North Norway",
+              "ror": "https://ror.org/030v5kp38",
+              "country_code": "NO",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I1298853749",
+                "https://openalex.org/I63903255"
+              ]
+            }
+          ],
+          "countries": [
+            "NO"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Brita Elvevåg",
+          "raw_affiliation_strings": [
+            "Department of Clinical Medicine University of Tromsø−The Arctic University of Norway Tromsø Norway",
+            "Norwegian Centre for eHealth Research University Hospital of North Norway Tromsø Norway"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Clinical Medicine University of Tromsø−The Arctic University of Norway Tromsø Norway",
+              "institution_ids": [
+                "https://openalex.org/I78037679"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Norwegian Centre for eHealth Research University Hospital of North Norway Tromsø Norway",
+              "institution_ids": [
+                "https://openalex.org/I1298853749"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5035630445",
+            "display_name": "Alex S. Cohen",
+            "orcid": "https://orcid.org/0000-0003-4014-6904"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I121820613",
+              "display_name": "Louisiana State University",
+              "ror": "https://ror.org/05ect4e57",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I121820613"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Alex S. Cohen",
+          "raw_affiliation_strings": [
+            "Department of Psychology Louisiana State University Baton Rouge Louisiana"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Psychology Louisiana State University Baton Rouge Louisiana",
+              "institution_ids": [
+                "https://openalex.org/I121820613"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5069675691",
+            "display_name": "Maria Wolters",
+            "orcid": "https://orcid.org/0000-0002-3369-3558"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98677209",
+              "display_name": "University of Edinburgh",
+              "ror": "https://ror.org/01nrxwf90",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Maria K. Wolters",
+          "raw_affiliation_strings": [
+            "School of Informatics University of Edinburgh Edinburgh United Kingdom"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Informatics University of Edinburgh Edinburgh United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5089456652",
+            "display_name": "Heather C. Whalley",
+            "orcid": "https://orcid.org/0000-0002-4505-8869"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98677209",
+              "display_name": "University of Edinburgh",
+              "ror": "https://ror.org/01nrxwf90",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Heather C. Whalley",
+          "raw_affiliation_strings": [
+            "Division of Psychiatry University of Edinburgh Edinburgh United Kingdom"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Division of Psychiatry University of Edinburgh Edinburgh United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5019877343",
+            "display_name": "Viktoria‐Eleni Gountouna",
+            "orcid": "https://orcid.org/0000-0001-7870-2780"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98677209",
+              "display_name": "University of Edinburgh",
+              "ror": "https://ror.org/01nrxwf90",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Viktoria‐Eleni Gountouna",
+          "raw_affiliation_strings": [
+            "Centre for Genomic and Experimental Medicine Institute of Genetics and Molecular Medicine University of Edinburgh Edinburgh United Kingdom"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre for Genomic and Experimental Medicine Institute of Genetics and Molecular Medicine University of Edinburgh Edinburgh United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5109262524",
+            "display_name": "Ksenia Kuznetsova",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98677209",
+              "display_name": "University of Edinburgh",
+              "ror": "https://ror.org/01nrxwf90",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Ksenia A. Kuznetsova",
+          "raw_affiliation_strings": [
+            "Centre for Genomic and Experimental Medicine Institute of Genetics and Molecular Medicine University of Edinburgh Edinburgh United Kingdom"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre for Genomic and Experimental Medicine Institute of Genetics and Molecular Medicine University of Edinburgh Edinburgh United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5101639995",
+            "display_name": "Andrew Watson",
+            "orcid": "https://orcid.org/0000-0002-8440-7590"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98677209",
+              "display_name": "University of Edinburgh",
+              "ror": "https://ror.org/01nrxwf90",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Andrew R. Watson",
+          "raw_affiliation_strings": [
+            "Division of Psychiatry University of Edinburgh Edinburgh United Kingdom"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Division of Psychiatry University of Edinburgh Edinburgh United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5091350105",
+            "display_name": "Kristin K. Nicodemus",
+            "orcid": "https://orcid.org/0000-0002-6165-6471"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98677209",
+              "display_name": "University of Edinburgh",
+              "ror": "https://ror.org/01nrxwf90",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Kristin K. Nicodemus",
+          "raw_affiliation_strings": [
+            "Centre for Genomic and Experimental Medicine Institute of Genetics and Molecular Medicine University of Edinburgh Edinburgh United Kingdom"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre for Genomic and Experimental Medicine Institute of Genetics and Molecular Medicine University of Edinburgh Edinburgh United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 8,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5019489674",
+        "https://openalex.org/A5035630445",
+        "https://openalex.org/A5091350105",
+        "https://openalex.org/A5089456652",
+        "https://openalex.org/A5109262524",
+        "https://openalex.org/A5101639995",
+        "https://openalex.org/A5019877343",
+        "https://openalex.org/A5069675691"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I121820613",
+        "https://openalex.org/I1298853749",
+        "https://openalex.org/I78037679",
+        "https://openalex.org/I98677209"
+      ],
+      "apc_list": {
+        "value": 4330,
+        "currency": "USD",
+        "value_usd": 4330
+      },
+      "apc_paid": {
+        "value": 1721,
+        "currency": "EUR",
+        "value_usd": 1856
+      },
+      "fwci": 2.77360889,
+      "has_fulltext": true,
+      "cited_by_count": 39,
+      "citation_normalized_percentile": {
+        "value": 0.91531589,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "171",
+        "issue": "6",
+        "first_page": "904",
+        "last_page": "919"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10106",
+        "display_name": "Autism Spectrum Disorder Research",
+        "score": 0.9965999722480774,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2805",
+          "display_name": "Cognitive Neuroscience"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/28",
+          "display_name": "Neuroscience"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10106",
+          "display_name": "Autism Spectrum Disorder Research",
+          "score": 0.9965999722480774,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2805",
+            "display_name": "Cognitive Neuroscience"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/28",
+            "display_name": "Neuroscience"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11577",
+          "display_name": "Cognitive Abilities and Testing",
+          "score": 0.9937999844551086,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3205",
+            "display_name": "Experimental and Cognitive Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10465",
+          "display_name": "Neurobiology of Language and Bilingualism",
+          "score": 0.9937000274658203,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2805",
+            "display_name": "Cognitive Neuroscience"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/28",
+            "display_name": "Neuroscience"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/conceptualization",
+          "display_name": "Conceptualization",
+          "score": 0.715290367603302
+        },
+        {
+          "id": "https://openalex.org/keywords/research-domain-criteria",
+          "display_name": "Research Domain Criteria",
+          "score": 0.6316391229629517
+        },
+        {
+          "id": "https://openalex.org/keywords/construct",
+          "display_name": "Construct (python library)",
+          "score": 0.6154099702835083
+        },
+        {
+          "id": "https://openalex.org/keywords/cognitive-science",
+          "display_name": "Cognitive science",
+          "score": 0.5977399349212646
+        },
+        {
+          "id": "https://openalex.org/keywords/context",
+          "display_name": "Context (archaeology)",
+          "score": 0.5665071606636047
+        },
+        {
+          "id": "https://openalex.org/keywords/cognitive-neuroscience",
+          "display_name": "Cognitive neuroscience",
+          "score": 0.5445899367332458
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.4891965389251709
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.41667935252189636
+        },
+        {
+          "id": "https://openalex.org/keywords/cognition",
+          "display_name": "Cognition",
+          "score": 0.36683207750320435
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.22656631469726562
+        },
+        {
+          "id": "https://openalex.org/keywords/neuroscience",
+          "display_name": "Neuroscience",
+          "score": 0.14843913912773132
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C90734943",
+          "wikidata": "https://www.wikidata.org/wiki/Q17008777",
+          "display_name": "Conceptualization",
+          "level": 2,
+          "score": 0.715290367603302
+        },
+        {
+          "id": "https://openalex.org/C2777343845",
+          "wikidata": "https://www.wikidata.org/wiki/Q16573248",
+          "display_name": "Research Domain Criteria",
+          "level": 3,
+          "score": 0.6316391229629517
+        },
+        {
+          "id": "https://openalex.org/C2780801425",
+          "wikidata": "https://www.wikidata.org/wiki/Q5164392",
+          "display_name": "Construct (python library)",
+          "level": 2,
+          "score": 0.6154099702835083
+        },
+        {
+          "id": "https://openalex.org/C188147891",
+          "wikidata": "https://www.wikidata.org/wiki/Q147638",
+          "display_name": "Cognitive science",
+          "level": 1,
+          "score": 0.5977399349212646
+        },
+        {
+          "id": "https://openalex.org/C2779343474",
+          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+          "display_name": "Context (archaeology)",
+          "level": 2,
+          "score": 0.5665071606636047
+        },
+        {
+          "id": "https://openalex.org/C17289045",
+          "wikidata": "https://www.wikidata.org/wiki/Q1138951",
+          "display_name": "Cognitive neuroscience",
+          "level": 3,
+          "score": 0.5445899367332458
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.4891965389251709
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.41667935252189636
+        },
+        {
+          "id": "https://openalex.org/C169900460",
+          "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+          "display_name": "Cognition",
+          "level": 2,
+          "score": 0.36683207750320435
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.22656631469726562
+        },
+        {
+          "id": "https://openalex.org/C169760540",
+          "wikidata": "https://www.wikidata.org/wiki/Q207011",
+          "display_name": "Neuroscience",
+          "level": 1,
+          "score": 0.14843913912773132
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C199360897",
+          "wikidata": "https://www.wikidata.org/wiki/Q9143",
+          "display_name": "Programming language",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [
+        {
+          "descriptor_ui": "D033161",
+          "descriptor_name": "Government Regulation",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D007802",
+          "descriptor_name": "Language",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001523",
+          "descriptor_name": "Mental Disorders",
+          "qualifier_ui": "Q000145",
+          "qualifier_name": "classification",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001523",
+          "descriptor_name": "Mental Disorders",
+          "qualifier_ui": "Q000175",
+          "qualifier_name": "diagnosis",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D009315",
+          "descriptor_name": "National Institute of Mental Health (U.S.)",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D011599",
+          "descriptor_name": "Psychopathology",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012106",
+          "descriptor_name": "Research",
+          "qualifier_ui": "Q000331",
+          "qualifier_name": "legislation & jurisprudence",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D014481",
+          "descriptor_name": "United States",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D033161",
+          "descriptor_name": "Government Regulation",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D007802",
+          "descriptor_name": "Language",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001523",
+          "descriptor_name": "Mental Disorders",
+          "qualifier_ui": "Q000145",
+          "qualifier_name": "classification",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001523",
+          "descriptor_name": "Mental Disorders",
+          "qualifier_ui": "Q000175",
+          "qualifier_name": "diagnosis",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D009315",
+          "descriptor_name": "National Institute of Mental Health (U.S.)",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D011599",
+          "descriptor_name": "Psychopathology",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012106",
+          "descriptor_name": "Research",
+          "qualifier_ui": "Q000331",
+          "qualifier_name": "legislation & jurisprudence",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D014481",
+          "descriptor_name": "United States",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D033161",
+          "descriptor_name": "Government Regulation",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D007802",
+          "descriptor_name": "Language",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001523",
+          "descriptor_name": "Mental Disorders",
+          "qualifier_ui": "Q000145",
+          "qualifier_name": "classification",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001523",
+          "descriptor_name": "Mental Disorders",
+          "qualifier_ui": "Q000175",
+          "qualifier_name": "diagnosis",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D009315",
+          "descriptor_name": "National Institute of Mental Health (U.S.)",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D011599",
+          "descriptor_name": "Psychopathology",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012106",
+          "descriptor_name": "Research",
+          "qualifier_ui": "Q000331",
+          "qualifier_name": "legislation & jurisprudence",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D014481",
+          "descriptor_name": "United States",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        }
+      ],
+      "locations_count": 6,
+      "locations": [
+        {
+          "id": "doi:10.1002/ajmg.b.32438",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1002/ajmg.b.32438",
+          "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ajmg.b.32438",
+          "source": {
+            "id": "https://openalex.org/S2764647521",
+            "display_name": "American Journal of Medical Genetics Part B Neuropsychiatric Genetics",
+            "issn_l": "1552-4841",
+            "issn": [
+              "1552-4841",
+              "1552-485X"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320595",
+            "host_organization_name": "Wiley",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320595"
+            ],
+            "host_organization_lineage_names": [
+              "Wiley"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "American Journal of Medical Genetics Part B: Neuropsychiatric Genetics",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:26968151",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/26968151",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "American journal of medical genetics. Part B, Neuropsychiatric genetics : the official publication of the International Society of Psychiatric Genetics",
+          "raw_type": null
+        },
+        {
+          "id": "pmh:oai:europepmc.org:4005048",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5025728",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400806",
+            "display_name": "Europe PMC (PubMed Central)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1303153112",
+            "host_organization_name": "European Bioinformatics Institute",
+            "host_organization_lineage": [
+              "https://openalex.org/I1303153112"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:munin.uit.no:10037/10477",
+          "is_oa": true,
+          "landing_page_url": "https://hdl.handle.net/10037/10477",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400066",
+            "display_name": "Munin Open Research Archive (The Arctic University of Norway)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I78037679",
+            "host_organization_name": "UiT The Arctic University of Norway",
+            "host_organization_lineage": [
+              "https://openalex.org/I78037679"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:5025728",
+          "is_oa": true,
+          "landing_page_url": "http://doi.org/10.1002/ajmg.b.32438",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:pure.ed.ac.uk:publications/76036bb4-e705-400e-b0e1-5b0ba3ed8539",
+          "is_oa": true,
+          "landing_page_url": "https://www.research.ed.ac.uk/portal/en/publications/an-examination-of-the-language-construct-in-nimhs-research-domain-criteria(76036bb4-e705-400e-b0e1-5b0ba3ed8539).html",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400320",
+            "display_name": "Edinburgh Research Explorer (University of Edinburgh)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I98677209",
+            "host_organization_name": "University of Edinburgh",
+            "host_organization_lineage": [
+              "https://openalex.org/I98677209"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": ""
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1002/ajmg.b.32438",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1002/ajmg.b.32438",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ajmg.b.32438",
+        "source": {
+          "id": "https://openalex.org/S2764647521",
+          "display_name": "American Journal of Medical Genetics Part B Neuropsychiatric Genetics",
+          "issn_l": "1552-4841",
+          "issn": [
+            "1552-4841",
+            "1552-485X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "American Journal of Medical Genetics Part B: Neuropsychiatric Genetics",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "score": 0.7699999809265137,
+          "display_name": "Quality Education"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "referenced_works_count": 191,
+      "referenced_works": [
+        "https://openalex.org/W2098990264",
+        "https://openalex.org/W2034618400",
+        "https://openalex.org/W2098608966",
+        "https://openalex.org/W20625393",
+        "https://openalex.org/W1964910646",
+        "https://openalex.org/W4213346165",
+        "https://openalex.org/W1992444821",
+        "https://openalex.org/W2038166296",
+        "https://openalex.org/W1267646904",
+        "https://openalex.org/W2152924070",
+        "https://openalex.org/W2156663106",
+        "https://openalex.org/W2082028827",
+        "https://openalex.org/W2162493976",
+        "https://openalex.org/W2101307193",
+        "https://openalex.org/W1913261780",
+        "https://openalex.org/W2029771325",
+        "https://openalex.org/W1978815795",
+        "https://openalex.org/W4237791300",
+        "https://openalex.org/W2076795533",
+        "https://openalex.org/W2013230963",
+        "https://openalex.org/W2083733140",
+        "https://openalex.org/W1976717042",
+        "https://openalex.org/W2035804753",
+        "https://openalex.org/W1972723949",
+        "https://openalex.org/W2072579944",
+        "https://openalex.org/W2159570759",
+        "https://openalex.org/W2099123776",
+        "https://openalex.org/W2322892874",
+        "https://openalex.org/W2101431309",
+        "https://openalex.org/W2124782317",
+        "https://openalex.org/W2135255848",
+        "https://openalex.org/W1990316914",
+        "https://openalex.org/W2160976404",
+        "https://openalex.org/W2040868194",
+        "https://openalex.org/W2015538502",
+        "https://openalex.org/W2003502731",
+        "https://openalex.org/W2152828783",
+        "https://openalex.org/W2097440995",
+        "https://openalex.org/W2073560287",
+        "https://openalex.org/W195192717",
+        "https://openalex.org/W1632327998",
+        "https://openalex.org/W2026655354",
+        "https://openalex.org/W2402700",
+        "https://openalex.org/W2147152072",
+        "https://openalex.org/W2402298104",
+        "https://openalex.org/W2050764521",
+        "https://openalex.org/W2156527216",
+        "https://openalex.org/W2047813150",
+        "https://openalex.org/W2022386623",
+        "https://openalex.org/W2003128044",
+        "https://openalex.org/W2258120884",
+        "https://openalex.org/W2016922151",
+        "https://openalex.org/W2071383585",
+        "https://openalex.org/W2046077411",
+        "https://openalex.org/W2125939402",
+        "https://openalex.org/W2115948763",
+        "https://openalex.org/W2229049022",
+        "https://openalex.org/W2154929556",
+        "https://openalex.org/W1982580894",
+        "https://openalex.org/W2022442292",
+        "https://openalex.org/W4245049592",
+        "https://openalex.org/W2080534788",
+        "https://openalex.org/W1988726929",
+        "https://openalex.org/W1893187780",
+        "https://openalex.org/W2115695999",
+        "https://openalex.org/W1976250686",
+        "https://openalex.org/W2020472669",
+        "https://openalex.org/W2164011160",
+        "https://openalex.org/W2136922672",
+        "https://openalex.org/W1982885931",
+        "https://openalex.org/W2018358125",
+        "https://openalex.org/W2134731454",
+        "https://openalex.org/W1986653173",
+        "https://openalex.org/W2010950770",
+        "https://openalex.org/W1977465442",
+        "https://openalex.org/W2140300418",
+        "https://openalex.org/W2150884987",
+        "https://openalex.org/W2078898256",
+        "https://openalex.org/W2147231872",
+        "https://openalex.org/W2117316672",
+        "https://openalex.org/W2025653905",
+        "https://openalex.org/W2008062633",
+        "https://openalex.org/W2290344032",
+        "https://openalex.org/W2106154564",
+        "https://openalex.org/W1981147791",
+        "https://openalex.org/W1732828232",
+        "https://openalex.org/W1999564192",
+        "https://openalex.org/W2074428136",
+        "https://openalex.org/W2062971827",
+        "https://openalex.org/W2157924629",
+        "https://openalex.org/W2070827937",
+        "https://openalex.org/W2121652662",
+        "https://openalex.org/W2165930296",
+        "https://openalex.org/W2020018730",
+        "https://openalex.org/W2162039637",
+        "https://openalex.org/W2118136004",
+        "https://openalex.org/W2093798197",
+        "https://openalex.org/W2091298722",
+        "https://openalex.org/W2057393928",
+        "https://openalex.org/W2071268704",
+        "https://openalex.org/W2140183946",
+        "https://openalex.org/W1989470157",
+        "https://openalex.org/W2132208914",
+        "https://openalex.org/W1970220307",
+        "https://openalex.org/W2030076722",
+        "https://openalex.org/W2141866849",
+        "https://openalex.org/W2132965013",
+        "https://openalex.org/W1986858673",
+        "https://openalex.org/W2171558600",
+        "https://openalex.org/W2065584778",
+        "https://openalex.org/W2159398820",
+        "https://openalex.org/W261871827",
+        "https://openalex.org/W2124002165",
+        "https://openalex.org/W2095841245",
+        "https://openalex.org/W2107642085",
+        "https://openalex.org/W1973798645",
+        "https://openalex.org/W2017503967",
+        "https://openalex.org/W2035989781",
+        "https://openalex.org/W1983111444",
+        "https://openalex.org/W2217720538",
+        "https://openalex.org/W2013113238",
+        "https://openalex.org/W2003181270",
+        "https://openalex.org/W2060767913",
+        "https://openalex.org/W2401240531",
+        "https://openalex.org/W2101357408",
+        "https://openalex.org/W2120773224",
+        "https://openalex.org/W2140307349",
+        "https://openalex.org/W204854131",
+        "https://openalex.org/W1488156371",
+        "https://openalex.org/W2159797336",
+        "https://openalex.org/W2168867400",
+        "https://openalex.org/W2048125119",
+        "https://openalex.org/W2014974155",
+        "https://openalex.org/W1936699047",
+        "https://openalex.org/W2062466931",
+        "https://openalex.org/W2054029452",
+        "https://openalex.org/W2089064706",
+        "https://openalex.org/W2010888463",
+        "https://openalex.org/W2022269431",
+        "https://openalex.org/W4248765999",
+        "https://openalex.org/W2022652786",
+        "https://openalex.org/W2128863839",
+        "https://openalex.org/W1976066595",
+        "https://openalex.org/W2044944621",
+        "https://openalex.org/W2152704739",
+        "https://openalex.org/W2005181434",
+        "https://openalex.org/W2043303983",
+        "https://openalex.org/W4229600266",
+        "https://openalex.org/W2013678048",
+        "https://openalex.org/W2027903201",
+        "https://openalex.org/W2020031857",
+        "https://openalex.org/W2138110238",
+        "https://openalex.org/W2140633889",
+        "https://openalex.org/W121610373",
+        "https://openalex.org/W1597628276",
+        "https://openalex.org/W3005563669",
+        "https://openalex.org/W2093432797",
+        "https://openalex.org/W2038153077",
+        "https://openalex.org/W2005592325",
+        "https://openalex.org/W1830481607",
+        "https://openalex.org/W573528100",
+        "https://openalex.org/W2139993426",
+        "https://openalex.org/W4210913783",
+        "https://openalex.org/W651449142",
+        "https://openalex.org/W166500168",
+        "https://openalex.org/W1972259643",
+        "https://openalex.org/W3036675814",
+        "https://openalex.org/W1573102895",
+        "https://openalex.org/W1548802052",
+        "https://openalex.org/W2078847407",
+        "https://openalex.org/W2013391164",
+        "https://openalex.org/W4388321743",
+        "https://openalex.org/W1560805940",
+        "https://openalex.org/W1967461618",
+        "https://openalex.org/W2296194290",
+        "https://openalex.org/W2346943913",
+        "https://openalex.org/W4242925998",
+        "https://openalex.org/W387961950",
+        "https://openalex.org/W2115915304",
+        "https://openalex.org/W1446334149",
+        "https://openalex.org/W2395160995",
+        "https://openalex.org/W2951618657",
+        "https://openalex.org/W2341643882",
+        "https://openalex.org/W2737804302",
+        "https://openalex.org/W2001045706",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W1770333489",
+        "https://openalex.org/W110574782",
+        "https://openalex.org/W1880262756",
+        "https://openalex.org/W4299291833",
+        "https://openalex.org/W2599606487"
+      ],
+      "related_works": [
+        "https://openalex.org/W2346106508",
+        "https://openalex.org/W1605999659",
+        "https://openalex.org/W2272703686",
+        "https://openalex.org/W2765750194",
+        "https://openalex.org/W2062491250",
+        "https://openalex.org/W1996822869",
+        "https://openalex.org/W787431524",
+        "https://openalex.org/W2963632525",
+        "https://openalex.org/W2979904504",
+        "https://openalex.org/W632970994"
+      ],
+      "abstract_inverted_index": {
+        "2016": [
+          217
+        ],
+        "The": [
+          0,
+          218
+        ],
+        "National": [
+          1
+        ],
+        "Institute": [
+          2
+        ],
+        "of": [
+          3,
+          15,
+          18,
+          24,
+          30,
+          61,
+          68,
+          76,
+          93,
+          126,
+          132,
+          181,
+          190,
+          200,
+          205,
+          222
+        ],
+        "Mental": [
+          4
+        ],
+        "Health's": [
+          5
+        ],
+        "Research": [
+          6
+        ],
+        "Domain": [
+          7
+        ],
+        "Criteria": [
+          8
+        ],
+        "(RDoC)": [
+          9
+        ],
+        "Initiative": [
+          10
+        ],
+        "“calls": [
+          11
+        ],
+        "for": [
+          12
+        ],
+        "the": [
+          13,
+          43,
+          62,
+          65,
+          74,
+          91,
+          99,
+          116,
+          187,
+          201,
+          209
+        ],
+        "development": [
+          14
+        ],
+        "new": [
+          16,
+          188
+        ],
+        "ways": [
+          17
+        ],
+        "classifying": [
+          19
+        ],
+        "psychopathology": [
+          20
+        ],
+        "based": [
+          21
+        ],
+        "on": [
+          22
+        ],
+        "dimensions": [
+          23
+        ],
+        "observable": [
+          25
+        ],
+        "behavior.”": [
+          26
+        ],
+        "As": [
+          27,
+          183
+        ],
+        "a": [
+          28,
+          198
+        ],
+        "result": [
+          29
+        ],
+        "this": [
+          31,
+          47,
+          214
+        ],
+        "ambitious": [
+          32
+        ],
+        "initiative,": [
+          33
+        ],
+        "language": [
+          34,
+          51,
+          79,
+          108,
+          127,
+          133,
+          161,
+          191,
+          206
+        ],
+        "has": [
+          35,
+          163,
+          176
+        ],
+        "been": [
+          36,
+          110
+        ],
+        "identified": [
+          37
+        ],
+        "as": [
+          38,
+          151,
+          153
+        ],
+        "an": [
+          39,
+          53
+        ],
+        "independent": [
+          40
+        ],
+        "construct": [
+          41
+        ],
+        "in": [
+          42,
+          83,
+          148,
+          154
+        ],
+        "RDoC": [
+          44,
+          203
+        ],
+        "matrix.": [
+          45
+        ],
+        "In": [
+          46
+        ],
+        "article,": [
+          48
+        ],
+        "we": [
+          49,
+          184
+        ],
+        "frame": [
+          50
+        ],
+        "within": [
+          52,
+          90
+        ],
+        "evolutionary": [
+          54
+        ],
+        "and": [
+          55,
+          58,
+          73,
+          89,
+          102,
+          113,
+          120,
+          156,
+          172,
+          175,
+          207,
+          211
+        ],
+        "neuropsychological": [
+          56
+        ],
+        "context": [
+          57,
+          92
+        ],
+        "discuss": [
+          59
+        ],
+        "some": [
+          60
+        ],
+        "limitations": [
+          63
+        ],
+        "to": [
+          64,
+          85,
+          106
+        ],
+        "current": [
+          66
+        ],
+        "measurements": [
+          67
+        ],
+        "language.": [
+          69,
+          97,
+          182
+        ],
+        "Findings": [
+          70
+        ],
+        "from": [
+          71
+        ],
+        "genomics": [
+          72
+        ],
+        "neuroimaging": [
+          75
+        ],
+        "performance": [
+          77
+        ],
+        "during": [
+          78
+        ],
+        "tasks": [
+          80
+        ],
+        "are": [
+          81
+        ],
+        "discussed": [
+          82
+        ],
+        "relation": [
+          84
+        ],
+        "serious": [
+          86
+        ],
+        "mental": [
+          87
+        ],
+        "illness": [
+          88
+        ],
+        "caveats": [
+          94
+        ],
+        "regarding": [
+          95
+        ],
+        "measuring": [
+          96
+        ],
+        "Indeed,": [
+          98
+        ],
+        "data": [
+          100
+        ],
+        "collection": [
+          101
+        ],
+        "analysis": [
+          103
+        ],
+        "methods": [
+          104
+        ],
+        "employed": [
+          105
+        ],
+        "assay": [
+          107
+        ],
+        "have": [
+          109,
+          135,
+          143
+        ],
+        "both": [
+          111
+        ],
+        "aided": [
+          112
+        ],
+        "constrained": [
+          114
+        ],
+        "by": [
+          115,
+          230
+        ],
+        "available": [
+          117
+        ],
+        "technologies,": [
+          118
+        ],
+        "methodologies,": [
+          119
+        ],
+        "conceptual": [
+          121,
+          149
+        ],
+        "definitions.": [
+          122
+        ],
+        "Consequently,": [
+          123
+        ],
+        "different": [
+          124
+        ],
+        "fields": [
+          125
+        ],
+        "research": [
+          128,
+          162
+        ],
+        "show": [
+          129
+        ],
+        "inconsistent": [
+          130
+        ],
+        "definitions": [
+          131
+        ],
+        "that": [
+          134
+        ],
+        "become": [
+          136
+        ],
+        "increasingly": [
+          137
+        ],
+        "broad": [
+          138
+        ],
+        "over": [
+          139
+        ],
+        "time.": [
+          140
+        ],
+        "Individually,": [
+          141
+        ],
+        "they": [
+          142
+        ],
+        "also": [
+          144
+        ],
+        "shown": [
+          145
+        ],
+        "significant": [
+          146
+        ],
+        "improvements": [
+          147
+        ],
+        "resolution,": [
+          150
+        ],
+        "well": [
+          152
+        ],
+        "experimental": [
+          155
+        ],
+        "analytic": [
+          157
+        ],
+        "techniques.": [
+          158
+        ],
+        "More": [
+          159
+        ],
+        "recently,": [
+          160
+        ],
+        "embraced": [
+          164
+        ],
+        "collaborations": [
+          165
+        ],
+        "across": [
+          166
+        ],
+        "disciplines,": [
+          167
+        ],
+        "notably": [
+          168
+        ],
+        "neuroscience,": [
+          169
+        ],
+        "cognitive": [
+          170
+        ],
+        "science,": [
+          171
+        ],
+        "computational": [
+          173
+        ],
+        "linguistics": [
+          174
+        ],
+        "ultimately": [
+          177
+        ],
+        "re‐defined": [
+          178
+        ],
+        "classical": [
+          179
+        ],
+        "ideas": [
+          180
+        ],
+        "move": [
+          185
+        ],
+        "forward,": [
+          186
+        ],
+        "models": [
+          189
+        ],
+        "with": [
+          192
+        ],
+        "their": [
+          193
+        ],
+        "remarkably": [
+          194
+        ],
+        "multifaceted": [
+          195
+        ],
+        "constructs": [
+          196
+        ],
+        "force": [
+          197
+        ],
+        "re‐examination": [
+          199
+        ],
+        "NIMH": [
+          202
+        ],
+        "conceptualization": [
+          204
+        ],
+        "thus": [
+          208
+        ],
+        "neuroscience": [
+          210
+        ],
+        "genetics": [
+          212
+        ],
+        "underlying": [
+          213
+        ],
+        "concept.": [
+          215
+        ],
+        "©": [
+          216
+        ],
+        "Authors.": [
+          219
+        ],
+        "American": [
+          220
+        ],
+        "Journal": [
+          221
+        ],
+        "Medical": [
+          223
+        ],
+        "Genetics": [
+          224,
+          228
+        ],
+        "Part": [
+          225
+        ],
+        "B:": [
+          226
+        ],
+        "Neuropsychiatric": [
+          227
+        ],
+        "Published": [
+          229
+        ],
+        "Wiley": [
+          231
+        ],
+        "Periodicals,": [
+          232
+        ],
+        "Inc.": [
+          233
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2606380161",
+      "doi": null,
+      "title": "Paediatric bipolar disorder in the United States and England: psychosocial processes shaping the emergence of a contested diagnosis",
+      "display_name": "Paediatric bipolar disorder in the United States and England: psychosocial processes shaping the emergence of a contested diagnosis",
+      "relevance_score": 0.77978206,
+      "publication_year": 2016,
+      "publication_date": "2016-09-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2606380161",
+        "mag": "2606380161"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "pmh:oai:etheses.lse.ac.uk:3461",
+        "is_oa": true,
+        "landing_page_url": null,
+        "pdf_url": "http://etheses.lse.ac.uk/3461/1/Roberts_Paediatric_bipolar.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306400050",
+          "display_name": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I909854389",
+          "host_organization_name": "London School of Economics and Political Science",
+          "host_organization_lineage": [
+            "https://openalex.org/I909854389"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "public-domain",
+        "license_id": "https://openalex.org/licenses/public-domain",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "Thesis"
+      },
+      "type": "dissertation",
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://etheses.lse.ac.uk/3461/1/Roberts_Paediatric_bipolar.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5101898614",
+            "display_name": "Jane Roberts",
+            "orcid": "https://orcid.org/0000-0001-8928-1248"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Jane Roberts",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5101898614"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": null,
+      "has_fulltext": true,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": null,
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12021",
+        "display_name": "Social and Educational Sciences",
+        "score": 0.9240999817848206,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3304",
+          "display_name": "Education"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12021",
+          "display_name": "Social and Educational Sciences",
+          "score": 0.9240999817848206,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14421",
+          "display_name": "Educational Philosophies and Pedagogies",
+          "score": 0.9110999703407288,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/psychosocial",
+          "display_name": "Psychosocial",
+          "score": 0.5774218440055847
+        },
+        {
+          "id": "https://openalex.org/keywords/context",
+          "display_name": "Context (archaeology)",
+          "score": 0.5184778571128845
+        },
+        {
+          "id": "https://openalex.org/keywords/agency",
+          "display_name": "Agency (philosophy)",
+          "score": 0.4993598461151123
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.41328057646751404
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.3682834506034851
+        },
+        {
+          "id": "https://openalex.org/keywords/public-relations",
+          "display_name": "Public relations",
+          "score": 0.3437415659427643
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.32939743995666504
+        },
+        {
+          "id": "https://openalex.org/keywords/political-science",
+          "display_name": "Political science",
+          "score": 0.3245604336261749
+        },
+        {
+          "id": "https://openalex.org/keywords/sociology",
+          "display_name": "Sociology",
+          "score": 0.28712499141693115
+        },
+        {
+          "id": "https://openalex.org/keywords/social-science",
+          "display_name": "Social science",
+          "score": 0.17922255396842957
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C150966472",
+          "wikidata": "https://www.wikidata.org/wiki/Q3410145",
+          "display_name": "Psychosocial",
+          "level": 2,
+          "score": 0.5774218440055847
+        },
+        {
+          "id": "https://openalex.org/C2779343474",
+          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+          "display_name": "Context (archaeology)",
+          "level": 2,
+          "score": 0.5184778571128845
+        },
+        {
+          "id": "https://openalex.org/C108170787",
+          "wikidata": "https://www.wikidata.org/wiki/Q3951828",
+          "display_name": "Agency (philosophy)",
+          "level": 2,
+          "score": 0.4993598461151123
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.41328057646751404
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.3682834506034851
+        },
+        {
+          "id": "https://openalex.org/C39549134",
+          "wikidata": "https://www.wikidata.org/wiki/Q133080",
+          "display_name": "Public relations",
+          "level": 1,
+          "score": 0.3437415659427643
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.32939743995666504
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.3245604336261749
+        },
+        {
+          "id": "https://openalex.org/C144024400",
+          "wikidata": "https://www.wikidata.org/wiki/Q21201",
+          "display_name": "Sociology",
+          "level": 0,
+          "score": 0.28712499141693115
+        },
+        {
+          "id": "https://openalex.org/C36289849",
+          "wikidata": "https://www.wikidata.org/wiki/Q34749",
+          "display_name": "Social science",
+          "level": 1,
+          "score": 0.17922255396842957
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "pmh:oai:etheses.lse.ac.uk:3461",
+          "is_oa": true,
+          "landing_page_url": null,
+          "pdf_url": "http://etheses.lse.ac.uk/3461/1/Roberts_Paediatric_bipolar.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400050",
+            "display_name": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I909854389",
+            "host_organization_name": "London School of Economics and Political Science",
+            "host_organization_lineage": [
+              "https://openalex.org/I909854389"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "public-domain",
+          "license_id": "https://openalex.org/licenses/public-domain",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Thesis"
+        },
+        {
+          "id": "mag:2606380161",
+          "is_oa": false,
+          "landing_page_url": "http://etheses.lse.ac.uk/3461/",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:etheses.lse.ac.uk:3461",
+        "is_oa": true,
+        "landing_page_url": null,
+        "pdf_url": "http://etheses.lse.ac.uk/3461/1/Roberts_Paediatric_bipolar.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306400050",
+          "display_name": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I909854389",
+          "host_organization_name": "London School of Economics and Political Science",
+          "host_organization_lineage": [
+            "https://openalex.org/I909854389"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "public-domain",
+        "license_id": "https://openalex.org/licenses/public-domain",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "Thesis"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W1489800529",
+        "https://openalex.org/W213952752",
+        "https://openalex.org/W3137638746",
+        "https://openalex.org/W3180739692",
+        "https://openalex.org/W2510838811",
+        "https://openalex.org/W2972258529",
+        "https://openalex.org/W2953435259",
+        "https://openalex.org/W1591903743",
+        "https://openalex.org/W2917727456",
+        "https://openalex.org/W2891770028",
+        "https://openalex.org/W3203373151",
+        "https://openalex.org/W193609830",
+        "https://openalex.org/W1641001096",
+        "https://openalex.org/W2975282721",
+        "https://openalex.org/W3194145399",
+        "https://openalex.org/W3013369172",
+        "https://openalex.org/W2607271685",
+        "https://openalex.org/W2095002086",
+        "https://openalex.org/W2283699272",
+        "https://openalex.org/W316331823"
+      ],
+      "abstract_inverted_index": {
+        "1": [
+          71
+        ],
+        "2": [
+          93
+        ],
+        "3": [
+          103
+        ],
+        "This": [
+          0
+        ],
+        "thesis": [
+          1,
+          24,
+          254
+        ],
+        "investigates": [
+          2
+        ],
+        "the": [
+          3,
+          14,
+          23,
+          26,
+          41,
+          67,
+          73,
+          76,
+          114,
+          121,
+          157,
+          185,
+          204,
+          209,
+          215,
+          253,
+          281,
+          287
+        ],
+        "genesis,": [
+          4
+        ],
+        "knowledge": [
+          5,
+          298
+        ],
+        "and": [
+          6,
+          16,
+          44,
+          56,
+          89,
+          101,
+          116,
+          129,
+          193,
+          202,
+          217,
+          221,
+          266,
+          272,
+          294,
+          299
+        ],
+        "practice": [
+          7
+        ],
+        "of": [
+          8,
+          29,
+          46,
+          49,
+          75,
+          81,
+          127,
+          136,
+          159,
+          164,
+          190,
+          231,
+          263,
+          270,
+          297
+        ],
+        "paediatric": [
+          9
+        ],
+        "bipolar": [
+          10,
+          183,
+          201
+        ],
+        "disorder": [
+          11
+        ],
+        "(PBD)": [
+          12
+        ],
+        "in": [
+          13,
+          66,
+          113,
+          140,
+          147,
+          156,
+          166,
+          188,
+          206,
+          213,
+          237,
+          290
+        ],
+        "US": [
+          15,
+          115,
+          216
+        ],
+        "England.": [
+          17,
+          117
+        ],
+        "Using": [
+          18
+        ],
+        "a": [
+          19,
+          141,
+          229,
+          276
+        ],
+        "social": [
+          20,
+          264,
+          267
+        ],
+        "representations": [
+          21,
+          126,
+          163
+        ],
+        "framework,": [
+          22
+        ],
+        "expands": [
+          25
+        ],
+        "socio-cultural": [
+          27
+        ],
+        "psychology": [
+          28
+        ],
+        "medicalisation": [
+          30
+        ],
+        "to": [
+          31,
+          132,
+          153,
+          280
+        ],
+        "elucidate": [
+          32
+        ],
+        "how": [
+          33
+        ],
+        "an": [
+          34
+        ],
+        "emergent": [
+          35
+        ],
+        "condition": [
+          36,
+          282
+        ],
+        "moves": [
+          37
+        ],
+        "across": [
+          38
+        ],
+        "cultures": [
+          39,
+          293
+        ],
+        "through": [
+          40
+        ],
+        "interaction,": [
+          42
+        ],
+        "transmission": [
+          43
+        ],
+        "application": [
+          45
+        ],
+        "multiple": [
+          47,
+          295
+        ],
+        "forms": [
+          48
+        ],
+        "knowledge.": [
+          50
+        ],
+        "The": [
+          51
+        ],
+        "research": [
+          52
+        ],
+        "design": [
+          53
+        ],
+        "was": [
+          54,
+          104
+        ],
+        "comparative": [
+          55
+        ],
+        "multi-method,": [
+          57
+        ],
+        "comprising": [
+          58
+        ],
+        "three": [
+          59
+        ],
+        "empirical": [
+          60
+        ],
+        "studies,": [
+          61
+        ],
+        "each": [
+          62
+        ],
+        "studying": [
+          63
+        ],
+        "key": [
+          64
+        ],
+        "actors": [
+          65
+        ],
+        "diagnostic": [
+          68,
+          257
+        ],
+        "process.": [
+          69
+        ],
+        "Study": [
+          70,
+          92
+        ],
+        "examined": [
+          72
+        ],
+        "‘voice’": [
+          74
+        ],
+        "pharmaceutical": [
+          77,
+          90,
+          122
+        ],
+        "industry": [
+          78,
+          84,
+          123
+        ],
+        "incorporating": [
+          79
+        ],
+        "analysis": [
+          80
+        ],
+        "de-classified": [
+          82
+        ],
+        "internal": [
+          83
+        ],
+        "court": [
+          85
+        ],
+        "documents,": [
+          86
+        ],
+        "marketing": [
+          87
+        ],
+        "plans,": [
+          88
+        ],
+        "advertisements.": [
+          91
+        ],
+        "drew": [
+          94
+        ],
+        "on": [
+          95
+        ],
+        "eighteen": [
+          96
+        ],
+        "in-depth": [
+          97,
+          108
+        ],
+        "interviews": [
+          98,
+          109
+        ],
+        "with": [
+          99,
+          110,
+          151
+        ],
+        "clinicians": [
+          100,
+          196
+        ],
+        "study": [
+          102
+        ],
+        "drawn": [
+          105
+        ],
+        "from": [
+          106,
+          181
+        ],
+        "twenty": [
+          107
+        ],
+        "parents,": [
+          111
+        ],
+        "both": [
+          112,
+          148,
+          214
+        ],
+        "Results": [
+          118
+        ],
+        "show": [
+          119
+        ],
+        "that": [
+          120,
+          256
+        ],
+        "uses": [
+          124
+        ],
+        "unstable": [
+          125
+        ],
+        "PBD,": [
+          128,
+          271
+        ],
+        "childhood": [
+          130
+        ],
+        "itself,": [
+          131,
+          283
+        ],
+        "expand": [
+          133
+        ],
+        "market": [
+          134
+        ],
+        "possibilities": [
+          135
+        ],
+        "what": [
+          137,
+          167
+        ],
+        "mental": [
+          138
+        ],
+        "illness": [
+          139
+        ],
+        "child": [
+          142,
+          186,
+          205
+        ],
+        "could": [
+          143
+        ],
+        "look": [
+          144
+        ],
+        "like.": [
+          145
+        ],
+        "Clinicians": [
+          146
+        ],
+        "contexts": [
+          149
+        ],
+        "struggle": [
+          150
+        ],
+        "pressures": [
+          152
+        ],
+        "be": [
+          154
+        ],
+        "certain": [
+          155
+        ],
+        "face": [
+          158
+        ],
+        "something": [
+          160
+        ],
+        "unstable,": [
+          161
+        ],
+        "anchoring": [
+          162
+        ],
+        "PBD": [
+          165,
+          178,
+          198
+        ],
+        "they": [
+          168,
+          249
+        ],
+        "already": [
+          169
+        ],
+        "know.": [
+          170
+        ],
+        "For": [
+          171
+        ],
+        "American": [
+          172,
+          224
+        ],
+        "clinicians,": [
+          173
+        ],
+        "parents": [
+          174,
+          225,
+          239
+        ],
+        "are": [
+          175,
+          259,
+          278
+        ],
+        "allies": [
+          176
+        ],
+        "shaping": [
+          177
+        ],
+        "as": [
+          179,
+          199,
+          242,
+          275
+        ],
+        "distinct": [
+          180
+        ],
+        "adult": [
+          182,
+          200
+        ],
+        "while": [
+          184,
+          236
+        ],
+        "is": [
+          187
+        ],
+        "need": [
+          189
+        ],
+        "early": [
+          191
+        ],
+        "diagnosis": [
+          192,
+          210
+        ],
+        "management;": [
+          194
+        ],
+        "English": [
+          195
+        ],
+        "approach": [
+          197
+        ],
+        "place": [
+          203
+        ],
+        "context,": [
+          207
+        ],
+        "keeping": [
+          208
+        ],
+        "rare.": [
+          211
+        ],
+        "Parents": [
+          212
+        ],
+        "England": [
+          218
+        ],
+        "feel": [
+          219,
+          250
+        ],
+        "frustrated": [
+          220
+        ],
+        "cast": [
+          222
+        ],
+        "aside;": [
+          223
+        ],
+        "channel": [
+          226
+        ],
+        "this": [
+          227
+        ],
+        "into": [
+          228
+        ],
+        "sense": [
+          230
+        ],
+        "agency,": [
+          232
+        ],
+        "developing": [
+          233
+        ],
+        "‘experiential": [
+          234
+        ],
+        "expertise’,": [
+          235
+        ],
+        "England,": [
+          238
+        ],
+        "position": [
+          240
+        ],
+        "themselves": [
+          241
+        ],
+        "amateurs": [
+          243
+        ],
+        ",confronting": [
+          244
+        ],
+        "wider": [
+          245
+        ],
+        "hierarchies": [
+          246
+        ],
+        "within": [
+          247
+        ],
+        "which": [
+          248,
+          291
+        ],
+        "helpless.": [
+          251
+        ],
+        "Overall,": [
+          252
+        ],
+        "concludes": [
+          255
+        ],
+        "practices": [
+          258
+        ],
+        "driven": [
+          260
+        ],
+        "by": [
+          261
+        ],
+        "processes": [
+          262
+        ],
+        "representation": [
+          265
+        ],
+        "influence:": [
+          268
+        ],
+        "definitions": [
+          269
+        ],
+        "its": [
+          273
+        ],
+        "emergence": [
+          274
+        ],
+        "diagnosis,": [
+          277
+        ],
+        "extrinsic": [
+          279
+        ],
+        "forged": [
+          284
+        ],
+        "instead": [
+          285
+        ],
+        "at": [
+          286
+        ],
+        "meeting": [
+          288
+        ],
+        "point": [
+          289
+        ],
+        "actors,": [
+          292
+        ],
+        "systems": [
+          296
+        ],
+        "experience": [
+          300
+        ],
+        "interact.": [
+          301
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2025-11-06T04:12:42.849631",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  ],
+  "group_by": []
+}

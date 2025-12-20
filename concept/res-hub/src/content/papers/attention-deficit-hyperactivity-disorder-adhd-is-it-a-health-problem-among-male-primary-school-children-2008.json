@@ -22,15 +22,28 @@
   "access": {
     "status": "open",
     "license": "CC BY",
-    "source": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Al-Hamed-et-al.-2008-Attention-Deficit-Hyperactivity-Disorder-ADHD-I.pdf",
-    "sourceUrl": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Al-Hamed-et-al.-2008-Attention-Deficit-Hyperactivity-Disorder-ADHD-I.pdf",
     "researchGateUrl": "https://www.researchgate.net/publication/267452049_Attention_Deficit_Hyperactivity_Disorder_ADHD_Is_it_a_Health_Problem_among_Male_Primary_School_Children",
     "localPdfUrl": "library/attention-deficit-hyperactivity-disorder-adhd-is-it-a-health-problem-among-male-primary-school-children-2008-b95b6ca093.pdf"
   },
-  "identifiers": {
-    "url": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Al-Hamed-et-al.-2008-Attention-Deficit-Hyperactivity-Disorder-ADHD-I.pdf"
-  },
   "visibility": {
     "hidden": false
-  }
+  },
+  "authors": [
+    {
+      "given": "Attia Z.",
+      "family": "Taha",
+      "sequence": 1
+    },
+    {
+      "given": "Amr",
+      "family": "Sabra",
+      "orcid": "https://orcid.org/0000-0001-8983-6231",
+      "sequence": 2
+    },
+    {
+      "given": "Hassan",
+      "family": "Bella",
+      "sequence": 3
+    }
+  ]
 }

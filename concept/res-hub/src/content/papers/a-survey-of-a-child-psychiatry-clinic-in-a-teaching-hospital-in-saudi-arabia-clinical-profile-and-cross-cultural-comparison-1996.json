@@ -30,14 +30,31 @@
   },
   "access": {
     "status": "unknown",
-    "source": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Saudi-Medical-Journal-1995-Abdur-Rahim.pdf",
-    "sourceUrl": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Saudi-Medical-Journal-1995-Abdur-Rahim.pdf",
     "localPdfUrl": "library/a-survey-of-a-child-psychiatry-clinic-in-a-teaching-hospital-in-saudi-arabia-clinical-profile-and-cross-cultural-comparison-1996-2b74372d0d.pdf"
-  },
-  "identifiers": {
-    "url": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Saudi-Medical-Journal-1995-Abdur-Rahim.pdf"
   },
   "visibility": {
     "hidden": false
-  }
+  },
+  "authors": [
+    {
+      "given": "Fath El-Aleem",
+      "family": "Abdur-Rahim",
+      "sequence": 1
+    },
+    {
+      "given": "Abdur-Razzak",
+      "family": "Al-Hamad",
+      "sequence": 2
+    },
+    {
+      "given": "Kutaiba",
+      "family": "Chaleby",
+      "sequence": 3
+    },
+    {
+      "given": "Abdullah",
+      "family": "Al‐Subaie",
+      "sequence": 4
+    }
+  ]
 }

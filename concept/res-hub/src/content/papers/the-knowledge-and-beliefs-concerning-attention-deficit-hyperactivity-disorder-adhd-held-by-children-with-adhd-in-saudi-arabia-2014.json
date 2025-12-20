@@ -31,14 +31,33 @@
   },
   "access": {
     "status": "unknown",
-    "source": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/The-knowledge-and-beliefs-concerning-ADHD-helf-by-children-with-ADHD-in-Saudi-Arabia-Abed-M-2014-318-1126-1-PB.pdf",
-    "sourceUrl": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/The-knowledge-and-beliefs-concerning-ADHD-helf-by-children-with-ADHD-in-Saudi-Arabia-Abed-M-2014-318-1126-1-PB.pdf",
     "localPdfUrl": "library/the-knowledge-and-beliefs-concerning-attention-deficit-hyperactivity-disorder-adhd-held-by-children-with-adhd-in-saudi-arabia-2014-7f535e11bc.pdf"
-  },
-  "identifiers": {
-    "url": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/The-knowledge-and-beliefs-concerning-ADHD-helf-by-children-with-ADHD-in-Saudi-Arabia-Abed-M-2014-318-1126-1-PB.pdf"
   },
   "visibility": {
     "hidden": false
-  }
+  },
+  "authors": [
+    {
+      "given": "Mohaned G.",
+      "family": "Abed",
+      "orcid": "https://orcid.org/0000-0002-3425-4725",
+      "sequence": 1
+    },
+    {
+      "given": "Susan",
+      "family": "Pearson",
+      "sequence": 2
+    },
+    {
+      "given": "Philip A.",
+      "family": "Clarke",
+      "orcid": "https://orcid.org/0000-0002-9042-4856",
+      "sequence": 3
+    },
+    {
+      "given": "Mary E.",
+      "family": "Chambers",
+      "sequence": 4
+    }
+  ]
 }

@@ -1,0 +1,945 @@
+{
+  "meta": {
+    "count": 2,
+    "db_response_time_ms": 47,
+    "page": 1,
+    "per_page": 10,
+    "groups_count": null
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2037574141",
+      "doi": "https://doi.org/10.1016/s1569-9056(04)90723-3",
+      "title": "729 The prevalence and associated factors of enuresis in Turkish children",
+      "display_name": "729 The prevalence and associated factors of enuresis in Turkish children",
+      "relevance_score": 4.7953677,
+      "publication_year": 2004,
+      "publication_date": "2004-02-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2037574141",
+        "doi": "https://doi.org/10.1016/s1569-9056(04)90723-3",
+        "mag": "2037574141"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/s1569-9056(04)90723-3",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/s1569-9056(04)90723-3",
+        "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1569905604907233",
+        "source": {
+          "id": "https://openalex.org/S59248909",
+          "display_name": "European Urology Supplements",
+          "issn_l": "1569-9056",
+          "issn": [
+            "1569-9056",
+            "1878-1500"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "European Urology Supplements",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S1569905604907233",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5091104953",
+            "display_name": "Ahmet İbrahim Oğuzülgen",
+            "orcid": "https://orcid.org/0000-0002-8723-1391"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210107983",
+              "display_name": "Ankara Numune Eğitim ve Araştırma Hastanesi",
+              "ror": "https://ror.org/013qdbe28",
+              "country_code": "TR",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210107983"
+              ]
+            }
+          ],
+          "countries": [
+            "TR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "I. Oǧuzülgen",
+          "raw_affiliation_strings": [
+            "12/25 Ankara, 06100, Turkey",
+            "Department of Urology, Numune Education and Research Hospital, Ankara, Turkey"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "12/25 Ankara, 06100, Turkey",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Department of Urology, Numune Education and Research Hospital, Ankara, Turkey",
+              "institution_ids": [
+                "https://openalex.org/I4210107983"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5050863442",
+            "display_name": "Cüneyt Özden",
+            "orcid": "https://orcid.org/0000-0003-0101-6904"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210107983",
+              "display_name": "Ankara Numune Eğitim ve Araştırma Hastanesi",
+              "ror": "https://ror.org/013qdbe28",
+              "country_code": "TR",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210107983"
+              ]
+            }
+          ],
+          "countries": [
+            "TR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "C. Özden",
+          "raw_affiliation_strings": [
+            "12/25 Ankara, 06100, Turkey",
+            "Department of Urology, Numune Education and Research Hospital, Ankara, Turkey"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "12/25 Ankara, 06100, Turkey",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Department of Urology, Numune Education and Research Hospital, Ankara, Turkey",
+              "institution_ids": [
+                "https://openalex.org/I4210107983"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5068342726",
+            "display_name": "Özdem Levent Özdal",
+            "orcid": "https://orcid.org/0000-0002-8747-8239"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210107983",
+              "display_name": "Ankara Numune Eğitim ve Araştırma Hastanesi",
+              "ror": "https://ror.org/013qdbe28",
+              "country_code": "TR",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210107983"
+              ]
+            }
+          ],
+          "countries": [
+            "TR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "L. Özdal",
+          "raw_affiliation_strings": [
+            "12/25 Ankara, 06100, Turkey",
+            "Department of Urology, Numune Education and Research Hospital, Ankara, Turkey"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Urology, Numune Education and Research Hospital, Ankara, Turkey",
+              "institution_ids": [
+                "https://openalex.org/I4210107983"
+              ]
+            },
+            {
+              "raw_affiliation_string": "12/25 Ankara, 06100, Turkey",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5003965664",
+            "display_name": "Serkan Altınova",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210107983",
+              "display_name": "Ankara Numune Eğitim ve Araştırma Hastanesi",
+              "ror": "https://ror.org/013qdbe28",
+              "country_code": "TR",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210107983"
+              ]
+            }
+          ],
+          "countries": [
+            "TR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "S. Altinova",
+          "raw_affiliation_strings": [
+            "12/25 Ankara, 06100, Turkey",
+            "Department of Urology, Numune Education and Research Hospital, Ankara, Turkey"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "12/25 Ankara, 06100, Turkey",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Department of Urology, Numune Education and Research Hospital, Ankara, Turkey",
+              "institution_ids": [
+                "https://openalex.org/I4210107983"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5067071134",
+            "display_name": "Guvenc Urgancioglu",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210107983",
+              "display_name": "Ankara Numune Eğitim ve Araştırma Hastanesi",
+              "ror": "https://ror.org/013qdbe28",
+              "country_code": "TR",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210107983"
+              ]
+            }
+          ],
+          "countries": [
+            "TR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "G. Urgancioǧlu",
+          "raw_affiliation_strings": [
+            "12/25 Ankara, 06100, Turkey",
+            "Department of Urology, Numune Education and Research Hospital, Ankara, Turkey"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "12/25 Ankara, 06100, Turkey",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Department of Urology, Numune Education and Research Hospital, Ankara, Turkey",
+              "institution_ids": [
+                "https://openalex.org/I4210107983"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5026809007",
+            "display_name": "Mehmet Murat Baykam",
+            "orcid": "https://orcid.org/0000-0001-9006-4275"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210107983",
+              "display_name": "Ankara Numune Eğitim ve Araştırma Hastanesi",
+              "ror": "https://ror.org/013qdbe28",
+              "country_code": "TR",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210107983"
+              ]
+            }
+          ],
+          "countries": [
+            "TR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. Baykam",
+          "raw_affiliation_strings": [
+            "12/25 Ankara, 06100, Turkey",
+            "Department of Urology, Numune Education and Research Hospital, Ankara, Turkey"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Urology, Numune Education and Research Hospital, Ankara, Turkey",
+              "institution_ids": [
+                "https://openalex.org/I4210107983"
+              ]
+            },
+            {
+              "raw_affiliation_string": "12/25 Ankara, 06100, Turkey",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5059460162",
+            "display_name": "Ali Memiş",
+            "orcid": "https://orcid.org/0009-0004-0424-9572"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210107983",
+              "display_name": "Ankara Numune Eğitim ve Araştırma Hastanesi",
+              "ror": "https://ror.org/013qdbe28",
+              "country_code": "TR",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210107983"
+              ]
+            }
+          ],
+          "countries": [
+            "TR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A. Memiş",
+          "raw_affiliation_strings": [
+            "12/25 Ankara, 06100, Turkey",
+            "Department of Urology, Numune Education and Research Hospital, Ankara, Turkey"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "12/25 Ankara, 06100, Turkey",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Department of Urology, Numune Education and Research Hospital, Ankara, Turkey",
+              "institution_ids": [
+                "https://openalex.org/I4210107983"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 7,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5050863442"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210107983"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": true,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.10949548,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 94
+      },
+      "biblio": {
+        "volume": "3",
+        "issue": "2",
+        "first_page": "185",
+        "last_page": "185"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10279",
+        "display_name": "Urinary Bladder and Prostate Research",
+        "score": 0.911300003528595,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2748",
+          "display_name": "Urology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10279",
+          "display_name": "Urinary Bladder and Prostate Research",
+          "score": 0.911300003528595,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2748",
+            "display_name": "Urology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.9629411101341248
+        },
+        {
+          "id": "https://openalex.org/keywords/turkish",
+          "display_name": "Turkish",
+          "score": 0.8963425159454346
+        },
+        {
+          "id": "https://openalex.org/keywords/enuresis",
+          "display_name": "Enuresis",
+          "score": 0.8206655979156494
+        },
+        {
+          "id": "https://openalex.org/keywords/pediatrics",
+          "display_name": "Pediatrics",
+          "score": 0.5475238561630249
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.9629411101341248
+        },
+        {
+          "id": "https://openalex.org/C2781121862",
+          "wikidata": "https://www.wikidata.org/wiki/Q256",
+          "display_name": "Turkish",
+          "level": 2,
+          "score": 0.8963425159454346
+        },
+        {
+          "id": "https://openalex.org/C2780610425",
+          "wikidata": "https://www.wikidata.org/wiki/Q3448862",
+          "display_name": "Enuresis",
+          "level": 2,
+          "score": 0.8206655979156494
+        },
+        {
+          "id": "https://openalex.org/C187212893",
+          "wikidata": "https://www.wikidata.org/wiki/Q123028",
+          "display_name": "Pediatrics",
+          "level": 1,
+          "score": 0.5475238561630249
+        },
+        {
+          "id": "https://openalex.org/C41895202",
+          "wikidata": "https://www.wikidata.org/wiki/Q8162",
+          "display_name": "Linguistics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/s1569-9056(04)90723-3",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/s1569-9056(04)90723-3",
+          "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1569905604907233",
+          "source": {
+            "id": "https://openalex.org/S59248909",
+            "display_name": "European Urology Supplements",
+            "issn_l": "1569-9056",
+            "issn": [
+              "1569-9056",
+              "1878-1500"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "European Urology Supplements",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/s1569-9056(04)90723-3",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/s1569-9056(04)90723-3",
+        "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1569905604907233",
+        "source": {
+          "id": "https://openalex.org/S59248909",
+          "display_name": "European Urology Supplements",
+          "issn_l": "1569-9056",
+          "issn": [
+            "1569-9056",
+            "1878-1500"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "European Urology Supplements",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "referenced_works_count": 18,
+      "referenced_works": [
+        "https://openalex.org/W6670148612",
+        "https://openalex.org/W1964579042",
+        "https://openalex.org/W2034914427",
+        "https://openalex.org/W4236960458",
+        "https://openalex.org/W2072800652",
+        "https://openalex.org/W2082934936",
+        "https://openalex.org/W1533361136",
+        "https://openalex.org/W1990306137",
+        "https://openalex.org/W1725808477",
+        "https://openalex.org/W2078089339",
+        "https://openalex.org/W4253920478",
+        "https://openalex.org/W2409528599",
+        "https://openalex.org/W4205170350",
+        "https://openalex.org/W2098905682",
+        "https://openalex.org/W2000579907",
+        "https://openalex.org/W1966207473",
+        "https://openalex.org/W2029749900",
+        "https://openalex.org/W2412976029"
+      ],
+      "related_works": [
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W3031052312",
+        "https://openalex.org/W4389568370",
+        "https://openalex.org/W3032375762",
+        "https://openalex.org/W1995515455",
+        "https://openalex.org/W2080531066",
+        "https://openalex.org/W2586801360",
+        "https://openalex.org/W3108674512",
+        "https://openalex.org/W1506200166",
+        "https://openalex.org/W1489783725"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W38371097",
+      "doi": "https://doi.org/10.7759/cureus.52586",
+      "title": "Pistoia, una ciutat oberta a la seva infància",
+      "display_name": "Pistoia, una ciutat oberta a la seva infància",
+      "relevance_score": 1.0597136,
+      "publication_year": 2004,
+      "publication_date": "2004-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W38371097",
+        "mag": "38371097"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "mag:38371097",
+        "is_oa": false,
+        "landing_page_url": "https://dialnet.unirioja.es/servlet/articulo?codigo=3495749",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306511771",
+          "display_name": "Guix d'infantil",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Guix d'infantil",
+        "raw_type": null
+      },
+      "type": "article",
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5049668590",
+            "display_name": "CP Adarra",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "CP Adarra",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5049668590"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": true,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.00947609,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "16",
+        "issue": "20",
+        "first_page": "19",
+        "last_page": "20"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12641",
+        "display_name": "Historical and socio-economic studies of Spain and related regions",
+        "score": 0.8083000183105469,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2002",
+          "display_name": "Economics and Econometrics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12641",
+          "display_name": "Historical and socio-economic studies of Spain and related regions",
+          "score": 0.8083000183105469,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2002",
+            "display_name": "Economics and Econometrics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/20",
+            "display_name": "Economics, Econometrics and Finance"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14191",
+          "display_name": "Historical Art and Architecture Studies",
+          "score": 0.7985000014305115,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1206",
+            "display_name": "Conservation"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12739",
+          "display_name": "Historical Studies on Spain",
+          "score": 0.7542999982833862,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1202",
+            "display_name": "History"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.3287131190299988
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.3287131190299988
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "mag:38371097",
+          "is_oa": false,
+          "landing_page_url": "https://dialnet.unirioja.es/servlet/articulo?codigo=3495749",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306511771",
+            "display_name": "Guix d'infantil",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Guix d'infantil",
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "referenced_works_count": 7,
+      "referenced_works": [
+        "https://openalex.org/W2412437276",
+        "https://openalex.org/W3111232734",
+        "https://openalex.org/W1505566190",
+        "https://openalex.org/W4288739169",
+        "https://openalex.org/W2536470765",
+        "https://openalex.org/W1606049416",
+        "https://openalex.org/W2167949157"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "Our": [
+          0
+        ],
+        "research": [
+          1
+        ],
+        "confirms": [
+          2
+        ],
+        "that": [
+          3
+        ],
+        "acne": [
+          4
+        ],
+        "vulgaris": [
+          5
+        ],
+        "and": [
+          6,
+          14,
+          24
+        ],
+        "vitiligo": [
+          7
+        ],
+        "have": [
+          8
+        ],
+        "a": [
+          9
+        ],
+        "negative": [
+          10
+        ],
+        "impact": [
+          11
+        ],
+        "on": [
+          12
+        ],
+        "self-esteem": [
+          13
+        ],
+        "quality": [
+          15
+        ],
+        "of": [
+          16,
+          27
+        ],
+        "life.": [
+          17
+        ],
+        "Along": [
+          18
+        ],
+        "with": [
+          19
+        ],
+        "medical": [
+          20
+        ],
+        "treatment,": [
+          21
+        ],
+        "effective": [
+          22
+        ],
+        "treatment": [
+          23
+        ],
+        "psychological": [
+          25
+        ],
+        "improvement": [
+          26
+        ],
+        "the": [
+          28
+        ],
+        "patient": [
+          29
+        ],
+        "should": [
+          30
+        ],
+        "be": [
+          31
+        ],
+        "prioritized.": [
+          32
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2025-07-23T07:32:43.609826",
+      "created_date": "2016-06-24T00:00:00"
+    }
+  ],
+  "group_by": []
+}

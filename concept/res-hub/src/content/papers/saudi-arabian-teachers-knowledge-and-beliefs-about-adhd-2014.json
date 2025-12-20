@@ -29,14 +29,34 @@
   },
   "access": {
     "status": "unknown",
-    "source": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Saudi-Arabian-Teachers-Knowledge-and-Beliefs-about-ADHD-Abed-M.-2014.pdf",
-    "sourceUrl": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Saudi-Arabian-Teachers-Knowledge-and-Beliefs-about-ADHD-Abed-M.-2014.pdf",
     "localPdfUrl": "library/saudi-arabian-teachers-knowledge-and-beliefs-about-adhd-2014-8dbf146157.pdf"
-  },
-  "identifiers": {
-    "url": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Saudi-Arabian-Teachers-Knowledge-and-Beliefs-about-ADHD-Abed-M.-2014.pdf"
   },
   "visibility": {
     "hidden": false
-  }
+  },
+  "authors": [
+    {
+      "given": "Mohaned G.",
+      "family": "Abed",
+      "orcid": "https://orcid.org/0000-0002-3425-4725",
+      "sequence": 1
+    },
+    {
+      "given": "Susan",
+      "family": "Pearson",
+      "sequence": 2
+    },
+    {
+      "given": "Philip A.",
+      "family": "Clarke",
+      "orcid": "https://orcid.org/0000-0002-9042-4856",
+      "sequence": 3
+    },
+    {
+      "given": "Mary",
+      "family": "Chambers",
+      "orcid": "https://orcid.org/0000-0002-7311-9390",
+      "sequence": 4
+    }
+  ]
 }

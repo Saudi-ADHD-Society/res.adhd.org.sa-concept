@@ -24,15 +24,27 @@
     }
   },
   "access": {
-    "status": "unknown",
-    "source": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/An-investigation-of-the-benefit-of-using-IT-in-the-context-of-university-students-with-ADHD.-Binhadyan-2016.pdf",
-    "sourceUrl": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/An-investigation-of-the-benefit-of-using-IT-in-the-context-of-university-students-with-ADHD.-Binhadyan-2016.pdf",
+    "status": "closed",
     "localPdfUrl": "library/an-investigation-of-the-benefit-of-using-it-in-the-context-of-university-students-with-adhd-2016-e4375824ec.pdf"
   },
   "identifiers": {
-    "url": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/An-investigation-of-the-benefit-of-using-IT-in-the-context-of-university-students-with-ADHD.-Binhadyan-2016.pdf"
+    "doi": "10.1504/ijnvo.2016.076468"
   },
   "visibility": {
     "hidden": false
-  }
+  },
+  "authors": [
+    {
+      "given": "Bader",
+      "family": "Binhadyan",
+      "sequence": 1
+    },
+    {
+      "given": "Nilmini",
+      "family": "Wickramasinghe",
+      "orcid": "https://orcid.org/0000-0002-1314-8843",
+      "sequence": 2
+    }
+  ],
+  "doi": "10.1504/ijnvo.2016.076468"
 }

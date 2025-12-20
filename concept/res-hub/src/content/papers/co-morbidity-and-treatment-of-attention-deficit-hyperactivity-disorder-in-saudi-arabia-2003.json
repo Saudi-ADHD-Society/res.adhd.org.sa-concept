@@ -29,15 +29,23 @@
     }
   },
   "access": {
-    "status": "unknown",
-    "source": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/East-Mediterr-Health-J-2003-Al-Haidar.pdf",
-    "sourceUrl": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/East-Mediterr-Health-J-2003-Al-Haidar.pdf",
-    "localPdfUrl": "library/co-morbidity-and-treatment-of-attention-deficit-hyperactivity-disorder-in-saudi-arabia-2003-ad72f89833.pdf"
+    "status": "open",
+    "localPdfUrl": "library/co-morbidity-and-treatment-of-attention-deficit-hyperactivity-disorder-in-saudi-arabia-2003-ad72f89833.pdf",
+    "sourceUrl": "https://doi.org/10.26719/2003.9.5-6.988"
   },
   "identifiers": {
-    "url": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/East-Mediterr-Health-J-2003-Al-Haidar.pdf"
+    "doi": "10.26719/2003.9.5-6.988"
   },
   "visibility": {
     "hidden": false
-  }
+  },
+  "authors": [
+    {
+      "given": "Farah Al",
+      "family": "Haidar",
+      "orcid": "https://orcid.org/0009-0009-4044-1111",
+      "sequence": 1
+    }
+  ],
+  "doi": "10.26719/2003.9.5-6.988"
 }

@@ -34,9 +34,19 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en"
   },
   "identifiers": {
-    "url": "https://www.europeanreview.org/wp/wp-content/uploads/3303-3312.pdf"
+    "url": "https://www.europeanreview.org/wp/wp-content/uploads/3303-3312.pdf",
+    "doi": "10.26355/eurrev_202405_36176"
   },
   "visibility": {
     "hidden": false
-  }
+  },
+  "authors": [
+    {
+      "given": "Abdulkareem",
+      "family": "Alzahrani",
+      "orcid": "https://orcid.org/0000-0003-3658-1284",
+      "sequence": 1
+    }
+  ],
+  "doi": "10.26355/eurrev_202405_36176"
 }

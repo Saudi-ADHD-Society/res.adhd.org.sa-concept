@@ -24,20 +24,33 @@
     "volume": "5",
     "issue": "11",
     "pages": {
-      "start": "36",
-      "end": "41"
+      "start": "43",
+      "end": "48"
     }
   },
   "access": {
-    "status": "unknown",
-    "source": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Int-J-Cur-Res-Rev-2013-Taleb.pdf",
-    "sourceUrl": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Int-J-Cur-Res-Rev-2013-Taleb.pdf",
+    "status": "open",
+    "license": "CC BY-NC 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "publisherUrl": "https://ijcrr.com/abstract.php?article_id=1317",
     "localPdfUrl": "library/a-descriptive-study-of-attention-deficit-hyperactivity-disorder-in-sabia-city-saudi-arabia-2013-de42a77b46.pdf"
   },
   "identifiers": {
-    "url": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Int-J-Cur-Res-Rev-2013-Taleb.pdf"
+    "url": "https://ijcrr.com/abstract.php?article_id=1317"
   },
   "visibility": {
     "hidden": false
-  }
+  },
+  "authors": [
+    {
+      "given": "Raed A. H.",
+      "family": "Abu Taleb",
+      "sequence": 1
+    },
+    {
+      "given": "Aesha",
+      "family": "Farheen",
+      "sequence": 2
+    }
+  ]
 }

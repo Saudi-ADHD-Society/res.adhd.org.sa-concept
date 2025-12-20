@@ -6,7 +6,18 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "A.",
+      "family": "Ibrahim",
+      "sequence": 1
+    },
+    {
+      "given": "Manal",
+      "family": "Basudan",
+      "sequence": 2
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.24087__iam.2019.3.1.693.pdf"
@@ -14,5 +25,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.24087-iam.2019.3.1.693"
+  "id": "doi-10.24087-iam.2019.3.1.693",
+  "publication": {
+    "year": 2018
+  }
 }

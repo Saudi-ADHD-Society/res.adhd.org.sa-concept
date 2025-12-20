@@ -32,15 +32,33 @@
   "access": {
     "status": "open",
     "license": "CC BY 4.0",
-    "source": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/J-Egypt-Public-Health-Assoc-2008-Al-Hamed.pdf",
-    "sourceUrl": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/J-Egypt-Public-Health-Assoc-2008-Al-Hamed.pdf",
     "researchGateUrl": "https://www.researchgate.net/publication/24216395_Attention_Deficit_Hyperactivity_Disorder_ADHD_among_Male_Primary_School_Children_in_Dammam_Saudi_Arabia_Prevalence_and_Associated_Factors",
     "localPdfUrl": "library/attention-deficit-hyperactivity-disorder-adhd-among-male-primary-school-children-in-dammam-saudi-arabia-prevalence-and-associated-factors-2008-0486e30b27.pdf"
   },
-  "identifiers": {
-    "url": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/J-Egypt-Public-Health-Assoc-2008-Al-Hamed.pdf"
-  },
   "visibility": {
     "hidden": false
-  }
+  },
+  "authors": [
+    {
+      "given": "Jamal H Al",
+      "family": "Hamed",
+      "sequence": 1
+    },
+    {
+      "given": "Attia Z.",
+      "family": "Taha",
+      "sequence": 2
+    },
+    {
+      "given": "Amr",
+      "family": "Sabra",
+      "orcid": "https://orcid.org/0000-0001-8983-6231",
+      "sequence": 3
+    },
+    {
+      "given": "Hassan",
+      "family": "Bella",
+      "sequence": 4
+    }
+  ]
 }

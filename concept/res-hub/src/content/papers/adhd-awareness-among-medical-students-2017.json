@@ -25,15 +25,39 @@
     }
   },
   "access": {
-    "status": "unknown",
-    "source": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/ADHD-Awareness-Among-Medical-Students-Qashqari-2017.pdf",
-    "sourceUrl": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/ADHD-Awareness-Among-Medical-Students-Qashqari-2017.pdf",
-    "localPdfUrl": "library/adhd-awareness-among-medical-students-2017-48c707ffa7.pdf"
+    "status": "open",
+    "localPdfUrl": "library/adhd-awareness-among-medical-students-2017-48c707ffa7.pdf",
+    "sourceUrl": "https://doi.org/10.31871/wjrr.4.3.14"
   },
   "identifiers": {
-    "url": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/ADHD-Awareness-Among-Medical-Students-Qashqari-2017.pdf"
+    "doi": "10.31871/wjrr.4.3.14"
   },
   "visibility": {
     "hidden": false
-  }
+  },
+  "authors": [
+    {
+      "given": "Hebah F",
+      "family": "Qashqari",
+      "sequence": 1
+    },
+    {
+      "given": "Abdulaziz",
+      "family": "Alsulami",
+      "orcid": "https://orcid.org/0000-0003-4083-4475",
+      "sequence": 2
+    },
+    {
+      "given": "Eman K",
+      "family": "Kamal",
+      "sequence": 3
+    },
+    {
+      "given": "Mohammed M.",
+      "family": "Jan",
+      "orcid": "https://orcid.org/0000-0002-5188-8922",
+      "sequence": 4
+    }
+  ],
+  "doi": "10.31871/wjrr.4.3.14"
 }

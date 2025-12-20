@@ -22,12 +22,31 @@
     "pages": {
       "start": "1",
       "end": "16"
-    }
+    },
+    "issn": "1687-9546"
   },
   "access": {
-    "status": "unknown"
+    "status": "open",
+    "sourceUrl": "https://ejhc.journals.ekb.eg/article_195279_26667e5d9a9d9b3aacbd0ee8887e3a9a.pdf",
+    "license": "cc-by"
   },
   "visibility": {
     "hidden": false
+  },
+  "authors": [
+    {
+      "given": "Sahar M. Abdull",
+      "family": "Hameed",
+      "sequence": 1
+    },
+    {
+      "given": "Wafaa H. Al",
+      "family": "Seraty",
+      "sequence": 2
+    }
+  ],
+  "doi": "10.21608/ejhc.2016.195279",
+  "identifiers": {
+    "doi": "10.21608/ejhc.2016.195279"
   }
 }

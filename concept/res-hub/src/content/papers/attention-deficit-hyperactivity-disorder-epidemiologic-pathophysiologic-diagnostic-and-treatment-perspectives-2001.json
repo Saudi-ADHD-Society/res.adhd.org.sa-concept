@@ -29,14 +29,21 @@
   },
   "access": {
     "status": "unknown",
-    "source": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Attention-deficit-hyperactivity-disorder-Epidemiologic-pathophysiologic-diagnostic-and-treatment-perspectives-Al-Ghamdy-YS-2001.pdf",
-    "sourceUrl": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Attention-deficit-hyperactivity-disorder-Epidemiologic-pathophysiologic-diagnostic-and-treatment-perspectives-Al-Ghamdy-YS-2001.pdf",
     "localPdfUrl": "library/attention-deficit-hyperactivity-disorder-epidemiologic-pathophysiologic-diagnostic-and-treatment-perspectives-2001-f1a8465ad4.pdf"
-  },
-  "identifiers": {
-    "url": "https://res.adhd.org.sa/wp-content/uploads/sites/9/formidable/8/Attention-deficit-hyperactivity-disorder-Epidemiologic-pathophysiologic-diagnostic-and-treatment-perspectives-Al-Ghamdy-YS-2001.pdf"
   },
   "visibility": {
     "hidden": false
-  }
+  },
+  "authors": [
+    {
+      "given": "Y S",
+      "family": "Al-Ghamdy",
+      "sequence": 1
+    },
+    {
+      "given": "Naseem A.",
+      "family": "Qureshi",
+      "sequence": 2
+    }
+  ]
 }
