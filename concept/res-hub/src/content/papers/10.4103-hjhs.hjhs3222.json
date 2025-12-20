@@ -4,12 +4,47 @@
   "title": "Attention Deficit Hyperactivity Disorder Research in Saudi Arabia: Current Status, Gaps, and the Future Needs",
   "abstract": "Attention deficit hyperactivity disorder (ADHD) is a common neurobehavioral disorder in children and adolescents, with estimated prevalence rates varying by the environment, gender, and age of presentation. ADHD research in Saudi Arabia is currently receiving a better research attention. This review aimed to summarize the literature data about ADHD in Saudi Arabia by identifying the prevalence, risk factors, comorbidities, and current guidelines for management. In addition, the author tried to set the gap areas and point out the future needs of ADHD research in Saudi Arabia. About 30 articles were conducted in Saudi Arabia and were reviewed through the PubMed, Google Scholar, and ResearchGate databases. The keywords used were ADHD prevalence, ADHD risk, ADHD comorbidities, ADHD screening, ADHD diagnosis, ADHD management, and ADHD awareness. All the keywords were followed by “Saudi Arabia” to restrict the search to this country. The conclusion of this review is an estimated prevalence rate varying by region, ranging between 2.7% and 16.4% in Saudi Arabia, with a little available data involving the disease outcomes, therapeutic educational intervention, utilization of services, and adherence to the treatment. In addition, the screening and diagnostic instruments used in Saudi Arabia are crucial research areas and must be evaluated and validated. Therefore, further research is required to broaden the horizons of understanding ADHD in the Saudi context.",
   "categories": [
-    "Uncategorized"
+    "Research Priorities"
   ],
-  "authors": [],
+  "keywords": [
+    "Attention deficit hyperactivity disorder",
+    "current status",
+    "future needs",
+    "gaps",
+    "research",
+    "Saudi Arabia",
+    "review"
+  ],
+  "authors": [
+    {
+      "given": "Ebtihal Elameen",
+      "family": "Eltyeb",
+      "sequence": 1
+    }
+  ],
+  "publication": {
+    "year": 2023
+  },
+  "journal": {
+    "name": "Hail Journal of Health Sciences",
+    "abbreviation": "Hail J Health Sci",
+    "volume": "5",
+    "issue": "1",
+    "pages": {
+      "start": "1",
+      "end": "6"
+    }
+  },
   "access": {
-    "status": "unknown",
+    "status": "open",
+    "license": "CC BY-NC-SA 4.0",
+    "sourceUrl": "https://doi.org/10.4103/hjhs.hjhs_32_22",
+    "researchGateUrl": "https://www.researchgate.net/publication/372621774_Attention_Deficit_Hyperactivity_Disorder_Research_in_Saudi_Arabia_Current_Status_Gaps_and_the_Future_Needs",
     "localPdfUrl": "library/doi__10.4103__hjhs.hjhs_32_22.pdf"
+  },
+  "identifiers": {
+    "doi": "10.4103/hjhs.hjhs_32_22",
+    "url": "https://doi.org/10.4103/hjhs.hjhs_32_22"
   },
   "visibility": {
     "hidden": false

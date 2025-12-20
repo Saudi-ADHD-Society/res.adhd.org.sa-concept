@@ -5581,6 +5581,68 @@
     "legacy": {}
   },
   {
+    "id": "doi-10.4103-hjhs.hjhs_32_22",
+    "slug": "10.4103-hjhs.hjhs3222",
+    "doi": "10.4103/hjhs.hjhs_32_22",
+    "identifiers": {
+      "doi": "10.4103/hjhs.hjhs_32_22",
+      "url": "https://doi.org/10.4103/hjhs.hjhs_32_22",
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "Attention Deficit Hyperactivity Disorder Research in Saudi Arabia: Current Status, Gaps, and the Future Needs",
+    "abstract": "Attention deficit hyperactivity disorder (ADHD) is a common neurobehavioral disorder in children and adolescents, with estimated prevalence rates varying by the environment, gender, and age of presentation. ADHD research in Saudi Arabia is currently receiving a better research attention. This review aimed to summarize the literature data about ADHD in Saudi Arabia by identifying the prevalence, risk factors, comorbidities, and current guidelines for management. In addition, the author tried to set the gap areas and point out the future needs of ADHD research in Saudi Arabia. About 30 articles were conducted in Saudi Arabia and were reviewed through the PubMed, Google Scholar, and ResearchGate databases. The keywords used were ADHD prevalence, ADHD risk, ADHD comorbidities, ADHD screening, ADHD diagnosis, ADHD management, and ADHD awareness. All the keywords were followed by “Saudi Arabia” to restrict the search to this country. The conclusion of this review is an estimated prevalence rate varying by region, ranging between 2.7% and 16.4% in Saudi Arabia, with a little available data involving the disease outcomes, therapeutic educational intervention, utilization of services, and adherence to the treatment. In addition, the screening and diagnostic instruments used in Saudi Arabia are crucial research areas and must be evaluated and validated. Therefore, further research is required to broaden the horizons of understanding ADHD in the Saudi context.",
+    "categories": [
+      "Research Priorities"
+    ],
+    "keywords": [
+      "Attention deficit hyperactivity disorder",
+      "current status",
+      "future needs",
+      "gaps",
+      "research",
+      "Saudi Arabia",
+      "review"
+    ],
+    "publication": {
+      "type": null,
+      "publishedDate": null,
+      "year": 2023
+    },
+    "journal": {
+      "name": "Hail Journal of Health Sciences",
+      "abbreviation": "Hail J Health Sci",
+      "issn": null,
+      "volume": "5",
+      "issue": "1",
+      "pages": {
+        "start": "1",
+        "end": "6"
+      }
+    },
+    "authors": [
+      {
+        "given": "Ebtihal Elameen",
+        "family": "Eltyeb",
+        "sequence": 1
+      }
+    ],
+    "access": {
+      "status": "open",
+      "license": "CC BY-NC-SA 4.0",
+      "source": null,
+      "licenseUrl": null,
+      "sourceUrl": "https://doi.org/10.4103/hjhs.hjhs_32_22",
+      "localPdfUrl": "library/doi__10.4103__hjhs.hjhs_32_22.pdf",
+      "researchGateUrl": "https://www.researchgate.net/publication/372621774_Attention_Deficit_Hyperactivity_Disorder_Research_in_Saudi_Arabia_Current_Status_Gaps_and_the_Future_Needs"
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
+  },
+  {
     "id": "legacy-091250efdd",
     "slug": "attention-deficit-and-hyperactivity-disorder-adhd-symptoms-in-saudi-children-parental-knowledge-and-awareness-archives-of-pharmacy-practice-2023",
     "doi": null,
@@ -7769,6 +7831,64 @@
       "sourceUrl": "https://www.mdpi.com/2624-8611/4/2/20/pdf?version=1650976799",
       "localPdfUrl": null,
       "researchGateUrl": null
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
+  },
+  {
+    "id": "doi-10.37421-2472-0496.22.8.162",
+    "slug": "10.37421-2472-0496.22.8.162",
+    "doi": "10.37421/2472-0496.22.8.162",
+    "identifiers": {
+      "doi": "10.37421/2472-0496.22.8.162",
+      "url": "https://www.hilarispublisher.com/open-access/pragmatic-disorder-in-children-with-adhd-87613.html",
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "Pragmatic Disorder in Children with ADHD",
+    "abstract": "Although language disorders are not among the fundamental features or required to fulfill the diagnostic criteria for ADHD, several research studies revealed a high prevalence of communication disorders among children with ADHD. The evidence from the literature suggests that inattention, hyperactivity, and impulsivity have their effects on different speech and language skills. The American Speech-Language-Hearing Association claimed that co-occurring ADHD and speech and language disorders represent a frequently encountered challenge for school-based speech-language pathologists and other practitioners. Also, it is not uncommon to find that children with speech and language disorders are also being treated for ADHD. Language disorders are common in ADHD with accumulating evidence from several research studies on pragmatic language difficulties. Although research has examined many important aspects of language and ADHD, there have been relatively few studies that have looked at the critical aspects of the child with ADHD ability to communicate effectively. This review is an effort towards provide a description for the pragmatic disorders in children with ADHD.",
+    "categories": [
+      "Communication"
+    ],
+    "keywords": [
+      "ADHD",
+      "Pragmatic Disorder",
+      "Communication Checklist-2"
+    ],
+    "publication": {
+      "type": null,
+      "publishedDate": "2022-03-31",
+      "year": 2022
+    },
+    "journal": {
+      "name": "Journal of Abnormal and Behavioural Psychology",
+      "abbreviation": "J Abnorm Psychol",
+      "issn": null,
+      "volume": "8",
+      "issue": "2",
+      "pages": {
+        "start": null,
+        "end": null
+      }
+    },
+    "authors": [
+      {
+        "given": "Wael",
+        "family": "Al-Dakroury",
+        "sequence": 1
+      }
+    ],
+    "access": {
+      "status": "open",
+      "license": "CC BY 4.0",
+      "source": null,
+      "licenseUrl": null,
+      "sourceUrl": "https://www.hilarispublisher.com/open-access/pragmatic-disorder-in-children-with-adhd-87613.html",
+      "localPdfUrl": "library/doi__10.37421__2472-0496.22.8.162.pdf",
+      "researchGateUrl": "https://www.researchgate.net/publication/363856225_pragmatic-disorder-in-children-with-adhd"
     },
     "visibility": {
       "hidden": false
@@ -10442,6 +10562,81 @@
     "legacy": {}
   },
   {
+    "id": "doi-10.24087-iam.2019.3.1.693",
+    "slug": "10.24087-iam.2019.3.1.693",
+    "doi": "10.24087/iam.2019.3.1.693",
+    "identifiers": {
+      "doi": "10.24087/iam.2019.3.1.693",
+      "url": "https://doi.org/10.24087/IAM.2019.3.1.693",
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "Knowledge and Attitude of Female Teachers Toward ADHD at Elementary Schools, Jeddah, KSA, 2017",
+    "abstract": "Background: Attention deficit hyperactivity disorder (ADHD) is one of the most common psychiatry disorders in children, it has negative impact on the academic, familial and social functioning of the child. The recent advances in its treatment calls for social intervention including school-based activities, which necessitates knowledgeable teachers. Aim: The main aim of this study is to explore the level of knowledge and attitude of the school teachers of female primary schools  in Jeddah  about ADHD.  Subjects and  methods: Through a  cross sectional design, 376  school teachers were selected by multistage  sampling from female primary schools in Jeddah, they were  invited to fill a predesigned valid questionnaire reflecting their knowledge and attitude towards ADHD. SPSS ver 21 was used for data entry and statistical analysis which included descriptive as  well as  analytic analysis using Chi square test. P value<0.05 was considered an indication for significance. Results:  Almost one half of the teachers (47.6%) aged between 40-49 years, who were mostly married (81.1%) and having children (84.3%). Out of them, 8.2% reported that they have ADHD child. Although that more than one half of the teachers (54.3%) thought that they had knowledge about  ADHD,  the true  knowledge test  questions revealed  a much  lower percentage  (24.5%) who  showed  good knowledge about ADHD. Only older teachers had significant better knowledge. More than one half of the teachers (57.2%) perceive that the first step in the management policy when suspecting ADHD is the referral of the child to advisor and asking for attendance of the parents. Conclusion and  recommendations: Most of the teachers have insufficient level of knowledge about ADHD. There is a tangible need for training programs provided to the teachers about early recognition and policy of care of ADHD children.",
+    "categories": [
+      "Awareness"
+    ],
+    "keywords": [
+      "Attention deficit hyperactivity disorder",
+      "ADHD",
+      "Teachers",
+      "Knowledge",
+      "Attitude"
+    ],
+    "publication": {
+      "type": null,
+      "publishedDate": "2019-01",
+      "year": 2019
+    },
+    "journal": {
+      "name": "International Annals of Medicine",
+      "abbreviation": null,
+      "issn": null,
+      "volume": null,
+      "issue": null,
+      "pages": {
+        "start": null,
+        "end": null
+      }
+    },
+    "authors": [
+      {
+        "given": "Manal",
+        "family": "Basudan",
+        "sequence": 1
+      },
+      {
+        "given": "Naeema",
+        "family": "Akbar",
+        "sequence": 2
+      },
+      {
+        "given": "Waled",
+        "family": "El-Ghamdi",
+        "sequence": 3
+      },
+      {
+        "given": "Adel",
+        "family": "Ibrahim",
+        "sequence": 4
+      }
+    ],
+    "access": {
+      "status": "open",
+      "license": null,
+      "source": null,
+      "licenseUrl": null,
+      "sourceUrl": "https://doi.org/10.24087/IAM.2019.3.1.693",
+      "localPdfUrl": "library/doi__10.24087__iam.2019.3.1.693.pdf",
+      "researchGateUrl": "https://www.researchgate.net/publication/330193766_Knowledge_and_Attitude_of_Female_Teachers_Toward_ADHD_at_Elementary_Schools_Jeddah_KSA_2017"
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
+  },
+  {
     "id": "doi-10.24911-ijmdc.51-1543855405",
     "slug": "10.24911-ijmdc.51-1543855405",
     "doi": "10.24911/ijmdc.51-1543855405",
@@ -11446,65 +11641,6 @@
       "licenseUrl": null,
       "sourceUrl": null,
       "localPdfUrl": "library/doi__10.1007__s12144-018-0032-3.pdf",
-      "researchGateUrl": null
-    },
-    "visibility": {
-      "hidden": false
-    },
-    "legacy": {}
-  },
-  {
-    "id": "doi-10.24087-iam.2019.3.1.693",
-    "slug": "10.24087-iam.2019.3.1.693",
-    "doi": "10.24087/iam.2019.3.1.693",
-    "identifiers": {
-      "doi": null,
-      "url": null,
-      "pmid": null,
-      "pmcid": null,
-      "isbn": null
-    },
-    "title": "Knowledge and Attitude of Female Teachers Toward ADHD at Elementary Schools, Jeddah, KSA, 2017",
-    "abstract": "<strong>Background:</strong> Attention deficit hyperactivity disorder (ADHD) is one of the most common psychiatry disorders in children, it has negative impact on the academic, familial and social functioning of the child. The recent advances in its treatment calls for social intervention including school-based activities, which necessitates knowledgeable teachers.",
-    "categories": [
-      "Uncategorized"
-    ],
-    "keywords": [],
-    "publication": {
-      "type": null,
-      "publishedDate": null,
-      "year": 2018
-    },
-    "journal": {
-      "name": null,
-      "abbreviation": null,
-      "issn": null,
-      "volume": null,
-      "issue": null,
-      "pages": {
-        "start": null,
-        "end": null
-      }
-    },
-    "authors": [
-      {
-        "given": "A.",
-        "family": "Ibrahim",
-        "sequence": 1
-      },
-      {
-        "given": "Manal",
-        "family": "Basudan",
-        "sequence": 2
-      }
-    ],
-    "access": {
-      "status": "unknown",
-      "license": null,
-      "source": null,
-      "licenseUrl": null,
-      "sourceUrl": null,
-      "localPdfUrl": "library/doi__10.24087__iam.2019.3.1.693.pdf",
       "researchGateUrl": null
     },
     "visibility": {
@@ -12805,20 +12941,20 @@
     "doi": "10.25081/ijgd.2017.v1i1.9",
     "identifiers": {
       "doi": "10.25081/ijgd.2017.v1i1.9",
-      "url": null,
+      "url": "https://igdjournal.com/index.php/ijgd/article/view/9",
       "pmid": null,
       "pmcid": null,
       "isbn": null
     },
     "title": "Knowledge of kindergarten and elementary school teachers regarding attention deficit hyperactivity disorder at Qassim region (Conference Abstract)",
-    "abstract": "<strong>Background:</strong>",
+    "abstract": "ABSTRACTS OF 1ST INTERNATIONAL GROWTH AND DEVELOPMENT CONFERENCE – IGDC 2017\nBackground: Attention Deficit Hyperactivity Disorder (ADHD) is one of the most common mental disorders that manifest among children. Despite the fact that the teacher's role is essential in the assessment and management of pupils with ADHD and the recommendation of participation of teachers for the success and efficiency of diagnoses and treatment, the vast majority of teachers have neither understanding nor knowledge of ADHD. Objectives: The current study explores the kindergarten and elementary school teachers' knowledge regarding early detection and management of ADHD. Methods: Cross sectional survey using stratified random sampling technique was carried out in governmental and private elementary and Kindergarten schools in four cities of Qassim region, Saudi Arabia. Results: The study included 1095 teachers, 711 (59.3%) did not get information about ADHD  during undergraduate studies. Teachers' overall ADHD knowledge mean was 21.7+5.5 out of 38 marks. Teachers with high qualification degree and kindergarten specialty scored 56.4% and 60.2% respectively. Teachers who attended conferences related to ADHD scored 64.5%, while teachers who read about ADHD or have been ever asked to diagnose/teach an ADHD student had 59.4% and 62.1% respectively. The level of ADHD knowledge perception showed that 76% of teachers were  knowledgeable in relation to overall perception about ADHD. Conclusion: Teachers who have higher qualifications or training in identifying ADHD children scored higher in our study.",
     "categories": [
-      "Uncategorized"
+      "Awareness"
     ],
     "keywords": [],
     "publication": {
       "type": null,
-      "publishedDate": null,
+      "publishedDate": "2017-12-17",
       "year": 2017
     },
     "journal": {
@@ -12841,10 +12977,10 @@
     ],
     "access": {
       "status": "open",
-      "license": null,
+      "license": "CC BY",
       "source": null,
       "licenseUrl": null,
-      "sourceUrl": "https://updatepublishing.com/journal/index.php/ijgd/article/download/5370/4830",
+      "sourceUrl": "https://igdjournal.com/index.php/ijgd/article/view/9",
       "localPdfUrl": "library/doi__10.25081__ijgd.2017.v1i1.9.pdf",
       "researchGateUrl": null
     },
@@ -18252,54 +18388,6 @@
     "legacy": {}
   },
   {
-    "id": "doi-10.4103-hjhs.hjhs_32_22",
-    "slug": "10.4103-hjhs.hjhs3222",
-    "doi": "10.4103/hjhs.hjhs_32_22",
-    "identifiers": {
-      "doi": null,
-      "url": null,
-      "pmid": null,
-      "pmcid": null,
-      "isbn": null
-    },
-    "title": "Attention Deficit Hyperactivity Disorder Research in Saudi Arabia: Current Status, Gaps, and the Future Needs",
-    "abstract": "Attention deficit hyperactivity disorder (ADHD) is a common neurobehavioral disorder in children and adolescents, with estimated prevalence rates varying by the environment, gender, and age of presentation. ADHD research in Saudi Arabia is currently receiving a better research attention. This review aimed to summarize the literature data about ADHD in Saudi Arabia by identifying the prevalence, risk factors, comorbidities, and current guidelines for management. In addition, the author tried to set the gap areas and point out the future needs of ADHD research in Saudi Arabia. About 30 articles were conducted in Saudi Arabia and were reviewed through the PubMed, Google Scholar, and ResearchGate databases. The keywords used were ADHD prevalence, ADHD risk, ADHD comorbidities, ADHD screening, ADHD diagnosis, ADHD management, and ADHD awareness. All the keywords were followed by “Saudi Arabia” to restrict the search to this country. The conclusion of this review is an estimated prevalence rate varying by region, ranging between 2.7% and 16.4% in Saudi Arabia, with a little available data involving the disease outcomes, therapeutic educational intervention, utilization of services, and adherence to the treatment. In addition, the screening and diagnostic instruments used in Saudi Arabia are crucial research areas and must be evaluated and validated. Therefore, further research is required to broaden the horizons of understanding ADHD in the Saudi context.",
-    "categories": [
-      "Uncategorized"
-    ],
-    "keywords": [],
-    "publication": {
-      "type": null,
-      "publishedDate": null,
-      "year": null
-    },
-    "journal": {
-      "name": null,
-      "abbreviation": null,
-      "issn": null,
-      "volume": null,
-      "issue": null,
-      "pages": {
-        "start": null,
-        "end": null
-      }
-    },
-    "authors": [],
-    "access": {
-      "status": "unknown",
-      "license": null,
-      "source": null,
-      "licenseUrl": null,
-      "sourceUrl": null,
-      "localPdfUrl": "library/doi__10.4103__hjhs.hjhs_32_22.pdf",
-      "researchGateUrl": null
-    },
-    "visibility": {
-      "hidden": false
-    },
-    "legacy": {}
-  },
-  {
     "id": "doi-10.6084-m9.figshare.26310276",
     "slug": "10.6084-m9.figshare.26310276",
     "doi": "10.6084/m9.figshare.26310276",
@@ -18436,54 +18524,6 @@
       "licenseUrl": null,
       "sourceUrl": null,
       "localPdfUrl": "library/doi__10.12816__0055785.pdf",
-      "researchGateUrl": null
-    },
-    "visibility": {
-      "hidden": false
-    },
-    "legacy": {}
-  },
-  {
-    "id": "doi-10.37421-2472-0496.22.8.162",
-    "slug": "10.37421-2472-0496.22.8.162",
-    "doi": "10.37421/2472-0496.22.8.162",
-    "identifiers": {
-      "doi": null,
-      "url": null,
-      "pmid": null,
-      "pmcid": null,
-      "isbn": null
-    },
-    "title": "Pragmatic Disorder in Children with ADHD",
-    "abstract": "Although language disorders are not among the fundamental features or required to fulfill the diagnostic criteria for ADHD, several research studies revealed a high prevalence of communication disorders among children with ADHD. The evidence from the literature suggests that inattention, hyperactivity, and impulsivity have their effects on different speech and language skills. The American Speech-Language-Hearing Association claimed that co-occurring ADHD and speech and language disorders represent a frequently encountered challenge for school-based speech-language pathologists and other practitioners. Also, it is not uncommon to find that children with speech and language disorders are also being treated for ADHD. Language disorders are common in ADHD with accumulating evidence from several research studies on pragmatic language difficulties. Although research has examined many important aspects of language and ADHD, there have been relatively few studies that have looked at the critical aspects of the child with ADHD ability to communicate effectively. This review is an effort towards provide a description for the pragmatic disorders in children with ADHD.",
-    "categories": [
-      "Uncategorized"
-    ],
-    "keywords": [],
-    "publication": {
-      "type": null,
-      "publishedDate": null,
-      "year": null
-    },
-    "journal": {
-      "name": null,
-      "abbreviation": null,
-      "issn": null,
-      "volume": null,
-      "issue": null,
-      "pages": {
-        "start": null,
-        "end": null
-      }
-    },
-    "authors": [],
-    "access": {
-      "status": "unknown",
-      "license": null,
-      "source": null,
-      "licenseUrl": null,
-      "sourceUrl": null,
-      "localPdfUrl": "library/doi__10.37421__2472-0496.22.8.162.pdf",
       "researchGateUrl": null
     },
     "visibility": {
