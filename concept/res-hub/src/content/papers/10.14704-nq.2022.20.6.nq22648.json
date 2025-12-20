@@ -2,13 +2,50 @@
   "doi": "10.14704/nq.2022.20.6.nq22648",
   "slug": "10.14704-nq.2022.20.6.nq22648",
   "title": "Knowledge and Attitude of Saudi Primary Teachers Towards Students with Attention-Deficit Hyperactivity Disorder (ADHD) in Albaha Region",
-  "abstract": "<strong>Background:</strong> Attention deficit hyperactivity disorder (ADHD) is among the most frequent psychiatric disorder in children, and it has a detrimental impact on the child’s social, familial, and familial functioning. Teachers are frequently the first to suspect attention ADHD in their students since they are with them for the most of the day and are familiar with how normal students behave in the classroom.",
+  "abstract": "Background: Attention deficit hyperactivity disorder (ADHD) is among the most frequent psychiatric disorder in children, and it has a detrimental impact on the child's social, familial, and familial functioning. Teachers are frequently the first to suspect attention ADHD in their students since they are with them for the most of the day and are familiar with how normal students behave in the classroom.\nAims & Objective: this study aims to identify and measure the awareness and attitude of primary teachers towards the diagnosis and management of students with ADHD.\nSubjects and methods: This cross-sectional study was conducted at a primary school in the AlBaha area of Saudi Arabia from January 18 to April 24, 2022. Data were collected using a written questionnaire in Arabic language and simple vocabulary. Data was statistically analyzed using SPSS (version 25).\nResults: Around 361 participants completed the questionnaire; worked in AlBaha. Therefore, they were included in the analysis. Most of the teachers were female (N = 226, 62.6%) and had bachelor's as their highest qualification (N = 296, 81.9 %). For most of the questions, the teachers had inadequate or poor knowledge, around 66.5% of teachers had more than ten years of work experience.\nConclusions: The study emphasized the lack of understanding of ADHD among primary and kindergarten school teachers in AlBaha city. This information gap raises severe concerns about the screening of ADHD at the school level in Saudia Arabia.",
   "categories": [
-    "Uncategorized"
+    "Awareness"
   ],
-  "authors": [],
+  "keywords": [
+    "ADHD",
+    "Primary schools",
+    "Knowledge",
+    "Attitudes",
+    "Saudi Arabia",
+    "Teachers",
+    "Awareness"
+  ],
+  "authors": [
+    {
+      "given": "Abdullah",
+      "family": "Almilaibary",
+      "sequence": 1
+    }
+  ],
+  "publication": {
+    "year": 2022
+  },
+  "journal": {
+    "name": "NeuroQuantology",
+    "abbreviation": "NeuroQuantology",
+    "volume": "20",
+    "issue": "6",
+    "pages": {
+      "start": "6467",
+      "end": "6474"
+    }
+  },
   "access": {
-    "status": "unknown"
+    "status": "open",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "sourceUrl": "https://www.neuroquantology.com/open-access/Knowledge+and+Attitude+of+Saudi+Primary+Teachers+Towards+Students+with+Attention-Deficit+Hyperactivity+Disorder+%2528ADHD%2529+in+Albaha+Region_4644/",
+    "researchGateUrl": "https://www.researchgate.net/publication/362057357_Knowledge_and_Attitude_of_Saudi_Primary_Teachers_Towards_Students_with_Attention-Deficit_Hyperactivity_Disorder_ADHD_in_Albaha_Region",
+    "localPdfUrl": "library/knowledge-and-attitude-of-saudi-primary-teachers-towards-students-with-attention-deficit-hyperactivity-disorder-adhd-in-albaha-region-2022.pdf"
+  },
+  "identifiers": {
+    "doi": "10.14704/nq.2022.20.6.nq22648",
+    "url": "https://www.neuroquantology.com/open-access/Knowledge+and+Attitude+of+Saudi+Primary+Teachers+Towards+Students+with+Attention-Deficit+Hyperactivity+Disorder+%2528ADHD%2529+in+Albaha+Region_4644/"
   },
   "visibility": {
     "hidden": false
