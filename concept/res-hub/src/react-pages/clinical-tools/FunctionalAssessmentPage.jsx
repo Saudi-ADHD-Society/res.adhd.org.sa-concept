@@ -1,5 +1,5 @@
 import React from 'react';
-import { Languages, Users, Activity, FileText, Target, Scale } from 'lucide-react';
+import { Users, Activity, FileText, Target, Scale } from 'lucide-react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 
 const FunctionalAssessmentPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (

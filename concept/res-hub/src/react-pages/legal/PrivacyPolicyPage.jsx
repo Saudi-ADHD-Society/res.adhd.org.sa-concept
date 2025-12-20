@@ -1,5 +1,5 @@
 import React from 'react';
-import { Shield, Lock, Eye, Mail, FileText, ExternalLink, Server, Key } from 'lucide-react';
+import { Shield, Lock, Eye, FileText, ExternalLink, Server, Key } from 'lucide-react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 
 const PrivacyPolicyPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
