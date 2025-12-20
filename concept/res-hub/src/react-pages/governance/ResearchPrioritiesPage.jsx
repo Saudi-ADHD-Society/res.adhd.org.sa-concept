@@ -229,9 +229,7 @@ const ResearchPrioritiesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
           </p>
           <div className="flex flex-col sm:flex-row gap-3">
             <a
-              href="https://res.adhd.org.sa/doi/10.1177/10870547241307739"
-              target="_blank"
-              rel="noreferrer"
+              href={`${basePath}library/10.1177-10870547241307739/`}
               className="inline-flex items-center justify-center px-4 py-2 rounded-lg bg-slate-900 text-white font-semibold hover:bg-slate-800"
             >
               View article details
