@@ -5838,7 +5838,7 @@
       "pmcid": null,
       "isbn": null
     },
-    "title": "Attention-Deficit and Hyperactivity Disorder (ADHD) Symptoms in Saudi Children: Parental Knowledge and Awareness - Archives of Pharmacy Practice",
+    "title": "Attention-Deficit and Hyperactivity Disorder (ADHD) Symptoms in Saudi Children: Parental Knowledge and Awareness",
     "abstract": "Attention deficit/hyperactivity disorder (ADHD) is the most common mental health condition in children, affecting social interaction and self-esteem. ADHD is characterized by symptoms such as inattention, hyperactive-impulsive behavior, or both. There is limited research on parental knowledge and awareness of ADHD in Saudi Arabia. Understanding parental knowledge is crucial for effective parenting and treatment compliance. We are aiming to assess parental knowledge and awareness regarding ADHD symptoms. This cross-sectional study utilizes a structured questionnaire developed by the authors. The study includes Saudi parents who have at least one child diagnosed with ADHD and are actively involved in raising their children. Parents of children with intellectual disabilities and those residing outside Saudi Arabia are excluded. The study included 327 participants, the majority of respondents fall within the 21-30 and 31-40 age, comprising 37.0% and 29.1% of the sample. Females constitute a significant majority at 80.7% compared to males at 19.3%. The majority of the population, comprising 52.9%, belongs to the \"Moderate knowledge level\" category, followed by 30.9% to the \"Good knowledge level\" category, and 16.2% low knowledge level. Age, gender, and occupation were the only parameters to have a significant association with knowledge scores, 0.002, 0.012, and 0.005 respectively. In conclusion, ADHD is a prevalent disorder among children in Saudi Arabia, and parents need to be aware of the symptoms and seek proper diagnosis and treatment. Our study findings showed that participants exhibited sufficient knowledge scores compared to other studies held in Saudi Arabia.",
     "language": "English",
     "categories": [
@@ -5861,18 +5861,69 @@
       "abbreviation": "Arch Pharm Pract",
       "issn": null,
       "volume": "14",
-      "issue": "1",
+      "issue": "S",
       "pages": {
-        "start": "6231523",
+        "start": "A06231523",
         "end": null
       }
     },
-    "authors": [],
+    "authors": [
+      {
+        "given": "Naseem",
+        "family": "Alhujaili",
+        "sequence": 1
+      },
+      {
+        "given": "Sarah",
+        "family": "Allaf",
+        "sequence": 2
+      },
+      {
+        "given": "Sarah",
+        "family": "Alhawiti",
+        "sequence": 3
+      },
+      {
+        "given": "Ghadi",
+        "family": "Alyoubi",
+        "sequence": 4
+      },
+      {
+        "given": "Hassan",
+        "family": "Alfardan",
+        "sequence": 5
+      },
+      {
+        "given": "Arwa",
+        "family": "Alhawdar",
+        "sequence": 6
+      },
+      {
+        "given": "Abdulhakim",
+        "family": "Alghamdi",
+        "sequence": 7
+      },
+      {
+        "given": "Umar",
+        "family": "Abdul Hai",
+        "sequence": 8
+      },
+      {
+        "given": "Atheer",
+        "family": "Al-Lihaibi",
+        "sequence": 9
+      },
+      {
+        "given": "Khames",
+        "family": "Alzahrani",
+        "sequence": 10
+      }
+    ],
     "access": {
       "status": "open",
       "license": "CC BY-NC-SA 4.0",
       "source": null,
-      "licenseUrl": null,
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "sourceUrl": null,
       "localPdfUrl": "library/attention-deficit-and-hyperactivity-disorder-adhd-symptoms-in-saudi-children-parental-knowledge-and-awareness-archives-of-pharmacy-practice-2023-8829ca6437.pdf",
       "researchGateUrl": null
@@ -11418,31 +11469,36 @@
     "doi": null,
     "identifiers": {
       "doi": null,
-      "url": null,
+      "url": "https://www.jetir.org/view?paper=JETIR1811268",
       "pmid": null,
       "pmcid": null,
       "isbn": null
     },
-    "title": "Attention Deficit Disorders Among Adult Learners Causes, Symptoms and Treatment",
+    "title": "Attention Deficit Disorders among Adult Learners: Causes, Symptoms and Treatment",
     "abstract": "In the present scenario of curriculum change, modification and possible reform, the traditional approach of teaching has been cynically criticized. Due to different reasons, many institutions have started reducing teaching time from 40-50 minutes to 15-20 min in length. Lack of attention among learners may be one of the most significant factors. A review of the literature on this topic reveals many facts drawn from previous studies. The most alarming findings could be related to significant decrease in students\" attention during a lecture/class. Such behavioural patterns are very dangerous for learners, and wastage for parents as they may lose a human resource. Therefore, the present theoretical approach towards Attention Deficit Disorders (ADHD) among Saudi learners in general and adult learners in particular will explore something useful which can be treated as a base for further researches especially empirical studies.",
     "language": "English",
     "categories": [
-      "Legacy / No DOI"
+      "Awareness"
     ],
     "keywords": [
       "adult adhd",
       "education",
-      "learning"
+      "learning",
+      "Attention Deficit Disorders",
+      "traditional teaching",
+      "behavioral patterns",
+      "human resource",
+      "Saudi learners"
     ],
     "publication": {
       "type": null,
-      "publishedDate": null,
+      "publishedDate": "2018-11",
       "year": 2018
     },
     "journal": {
       "name": "Journal of Emerging Technologies and Innovative Research",
       "abbreviation": "JETIR",
-      "issn": null,
+      "issn": "2349-5162",
       "volume": "5",
       "issue": "11",
       "pages": {
@@ -11450,15 +11506,21 @@
         "end": "522"
       }
     },
-    "authors": [],
+    "authors": [
+      {
+        "given": "Intakhab Alam",
+        "family": "Khan",
+        "sequence": 1
+      }
+    ],
     "access": {
-      "status": "unknown",
+      "status": "open",
       "license": null,
       "source": null,
       "licenseUrl": null,
-      "sourceUrl": null,
+      "sourceUrl": "https://www.jetir.org/view?paper=JETIR1811268",
       "localPdfUrl": "library/attention-deficit-disorders-among-adult-learners-causes-symptoms-and-treatment-2018-3e02fa489b.pdf",
-      "researchGateUrl": null
+      "researchGateUrl": "https://www.researchgate.net/publication/328914664_ATTENTION_DEFICIT_DISORDERS_AMONG_ADULT_LEARNERS_CAUSES_SYMPTOMS_AND_TREATMENT"
     },
     "visibility": {
       "hidden": false
@@ -18662,11 +18724,16 @@
       "school",
       "study",
       "prevalence",
-      "risk factors"
+      "risk factors",
+      "behavioral",
+      "emotional",
+      "schoolchildren",
+      "adolescents",
+      "Child Behavior Checklist (CBCL)"
     ],
     "publication": {
       "type": null,
-      "publishedDate": null,
+      "publishedDate": "2004-01-19",
       "year": 2004
     },
     "journal": {
@@ -18680,7 +18747,38 @@
         "end": "9"
       }
     },
-    "authors": [],
+    "authors": [
+      {
+        "given": "Moataz M",
+        "family": "Abdel-Fattah",
+        "sequence": 1
+      },
+      {
+        "given": "Abdel-Rahman A",
+        "family": "Asal",
+        "sequence": 2
+      },
+      {
+        "given": "Saeed M",
+        "family": "Al-Asmary",
+        "sequence": 3
+      },
+      {
+        "given": "Nabil S",
+        "family": "Al-Helali",
+        "sequence": 4
+      },
+      {
+        "given": "Tawfiq M",
+        "family": "Al-Jabbar",
+        "sequence": 5
+      },
+      {
+        "given": "Mostafa A",
+        "family": "Arafa",
+        "sequence": 6
+      }
+    ],
     "access": {
       "status": "unknown",
       "license": null,
@@ -18688,7 +18786,7 @@
       "licenseUrl": null,
       "sourceUrl": null,
       "localPdfUrl": "library/emotional-and-behavioral-problems-among-male-saudi-schoolchildren-and-adolescents-prevalence-and-risk-factors-2004-0acdb44c21.pdf",
-      "researchGateUrl": null
+      "researchGateUrl": "https://www.researchgate.net/publication/235397488_Emotional_and_behavioral_problems_among_male_Saudi_schoolchildren_and_adolescents"
     },
     "visibility": {
       "hidden": false
@@ -18723,7 +18821,7 @@
     ],
     "publication": {
       "type": null,
-      "publishedDate": null,
+      "publishedDate": "2003-04-22",
       "year": 2003
     },
     "journal": {
@@ -18739,9 +18837,8 @@
     },
     "authors": [
       {
-        "given": "Farah Al",
-        "family": "Haidar",
-        "orcid": "https://orcid.org/0009-0009-4044-1111",
+        "given": "Fatima A",
+        "family": "Al-Haidar",
         "sequence": 1
       }
     ],

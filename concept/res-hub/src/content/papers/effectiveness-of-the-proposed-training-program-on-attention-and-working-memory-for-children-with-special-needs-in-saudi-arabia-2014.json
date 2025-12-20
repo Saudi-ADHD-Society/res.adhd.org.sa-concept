@@ -1,22 +1,42 @@
 {
-  "id": "legacy-79f3c842fb",
+  "doi": "10.7537/marslsj110814.60",
+  "id": "doi-10.7537-marslsj110814.60",
   "slug": "effectiveness-of-the-proposed-training-program-on-attention-and-working-memory-for-children-with-special-needs-in-saudi-arabia-2014",
   "title": "Effectiveness of the proposed training program on attention and working memory for children with special needs in Saudi Arabia",
-  "abstract": "<div class=\"page\" title=\"Page 1\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n\nThis study aims at revealing the effectiveness of a program of the art of paper forming activities, Origami, for the development of attention and working memory in a sample of children with Attention Deficit Hyperactivity Disorder in the Kingdom of Saudi Arabia. The sample consisted of (25) students with Attention Deficit Hyperactivity Disorder. The study used Diagnostic and Statistical Manual Scale (DSM-IV-TR®) for attention deficit and hyperactivity and a test of scientific concepts photographer to assess working memory. Results indicated a high level of the sample’s attention deficit in the pre application 77%, and a low level of the sample’s attention deficit in the post application 55.5%.Conclusion: The T. Test value is a significant value of (9.17) in (0.05 level)which indicates the effectiveness of the suggested program in decreasing attention deficit hyperactivity. This indicates the effectiveness of the suggested program in sample performance on the scientific concepts Test, and working memory. Recommendations: employing origami activities as one of cheap technology to reduce attention deficit and hyperactivity disorder of children with special needs. Research objectives:1- Preparing an Origami activities program for developing the attention and the working memory capacity for a sample of elementary students with Attention Deficit Hyperactivity Disorder in Jeddah.2- Determining the effectiveness of the suggested program of forming Origami activities, for developing the attention for a sample of elementary students with Attention Deficit Hyperactivity Disorder in Jeddah.3- Determining the effectiveness of the suggested program of forming Origami activities, for developing the working memory capacity for a sample of students with Attention Deficit Hyperactivity Disorder in Jeddah.\n\n</div>\n</div>\n</div>",
+  "abstract": "This study aims at revealing the effectiveness of a program of the art of paper forming activities, Origami, for the development of attention and working memory in a sample of children with Attention Deficit Hyperactivity Disorder in the Kingdom of Saudi Arabia. The sample consisted of (25) students with Attention Deficit Hyperactivity Disorder. The study used Diagnostic and Statistical Manual Scale (DSM-IV-TR®) for attention deficit and hyperactivity and a test of scientific concepts photographer to assess working memory. Results indicated a high level of the sample's attention deficit in the pre application 77%, and a low level of the sample's attention deficit in the post application 55.5%.Conclusion: The T. Test value is a significant value of (9.17) in (0.05 level)which indicates the effectiveness of the suggested program in decreasing attention deficit hyperactivity. This indicates the effectiveness of the suggested program in sample performance on the scientific concepts Test, and working memory. Recommendations: employing origami activities as one of cheap technology to reduce attention deficit and hyperactivity disorder of children with special needs. Research objectives:1- Preparing an Origami activities program for developing the attention and the working memory capacity for a sample of elementary students with Attention Deficit Hyperactivity Disorder in Jeddah.2- Determining the effectiveness of the suggested program of forming Origami activities, for developing the attention for a sample of elementary students with Attention Deficit Hyperactivity Disorder in Jeddah.3- Determining the effectiveness of the suggested program of forming Origami activities, for developing the working memory capacity for a sample of students with Attention Deficit Hyperactivity Disorder in Jeddah.",
   "categories": [
-    "Legacy / No DOI"
+    "Interventions"
   ],
   "keywords": [
     "Origami",
     "Attention deficit",
     "working memory"
   ],
+  "authors": [
+    {
+      "given": "Diaa E M",
+      "family": "Motaweh",
+      "sequence": 1
+    },
+    {
+      "given": "HiroMitsu",
+      "family": "Fukuyama",
+      "sequence": 2
+    },
+    {
+      "given": "Ahmed N A",
+      "family": "Issa",
+      "sequence": 3
+    }
+  ],
   "publication": {
-    "year": 2014
+    "year": 2014,
+    "publishedDate": "2014-01"
   },
   "journal": {
     "name": "Life Science Journal",
-    "abbreviation": "Life Science Journal",
+    "abbreviation": "Life Sci J",
+    "issn": "1097-8135",
     "volume": "11",
     "issue": "8",
     "pages": {
@@ -25,7 +45,13 @@
     }
   },
   "access": {
-    "status": "unknown"
+    "status": "open",
+    "researchGateUrl": "https://www.researchgate.net/publication/332212284_Effectiveness_of_the_proposed_trainingprogram_on_attention_and_working_memory_for_children_with_special_needs_in_Saudi_Arabia",
+    "localPdfUrl": "library/effectiveness-of-the-proposed-training-program-on-attention-and-working-memory-for-children-with-special-needs-in-saudi-arabia-2014.pdf"
+  },
+  "identifiers": {
+    "doi": "10.7537/marslsj110814.60",
+    "url": "https://doi.org/10.7537/marslsj110814.60"
   },
   "visibility": {
     "hidden": false
