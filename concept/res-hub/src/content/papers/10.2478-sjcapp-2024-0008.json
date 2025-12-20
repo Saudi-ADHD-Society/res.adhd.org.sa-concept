@@ -6,9 +6,133 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "keywords": [
+    "ADHD",
+    "Children",
+    "VADPRS",
+    "VADTRS",
+    "Parent",
+    "Teacher",
+    "Saudi Arabia",
+    "Diagnosis"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2024-01-01",
+    "year": 2024
+  },
+  "journal": {
+    "name": "Scandinavian Journal of Child and Adolescent Psychiatry and Psychology",
+    "issn": "2245-8875",
+    "volume": "12",
+    "issue": "1",
+    "pages": {
+      "start": "72",
+      "end": "83"
+    }
+  },
+  "authors": [
+    {
+      "given": "Mohammed M. J.",
+      "family": "Alqahtani",
+      "sequence": 1,
+      "authorship": "Primary Author"
+    },
+    {
+      "given": "Nouf Mohammed",
+      "family": "Al Saud",
+      "sequence": 2
+    },
+    {
+      "given": "Nawal Mohammed",
+      "family": "Alsharef",
+      "sequence": 3
+    },
+    {
+      "given": "Saleh Mohammed",
+      "family": "Alsalhi",
+      "sequence": 4
+    },
+    {
+      "given": "Elham H.",
+      "family": "Al-Hifthy",
+      "sequence": 5
+    },
+    {
+      "given": "Ahmad N.",
+      "family": "AlHadi",
+      "sequence": 6
+    },
+    {
+      "given": "Yasser",
+      "family": "Ad-Dab'bagh",
+      "sequence": 7
+    },
+    {
+      "given": "Fawwaz Abdulrazaq",
+      "family": "Alenazi",
+      "sequence": 8
+    },
+    {
+      "given": "Barakat M.",
+      "family": "Alotaibi",
+      "sequence": 9
+    },
+    {
+      "given": "Sultan Mahmoud",
+      "family": "Alsaeed",
+      "sequence": 10
+    },
+    {
+      "given": "Boshra A.",
+      "family": "Arnout",
+      "sequence": 11
+    },
+    {
+      "given": "Latifah",
+      "family": "ALQasem",
+      "sequence": 12
+    },
+    {
+      "given": "Abdulkarim",
+      "family": "Alhossein",
+      "sequence": 13
+    },
+    {
+      "given": "Yasser Jubran",
+      "family": "Alqahtani",
+      "sequence": 14
+    },
+    {
+      "given": "Samirah A.",
+      "family": "AlGhamdi",
+      "sequence": 15
+    },
+    {
+      "given": "Nader",
+      "family": "Alrahili",
+      "sequence": 16
+    },
+    {
+      "given": "Jeremy",
+      "family": "Varnham",
+      "sequence": 17
+    },
+    {
+      "given": "Saeed Abdulwahab",
+      "family": "Asiri",
+      "sequence": 18
+    }
+  ],
+  "identifiers": {
+    "doi": "10.2478/sjcapp-2024-0008",
+    "url": "https://doi.org/10.2478/sjcapp-2024-0008"
+  },
   "access": {
-    "status": "unknown",
+    "status": "open",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-nc-nd/4.0",
+    "sourceUrl": "https://doi.org/10.2478/sjcapp-2024-0008",
     "localPdfUrl": "library/doi__10.2478__sjcapp-2024-0008.pdf"
   },
   "visibility": {
