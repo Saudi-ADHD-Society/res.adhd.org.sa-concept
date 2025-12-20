@@ -56,10 +56,11 @@ const TopicGuideDiagnosisPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           <button
             onClick={() => scrollToSection(clinicalRef)}
-            className="group flex items-start space-x-3 p-4 bg-white rounded-xl border-2 border-emerald-200 hover:border-emerald-400 hover:shadow-md transition-all text-left"
+            className="group flex items-start space-x-3 p-4 bg-white rounded-xl border-2 border-emerald-200 hover:border-emerald-400 hover:shadow-md transition-all text-left focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2"
+            aria-label="Navigate to Clinical Diagnosis section"
           >
             <div className="w-10 h-10 bg-emerald-100 group-hover:bg-emerald-500 rounded-lg flex items-center justify-center shrink-0 transition-colors">
-              <Search className="text-emerald-700 group-hover:text-white transition-colors" size={20} />
+              <Search className="text-emerald-700 group-hover:text-white transition-colors" size={20} aria-hidden="true" />
             </div>
             <div>
               <h3 className="font-bold text-slate-900 group-hover:text-emerald-700 text-sm">Clinical Diagnosis</h3>
@@ -69,10 +70,11 @@ const TopicGuideDiagnosisPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => 
 
           <button
             onClick={() => scrollToSection(functionalRef)}
-            className="group flex items-start space-x-3 p-4 bg-white rounded-xl border-2 border-blue-200 hover:border-blue-400 hover:shadow-md transition-all text-left"
+            className="group flex items-start space-x-3 p-4 bg-white rounded-xl border-2 border-blue-200 hover:border-blue-400 hover:shadow-md transition-all text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
+            aria-label="Navigate to Functional Impairment section"
           >
             <div className="w-10 h-10 bg-blue-100 group-hover:bg-blue-500 rounded-lg flex items-center justify-center shrink-0 transition-colors">
-              <ActivitySquare className="text-blue-700 group-hover:text-white transition-colors" size={20} />
+              <ActivitySquare className="text-blue-700 group-hover:text-white transition-colors" size={20} aria-hidden="true" />
             </div>
             <div>
               <h3 className="font-bold text-slate-900 group-hover:text-blue-700 text-sm">Functional Impairment</h3>
@@ -82,10 +84,11 @@ const TopicGuideDiagnosisPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => 
 
           <button
             onClick={() => scrollToSection(screeningRef)}
-            className="group flex items-start space-x-3 p-4 bg-white rounded-xl border-2 border-amber-200 hover:border-amber-400 hover:shadow-md transition-all text-left"
+            className="group flex items-start space-x-3 p-4 bg-white rounded-xl border-2 border-amber-200 hover:border-amber-400 hover:shadow-md transition-all text-left focus:outline-none focus:ring-2 focus:ring-amber-500 focus:ring-offset-2"
+            aria-label="Navigate to Screening Tools section"
           >
             <div className="w-10 h-10 bg-amber-100 group-hover:bg-amber-500 rounded-lg flex items-center justify-center shrink-0 transition-colors">
-              <ListChecks className="text-amber-700 group-hover:text-white transition-colors" size={20} />
+              <ListChecks className="text-amber-700 group-hover:text-white transition-colors" size={20} aria-hidden="true" />
             </div>
             <div>
               <h3 className="font-bold text-slate-900 group-hover:text-amber-700 text-sm">Screening Tools</h3>
@@ -95,10 +98,11 @@ const TopicGuideDiagnosisPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => 
 
           <button
             onClick={() => scrollToSection(multiInformantRef)}
-            className="group flex items-start space-x-3 p-4 bg-white rounded-xl border-2 border-purple-200 hover:border-purple-400 hover:shadow-md transition-all text-left"
+            className="group flex items-start space-x-3 p-4 bg-white rounded-xl border-2 border-purple-200 hover:border-purple-400 hover:shadow-md transition-all text-left focus:outline-none focus:ring-2 focus:ring-purple-500 focus:ring-offset-2"
+            aria-label="Navigate to Multi-Informant section"
           >
             <div className="w-10 h-10 bg-purple-100 group-hover:bg-purple-500 rounded-lg flex items-center justify-center shrink-0 transition-colors">
-              <Users className="text-purple-700 group-hover:text-white transition-colors" size={20} />
+              <Users className="text-purple-700 group-hover:text-white transition-colors" size={20} aria-hidden="true" />
             </div>
             <div>
               <h3 className="font-bold text-slate-900 group-hover:text-purple-700 text-sm">Multi-Informant</h3>
@@ -108,10 +112,11 @@ const TopicGuideDiagnosisPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => 
 
           <button
             onClick={() => scrollToSection(functionalAssessmentRef)}
-            className="group flex items-start space-x-3 p-4 bg-white rounded-xl border-2 border-rose-200 hover:border-rose-400 hover:shadow-md transition-all text-left"
+            className="group flex items-start space-x-3 p-4 bg-white rounded-xl border-2 border-rose-200 hover:border-rose-400 hover:shadow-md transition-all text-left focus:outline-none focus:ring-2 focus:ring-rose-500 focus:ring-offset-2"
+            aria-label="Navigate to Functional Assessment section"
           >
             <div className="w-10 h-10 bg-rose-100 group-hover:bg-rose-500 rounded-lg flex items-center justify-center shrink-0 transition-colors">
-              <Ruler className="text-rose-700 group-hover:text-white transition-colors" size={20} />
+              <Ruler className="text-rose-700 group-hover:text-white transition-colors" size={20} aria-hidden="true" />
             </div>
             <div>
               <h3 className="font-bold text-slate-900 group-hover:text-rose-700 text-sm">Functional Assessment</h3>
@@ -121,10 +126,11 @@ const TopicGuideDiagnosisPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => 
 
           <button
             onClick={() => scrollToSection(notDiagnosisRef)}
-            className="group flex items-start space-x-3 p-4 bg-white rounded-xl border-2 border-red-200 hover:border-red-400 hover:shadow-md transition-all text-left"
+            className="group flex items-start space-x-3 p-4 bg-white rounded-xl border-2 border-red-200 hover:border-red-400 hover:shadow-md transition-all text-left focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2"
+            aria-label="Navigate to What ADHD Diagnosis is Not section"
           >
             <div className="w-10 h-10 bg-red-100 group-hover:bg-red-500 rounded-lg flex items-center justify-center shrink-0 transition-colors">
-              <AlertTriangle className="text-red-700 group-hover:text-white transition-colors" size={20} />
+              <AlertTriangle className="text-red-700 group-hover:text-white transition-colors" size={20} aria-hidden="true" />
             </div>
             <div>
               <h3 className="font-bold text-slate-900 group-hover:text-red-700 text-sm">What It's NOT</h3>

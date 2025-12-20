@@ -7,7 +7,7 @@ const basePath = import.meta.env.BASE_URL;
 
 <BaseLayout title="Research Portal - National ADHD Knowledge Hub">
   <HomeHero client:load basePath={basePath} />
-  <main class="max-w-7xl mx-auto px-4 md:px-8 py-10 min-h-[60vh]">
+  <div class="max-w-7xl mx-auto px-4 md:px-8 py-10 min-h-[60vh]">
     <HomePage client:load basePath={basePath} />
-  </main>
+  </div>
 </BaseLayout>

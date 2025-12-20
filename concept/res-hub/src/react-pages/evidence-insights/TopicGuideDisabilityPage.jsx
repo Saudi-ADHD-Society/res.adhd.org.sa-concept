@@ -184,7 +184,7 @@ const TopicGuideDisabilityPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
             text: 'Determine whether limitation is substantial and long-term in major life activities.',
           },
           {
-            icon: <ArrowRight size={18} className="text-indigo-700" />,
+            icon: <ArrowRight size={18} className="text-indigo-700" aria-hidden="true" />,
             title: '4) Match supports',
             text: 'Accommodations, services, rehabilitation, or financial aid depending on sector and severity.',
           },

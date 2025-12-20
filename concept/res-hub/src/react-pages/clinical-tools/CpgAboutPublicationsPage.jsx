@@ -31,7 +31,7 @@ const CpgAboutPublicationsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
               download
               className="inline-flex items-center text-emerald-700 hover:text-emerald-800 font-semibold text-sm"
             >
-              <Download size={16} className="mr-2" />
+              <Download size={16} className="mr-2" aria-hidden="true" />
               Download for Printing [PDF Spreads]
             </a>
             <a
@@ -39,7 +39,7 @@ const CpgAboutPublicationsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
               download
               className="inline-flex items-center text-emerald-700 hover:text-emerald-800 font-semibold text-sm"
             >
-              <Download size={16} className="mr-2" />
+              <Download size={16} className="mr-2" aria-hidden="true" />
               Download for Viewing [PDF]
             </a>
           </div>
@@ -62,7 +62,7 @@ const CpgAboutPublicationsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
             [Arabic version] Evidence-based clinical practice guideline for Management of Attention Deficit Hyperactivity Disorder (ADHD) in Saudi Arabia
           </h2>
           <p className="text-slate-600 text-sm md:text-base mb-4">
-            الدليل الإرشادي السريري المبني على البراهين لتشخيص وعلاج اضطراب فرط الحركة وتشتت الانتباه في المملكة العربية السعودية Al-daleel al-irshadi as-sareeri li idtirab fart alharakah wa tashatut alintibah fi al-mamlakah al-arabiah al-saudiah [Evidence-Based Clinical Practice Guideline for Management of Attention Deficit Hyperactivity Disorder (ADHD) in Saudi Arabia]. Riyadh: Saudi ADHD Society; 2020. [Arabic]. ISBN 978-603-03-3571-8.
+            <span lang="ar">الدليل الإرشادي السريري المبني على البراهين لتشخيص وعلاج اضطراب فرط الحركة وتشتت الانتباه في المملكة العربية السعودية</span> Al-daleel al-irshadi as-sareeri li idtirab fart alharakah wa tashatut alintibah fi al-mamlakah al-arabiah al-saudiah [Evidence-Based Clinical Practice Guideline for Management of Attention Deficit Hyperactivity Disorder (ADHD) in Saudi Arabia]. Riyadh: Saudi ADHD Society; 2020. [Arabic]. ISBN 978-603-03-3571-8.
           </p>
           <div className="flex flex-col sm:flex-row gap-3">
             <a
@@ -70,7 +70,7 @@ const CpgAboutPublicationsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
               download
               className="inline-flex items-center text-emerald-700 hover:text-emerald-800 font-semibold text-sm"
             >
-              <Download size={16} className="mr-2" />
+              <Download size={16} className="mr-2" aria-hidden="true" />
               Download for Printing [PDF Spreads]
             </a>
             <a
@@ -78,7 +78,7 @@ const CpgAboutPublicationsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
               download
               className="inline-flex items-center text-emerald-700 hover:text-emerald-800 font-semibold text-sm"
             >
-              <Download size={16} className="mr-2" />
+              <Download size={16} className="mr-2" aria-hidden="true" />
               Download for Viewing [PDF]
             </a>
           </div>

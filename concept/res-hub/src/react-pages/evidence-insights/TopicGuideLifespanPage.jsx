@@ -40,10 +40,11 @@ const TopicGuideLifespanPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 relative z-10">
             <button
               onClick={() => scrollToSection(earlyChildhoodRef)}
-              className="group flex flex-col items-center p-4 bg-white rounded-xl border-2 border-amber-200 hover:border-amber-400 hover:shadow-md transition-all"
+              className="group flex flex-col items-center p-4 bg-white rounded-xl border-2 border-amber-200 hover:border-amber-400 hover:shadow-md transition-all focus:outline-none focus:ring-2 focus:ring-amber-500 focus:ring-offset-2"
+              aria-label="Navigate to Early Childhood section"
             >
               <div className="w-12 h-12 bg-amber-100 group-hover:bg-amber-500 rounded-full flex items-center justify-center mb-2 transition-colors">
-                <Baby className="text-amber-700 group-hover:text-white transition-colors" size={24} />
+                <Baby className="text-amber-700 group-hover:text-white transition-colors" size={24} aria-hidden="true" />
               </div>
               <span className="text-xs font-bold text-slate-700 group-hover:text-amber-700">Early Childhood</span>
               <span className="text-xs text-slate-500 mt-1">Ages 3-7</span>
@@ -51,10 +52,11 @@ const TopicGuideLifespanPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
 
             <button
               onClick={() => scrollToSection(adolescenceRef)}
-              className="group flex flex-col items-center p-4 bg-white rounded-xl border-2 border-blue-200 hover:border-blue-400 hover:shadow-md transition-all"
+              className="group flex flex-col items-center p-4 bg-white rounded-xl border-2 border-blue-200 hover:border-blue-400 hover:shadow-md transition-all focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
+              aria-label="Navigate to Adolescence section"
             >
               <div className="w-12 h-12 bg-blue-100 group-hover:bg-blue-500 rounded-full flex items-center justify-center mb-2 transition-colors">
-                <GraduationCap className="text-blue-700 group-hover:text-white transition-colors" size={24} />
+                <GraduationCap className="text-blue-700 group-hover:text-white transition-colors" size={24} aria-hidden="true" />
               </div>
               <span className="text-xs font-bold text-slate-700 group-hover:text-blue-700">Adolescence</span>
               <span className="text-xs text-slate-500 mt-1">Ages 8-18</span>
@@ -62,10 +64,11 @@ const TopicGuideLifespanPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
 
             <button
               onClick={() => scrollToSection(adulthoodRef)}
-              className="group flex flex-col items-center p-4 bg-white rounded-xl border-2 border-purple-200 hover:border-purple-400 hover:shadow-md transition-all"
+              className="group flex flex-col items-center p-4 bg-white rounded-xl border-2 border-purple-200 hover:border-purple-400 hover:shadow-md transition-all focus:outline-none focus:ring-2 focus:ring-purple-500 focus:ring-offset-2"
+              aria-label="Navigate to Adulthood section"
             >
               <div className="w-12 h-12 bg-purple-100 group-hover:bg-purple-500 rounded-full flex items-center justify-center mb-2 transition-colors">
-                <Briefcase className="text-purple-700 group-hover:text-white transition-colors" size={24} />
+                <Briefcase className="text-purple-700 group-hover:text-white transition-colors" size={24} aria-hidden="true" />
               </div>
               <span className="text-xs font-bold text-slate-700 group-hover:text-purple-700">Adulthood</span>
               <span className="text-xs text-slate-500 mt-1">Ages 19-65</span>
@@ -73,10 +76,11 @@ const TopicGuideLifespanPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
 
             <button
               onClick={() => scrollToSection(laterLifeRef)}
-              className="group flex flex-col items-center p-4 bg-white rounded-xl border-2 border-rose-200 hover:border-rose-400 hover:shadow-md transition-all"
+              className="group flex flex-col items-center p-4 bg-white rounded-xl border-2 border-rose-200 hover:border-rose-400 hover:shadow-md transition-all focus:outline-none focus:ring-2 focus:ring-rose-500 focus:ring-offset-2"
+              aria-label="Navigate to Later Life section"
             >
               <div className="w-12 h-12 bg-rose-100 group-hover:bg-rose-500 rounded-full flex items-center justify-center mb-2 transition-colors">
-                <Heart className="text-rose-700 group-hover:text-white transition-colors" size={24} />
+                <Heart className="text-rose-700 group-hover:text-white transition-colors" size={24} aria-hidden="true" />
               </div>
               <span className="text-xs font-bold text-slate-700 group-hover:text-rose-700">Later Life</span>
               <span className="text-xs text-slate-500 mt-1">Ages 65+</span>

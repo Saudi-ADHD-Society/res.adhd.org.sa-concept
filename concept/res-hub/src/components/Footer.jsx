@@ -24,56 +24,56 @@ const Footer = ({ basePath = BASE_PATH }) => {
             The Research Unit of the Saudi ADHD Society. Supporting evidence-informed practice and policy through research, synthesis, and knowledge translation.
           </p>
           <div className="flex space-x-4">
-            <a href="https://www.linkedin.com/company/adhdarabia" className="hover:text-emerald-400 transition-colors" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+            <a href="https://www.linkedin.com/company/adhdarabia" className="hover:text-emerald-400 transition-colors focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           </div>
         </div>
         
         <div>
           <h4 className="text-white font-bold mb-4">Quick Links</h4>
           <ul className="space-y-2 text-sm">
-            <li><a href={getFullPath('/library')} className="hover:text-emerald-400">Research Library</a></li>
-            <li><a href={getFullPath('/topic-guides')} className="hover:text-emerald-400">Topic Guides</a></li>
-            <li><a href={getFullPath('/research-briefs')} className="hover:text-emerald-400">Research Briefs</a></li>
-            <li><a href={getFullPath('/current-research')} className="hover:text-emerald-400">Current Research</a></li>
+            <li><a href={getFullPath('/library')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Research Library</a></li>
+            <li><a href={getFullPath('/topic-guides')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Topic Guides</a></li>
+            <li><a href={getFullPath('/research-briefs')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Research Briefs</a></li>
+            <li><a href={getFullPath('/current-research')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Current Research</a></li>
           </ul>
         </div>
         
         <div>
           <h4 className="text-white font-bold mb-4">For Researchers</h4>
           <ul className="space-y-2 text-sm">
-            <li><a href={getFullPath('/irb')} className="hover:text-emerald-400">Research Ethics & IRB</a></li>
-            <li><a href={getFullPath('/ishraq-grant')} className="hover:text-emerald-400">Open Grants</a></li>
-            <li><a href={getFullPath('/research-output')} className="hover:text-emerald-400">Research Output</a></li>
-            <li><a href={getFullPath('/interactive-scales')} className="hover:text-emerald-400">Tools</a></li>
+            <li><a href={getFullPath('/irb')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Research Ethics & IRB</a></li>
+            <li><a href={getFullPath('/ishraq-grant')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Open Grants</a></li>
+            <li><a href={getFullPath('/research-output')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Research Output</a></li>
+            <li><a href={getFullPath('/interactive-scales')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Tools</a></li>
           </ul>
         </div>
         
         <div>
           <h4 className="text-white font-bold mb-4">Resources</h4>
           <ul className="space-y-2 text-sm">
-            <li><a href={getFullPath('/adhd-cpg')} className="hover:text-emerald-400">Saudi ADHD CPG</a></li>
-            <li><a href={getFullPath('/clinical-tools')} className="hover:text-emerald-400">Clinical Tools</a></li>
-            <li><a href={getFullPath('/hcp-resources/consensus-statement')} className="hover:text-emerald-400">International Consensus Statement</a></li>
+            <li><a href={getFullPath('/adhd-cpg')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Saudi ADHD CPG</a></li>
+            <li><a href={getFullPath('/clinical-tools')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Clinical Tools</a></li>
+            <li><a href={getFullPath('/hcp-resources/consensus-statement')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">International Consensus Statement</a></li>
           </ul>
         </div>
         
         <div>
           <h4 className="text-white font-bold mb-4">Legal & Policy</h4>
           <ul className="space-y-2 text-sm">
-            <li><a href={getFullPath('/copyright')} className="hover:text-emerald-400">Copyright Notice</a></li>
-            <li><a href={getFullPath('/privacy-policy')} className="hover:text-emerald-400">Privacy Policy</a></li>
-            <li><a href={getFullPath('/disclaimer')} className="hover:text-emerald-400">Disclaimer</a></li>
+            <li><a href={getFullPath('/copyright')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Copyright Notice</a></li>
+            <li><a href={getFullPath('/privacy-policy')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Privacy Policy</a></li>
+            <li><a href={getFullPath('/disclaimer')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Disclaimer</a></li>
           </ul>
         </div>
       </div>
       <div className="max-w-7xl mx-auto px-4 md:px-8 mt-16 pt-8 border-t border-slate-800 text-xs text-center md:text-left flex flex-col md:flex-row justify-between items-center">
         <p>
           &copy; 2025{' '}
-          <a href="https://adhd.org.sa/" className="hover:text-emerald-400" target="_blank" rel="noopener noreferrer">
+          <a href="https://adhd.org.sa/" className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded" target="_blank" rel="noopener noreferrer">
             Saudi ADHD Society
           </a>
           . Licensed under{' '}
-          <a href={getFullPath('/copyright')} className="hover:text-emerald-400">
+          <a href={getFullPath('/copyright')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">
             CC BY-NC-SA 4.0
           </a>
           . Riyadh, KSA.

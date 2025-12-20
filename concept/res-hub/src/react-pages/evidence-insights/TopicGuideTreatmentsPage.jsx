@@ -53,10 +53,11 @@ const TopicGuideTreatmentsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           <button
             onClick={() => scrollToSection(medicationRef)}
-            className="group flex items-start space-x-3 p-4 bg-white rounded-xl border-2 border-emerald-200 hover:border-emerald-400 hover:shadow-md transition-all text-left"
+            className="group flex items-start space-x-3 p-4 bg-white rounded-xl border-2 border-emerald-200 hover:border-emerald-400 hover:shadow-md transition-all text-left focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2"
+            aria-label="Navigate to Medication section"
           >
             <div className="w-10 h-10 bg-emerald-100 group-hover:bg-emerald-500 rounded-lg flex items-center justify-center shrink-0 transition-colors">
-              <Pill className="text-emerald-700 group-hover:text-white transition-colors" size={20} />
+              <Pill className="text-emerald-700 group-hover:text-white transition-colors" size={20} aria-hidden="true" />
             </div>
             <div>
               <h3 className="font-bold text-slate-900 group-hover:text-emerald-700 text-sm">Medication</h3>
@@ -66,10 +67,11 @@ const TopicGuideTreatmentsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
 
           <button
             onClick={() => scrollToSection(psychologicalRef)}
-            className="group flex items-start space-x-3 p-4 bg-white rounded-xl border-2 border-sky-200 hover:border-sky-400 hover:shadow-md transition-all text-left"
+            className="group flex items-start space-x-3 p-4 bg-white rounded-xl border-2 border-sky-200 hover:border-sky-400 hover:shadow-md transition-all text-left focus:outline-none focus:ring-2 focus:ring-sky-500 focus:ring-offset-2"
+            aria-label="Navigate to Psychological Interventions section"
           >
             <div className="w-10 h-10 bg-sky-100 group-hover:bg-sky-500 rounded-lg flex items-center justify-center shrink-0 transition-colors">
-              <Brain className="text-sky-700 group-hover:text-white transition-colors" size={20} />
+              <Brain className="text-sky-700 group-hover:text-white transition-colors" size={20} aria-hidden="true" />
             </div>
             <div>
               <h3 className="font-bold text-slate-900 group-hover:text-sky-700 text-sm">Psychological Interventions</h3>
@@ -79,10 +81,11 @@ const TopicGuideTreatmentsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
 
           <button
             onClick={() => scrollToSection(educationalRef)}
-            className="group flex items-start space-x-3 p-4 bg-white rounded-xl border-2 border-emerald-200 hover:border-emerald-400 hover:shadow-md transition-all text-left"
+            className="group flex items-start space-x-3 p-4 bg-white rounded-xl border-2 border-emerald-200 hover:border-emerald-400 hover:shadow-md transition-all text-left focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2"
+            aria-label="Navigate to Educational Support section"
           >
             <div className="w-10 h-10 bg-emerald-100 group-hover:bg-emerald-500 rounded-lg flex items-center justify-center shrink-0 transition-colors">
-              <GraduationCap className="text-emerald-700 group-hover:text-white transition-colors" size={20} />
+              <GraduationCap className="text-emerald-700 group-hover:text-white transition-colors" size={20} aria-hidden="true" />
             </div>
             <div>
               <h3 className="font-bold text-slate-900 group-hover:text-emerald-700 text-sm">Educational Support</h3>
@@ -92,10 +95,11 @@ const TopicGuideTreatmentsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
 
           <button
             onClick={() => scrollToSection(multimodalRef)}
-            className="group flex items-start space-x-3 p-4 bg-white rounded-xl border-2 border-indigo-200 hover:border-indigo-400 hover:shadow-md transition-all text-left"
+            className="group flex items-start space-x-3 p-4 bg-white rounded-xl border-2 border-indigo-200 hover:border-indigo-400 hover:shadow-md transition-all text-left focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
+            aria-label="Navigate to Multimodal Care section"
           >
             <div className="w-10 h-10 bg-indigo-100 group-hover:bg-indigo-500 rounded-lg flex items-center justify-center shrink-0 transition-colors">
-              <ClipboardList className="text-indigo-700 group-hover:text-white transition-colors" size={20} />
+              <ClipboardList className="text-indigo-700 group-hover:text-white transition-colors" size={20} aria-hidden="true" />
             </div>
             <div>
               <h3 className="font-bold text-slate-900 group-hover:text-indigo-700 text-sm">Multimodal Care</h3>
@@ -105,10 +109,11 @@ const TopicGuideTreatmentsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
 
           <button
             onClick={() => scrollToSection(limitedEvidenceRef)}
-            className="group flex items-start space-x-3 p-4 bg-white rounded-xl border-2 border-amber-200 hover:border-amber-400 hover:shadow-md transition-all text-left"
+            className="group flex items-start space-x-3 p-4 bg-white rounded-xl border-2 border-amber-200 hover:border-amber-400 hover:shadow-md transition-all text-left focus:outline-none focus:ring-2 focus:ring-amber-500 focus:ring-offset-2"
+            aria-label="Navigate to Treatments with Limited Evidence section"
           >
             <div className="w-10 h-10 bg-amber-100 group-hover:bg-amber-500 rounded-lg flex items-center justify-center shrink-0 transition-colors">
-              <AlertTriangle className="text-amber-700 group-hover:text-white transition-colors" size={20} />
+              <AlertTriangle className="text-amber-700 group-hover:text-white transition-colors" size={20} aria-hidden="true" />
             </div>
             <div>
               <h3 className="font-bold text-slate-900 group-hover:text-amber-700 text-sm">Limited Evidence</h3>

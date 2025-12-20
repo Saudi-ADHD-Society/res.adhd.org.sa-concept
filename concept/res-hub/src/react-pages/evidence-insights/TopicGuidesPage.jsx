@@ -29,7 +29,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
           Separating fact from fiction. Evidence-based answers to common questions and misconceptions about ADHD as a neurodevelopmental condition.
         </p>
         <div className="text-sm font-semibold text-emerald-700 flex items-center">
-          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" />
+          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
         </div>
       </a>
 
@@ -48,7 +48,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
           Understanding how ADHD presents and evolves from childhood through adolescence, adulthood, and older age, with age-specific considerations for diagnosis and management.
         </p>
         <div className="text-sm font-semibold text-emerald-700 flex items-center">
-          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" />
+          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
         </div>
       </a>
 
@@ -67,7 +67,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
           Exploring the physical and mental health conditions that commonly co-occur with ADHD, risk factors, and strategies for comprehensive care.
         </p>
         <div className="text-sm font-semibold text-emerald-700 flex items-center">
-          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" />
+          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
         </div>
       </a>
 
@@ -86,7 +86,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
           A comprehensive overview of proven treatments for ADHD, including medication, behavioral interventions, and combined approaches, with practical guidance for families and clinicians.
         </p>
         <div className="text-sm font-semibold text-emerald-700 flex items-center">
-          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" />
+          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
         </div>
       </a>
 
@@ -105,7 +105,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
           Understanding the diagnostic process, the importance of functional assessment, and how ADHD relates to disability frameworks in the Saudi context.
         </p>
         <div className="text-sm font-semibold text-emerald-700 flex items-center">
-          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" />
+          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
         </div>
       </a>
 
@@ -124,7 +124,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
           Examining the broader social, economic, and policy dimensions of ADHD, including healthcare costs, educational impacts, stigma reduction, and advocacy strategies.
         </p>
         <div className="text-sm font-semibold text-emerald-700 flex items-center">
-          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" />
+          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
         </div>
       </a>
 
@@ -144,7 +144,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
           nuances and pharmacological and non-pharmacological treatment considerations across the lifespan.
         </p>
         <div className="text-sm font-semibold text-emerald-700 flex items-center">
-          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" />
+          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
         </div>
       </a>
 
@@ -163,7 +163,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
           Exploring the question of whether ADHD is considered a disability, examining legal frameworks, rights, accommodations, and the implications for individuals with ADHD in various contexts.
         </p>
         <div className="text-sm font-semibold text-emerald-700 flex items-center">
-          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" />
+          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
         </div>
       </a>
 
@@ -182,7 +182,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
           Examining the scientific evidence for ADHD as a valid diagnostic construct, addressing common critiques, and exploring implications for clinical practice and policy.
         </p>
         <div className="text-sm font-semibold text-emerald-700 flex items-center">
-          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" />
+          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
         </div>
       </a>
     </div>

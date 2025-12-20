@@ -29,7 +29,7 @@ const languages = [...new Set(papers.map(p => p.data.language || 'English').filt
 ---
 
 <BaseLayout title="Research Library - Research Portal" description="Browse and search the Saudi ADHD Research Library - a comprehensive collection of research papers and publications.">
-  <main class="max-w-7xl mx-auto px-4 md:px-8 py-10 min-h-[60vh]">
+  <div class="max-w-7xl mx-auto px-4 md:px-8 py-10 min-h-[60vh]">
     <Breadcrumb client:load basePath={basePath} />
     
     <div class="space-y-6">
@@ -180,7 +180,7 @@ const languages = [...new Set(papers.map(p => p.data.language || 'English').filt
         <p class="text-slate-600 text-lg">No papers found matching your criteria.</p>
       </div>
     </div>
-  </main>
+  </div>
 
   <script>
     // Client-side filtering

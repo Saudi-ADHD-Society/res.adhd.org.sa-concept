@@ -94,14 +94,14 @@ const getIconClasses = (guide) => {
 
 export const HomeHero = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
   <header className="relative bg-gradient-to-br from-slate-900 via-emerald-900 to-slate-900 text-white overflow-hidden">
-    <div className="absolute top-0 right-0 w-1/2 h-full bg-emerald-800/10 rounded-l-full blur-3xl transform translate-x-1/3"></div>
-    <div className="absolute bottom-0 left-0 w-96 h-96 bg-blue-600/10 rounded-full blur-3xl transform -translate-x-1/4 translate-y-1/4"></div>
+    <div className="absolute top-0 right-0 w-1/2 h-full bg-emerald-800/10 rounded-l-full blur-3xl transform translate-x-1/3" aria-hidden="true"></div>
+    <div className="absolute bottom-0 left-0 w-96 h-96 bg-blue-600/10 rounded-full blur-3xl transform -translate-x-1/4 translate-y-1/4" aria-hidden="true"></div>
 
     <div className="relative z-10">
       <div className="max-w-7xl mx-auto px-4 md:px-8 py-16 md:py-24">
         <div className="max-w-3xl">
           <div className="inline-flex items-center space-x-2 bg-emerald-500/20 border border-emerald-400/30 rounded-full px-3 py-1 mb-6 backdrop-blur-sm">
-            <span className="w-2 h-2 bg-emerald-400 rounded-full animate-pulse"></span>
+            <span className="w-2 h-2 bg-emerald-400 rounded-full animate-pulse" aria-hidden="true"></span>
             <span className="text-emerald-100 text-xs font-medium tracking-wide uppercase">
               New: Saudi ADHD Society Research Forum 2026
             </span>
@@ -124,7 +124,7 @@ export const HomeHero = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
               className="px-8 py-4 bg-emerald-500 hover:bg-emerald-400 text-emerald-950 font-bold rounded-lg transition-all shadow-lg hover:shadow-emerald-500/25 flex items-center justify-center space-x-2"
             >
               <span>Clinical Guidance</span>
-              <ArrowRight size={18} />
+              <ArrowRight size={18} aria-hidden="true" />
             </a>
             <a
               href={getHref('research-projects', basePath)}
@@ -169,8 +169,11 @@ const HomePage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
           <h2 className="text-3xl font-bold text-slate-900 mb-2">A Legacy of Excellence</h2>
           <p className="text-slate-500 max-w-xl">From the 2004 Symposium to the 2024 Research Forum. Building confidence through two decades of scientific leadership.</p>
         </div>
-        <button className="text-emerald-700 font-semibold hover:text-emerald-800 mt-4 md:mt-0 flex items-center text-sm">
-          View Full History <ChevronRight size={16} />
+        <button 
+          className="text-emerald-700 font-semibold hover:text-emerald-800 mt-4 md:mt-0 flex items-center text-sm focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 rounded"
+          aria-label="View Full History"
+        >
+          View Full History <ChevronRight size={16} aria-hidden="true" />
         </button>
       </div>
 
@@ -188,8 +191,18 @@ const HomePage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
               Launched the first dedicated research forum and the Saudi ADHD Society Research Grant, marking a shift from dissemination to active knowledge creation.
             </p>
             <div className="flex gap-3">
-               <button className="text-sm text-emerald-700 font-medium underline decoration-emerald-200 hover:decoration-emerald-500 underline-offset-4">Read Press Release</button>
-               <a href={getHref('ishraq-grant', basePath)} className="text-sm text-emerald-700 font-medium underline decoration-emerald-200 hover:decoration-emerald-500 underline-offset-4">View Grant Details</a>
+               <button 
+                 className="text-sm text-emerald-700 font-medium underline decoration-emerald-200 hover:decoration-emerald-500 underline-offset-4 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 rounded"
+                 aria-label="Read Press Release"
+               >
+                 Read Press Release
+               </button>
+               <a 
+                 href={getHref('ishraq-grant', basePath)} 
+                 className="text-sm text-emerald-700 font-medium underline decoration-emerald-200 hover:decoration-emerald-500 underline-offset-4 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 rounded"
+               >
+                 View Grant Details
+               </a>
             </div>
           </div>
         </div>
@@ -245,7 +258,7 @@ const HomePage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
               <p className="text-sm text-slate-500 mb-4 line-clamp-3">
                 {guide.description}
               </p>
-              <div className="text-sm font-semibold text-emerald-700 flex items-center">Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform"/></div>
+              <div className="text-sm font-semibold text-emerald-700 flex items-center">Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true"/></div>
             </a>
           );
         })}

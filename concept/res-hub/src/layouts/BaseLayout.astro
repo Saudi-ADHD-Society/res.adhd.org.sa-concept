@@ -17,10 +17,15 @@ const basePath = import.meta.env.BASE_URL;
     <title>{title}</title>
   </head>
   <body>
+    <a href="#main-content" class="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-[100] focus:px-4 focus:py-2 focus:bg-emerald-600 focus:text-white focus:rounded-lg focus:font-semibold focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2">
+      Skip to main content
+    </a>
     <div class="min-h-screen bg-slate-50 font-sans text-slate-800">
       <Navigation client:load basePath={basePath} />
       
-      <slot />
+      <main id="main-content">
+        <slot />
+      </main>
       
       <Footer client:load basePath={basePath} />
     </div>

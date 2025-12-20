@@ -13,7 +13,8 @@ const publications = [
     journal: 'Scientific Reports',
     citation: 'Sci Rep, 15(1), 26866.',
     doi: '10.1038/s41598-025-12976-7',
-    url: 'https://res.adhd.org.sa/doi/10.1038/s41598-025-12976-7',
+    slug: '10.1038-s41598-025-12976-7',
+    url: null, // Will be generated from slug
     openAccess: true
   },
   {
@@ -26,7 +27,8 @@ const publications = [
     journal: 'Journal of Attention Disorders',
     citation: 'J Atten Disord, 29(6), 445–457.',
     doi: '10.1177/10870547251313879',
-    url: 'https://doi.org/10.1177/10870547251313879',
+    slug: '10.1177-10870547251313879',
+    url: null, // Will be generated from slug
     openAccess: true
   },
   {
@@ -34,12 +36,13 @@ const publications = [
     year: 2024,
     category: 'Rating Scale Validation',
     title:
-      'Psychometric Properties of the Arabic Vanderbilt Children’s ADHD Diagnostic Rating Scale (VADRS-A) in a Saudi Population Sample',
+      'Psychometric Properties of the Arabic Vanderbilt Children\'s ADHD Diagnostic Rating Scale (VADRS-A) in a Saudi Population Sample',
     authorsShort: 'Alqahtani, M. M. J., Al Saud, N. M., Alsharef, N. M., et al.',
     journal: 'Scandinavian Journal of Child and Adolescent Psychiatry and Psychology',
     citation: 'SJCAPP, 12(1), 72–83.',
     doi: '10.2478/sjcapp-2024-0008',
-    url: 'https://doi.org/10.2478/sjcapp-2024-0008',
+    slug: '10.2478-sjcapp-2024-0008',
+    url: null, // Will be generated from slug
     openAccess: true
   },
   {
@@ -52,6 +55,7 @@ const publications = [
     journal: 'Neuroscience & Biobehavioral Reviews',
     citation: 'Neurosci Biobehav Rev, 128, 789–818.',
     doi: '10.1016/j.neubiorev.2021.01.022',
+    slug: null,
     url: 'https://doi.org/10.1016/j.neubiorev.2021.01.022',
     openAccess: true
   },
@@ -65,6 +69,7 @@ const publications = [
     journal: 'Saudi ADHD Society (National ADHD CPG)',
     citation: 'Riyadh: Saudi ADHD Society; 2020.',
     doi: null,
+    slug: null,
     url: 'https://cpg.adhd.org.sa/wp-content/uploads/2020/11/ADHD-CPG-EN-1.6.3-digital.pdf',
     openAccess: true
   },
@@ -78,7 +83,8 @@ const publications = [
     journal: 'Child and Adolescent Psychiatry and Mental Health',
     citation: 'Child Adolesc Psychiatry Ment Health, 15(1), 1–16.',
     doi: '10.1186/s13034-020-00351-5',
-    url: 'https://doi.org/10.1186/s13034-020-00351-5',
+    slug: '10.1186-s13034-020-00351-5',
+    url: null, // Will be generated from slug
     openAccess: true
   },
   {
@@ -91,13 +97,21 @@ const publications = [
     journal: 'PLOS ONE',
     citation: 'PLOS ONE, 14(7), e0219239.',
     doi: '10.1371/journal.pone.0219239',
-    url: 'https://doi.org/10.1371/journal.pone.0219239',
+    slug: '10.1371-journal.pone.0219239',
+    url: null, // Will be generated from slug
     openAccess: true
   }
 ];
 
 const ResearchOutputPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
   const sortedPublications = [...publications].sort((a, b) => b.year - a.year);
+
+  // Generate URL for each publication
+  const publicationsWithUrls = sortedPublications.map((pub) => {
+    const url = pub.url || (pub.slug ? `${basePath}library/${pub.slug}/` : null);
+    const isExternal = url && (url.startsWith('http://') || url.startsWith('https://'));
+    return { ...pub, url, isExternal };
+  });
 
   return (
     <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
@@ -113,7 +127,7 @@ const ResearchOutputPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
       </div>
 
       <div className="space-y-4">
-        {sortedPublications.map((pub) => (
+        {publicationsWithUrls.map((pub) => (
           <div
             key={pub.id}
             className="bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:border-emerald-300 transition-colors"
@@ -128,8 +142,7 @@ const ResearchOutputPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
                 </div>
                 <a
                   href={pub.url}
-                  target="_blank"
-                  rel="noreferrer"
+                  {...(pub.isExternal ? { target: '_blank', rel: 'noreferrer' } : {})}
                   className="text-lg font-bold text-slate-900 mb-1 hover:text-emerald-700 inline-block"
                 >
                   {pub.title}
@@ -152,12 +165,11 @@ const ResearchOutputPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
               </div>
               <a
                 href={pub.url}
-                target="_blank"
-                rel="noreferrer"
+                {...(pub.isExternal ? { target: '_blank', rel: 'noreferrer' } : {})}
                 className="text-emerald-600 hover:text-emerald-700 ml-4"
                 aria-label="Open publication"
               >
-                <ExternalLink size={20} />
+                <ExternalLink size={20} aria-hidden="true" />
               </a>
             </div>
           </div>
