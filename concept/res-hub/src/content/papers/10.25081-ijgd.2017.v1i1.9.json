@@ -2,9 +2,9 @@
   "doi": "10.25081/ijgd.2017.v1i1.9",
   "slug": "10.25081-ijgd.2017.v1i1.9",
   "title": "Knowledge of kindergarten and elementary school teachers regarding attention deficit hyperactivity disorder at Qassim region (Conference Abstract)",
-  "abstract": "<strong>Background:</strong>",
+  "abstract": "ABSTRACTS OF 1ST INTERNATIONAL GROWTH AND DEVELOPMENT CONFERENCE – IGDC 2017\nBackground: Attention Deficit Hyperactivity Disorder (ADHD) is one of the most common mental disorders that manifest among children. Despite the fact that the teacher's role is essential in the assessment and management of pupils with ADHD and the recommendation of participation of teachers for the success and efficiency of diagnoses and treatment, the vast majority of teachers have neither understanding nor knowledge of ADHD. Objectives: The current study explores the kindergarten and elementary school teachers' knowledge regarding early detection and management of ADHD. Methods: Cross sectional survey using stratified random sampling technique was carried out in governmental and private elementary and Kindergarten schools in four cities of Qassim region, Saudi Arabia. Results: The study included 1095 teachers, 711 (59.3%) did not get information about ADHD  during undergraduate studies. Teachers' overall ADHD knowledge mean was 21.7+5.5 out of 38 marks. Teachers with high qualification degree and kindergarten specialty scored 56.4% and 60.2% respectively. Teachers who attended conferences related to ADHD scored 64.5%, while teachers who read about ADHD or have been ever asked to diagnose/teach an ADHD student had 59.4% and 62.1% respectively. The level of ADHD knowledge perception showed that 76% of teachers were  knowledgeable in relation to overall perception about ADHD. Conclusion: Teachers who have higher qualifications or training in identifying ADHD children scored higher in our study.",
   "categories": [
-    "Uncategorized"
+    "Awareness"
   ],
   "authors": [
     {
@@ -15,15 +15,17 @@
   ],
   "access": {
     "status": "open",
-    "localPdfUrl": "library/doi__10.25081__ijgd.2017.v1i1.9.pdf",
-    "sourceUrl": "https://updatepublishing.com/journal/index.php/ijgd/article/download/5370/4830"
+    "license": "CC BY",
+    "sourceUrl": "https://igdjournal.com/index.php/ijgd/article/view/9",
+    "localPdfUrl": "library/doi__10.25081__ijgd.2017.v1i1.9.pdf"
   },
   "visibility": {
     "hidden": false
   },
   "id": "doi-10.25081-ijgd.2017.v1i1.9",
   "publication": {
-    "year": 2017
+    "year": 2017,
+    "publishedDate": "2017-12-17"
   },
   "journal": {
     "name": "International Journal of Growth and Development",
@@ -36,6 +38,7 @@
     }
   },
   "identifiers": {
-    "doi": "10.25081/ijgd.2017.v1i1.9"
+    "doi": "10.25081/ijgd.2017.v1i1.9",
+    "url": "https://igdjournal.com/index.php/ijgd/article/view/9"
   }
 }

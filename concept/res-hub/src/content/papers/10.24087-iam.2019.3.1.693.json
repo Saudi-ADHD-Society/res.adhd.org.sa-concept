@@ -2,31 +2,58 @@
   "doi": "10.24087/iam.2019.3.1.693",
   "slug": "10.24087-iam.2019.3.1.693",
   "title": "Knowledge and Attitude of Female Teachers Toward ADHD at Elementary Schools, Jeddah, KSA, 2017",
-  "abstract": "<strong>Background:</strong> Attention deficit hyperactivity disorder (ADHD) is one of the most common psychiatry disorders in children, it has negative impact on the academic, familial and social functioning of the child. The recent advances in its treatment calls for social intervention including school-based activities, which necessitates knowledgeable teachers.",
+  "abstract": "Background: Attention deficit hyperactivity disorder (ADHD) is one of the most common psychiatry disorders in children, it has negative impact on the academic, familial and social functioning of the child. The recent advances in its treatment calls for social intervention including school-based activities, which necessitates knowledgeable teachers. Aim: The main aim of this study is to explore the level of knowledge and attitude of the school teachers of female primary schools  in Jeddah  about ADHD.  Subjects and  methods: Through a  cross sectional design, 376  school teachers were selected by multistage  sampling from female primary schools in Jeddah, they were  invited to fill a predesigned valid questionnaire reflecting their knowledge and attitude towards ADHD. SPSS ver 21 was used for data entry and statistical analysis which included descriptive as  well as  analytic analysis using Chi square test. P value<0.05 was considered an indication for significance. Results:  Almost one half of the teachers (47.6%) aged between 40-49 years, who were mostly married (81.1%) and having children (84.3%). Out of them, 8.2% reported that they have ADHD child. Although that more than one half of the teachers (54.3%) thought that they had knowledge about  ADHD,  the true  knowledge test  questions revealed  a much  lower percentage  (24.5%) who  showed  good knowledge about ADHD. Only older teachers had significant better knowledge. More than one half of the teachers (57.2%) perceive that the first step in the management policy when suspecting ADHD is the referral of the child to advisor and asking for attendance of the parents. Conclusion and  recommendations: Most of the teachers have insufficient level of knowledge about ADHD. There is a tangible need for training programs provided to the teachers about early recognition and policy of care of ADHD children.",
   "categories": [
-    "Uncategorized"
+    "Awareness"
+  ],
+  "keywords": [
+    "Attention deficit hyperactivity disorder",
+    "ADHD",
+    "Teachers",
+    "Knowledge",
+    "Attitude"
   ],
   "authors": [
     {
-      "given": "A.",
-      "family": "Ibrahim",
+      "given": "Manal",
+      "family": "Basudan",
       "sequence": 1
     },
     {
-      "given": "Manal",
-      "family": "Basudan",
+      "given": "Naeema",
+      "family": "Akbar",
       "sequence": 2
+    },
+    {
+      "given": "Waled",
+      "family": "El-Ghamdi",
+      "sequence": 3
+    },
+    {
+      "given": "Adel",
+      "family": "Ibrahim",
+      "sequence": 4
     }
   ],
+  "publication": {
+    "year": 2019,
+    "publishedDate": "2019-01"
+  },
+  "journal": {
+    "name": "International Annals of Medicine"
+  },
   "access": {
-    "status": "unknown",
+    "status": "open",
+    "sourceUrl": "https://doi.org/10.24087/IAM.2019.3.1.693",
+    "researchGateUrl": "https://www.researchgate.net/publication/330193766_Knowledge_and_Attitude_of_Female_Teachers_Toward_ADHD_at_Elementary_Schools_Jeddah_KSA_2017",
     "localPdfUrl": "library/doi__10.24087__iam.2019.3.1.693.pdf"
+  },
+  "identifiers": {
+    "doi": "10.24087/iam.2019.3.1.693",
+    "url": "https://doi.org/10.24087/IAM.2019.3.1.693"
   },
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.24087-iam.2019.3.1.693",
-  "publication": {
-    "year": 2018
-  }
+  "id": "doi-10.24087-iam.2019.3.1.693"
 }

@@ -4,12 +4,40 @@
   "title": "Pragmatic Disorder in Children with ADHD",
   "abstract": "Although language disorders are not among the fundamental features or required to fulfill the diagnostic criteria for ADHD, several research studies revealed a high prevalence of communication disorders among children with ADHD. The evidence from the literature suggests that inattention, hyperactivity, and impulsivity have their effects on different speech and language skills. The American Speech-Language-Hearing Association claimed that co-occurring ADHD and speech and language disorders represent a frequently encountered challenge for school-based speech-language pathologists and other practitioners. Also, it is not uncommon to find that children with speech and language disorders are also being treated for ADHD. Language disorders are common in ADHD with accumulating evidence from several research studies on pragmatic language difficulties. Although research has examined many important aspects of language and ADHD, there have been relatively few studies that have looked at the critical aspects of the child with ADHD ability to communicate effectively. This review is an effort towards provide a description for the pragmatic disorders in children with ADHD.",
   "categories": [
-    "Uncategorized"
+    "Communication"
   ],
-  "authors": [],
+  "keywords": [
+    "ADHD",
+    "Pragmatic Disorder",
+    "Communication Checklist-2"
+  ],
+  "authors": [
+    {
+      "given": "Wael",
+      "family": "Al-Dakroury",
+      "sequence": 1
+    }
+  ],
+  "publication": {
+    "year": 2022,
+    "publishedDate": "2022-03-31"
+  },
+  "journal": {
+    "name": "Journal of Abnormal and Behavioural Psychology",
+    "abbreviation": "J Abnorm Psychol",
+    "volume": "8",
+    "issue": "2"
+  },
   "access": {
-    "status": "unknown",
+    "status": "open",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://www.hilarispublisher.com/open-access/pragmatic-disorder-in-children-with-adhd-87613.html",
+    "researchGateUrl": "https://www.researchgate.net/publication/363856225_pragmatic-disorder-in-children-with-adhd",
     "localPdfUrl": "library/doi__10.37421__2472-0496.22.8.162.pdf"
+  },
+  "identifiers": {
+    "doi": "10.37421/2472-0496.22.8.162",
+    "url": "https://www.hilarispublisher.com/open-access/pragmatic-disorder-in-children-with-adhd-87613.html"
   },
   "visibility": {
     "hidden": false
