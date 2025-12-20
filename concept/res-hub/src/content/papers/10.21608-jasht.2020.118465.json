@@ -2,9 +2,17 @@
   "doi": "10.21608/jasht.2020.118465",
   "slug": "10.21608-jasht.2020.118465",
   "title": "Saudi Clinicians’ and Teachers’ Discourses About Attention Deficit Hyperactivity Disorder (ADHD) in Jeddah, Saudi Arabia",
-  "abstract": "ADHD is the most commonly diagnosed neurobehavioral disorder among children. Using Foucauldian discourse analysis, this study uncovers the discourses drawn upon by six Saudi teachers and four clinicians as they describe their experiences and understanding of ADHD. Saudi clinicians approach ADHD as an extension of American medical views in terms of its causes, diagnosis and treatment. Alarmingly, in light of the shortage of recommended ADHD medications, there are accounts of antipsychotic medications being prescribed for children. Saudi teachers views of ADHD were an extension of the medical discourse; this meant that students strengths were ignored and the focus was entirely on negative behavioral patterns. Despite the tendency to attribute ADHD to genetics, teachers objectified students who acted out' as having ADHD or even other disorders (when the child's behavior or symptoms diverged from their limited understanding of ADHD).",
+  "abstract": "ADHD is the most commonly diagnosed neurobehavioral disorder among children. Using Foucauldian discourse analysis, this study uncovers the discourses drawn upon by six Saudi teachers and four clinicians as they describe their experiences and understanding of ADHD. Saudi clinicians approach ADHD as an extension of American medical views in terms of its causes, diagnosis and treatment. Alarmingly, in light of the shortage of recommended ADHD medications, there are accounts of antipsychotic medications being prescribed for children. Saudi teachers views of ADHD were an extension of the medical discourse; this meant that students strengths were ignored and the focus was entirely on negative behavioral patterns. Despite the tendency to attribute ADHD to genetics, teachers objectified students who acted out' as having ADHD or even other disorders (when the child's behavior or symptoms diverged from their limited understanding of ADHD). Parents who do not comply with teachers' suggestions are blamed for any lack of improvement in the child's behavior and academic attainment. These findings have implications for individuals and institutions providing ADHD education to both doctors and teachers, and reinforce calls for researchers to examine ADHD outside of the genetic 'box'.",
   "categories": [
-    "Uncategorized"
+    "Awareness"
+  ],
+  "keywords": [
+    "Experience",
+    "Special Education",
+    "Inclusion",
+    "Foucauldian theory",
+    "Qualitative research",
+    "discourse"
   ],
   "authors": [
     {
@@ -13,16 +21,32 @@
       "sequence": 1
     }
   ],
+  "publication": {
+    "year": 2020,
+    "publishedDate": "2020-08-16"
+  },
+  "journal": {
+    "name": "The Arab Journal of Disability and Talent Sciences",
+    "abbreviation": "JASHT",
+    "volume": "4",
+    "issue": "13",
+    "pages": {
+      "start": "405",
+      "end": "436"
+    }
+  },
   "access": {
-    "status": "unknown",
+    "status": "open",
+    "sourceUrl": "https://jasht.journals.ekb.eg/article_118465.html",
     "localPdfUrl": "library/doi__10.21608__jasht.2020.118465.pdf"
   },
   "visibility": {
     "hidden": false
   },
   "id": "doi-10.21608-jasht.2020.118465",
-  "publication": {
-    "year": 2020
+  "identifiers": {
+    "doi": "10.21608/jasht.2020.118465",
+    "url": "https://jasht.journals.ekb.eg/article_118465.html"
   },
   "language": "English"
 }
