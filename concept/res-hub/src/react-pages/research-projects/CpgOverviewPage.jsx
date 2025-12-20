@@ -1,5 +1,5 @@
 import React from 'react';
-import { ExternalLink } from 'lucide-react';
+import { ExternalLink, CheckCircle2 } from 'lucide-react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
@@ -37,16 +37,22 @@ const CpgOverviewPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
 
       {/* High-level timeline */}
       <div className="grid md:grid-cols-4 gap-4 text-xs md:text-sm">
-        <div className="border border-emerald-100 rounded-lg p-3 bg-emerald-50/40">
-          <div className="font-semibold text-emerald-800 mb-1">Milestone 1</div>
+        <div className="border border-emerald-200 rounded-lg p-3 bg-emerald-50/60 relative">
+          <div className="flex items-center justify-between mb-1">
+            <div className="font-semibold text-emerald-800">Milestone 1</div>
+            <CheckCircle2 size={18} className="text-emerald-600 flex-shrink-0" />
+          </div>
           <div className="text-[11px] uppercase tracking-wide text-emerald-700 mb-1">Preparation &amp; Planning</div>
           <p className="text-slate-600">
             Establishing the Guideline Review Group (ADHD-GRG), confirming scope and objectives, and
             agreeing the working plan and methods.
           </p>
         </div>
-        <div className="border border-emerald-100 rounded-lg p-3 bg-emerald-50/40">
-          <div className="font-semibold text-emerald-800 mb-1">Milestone 2</div>
+        <div className="border border-emerald-200 rounded-lg p-3 bg-emerald-50/60 relative">
+          <div className="flex items-center justify-between mb-1">
+            <div className="font-semibold text-emerald-800">Milestone 2</div>
+            <CheckCircle2 size={18} className="text-emerald-600 flex-shrink-0" />
+          </div>
           <div className="text-[11px] uppercase tracking-wide text-emerald-700 mb-1">Evidence Review</div>
           <p className="text-slate-600">
             Systematic review and appraisal of new ADHD guidelines and key evidence using
@@ -275,7 +281,7 @@ const CpgOverviewPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
       <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-3 pt-2 border-t border-slate-100 mt-4">
         <p className="text-xs md:text-sm text-slate-500 max-w-2xl">
           The finalized guideline was first published in 2020, supported by a clinical algorithm, medication tables, and
-          implementation tools. It is hosted on a dedicated microsite, with online access to the guideline in Arabic and English as well as downloadable PDFs.
+          implementation tools. The CPG is now integrated into this research portal, with online access to the guideline in Arabic and English as well as downloadable PDFs.
         </p>
         <a
           href={getHref('adhd-cpg-about-development', basePath)}
