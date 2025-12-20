@@ -1,0 +1,57 @@
+{
+  "doi": "10.3934/math.2024517",
+  "slug": "10.3934-math.2024517",
+  "title": "Diagnosis of attention deficit hyperactivity disorder: A deep learning approach",
+  "abstract": "In recent years, there has been significant interest in the analysis and classification of brain dis-orders using electroencephalography (EEG). We presented machine learning and deep learning (DL) frameworks that integrate an EEG-based brain network with various DL models to diagnose attention deficit hyperactivity disorder (ADHD). By incorporating an objective biomarker into the diagnostic process, the accuracy and effectiveness of diagnosis could be enhanced. We used public EEG datasets from 61 ADHD youngsters and 60 normally developing children. The raw EEG data underwent preprocessing, including the application of filters in clinically relevant frequency bands and notch filters. From the preprocessed EEG segments, statistical features (e.g., standard deviation, kurtosis) and spectral features (e.g., entropy) were extracted. Principal component analysis (PCA) and chi-square with PCA were used as feature selection methods to obtain the most useful features and keep them. The machine learning models achieved the highest accuracy result of 94.86% by utilizing support vector machines (SVM) with PCA features. Furthermore, integrating models combining a convolutional neural network (CNN) with bidirectional long short-term memory (BiLSTM) networks, and gated recurrent unit-Transformer (GRU-Transformer block) with Chi-square and PCA features achieved accuracies of 94.50% and 95.59%, respectively. The suggested framework demonstrated a wide range of applicability in addressing the identification of ADHD. To evaluate the performance of the proposed models, comparisons were made with existing models, and the proposed system exhibited superior performance. We enhanced EEG-based analysis and categorization of ADHD by demonstrating the capabilities of advanced artificial intelligence models in enhancing diagnostic accuracy and efficacy.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "deep learning",
+    "machine learning",
+    "attention deficit hyperactivity disorder",
+    "electroencephalogram",
+    "diagnosis"
+  ],
+  "publication": {
+    "year": 2024
+  },
+  "journal": {
+    "name": "AIMS Mathematics",
+    "abbreviation": "MATH",
+    "volume": "9",
+    "issue": "5",
+    "pages": {
+      "start": "10580",
+      "end": "10608"
+    }
+  },
+  "authors": [
+    {
+      "given": "Nizar",
+      "family": "Alsharif",
+      "authorship": "Primary Author",
+      "sequence": 1
+    },
+    {
+      "given": "Mosleh Hmoud",
+      "family": "Al-Adhaileh",
+      "sequence": 2
+    },
+    {
+      "given": "Mohammed",
+      "family": "Al-Yaari",
+      "authorship": "Corresponding Author",
+      "sequence": 3
+    }
+  ],
+  "access": {
+    "status": "open",
+    "researchGateUrl": "https://www.researchgate.net/publication/379064753_Diagnosis_of_attention_deficit_hyperactivity_disorder_A_deep_learning_approach",
+    "localPdfUrl": "library/doi__10.3934__math.2024517.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.3934-math.2024517"
+}

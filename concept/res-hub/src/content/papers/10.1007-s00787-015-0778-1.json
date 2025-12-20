@@ -1,0 +1,102 @@
+{
+  "doi": "10.1007/s00787-015-0778-1",
+  "slug": "10.1007-s00787-015-0778-1",
+  "title": "Towards an ICF core set for ADHD: a worldwide expert survey on ability and disability",
+  "abstract": "This is the second in a series of four empirical studies designed to develop International Classification of Functioning, Disability and Health (ICF and Children and Youth version, ICF-CY) core sets for attention deficit hyperactivity disorder (ADHD). The objective of this stage was to gather the opinions from international experts on which ability and disability concepts were considered relevant to functioning in ADHD. An email-based survey was carried out amongst international experts in ADHD. Relevant functional ability and disability concepts were extracted from their responses and linked to the ICF/-CY categories by two independent researchers using a standardised linking procedure. 174 experts from 11 different disciplines and 45 different countries completed the survey. Meaningful concepts identified in their responses were linked to 185 ICF/-CY categories. Of these, 83 categories were identified by at least 5 % of the experts and considered the most relevant to ADHD: 30 of these were related to Body functions (most identified: attention functions, 85 %), 30 to Activities and Participation (most identified: school education, 52 %), 20 to Environmental factors (most identified: support from immediate family, 61 %), and 3 to Body structures (most identified: structure of brain, 83 %). Experts also provided their views on particular abilities related to ADHD, naming characteristics such as high-energy levels, flexibility and resiliency. Gender differences in the expression of ADHD identified by experts pertained mainly to females showing more internalising (e.g. anxiety, low self-esteem) and less externalising behaviours (e.g. hyperactivity), leading to a risk of late- and under-diagnosis in females. Results indicate that the impact of ADHD extends beyond the core symptom domains, into all areas of life and across the lifespan. The current study in combination with three additional preparatory studies (comprehensive scoping review, focus groups, clinical study) will provide the scientific basis to define the ADHD ICF/-CY core sets for multi-purpose use in basic and applied research and every day clinical practice.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "DSM",
+    "ICD",
+    "assessment",
+    "gender differences",
+    "neurodevelopmental disorder",
+    "neurodiversity",
+    "psychiatry",
+    "quality of life"
+  ],
+  "publication": {
+    "year": 2015
+  },
+  "journal": {
+    "name": "European Child & Adolescent Psychiatry",
+    "abbreviation": "Eur Child Adolesc Psychiatry",
+    "volume": "24",
+    "issue": "12",
+    "pages": {
+      "start": "1509",
+      "end": "1521"
+    }
+  },
+  "authors": [
+    {
+      "given": "Omar",
+      "family": "Almodayfer",
+      "sequence": 1
+    },
+    {
+      "given": "Elles",
+      "family": "de Schipper",
+      "sequence": 2
+    },
+    {
+      "given": "Soheil",
+      "family": "Mahdi",
+      "sequence": 3
+    },
+    {
+      "given": "David",
+      "family": "Coghill",
+      "sequence": 4
+    },
+    {
+      "given": "Petrus J",
+      "family": "de Vries",
+      "sequence": 5
+    },
+    {
+      "given": "Susan Shur-Fen",
+      "family": "Gau",
+      "sequence": 6
+    },
+    {
+      "given": "Mats",
+      "family": "Granlund",
+      "sequence": 7
+    },
+    {
+      "given": "Sunil",
+      "family": "Karande",
+      "sequence": 8
+    },
+    {
+      "given": "Florence",
+      "family": "Levy",
+      "sequence": 9
+    },
+    {
+      "given": "Omar",
+      "family": "Levy",
+      "sequence": 10
+    },
+    {
+      "given": "Luis",
+      "family": "Rohde",
+      "sequence": 11
+    },
+    {
+      "given": "Rosemary",
+      "family": "Tannock",
+      "sequence": 12
+    }
+  ],
+  "access": {
+    "status": "unknown",
+    "localPdfUrl": "library/doi__10.1007__s00787-015-0778-1.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.1007-s00787-015-0778-1"
+}

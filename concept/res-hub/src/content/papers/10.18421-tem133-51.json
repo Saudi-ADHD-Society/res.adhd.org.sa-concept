@@ -1,0 +1,60 @@
+{
+  "doi": "10.18421/tem133-51",
+  "slug": "10.18421-tem133-51",
+  "title": "Employing Elements of Virtual Reality to Enhance Social Skills Among Children With Attention-Deficit/Hyperactivity Disorder: Quasi Experimental Study",
+  "abstract": "Children with ADHD fail to establish good relationships with others and practice undesirable behaviors that disturb those around them. Additionally, this disorder may create difficulties in social performance and adaptation to different life contexts. Nonetheless, in light of recent technological advancements, traditional education programs no longer cover deficiencies resulting from this disorder. It is also no longer attractive among children with ADHD. Therefore, in this research study, the researchers designed four Google Cardboard Virtual Reality (VR) applications that were developed with several domain experts' supervision to enhance four social skills (greeting back, waiting for a turn during an ordering, not interrupting others while talking, and cooperating) among children with ADHD which had the potential to help them integrate smoothly into society. A quasi-experimental study was conducted for one group in the Developmental and Behavioral Disorders Clinics and Centers in Maternity and Children's Hospital in Najran Region, Saudi Arabia. The results were promising and showed an improvement in the social skills of the participants with mild or moderate ADHD symptoms. In contrast, there was no improvement in social skills in participants with severe ADHD symptoms.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "Google cardboard",
+    "cardboard VR apps",
+    "Google VR",
+    "children with ADHD",
+    "social skills"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2024-08-27T00:00:00+03:00",
+    "year": 2024
+  },
+  "journal": {
+    "name": "TEM Journal",
+    "abbreviation": "TEM Journal",
+    "issn": "2217-8333, 2217-8309",
+    "volume": "13",
+    "issue": "3",
+    "pages": {
+      "start": "2237",
+      "end": "2248"
+    }
+  },
+  "authors": [
+    {
+      "given": "Reham",
+      "family": "Abdullah",
+      "authorship": "Primary Author, Corresponding Author",
+      "sequence": 1
+    },
+    {
+      "given": "Mayada",
+      "family": "Alrige",
+      "sequence": 2
+    },
+    {
+      "given": "Hind",
+      "family": "Bitar",
+      "sequence": 3
+    }
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "sourceUrl": "http://dx.doi.org/10.18421/tem133-51",
+    "localPdfUrl": "library/doi__10.18421__tem133-51.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.18421-tem133-51"
+}

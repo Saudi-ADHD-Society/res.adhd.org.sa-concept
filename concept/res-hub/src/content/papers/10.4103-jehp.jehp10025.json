@@ -1,0 +1,54 @@
+{
+  "doi": "10.4103/jehp.jehp_100_25",
+  "slug": "10.4103-jehp.jehp10025",
+  "title": "The impact of technology use on cognitive development and lexical attrition in L1 and L2 among younger students with ADHD: Opportunities and challenges",
+  "abstract": "BACKGROUND: The widespread integration of technology in education offers both exciting opportunities and significant challenges, particularly for learners with attention-deficit/hyperactivity disorder (ADHD). While digital tools can provide interactive and personalized learning experiences, ADHD students face cognitive difficulties that may impair their ability to retain vocabulary in both first (L1) and second (L2) languages. OBJECTIVE: This study examines the complex relationship between ADHD, technology use, and lexical attrition, focusing on how working memory deficits, fragmented attention, and cognitive overload contribute to vocabulary loss. It introduces the Cognitive-Behavioral Technology Interaction (CBTI) Framework to explain these interactions and explore how technology can be optimized to mitigate its negative effects. METHODS: A conceptual analysis was conducted, integrating cognitive theories such as Cognitive Load Theory (CLT), Monitor Theory, and the Working Memory Model (WMM). The study synthesizes existing research on ADHD and lexical attrition, particularly within digital learning environments, to develop structured recommendations for improving vocabulary retention. RESULTS: Findings suggest that digital environments characterized by multitasking and rapid stimuli exacerbate vocabulary loss in ADHD learners. However, when used strategically, technological interventions such as spaced repetition systems (SRS) can enhance vocabulary retention by reintroducing words at optimal intervals. Structured, distraction-free learning environments were identified as essential for supporting ADHD students’ cognitive needs. CONCLUSION: The study underscores the need for collaboration between educators and healthcare providers to design effective, structured technological interventions for ADHD learners. By implementing targeted strategies, technology can shift from a challenge to a supportive tool for language retention and improved educational outcomes.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "ADHD",
+    "lexical attrition",
+    "multitasking",
+    "spaced repetition systems",
+    "technology use",
+    "working memory"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2025-04-30",
+    "year": 2025
+  },
+  "journal": {
+    "name": "Journal of Education and Health Promotion",
+    "issn": "2277-9531, 2319-6440",
+    "volume": "14",
+    "issue": "1",
+    "pages": {
+      "start": "180"
+    }
+  },
+  "authors": [
+    {
+      "given": "Abdullah",
+      "family": "Al Fraidan",
+      "authorship": "Primary Author, Corresponding Author",
+      "sequence": 1
+    },
+    {
+      "given": "Thamer",
+      "family": "Alharthi",
+      "sequence": 2
+    }
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+    "sourceUrl": "https://doi.org/10.4103/jehp.jehp_100_25",
+    "localPdfUrl": "library/doi__10.4103__jehp.jehp_100_25.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.4103-jehp.jehp_100_25"
+}

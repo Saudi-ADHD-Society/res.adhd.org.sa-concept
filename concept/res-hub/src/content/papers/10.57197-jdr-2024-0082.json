@@ -1,0 +1,61 @@
+{
+  "doi": "10.57197/jdr-2024-0082",
+  "slug": "10.57197-jdr-2024-0082",
+  "title": "ADHD Diagnosis Using Text Features and Predictive Machine Learning and Deep Learning Algorithms",
+  "abstract": "Attention-deficit/hyperactivity disorder (ADHD) is a neurological disorder characterized by difficulties in controlling movement, impulsivity, and maintaining attention. Furthermore, it is important to note that this developmental disease is characterized by disparities and inconsistencies in performance and aptitude and can persist into adulthood manifesting in many forms and symptoms. ADHD typically manifests in childhood and frequently continues into adulthood, affecting various aspects of life such as academic and occupational performance, social interactions, and emotional well-being. The aim of this research work is to develop a diagnostic and detection system for ADHD by utilizing machine learning (ML) and deep learning (DL) techniques which are applied to social media textual data obtained from the Reddit platform. The DL techniques included neural networks such as gated recurrent unit and long short-term memory. The proposed methodology includes the gathering of dataset, preparation of data, extraction of features using term frequency-inverse document frequency, classification of models, and study of assessment metrics to assess the performance of the used models. The random forest model revealed the best performance compared to the other models analyzed, with an F1-score of 84% and an area under curve of 81%. The aforementioned results underscore the capability of ML in detecting ADHD-related data on social media platforms, thus providing significant contributions to the fields of study and healthcare.",
+  "categories": [
+    "Diagnosis"
+  ],
+  "keywords": [
+    "ADHD",
+    "mental health",
+    "text features",
+    "deep learning",
+    "machine learning"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2024-09-05",
+    "year": 2024
+  },
+  "journal": {
+    "name": "Journal of Disability Research",
+    "abbreviation": "JDR",
+    "issn": "1658-9912",
+    "volume": "3",
+    "issue": "7"
+  },
+  "authors": [
+    {
+      "given": "Nizar",
+      "family": "Alsharif",
+      "authorship": "Primary Author, Corresponding Author",
+      "orcid": "http://orcid.org/0000-0003-2537-1986",
+      "sequence": 1
+    },
+    {
+      "given": "Mosleh Hmoud",
+      "family": "Al-Adhaileh",
+      "sequence": 2
+    },
+    {
+      "given": "Saleh Nagi",
+      "family": "Alsubari",
+      "sequence": 3
+    },
+    {
+      "given": "Mohammed",
+      "family": "Al-Yaari",
+      "sequence": 4
+    }
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "http://dx.doi.org/10.57197/jdr-2024-0082"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.57197-jdr-2024-0082"
+}

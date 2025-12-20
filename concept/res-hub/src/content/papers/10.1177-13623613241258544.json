@@ -1,0 +1,71 @@
+{
+  "doi": "10.1177/13623613241258544",
+  "slug": "10.1177-13623613241258544",
+  "title": "Perception and behavior toward neuropsychiatric disorders in Saudi Arabia: A systematic review and quality assessment",
+  "abstract": "This systematic literature review was conducted to examine the most studied neurodevelopmental disorders reported in the Kingdom of Saudi Arabia and explore public knowledge, attitudes, and behaviors. Electronic literature databases such as PubMed, Embase, Web of Science, Scopus, CINAHL, and Google Scholar from May 2010 to May 2022. The literature was screened and assessed the quality of surveys of extracted 21 articles following the Best Practices for Survey and Public Opinion Research by the American Association for Public Opinion Research. Since 2010, the most studied neurodevelopmental disorders reported in the Kingdom of Saudi Arabia were attention deficit hyperactivity disorder and autism spectrum disorder, with the prevalence of studies conducted in Central province, followed by Western province and the rest of Saudi Arabia in general. The analysis of questionnaires used showed that 20 studies were of high quality, and one was of medium quality. The narrative synthesis of included studies showed an overall lack of knowledge about autism spectrum disorder and attention deficit hyperactivity disorder, misconceptions and misunderstandings about these health conditions. More research is needed in all regions of the Kingdom of Saudi Arabia to contribute to the knowledge about mental health conditions of attention deficit hyperactivity disorder and autism spectrum disorder children and their parents to inform policies and practical recommendations.",
+  "categories": [
+    "Awareness"
+  ],
+  "keywords": [
+    "Mental health disorders",
+    "attention deficit hyperactivity disorder",
+    "autism spectrum disorder",
+    "society perceptions"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "year": 2024
+  },
+  "journal": {
+    "name": "Autism",
+    "abbreviation": "Autism",
+    "issn": "1362-3613, 1461-7005"
+  },
+  "authors": [
+    {
+      "given": "Alexander",
+      "family": "Woodman",
+      "authorship": "Primary Author, Corresponding Author",
+      "sequence": 1
+    },
+    {
+      "given": "Khawaja Bilal",
+      "family": "Waheed",
+      "sequence": 2
+    },
+    {
+      "given": "Rehab Y",
+      "family": "Al-Ansari",
+      "sequence": 3
+    },
+    {
+      "given": "Shakil",
+      "family": "Ahmad",
+      "sequence": 4
+    },
+    {
+      "given": "Tanzeel Ur",
+      "family": "Rehman",
+      "sequence": 5
+    },
+    {
+      "given": "Mohammad",
+      "family": "Rasheed",
+      "sequence": 6
+    },
+    {
+      "given": "Nizar",
+      "family": "Jaoua",
+      "sequence": 7
+    }
+  ],
+  "access": {
+    "status": "closed",
+    "licenseUrl": "https://journals.sagepub.com/page/policies/text-and-data-mining-license",
+    "sourceUrl": "http://dx.doi.org/10.1177/13623613241258544"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.1177-13623613241258544"
+}

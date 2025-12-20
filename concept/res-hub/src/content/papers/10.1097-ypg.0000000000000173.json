@@ -1,0 +1,81 @@
+{
+  "doi": "10.1097/ypg.0000000000000173",
+  "slug": "10.1097-ypg.0000000000000173",
+  "title": "Analysis of shared homozygosity regions in Saudi siblings with attention deficit hyperactivity disorder",
+  "abstract": "<strong>Aim</strong>: Genetic and clinical complexities are common features of most psychiatric illnesses that pose a major obstacle in risk-gene identification. Attention deficit hyperactivity disorder (ADHD) is the most prevalent child-onset psychiatric illness, with high heritability. Over the past decade, numerous genetic studies utilizing various approaches, such as genome-wide association, candidate-gene association, and linkage analysis, have identified a multitude of candidate loci/genes. However, such studies have yielded diverse findings that are rarely reproduced, indicating that other genetic determinants have not been discovered yet. In this study, we carried out sib-pair analysis on seven multiplex families with ADHD from Saudi Arabia. We aimed to identify the candidate chromosomal regions and genes linked to the disease. <strong>Patients and Methods</strong>: A total of 41 individuals from multiplex families were analyzed for shared regions of homozygosity. Genes within these regions were prioritized according to their potential relevance to ADHD. <strong>Results</strong>: We identified multiple genomic regions spanning different chromosomes to be shared among affected members of each family; these included chromosomes 3, 5, 6, 7, 8, 9, 10, 13, 17, and 18. We also found specific regions on chromosomes 8 and 17 to be shared between affected individuals from more than one family. Among the genes present in the regions reported here were involved in neurotransmission (GRM3, SIGMAR1, CHAT, and SLC18A3) and members of the HLA gene family (HLA-A, HLA-DPA1, and MICC). <strong>Conclusion</strong>: The candidate regions identified in this study highlight the genetic diversity of ADHD. Upon further investigation, these loci may reveal candidate genes that enclose variants associated with ADHD. Although most ADHD studies were conducted in Other populations, our study provides insight from an understudied, ethnically interesting population. <a href=&#34;http://journals.lww.com/psychgenetics/fulltext/9000/00000/Analysis_of_shared_homozygosity_regions_in_Saudi.99592.aspx&#34; target=&#34;_blank&#34;>Published online ahead of print.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "children",
+    "consanguinity",
+    "homozygosity",
+    "multiplex families",
+    "saudi",
+    "sib-pair analysis",
+    "siblings"
+  ],
+  "publication": {
+    "year": 2017
+  },
+  "journal": {
+    "name": "Psychiatric Genetics",
+    "abbreviation": "Psychiatr Genet",
+    "volume": "0",
+    "issue": "0"
+  },
+  "authors": [
+    {
+      "given": "Jameela MA",
+      "family": "Shinwari",
+      "sequence": 1
+    },
+    {
+      "given": "Eman A",
+      "family": "Al Yemni",
+      "sequence": 2
+    },
+    {
+      "given": "Faten M",
+      "family": "Alnaemi",
+      "sequence": 3
+    },
+    {
+      "given": "Dejene",
+      "family": "Abebe",
+      "sequence": 4
+    },
+    {
+      "given": "Basma S",
+      "family": "Al-Abdulaziz",
+      "sequence": 5
+    },
+    {
+      "given": "Bashayer R",
+      "family": "Al Mubarak",
+      "sequence": 6
+    },
+    {
+      "given": "Mohammad",
+      "family": "Ghaziuddin",
+      "sequence": 7
+    },
+    {
+      "given": "Nada A",
+      "family": "Al Tassan",
+      "sequence": 8
+    },
+    {
+      "given": "A",
+      "family": "Al Tassan",
+      "sequence": 9
+    }
+  ],
+  "access": {
+    "status": "unknown"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.1097-ypg.0000000000000173"
+}

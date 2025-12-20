@@ -1,0 +1,94 @@
+{
+  "doi": "10.3389/fgene.2020.548559",
+  "slug": "10.3389-fgene.2020.548559",
+  "title": "The Co-existence of ADHD With Autism in Saudi Children: An Analysis Using Next-Generation DNA Sequencing",
+  "abstract": "Attention-deficit/hyperactivity disorder (ADHD) is one of the most common neurodevelopmental disorders. Several studies have confirmed the co-existence of other neuropsychiatric disorders with ADHD. Out of 106 individuals suspected to have ADHD, eight Saudi Arabian pediatric patients were diagnosed with ADHD using a dual assessment procedure based on highly significant scores from the international criteria for diagnosis; (full form DMS) DSM-5. Then, these patients were examined for the co-existence of autism and ADHD using different international diagnostic protocols. Four patients with combined ADHD and autism and four ADHD patients without autism were examined for the presence of genetic variants. Six variants (chr1:98165091, chr6:32029183, chr6:32035603, chr6:32064098, chr8:2909992, chr16:84213434) were identified in 75% of the patients with ADHD and autism, indicating that these genes may have a possible role in causing autism. Five variants (The chr2:116525960, chr15:68624396, chr15:91452595, chr15:92647645, and chr16:82673047) may increase to the severity of ADHD. This study recommends screening these eleven variants in ADHD cases and their relevant controls to confirm the prevalence in the Saudi population. It is recommended that future studies examine the 11 variants in detail.",
+  "categories": [
+    "Genetics"
+  ],
+  "keywords": [
+    "ADHD (attention deficit and hyperactivity disorder)",
+    "autism (ASD)",
+    "GWAS",
+    "SNP",
+    "learning disorders"
+  ],
+  "publication": {
+    "year": 2020
+  },
+  "journal": {
+    "name": "Frontiers in Genetics",
+    "abbreviation": "Front. Genet.",
+    "volume": "11",
+    "pages": {
+      "start": "548559"
+    }
+  },
+  "authors": [
+    {
+      "given": "Neda M",
+      "family": "Bogari",
+      "authorship": "Primary Author, Corresponding Author",
+      "sequence": 1
+    },
+    {
+      "given": "Faisal A",
+      "family": "Al-Allaf",
+      "sequence": 2
+    },
+    {
+      "given": "Ashwag",
+      "family": "Aljohani",
+      "sequence": 3
+    },
+    {
+      "given": "Mohiuddin M",
+      "family": "Taher",
+      "sequence": 4
+    },
+    {
+      "given": "Nermeen A",
+      "family": "Qutub",
+      "sequence": 5
+    },
+    {
+      "given": "Suhair",
+      "family": "Alhelfawi",
+      "sequence": 6
+    },
+    {
+      "given": "Amal",
+      "family": "Alobaidi",
+      "sequence": 7
+    },
+    {
+      "given": "Derar M",
+      "family": "Alqudah",
+      "sequence": 8
+    },
+    {
+      "given": "Hussain",
+      "family": "Banni",
+      "sequence": 9
+    },
+    {
+      "given": "Ghida",
+      "family": "Dairi",
+      "sequence": 10
+    },
+    {
+      "given": "Amr A",
+      "family": "Amin",
+      "sequence": 11
+    }
+  ],
+  "access": {
+    "status": "open",
+    "researchGateUrl": "https://www.researchgate.net/publication/348373391_The_Co-existence_of_ADHD_With_Autism_in_Saudi_Children_An_Analysis_Using_Next-Generation_DNA_Sequencing",
+    "localPdfUrl": "library/doi__10.3389__fgene.2020.548559.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.3389-fgene.2020.548559"
+}

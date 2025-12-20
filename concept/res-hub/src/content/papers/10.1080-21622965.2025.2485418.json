@@ -1,0 +1,46 @@
+{
+  "doi": "10.1080/21622965.2025.2485418",
+  "slug": "10.1080-21622965.2025.2485418",
+  "title": "Symptoms of attention deficit hyperactivity disorder and emotional behavioral problems: The mediating effect of executive function",
+  "abstract": "<p>The aim was to investigate the symptoms of attention deficit hyperactivity disorder (ADHD) and emotional behavioral problems, with focus on studying the mediating effect of executive function. A total of 240 children with ADHD aged 6–10 years old participated. They all met the diagnostic criteria for ADHD in the Diagnostic and Statistical Manual of Mental Disorders, fifth edition. SPSS 26.0 was used for statistical analysis. Mean interpolation was used to interpolate missing values of a small number of questionnaire items. One-way analysis of variance was used for comparison between multiple groups. Pearson correlation analysis was used for correlation between variables. The results of this study showed that inattention and hyperactivity-impulsivity scores of children with ADHD were positively correlated with the scores of emotional and behavioral problems (EBPs), that is, the more severe the attention deficit and hyperactivity-impulsivity symptoms were, the more severe the EBPs were. The hyperactivity-impulsivity score of children with ADHD positively predicted their behavioral regulation index (BMI) and metacognition index (MI) scores. The BMI score positively predicted the emotional and behavioral problem scores of children with ADHD, while the MI score had no statistically significant predictive effect on the emotional and behavioral problem scores of children with ADHD. These findings suggest that interventions targeting executive function—particularly behavioral regulation—may help mitigate emotional and behavioral difficulties in children with ADHD.</p>",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "attention deficit hyperactivity disorder",
+    "emotional behavioral problems",
+    "executive function",
+    "symptoms"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2025-04-08T00:00:00+03:00",
+    "year": 2025
+  },
+  "journal": {
+    "name": "Applied Neuropsychology: Child",
+    "abbreviation": "Applied Neuropsychology: Child",
+    "issn": "2162-2965, 2162-2973",
+    "pages": {
+      "start": "1",
+      "end": "7"
+    }
+  },
+  "authors": [
+    {
+      "given": "Manal",
+      "family": "Y. I. Baamer",
+      "authorship": "Primary Author, Corresponding Author",
+      "orcid": "https://orcid.org/0000-0002-1820-9932",
+      "sequence": 1
+    }
+  ],
+  "access": {
+    "status": "closed",
+    "sourceUrl": "https://doi.org/10.1080/21622965.2025.2485418"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.1080-21622965.2025.2485418"
+}

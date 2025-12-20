@@ -1,0 +1,47 @@
+{
+  "doi": "10.1080/21622965.2025.2517614",
+  "slug": "10.1080-21622965.2025.2517614",
+  "title": "Motor coordination ability and core symptoms of ADHD: Executive function as a mediator",
+  "abstract": "<p>This study aims to investigate the mediation model in order to provide a theoretical basis for improving the core symptoms and executive function of children with ADHD. A total of 160 participants aged 4–6 years (mean = 5.01 and SD = 3.22) were included in the analyses. Normally distributed quantitative data were described using (M ± SD). Multivariate hierarchical regression analysis was used to further verify the mediating effect of different dimensions of executive function between motor coordination ability and core symptoms of children with ADHD. The bias-corrected nonparametric percentile Bootstrap method was used to test the multiple mediation model. This study found that the balance ability of children with ADHD significantly and negatively predicts the severity of core symptoms of attention deficit. the manual dexterity score of children with ADHD was negatively correlated with the attention deficit score, the aiming and catching score was negatively correlated with the working memory factor score, the balance score was negatively correlated with the attention deficit score. In terms of executive function, the inhibition, and working memory factor scores of children with ADHD were positively correlated with the attention deficit score, and the inhibition factor score was positively correlated with the hyperactivity/impulsivity score. The results show that the total mediating effect of the four factors of executive function is significant, accounting for 57.37% of the total effect.</p>",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "Attention deficit hyperactivity disorder",
+    "children",
+    "core symptoms",
+    "executive function",
+    "motor coordination"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2025-07-01",
+    "year": 2025
+  },
+  "journal": {
+    "name": "Applied Neuropsychology: Child",
+    "abbreviation": "Applied Neuropsychology: Child",
+    "issn": "2162-2965, 2162-2973",
+    "pages": {
+      "start": "1",
+      "end": "7"
+    }
+  },
+  "authors": [
+    {
+      "given": "Yasir A.",
+      "family": "Alsamiri",
+      "authorship": "Primary Author, Corresponding Author",
+      "orcid": "https://orcid.org/0000-0002-4909-8374",
+      "sequence": 1
+    }
+  ],
+  "access": {
+    "status": "closed",
+    "sourceUrl": "https://doi.org/10.1080/21622965.2025.2517614"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.1080-21622965.2025.2517614"
+}

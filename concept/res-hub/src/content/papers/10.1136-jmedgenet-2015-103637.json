@@ -1,0 +1,95 @@
+{
+  "doi": "10.1136/jmedgenet-2015-103637",
+  "slug": "10.1136-jmedgenet-2015-103637",
+  "title": "KCNA4 deficiency leads to a syndrome of abnormal striatum, congenital cataract and intellectual disability",
+  "abstract": "<strong>Background</strong>: Voltage-gated potassium channels are highly diverse proteins representing the most complex class of voltage-gated ion channels from structural and functional perspectives. Deficiency of these channels usually results in various human disorders. <strong>Objectives</strong>: To describe a novel autosomal recessive syndrome associated with KCNA4 deficiency leading to congenital cataract, abnormal striatum, intellectual disability and attention deficit hyperactivity disorder. <strong>Methods</strong>: We used SNP arrays, linkage analyses, autozygosity mapping, whole-exome sequencing, RT-PCR and two-electrode voltage-clamp recording. <strong>Results</strong>: We identified a missense variant (p.Arg89Gln) in KCNA4 in four patients from a consanguineous family manifesting a novel syndrome of congenital cataract, abnormal striatum, intellectual disability and attention deficit hyperactivity disorder. The variant was fully segregated with the disease and absent in 747 ethnically matched exomes. Xenopus oocytes were injected with human Kv1.4 wild-type mRNA, R89Q and WT/R89Q channels. The wild type had mean current amplitude that was significantly greater than those recorded from the cells expressing the same amount of mutant mRNA. Co-expression of the wild type and mutant mRNAs resulted in mean current amplitude that was significantly different from that of the wild type. RT-PCR indicated that KCNA4 is present in mouse brain, lens and retina. KCNA4 interacts with several molecules including synaptotagmin I, DLG1 and DLG2. The channel co-localises with cholinergic amacrine and rod bipolar cells in rats and is widely distributed in the central nervous system. Based on previous studies, the channel is highly expressed in outer retina, rod inner segments, hippocampus and concentrated in axonal membranes. <strong>Conclusion</strong>: KCNA4 (Kv1.4) is implicated in a novel syndrome characterised by striatal thinning, congenital cataract and attention deficit hyperactivity disorder. Our study highlights potassium channels&rsquo; role in ocular and neuronal genetics.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "intellectual disability",
+    "striatum"
+  ],
+  "publication": {
+    "year": 2016
+  },
+  "journal": {
+    "name": "Journal of Medical Genetics",
+    "abbreviation": "J Med Genet",
+    "volume": "53",
+    "issue": "11",
+    "pages": {
+      "start": "786",
+      "end": "792"
+    }
+  },
+  "authors": [
+    {
+      "given": "Osama M",
+      "family": "Mustafa",
+      "sequence": 1
+    },
+    {
+      "given": "Faten B",
+      "family": "Almutairi",
+      "sequence": 2
+    },
+    {
+      "given": "Maria",
+      "family": "Muccioli",
+      "sequence": 3
+    },
+    {
+      "given": "Sonia",
+      "family": "Hasan",
+      "sequence": 4
+    },
+    {
+      "given": "Albandary",
+      "family": "Al-Bakheet",
+      "sequence": 5
+    },
+    {
+      "given": "Maria Cristina",
+      "family": "D&rsquo;Adamo",
+      "sequence": 6
+    },
+    {
+      "given": "Maysoon",
+      "family": "Alsagob",
+      "sequence": 7
+    },
+    {
+      "given": "Namik",
+      "family": "Kaya",
+      "sequence": 8
+    },
+    {
+      "given": "Dorota",
+      "family": "Monies",
+      "sequence": 9
+    },
+    {
+      "given": "Rawan",
+      "family": "Almass",
+      "sequence": 10
+    },
+    {
+      "given": "Mazhor",
+      "family": "Almass",
+      "sequence": 11
+    },
+    {
+      "given": "Mazhor",
+      "family": "Aldosary",
+      "sequence": 12
+    }
+  ],
+  "access": {
+    "status": "unknown"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.1136-jmedgenet-2015-103637"
+}

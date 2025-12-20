@@ -1,0 +1,46 @@
+{
+  "doi": "10.18203/2394-6040.ijcmph20230247",
+  "slug": "10.18203-2394-6040.ijcmph20230247",
+  "title": "Prevalence of attention deficit hyperactivity disorder in the Arab Gulf countries: systematic review and meta-analysis",
+  "abstract": "Attention deficit hyperactivity disorder (ADHD) is an important growing psychiatric health problem of children and adolescents all over the world. This review aimed to investigate the prevalence of ADHD in the Arab Gulf countries. A literature search was conducted on 14 January 2022. Any paper reporting the prevalence of ADHD in Arab Gulf countries was included. R software was used for the meta-analysis. We included 14 papers. The prevalence of ADHD was 5.90% (95% confidence interval (CI)=1.73-20.14). We found no significant difference in the prevalence of ADHD between males and females (odds ratio (OR)=1.48; 95% CI=0.53-4.14; p value=0.456). The leave-one-out sensitivity analysis did not change the statistical significance proving that a single study did not drive the pooled effect size. Regarding parents’ educational level, the prevalence was the highest among children born to fathers with at least a secondary education 51% (95% CI= 22.97-100.00), while the prevalence rate was comparable among those with primary school education 16.6% (95% CI=1.28-100.00) and illiterate fathers 17% (95% CI=12.84-22.59). The difference between different education subgroups was statistically significant (p=0.040). There were no statistically significant differences in ADHD prevalence when comparing different mothers’ educational levels (p=0.260). The estimated cumulative evidence is high but comparable with the reported worldwide rates. Unlike these studies, the prevalence of ADHD was not associated with gender or maternal education. On the other hand, the highest prevalence of ADHD was found among children of fathers with at least a secondary education.",
+  "categories": [
+    "Review"
+  ],
+  "keywords": [
+    "ADHD",
+    "Arab Gulf",
+    "prevalence",
+    "systematic review",
+    "meta-analysis",
+    "review"
+  ],
+  "publication": {
+    "year": 2023
+  },
+  "journal": {
+    "name": "International Journal of Community Medicine and Public Health",
+    "abbreviation": "Int J Community Med Public Health",
+    "volume": "10",
+    "issue": "2",
+    "pages": {
+      "start": "833",
+      "end": "841"
+    }
+  },
+  "authors": [
+    {
+      "given": "Bandar M",
+      "family": "Almojarthe",
+      "authorship": "Primary Author, Corresponding Author",
+      "sequence": 1
+    }
+  ],
+  "access": {
+    "status": "open",
+    "researchGateUrl": "https://www.researchgate.net/publication/367502930_Prevalence_of_attention_deficit_hyperactivity_disorder_in_the_Arab_Gulf_countries_systematic_review_and_meta-analysis"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.18203-2394-6040.ijcmph20230247"
+}

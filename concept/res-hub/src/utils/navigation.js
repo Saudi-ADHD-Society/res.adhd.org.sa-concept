@@ -21,6 +21,7 @@ export const getPagePath = (pageId) => {
     'research-projects': '/research-projects',
     'clinical-tools': '/clinical-tools',
     'research-governance': '/research-governance',
+    'library': '/library',
     
     // Topic guides (under /topic-guides/)
     'topic-guides': '/topic-guides',

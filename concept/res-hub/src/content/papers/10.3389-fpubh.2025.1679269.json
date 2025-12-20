@@ -1,0 +1,71 @@
+{
+  "doi": "10.3389/fpubh.2025.1679269",
+  "slug": "10.3389-fpubh.2025.1679269",
+  "title": "Bridging the gap: a cross-sectional study on knowledge and awareness of attention-deficit/hyperactivity disorder among students at a public university",
+  "abstract": "BackgroundAttention-Deficit/Hyperactivity Disorder (ADHD) is a common neurodevelopmental disorder that affects academic and social performance. Despite increasing mental health awareness, university students including those in healthcare disciplines often have limited understanding of ADHD. This study aimed to assess the levels of ADHD-related knowledge and awareness among students at a public university in Saudi Arabia.MethodsA cross-sectional study was conducted at King Khalid University, Abha, Saudi Arabia, from February to July 2025. A total of 330 undergraduate students were selected using a non-probability stratified purposive sampling technique. Data were collected using an online questionnaire assessing sociodemographics, ADHD knowledge (9 items), and awareness (11 items). Descriptive statistics and multivariate logistic regression were used to identify associated factors (p &lt; 0.05).ResultsAmong 330 students, 174 (52.7%) had good knowledge and 117 (35.4%) had good awareness of ADHD. Healthcare students had higher knowledge (78.0% vs. 26.5%), but awareness remained low in both groups (37.5% vs. 33.3%), highlighting gaps that may impede early recognition and support for students with ADHD. Notably, 45.5% of students including 36.3% of healthcare and 54.9% of non-healthcare students believed ADHD could be diagnosed through a blood test, reflecting persistent misconceptions. Lower GPA and reliance on social media were associated with poorer knowledge and awareness, while female gender and advanced academic year predicted better knowledge. These findings underscore the need for targeted educational interventions and evidence-based awareness campaigns to improve ADHD literacy and facilitate timely identification and support.ConclusionThis study revealed notable gaps in ADHD knowledge and awareness among university students. While healthcare students showed higher theoretical knowledge, practical awareness was low across groups. Better knowledge was associated with higher GPA, academic discipline, and access to professional information. Targeted educational strategies such as workshops, case-based learning, digital resources, and evidence-based campaigns are recommended to enhance ADHD literacy, correct misconceptions, and foster supportive university environments.",
+  "categories": [
+    "Awareness"
+  ],
+  "keywords": [
+    "Attention-Deficit/Hyperactivity Disorder (ADHD)",
+    "knowledge",
+    "awareness",
+    "cross-sectional study",
+    "healthcare",
+    "non-healthcare"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2025-09-29T00:00:00+03:00",
+    "year": 2025
+  },
+  "journal": {
+    "name": "Frontiers in Public Health",
+    "abbreviation": "Front. Public Health",
+    "issn": "2296-2565",
+    "volume": "13"
+  },
+  "authors": [
+    {
+      "given": "Geetha",
+      "family": "Kandasamy",
+      "authorship": "Primary Author, Corresponding Author",
+      "sequence": 1
+    },
+    {
+      "given": "Khalid",
+      "family": "Orayj",
+      "sequence": 2
+    },
+    {
+      "given": "Vanitha Innocent",
+      "family": "Rani",
+      "sequence": 3
+    },
+    {
+      "given": "Asma M.",
+      "family": "Alshahrani",
+      "sequence": 4
+    },
+    {
+      "given": "Tahani S.",
+      "family": "Alanazi",
+      "sequence": 5
+    },
+    {
+      "given": "Amjad",
+      "family": "Hmlan",
+      "sequence": 6
+    }
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://doi.org/10.3389/fpubh.2025.1679269",
+    "localPdfUrl": "library/doi__10.3389__fpubh.2025.1679269.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.3389-fpubh.2025.1679269"
+}

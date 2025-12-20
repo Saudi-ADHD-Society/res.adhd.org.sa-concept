@@ -1,0 +1,46 @@
+{
+  "doi": "10.5281/zenodo.1214313",
+  "slug": "10.5281-zenodo.1214313",
+  "title": "Children with Emotional and Behavioral Disorders in Saudi Arabia A Preliminary Prevalence Screening",
+  "abstract": "Education in Saudi Arabia, including the education of children with special needs, is developing rapidly. However, children with emotional and behavioral disorders are neither consistently identified nor adequately served in Saudi Arabia although they are recognized as a distinct category of children who require special education services. The goal of this study was to examine the prevalence of emotional and behavioral disorders among children in Saudi Arabia to assess the need for intervention services to help those children reach their potential. The current research identified the types of behaviors that are most evident in the study sample. Also, the relationship between demographics and emotional and behavioral disorders is studied to identify possible predictors of disruptive forms of behavior. Parents of children aged 4-17 years in Saudi Arabia were surveyed using the Strengths and Difficulties Questionnaire. The findings of the study suggest that children with emotional and behavioral disorders in Saudi Arabia may account for 20% of the population of children between the ages of 4 and 17. The findings also revealed that over 20% of children in Saudi Arabia have difficulties in peer relationship and lack the necessary prosocial behaviors. The parent reporting, child gender, child education type, the geographical region, the fathers education level, and the familys socioeconomic status were found to be statistically significant predictors of children difficulties. However, these predictors were only able to explain a small portion of the difficulty scores.",
+  "categories": [
+    "Prevalence"
+  ],
+  "keywords": [
+    "behavior",
+    "emotion",
+    "featured",
+    "parents",
+    "prevalence",
+    "screening",
+    "special education"
+  ],
+  "publication": {
+    "year": 2018
+  },
+  "journal": {
+    "name": "European Journal of Special Education Research",
+    "abbreviation": "European Journal of Special Education Research",
+    "volume": "3",
+    "issue": "3",
+    "pages": {
+      "start": "49",
+      "end": "78"
+    }
+  },
+  "authors": [
+    {
+      "given": "Hassan",
+      "family": "Maajeeny",
+      "sequence": 1
+    }
+  ],
+  "access": {
+    "status": "unknown",
+    "localPdfUrl": "library/doi__10.5281__zenodo.1214313.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.5281-zenodo.1214313"
+}

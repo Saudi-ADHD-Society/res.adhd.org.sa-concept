@@ -1,0 +1,49 @@
+{
+  "doi": "10.4103/sjmms.sjmms_218_23",
+  "slug": "10.4103-sjmms.sjmms21823",
+  "title": "Understanding Auditory Processing Disorder: A Narrative Review",
+  "abstract": "Auditory processing disorder (APD) is defined as difficulty in listening despite possessing hearing thresholds within the normal limit. Understanding rapid speech, following complex instructions, and listening in the existence of background noise are some of the difficulties in APD. APD has been observed in diverse clinical populations with suspected or diagnosed disorders, such as attention deficit–hyperactivity disorder, dyslexia, aphasia, and Alzheimer’s disease; however, it should be differentiated from these disorders. Despite the research on APD, its awareness is limited, resulting in it often being undiagnosed. Therefore, improving the awareness and understanding of APD is important. The current paper aims to review the literature on APD with a focus on school-age children. The prevalence, etiology, screening, and diagnosis of APD are discussed along with correlated disorders, interpretation of tests, and management strategies.",
+  "categories": [
+    "Language"
+  ],
+  "keywords": [
+    "Audiology",
+    "auditory perception",
+    "auditory processing disorder",
+    "hearing",
+    "speech-language pathology",
+    "verbal stimuli"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2023-11-04",
+    "year": 2023
+  },
+  "journal": {
+    "name": "Saudi Journal of Medicine & Medical Sciences",
+    "abbreviation": "Saudi Journal of Medicine & Medical Sciences",
+    "volume": "11",
+    "issue": "4",
+    "pages": {
+      "start": "275",
+      "end": "282"
+    }
+  },
+  "authors": [
+    {
+      "given": "Ahmad A",
+      "family": "Alanazi",
+      "sequence": 1
+    }
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en",
+    "sourceUrl": "http://dx.doi.org/10.4103/sjmms.sjmms_218_23",
+    "localPdfUrl": "library/doi__10.4103__sjmms.sjmms_218_23.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.4103-sjmms.sjmms_218_23"
+}

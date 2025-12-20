@@ -1,0 +1,68 @@
+{
+  "doi": "10.3390/children11091053",
+  "slug": "10.3390-children11091053",
+  "title": "Exploring the Unmet Needs of Teachers of Young Children with ADHD Symptoms: A Qualitative Study",
+  "abstract": "Background/Objectives: Children with Attention and Hyperactivity Deficit Disorder (ADHD) and those at risk of ADHD typically exhibit challenging behaviours that may disrupt the classroom environment and be frustrating for teachers. This study aimed to explore teachers’ experiences and emotions regarding teaching children with high levels of ADHD symptoms and their perceptions of what might help to meet their unmet support needs. Methods: Semi-structured interviews were conducted with 17 primary educational practitioners for children aged between four and eight years in the UK. Interview scripts were analysed using reflexive thematic analysis. Six main themes and 8 subthemes were developed. These included: (1) ADHD behaviours can disrupt the learning environment; (2) teachers face practical demands on their expertise and particular skills; (3) managing ADHD behaviours can be overwhelming for teachers; (4) teachers and children may treat children with ADHD negatively, which can impact on children’s emotions and lead to labelling; (5) existing support for teachers is limited; and (6) teachers need more specific training about ADHD. Results: The analysis revealed that teachers working with children with externalising behaviours such as ADHD can feel overwhelmed. Conclusions: The findings from this study suggest that teachers require more training in managing externalising behaviour in the classroom.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "teachers",
+    "children",
+    "ADHD",
+    "training",
+    "themes",
+    "support",
+    "primary school"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2024-08-28T00:00:00+03:00",
+    "year": 2024
+  },
+  "journal": {
+    "name": "Children",
+    "abbreviation": "Children",
+    "issn": "2227-9067",
+    "volume": "11",
+    "issue": "9",
+    "pages": {
+      "start": "1053"
+    }
+  },
+  "authors": [
+    {
+      "given": "Reem",
+      "family": "Aldabbagh",
+      "authorship": "Primary Author, Corresponding Author",
+      "sequence": 1
+    },
+    {
+      "given": "David",
+      "family": "Daley",
+      "sequence": 2
+    },
+    {
+      "given": "Kapil",
+      "family": "Sayal",
+      "orcid": "http://orcid.org/0000-0002-2050-4316",
+      "sequence": 3
+    },
+    {
+      "given": "Cris",
+      "family": "Glazebrook",
+      "sequence": 4
+    }
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "http://dx.doi.org/10.3390/children11091053",
+    "researchGateUrl": "https://www.researchgate.net/publication/383504550_Exploring_the_Unmet_Needs_of_Teachers_of_Young_Children_with_ADHD_Symptoms_A_Qualitative_Study",
+    "localPdfUrl": "library/doi__10.3390__children11091053.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.3390-children11091053"
+}

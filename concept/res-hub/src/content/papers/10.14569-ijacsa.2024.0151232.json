@@ -1,0 +1,54 @@
+{
+  "doi": "10.14569/ijacsa.2024.0151232",
+  "slug": "10.14569-ijacsa.2024.0151232",
+  "title": "Towards an Ontology to Represent Domain Knowledge of Attention Deficit Hyperactivity Disorder (ADHD): A Conceptual Model",
+  "abstract": "<p>Attention deficit/hyperactivity disorder (ADHD) represents a highly heterogeneous and complex medical domain with numerous multidisciplinary research areas. Despite the rising number of research on the pathophysiology of ADHD, the available information in the ADHD domain is still scattered and disconnected. This research study mainly aims to develop a conceptual model of ADHD by applying knowledge engineering processes to structure the domain knowledge, elucidating key concepts and their interrelationships. The methodology for developing the conceptual model is derived from established practices in ontology construction. It adopts a hybrid approach, integrating principles from prominent methodologies such as Ontology Development 101, the Uschold and King methodology, and METHONTOLOGY. The proposed ADHD conceptual model links various aspects of ADHD including subtypes, symptoms, behaviors, diagnostic criteria, treatment, risk factors, comorbidities, and patient profile. Comprising eight top-level classes and highlighting 13 key relationships, it establishes connections between symptoms and recommended treatments, as well as symptoms and their diverse manifestations, risk factors, ADHD subtypes, and potential comorbidities. While the model captures a broad range of ADHD-related concepts, it has certain limitations. It does not extensively address genetic or neurobiological mechanisms, nor does it capture cultural and contextual variations in ADHD manifestations. These limitations highlight opportunities for future expansion, such as incorporating real-world data and diverse demographic contexts. Nevertheless, the model developed in this study is well-suited to serve as a cornerstone for constructing a comprehensive ADHD domain knowledge ontology. Ontologies play a crucial role as a layer for transferring knowledge and serve as a foundation for developing advanced systems, such as decision-support tools and expert systems, to enhance ADHD research and clinical practice.</p>",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "Conceptual model",
+    "ontology",
+    "ADHD",
+    "knowledge engineering"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "year": 2024
+  },
+  "journal": {
+    "name": "International Journal of Advanced Computer Science and Applications",
+    "abbreviation": "ijacsa",
+    "issn": "2156-5570, 2158-107X",
+    "volume": "15",
+    "issue": "12"
+  },
+  "authors": [
+    {
+      "given": "Shahad Mansour",
+      "family": "Alsaedi",
+      "authorship": "Primary Author, Corresponding Author",
+      "sequence": 1
+    },
+    {
+      "given": "Aishah",
+      "family": "Alsobhi",
+      "sequence": 2
+    },
+    {
+      "given": "Hind",
+      "family": "Bitar",
+      "sequence": 3
+    }
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://doi.org/10.14569/ijacsa.2024.0151232",
+    "localPdfUrl": "library/doi__10.14569__ijacsa.2024.0151232.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.14569-ijacsa.2024.0151232"
+}

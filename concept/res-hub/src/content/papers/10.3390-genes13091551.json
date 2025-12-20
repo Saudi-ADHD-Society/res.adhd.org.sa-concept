@@ -1,0 +1,66 @@
+{
+  "doi": "10.3390/genes13091551",
+  "slug": "10.3390-genes13091551",
+  "title": "Autism and ADHD in the Era of Big Data; An Overview of Digital Resources for Patient, Genetic and Clinical Trials Information",
+  "abstract": "Even in the era of information prosperity; in the form of databases and registries that compile a wealth of data, information about ASD and ADHD remains scattered and disconnected. These data systems are powerful tools that can inform decision-making and policy creation, as well as advancing and disseminating knowledge. Here, we review three types of data systems (patient registries, clinical trial registries and genetic databases) that are concerned with ASD or ADHD and discuss their features, advantages and limitations. We noticed the lack of ethnic diversity in the data, as the majority of their content is curated from European and (to a lesser extent) Asian populations. Acutely aware of this knowledge gap, we introduce here the framework of the Neurodevelopmental Disorders Database (NDDB). This registry was designed to serve as a model for the national repository for collecting data from Saudi Arabia on neurodevelopmental disorders, particularly ASD and ADHD, across diverse domains.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "Autism",
+    "ADHD",
+    "database",
+    "patient registry",
+    "genetic variation database",
+    "clinical trials"
+  ],
+  "publication": {
+    "year": 2022
+  },
+  "journal": {
+    "name": "Genes",
+    "abbreviation": "Genes",
+    "volume": "13",
+    "issue": "9",
+    "pages": {
+      "start": "1551"
+    }
+  },
+  "authors": [
+    {
+      "given": "Faris M",
+      "family": "Abomelha",
+      "authorship": "Primary Author",
+      "sequence": 1
+    },
+    {
+      "given": "Hesham",
+      "family": "AlDhalaan",
+      "sequence": 2
+    },
+    {
+      "given": "Mohammad",
+      "family": "Ghaziuddin",
+      "sequence": 3
+    },
+    {
+      "given": "Nada A",
+      "family": "Al-Tassan",
+      "sequence": 4
+    },
+    {
+      "given": "Bashayer R",
+      "family": "Al-Mubarak",
+      "sequence": 5
+    }
+  ],
+  "access": {
+    "status": "open",
+    "researchGateUrl": "https://www.researchgate.net/publication/363057911_Autism_and_ADHD_in_the_Era_of_Big_Data_An_Overview_of_Digital_Resources_for_Patient_Genetic_and_Clinical_Trials_Information",
+    "localPdfUrl": "library/doi__10.3390__genes13091551.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.3390-genes13091551"
+}

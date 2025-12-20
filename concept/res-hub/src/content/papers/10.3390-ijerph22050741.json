@@ -1,0 +1,76 @@
+{
+  "doi": "10.3390/ijerph22050741",
+  "slug": "10.3390-ijerph22050741",
+  "title": "Screen Time Matters: Exploring the Behavioral Effects of Devices on Saudi Children",
+  "abstract": "<p>Attention deficit hyperactivity disorder (ADHD) is a neurodevelopmental disorder characterized by inappropriate levels of inattention, hyperactivity, or impulsivity. Recent concerns suggest a potential link between increased screen time and the manifestation of ADHD symptoms. This study examined the relationship between screen time and ADHD-related symptoms in neurotypical children aged 3–18 years in the Eastern Province of Saudi Arabia. Data were collected through an online questionnaire completed by caregivers, focusing on screen time habits, ADHD-related symptoms (measured using the SNAP-IV scale), and potential confounders. A total of 324 children participated, with a slight male predominance (52.2%) and a median age of 9.07 years. Most of the children were Saudi nationals (97.5%) and resided in urban areas (70.7%). Using screens for more than 5 h was associated with higher total SNAP-IV scores. Multivariate analysis revealed that unrestricted screen time, related disorders, and lower maternal education were strongly associated with higher SNAP-IV scores. This study revealed a notable association between screen time characteristics, sociodemographic factors, and ADHD-related symptom severity in children in the Eastern Province of Saudi Arabia.</p>",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "ADHD",
+    "neurodevelopmental disorder",
+    "screen time",
+    "sociodemographic factors",
+    "SNAP-IV scale",
+    "children",
+    "physical activity",
+    "parental education",
+    "Saudi Arabia"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2025-05-08T00:00:00+03:00",
+    "year": 2025
+  },
+  "journal": {
+    "name": "International Journal of Environmental Research and Public Health",
+    "abbreviation": "IJERPH",
+    "issn": "1660-4601",
+    "volume": "22",
+    "issue": "5",
+    "pages": {
+      "start": "741"
+    }
+  },
+  "authors": [
+    {
+      "given": "Faisal O.",
+      "family": "AlQurashi",
+      "authorship": "Primary Author, Corresponding Author",
+      "orcid": "https://orcid.org/0000-0003-3411-819X",
+      "sequence": 1
+    },
+    {
+      "given": "Feeda S.",
+      "family": "Almensif",
+      "orcid": "https://orcid.org/0009-0001-1090-5474",
+      "sequence": 2
+    },
+    {
+      "given": "Fatimah H.",
+      "family": "Alkhabbaz",
+      "sequence": 3
+    },
+    {
+      "given": "Karrar Y.",
+      "family": "Alkhawahir",
+      "sequence": 4
+    },
+    {
+      "given": "Dana",
+      "family": "Abalkhail",
+      "orcid": "https://orcid.org/0009-0007-9254-7343",
+      "sequence": 5
+    }
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://doi.org/10.3390/ijerph22050741",
+    "localPdfUrl": "library/doi__10.3390__ijerph22050741.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.3390-ijerph22050741"
+}

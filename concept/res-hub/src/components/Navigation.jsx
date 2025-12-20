@@ -20,10 +20,9 @@ const navStructure = [
         desc: "Plain-language summaries of key Saudi and global ADHD studies."
       },
       {
-        name: "Saudi ADHD Research Library",
-        external: true,
-        href: "https://res.adhd.org.sa/en/saudi-adhd-research/",
-        desc: "External national library of Saudi ADHD research outputs."
+        name: "Research Library",
+        href: "/library",
+        desc: "Browse and search our comprehensive collection of Saudi ADHD research papers and publications."
       }
     ]
   },

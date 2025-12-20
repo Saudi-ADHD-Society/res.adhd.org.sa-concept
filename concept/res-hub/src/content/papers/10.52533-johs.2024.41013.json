@@ -1,0 +1,47 @@
+{
+  "doi": "10.52533/johs.2024.41013",
+  "slug": "10.52533-johs.2024.41013",
+  "title": "The Genetic Overlap of Attention Deficit Hyperactivity Disorder and Autistic Spectrum Disorder: A Systematic Review",
+  "abstract": "Evidence of overlap is seen in the frequent co-occurrence of attention-deficit/hyperactivity disorder (ADHD) and autism spectrum disorder (ASD) within individuals or families. Recently, molecular genetic techniques, have begun to identify specific single nucleotide polymorphisms and copy number variants linked to both ASD and ADHD. The objective of this systematic review is to evaluate the genetic overlap between ASD and ADHD to elucidate common genetic factors and mechanisms that contribute to both conditions. This systematic review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA) guidelines. A comprehensive search was conducted across multiple electronic databases and studies were included if they described the genetic associations between ADHD and ASD. Screening, data extraction, and quality assessment were performed independently by two reviewers, with discrepancies resolved through discussion. The significant overlap between ADHD and ASD is evident through a complex interplay of genetic, biological, and phenotypic factors. Studies consistently reveal shared genetic influences between these disorders, with traits such as inattention and hyperactivity/impulsivity in ADHD showing moderate to strong genetic correlations with similar traits in ASD. This suggests that these characteristics may stem from common genetic factors. Notably, specific genetic markers like SHANK2 and DRD2 have been linked to both ADHD and ASD. SHANK2, in particular, appears to have a pleiotropic effect, contributing to the risk of both conditions simultaneously. Reaction time variability (RTV) also serves as a bridging factor, as it is associated with ADHD symptoms and social-communication traits in ASD. Future research should focus on expanding genetic studies to identify additional markers and clarify the mechanisms at play, exploring detailed biological pathways, conducting longitudinal studies to track symptom development, and investigating how RTV and other phenotypic traits can improve diagnosis and treatment.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "ASD",
+    "ADHD",
+    "overlap",
+    "genetic",
+    "association",
+    "RTV"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2024-10-28",
+    "year": 2024
+  },
+  "journal": {
+    "name": "Journal of Healthcare Sciences",
+    "abbreviation": "Journal of Healthcare Sciences",
+    "issn": "1658-8967",
+    "volume": "4",
+    "issue": "10"
+  },
+  "authors": [
+    {
+      "given": "Tariq",
+      "family": "Alblawi",
+      "authorship": "Primary Author, Corresponding Author",
+      "sequence": 1
+    }
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://www.creativecommons.org/licenses/by-nc/4.0/deed.en",
+    "sourceUrl": "https://www.johs.com.sa/pages/issue/abstract/?id=310&The-Genetic-Overlap-of-Attention-Deficit-Hyperactivity-Disorder-and-Autistic-Spectrum-Disorder:-A-Systematic-Review",
+    "localPdfUrl": "library/doi__10.52533__johs.2024.41013.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.52533-johs.2024.41013"
+}

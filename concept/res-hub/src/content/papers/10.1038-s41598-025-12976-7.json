@@ -1,0 +1,150 @@
+{
+  "doi": "10.1038/s41598-025-12976-7",
+  "slug": "10.1038-s41598-025-12976-7",
+  "title": "Validation of the Arabic ADHD rating Scale-5 for adolescents in Saudi Arabia using structural equation modeling",
+  "abstract": "There is an increasing number of studies in the literature on the prevalence of attention-deficit/hyperactivity disorder (ADHD), indicating its high prevalence. This study sought to investigate the reliability of the ADHD Rating Scale-5 (ADHD-RS-5) for adolescents in Saudi Arabia as a valid screening tool for this age group. Furthermore, it aimed to calculate the cutoff score for screening for ADHD in the Saudi environment to provide a reliable tool that helps specialists assessing for ADHD among adolescents.This study applied a descriptive approach to verify the reliability of the ADHD-RS-5 in the Saudi environment. The sample consisted of 477 parents and 1284 teachers of Saudi and non-Saudi adolescents (aged 13 to below 20 years) residing in Riyadh, Makkah, and the Eastern Province. Both forms of the ADHD-RS-5 (home and school) were applied to the sample under supervision of the Saudi ADHD Society. Data were analyzed using IBM SPSS Statistics (version 26), JASP (version 0.18.3.0), and MedCalc statistical software (version 22.030).Confirmatory factor analysis results revealed acceptable goodness-of-fit indicators for the home and school forms of the ADHD-RS-5. Pearson’s correlation coefficients for both forms were found to be positive and statistically significant (p > 0.001); the coefficient values ranged between 0.669 and 0.921 for the home form and between 0.795 and 0.954 for the school form. In addition, Cronbach’s α coefficient values ​​for inattention, hyperactivity, impairment, and the scale’s total score for the home form were 0.919, 0.913, 0.952, and 0.952, respectively, while for the school form were 0.955, 0.944, 0.969, and 0.981, respectively. Cronbach’s α coefficient values ​​were close to the values ​​of the McDonald’s ω for the home form (0.920, 0.914, 0.953, and 0.965, respectively) and for the school form (0.955, 0.939, 0.968, and 0.977, respectively). These results indicate that the ADHD-RS-5, both home and school forms, and its subscales have good Cronbach’s α and McDonald’s ω coefficients. The findings also showed that the prevalence of ADHD among adolescents in Saudi Arabia was 5.03% based on the home form and 5.92% based on the school form. The cutoff value to screen for ADHD in adolescents in the Saudi environment for the home form was > 30, with a sensitivity of 91.67% (95% confidence level [CL] = 73–99), a specificity of 86.98% (95% CL = 83.5–89.9), and 81.29% accuracy. However, the cutoff score in the school form was > 28, with a sensitivity of 94.74% (CL = 81.1–98.5), a specificity of 89.65% (CL = 87.8–91.3), and 86.46% accuracy. The current findings suggest that the Arabic version of the ADHD-RS-5-AR has strong psychometric properties, with good indicators of internal consistency and reliability. This study provides valuable information for the national ADHD survey planned to be carried out in 2024–2025. It will also support the preventive efforts in Saudi Arabia and Saudi Vision 2030 in achieving its goals related to the quality of life and well-being of community members of all ages as well as the goals of sustainable development.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "ADHD",
+    "Reliability",
+    "Validity",
+    "ADHD-RS-5-AR",
+    "Assessment",
+    "Inattention",
+    "Hyperactivity",
+    "Impulsivity",
+    "Adolescents",
+    "Saudi Arabia"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2025-07-24T00:00:00+03:00",
+    "year": 2025
+  },
+  "journal": {
+    "name": "Scientific Reports",
+    "abbreviation": "Sci Rep",
+    "issn": "2045-2322",
+    "volume": "15",
+    "issue": "1",
+    "pages": {
+      "start": "26866"
+    }
+  },
+  "authors": [
+    {
+      "given": "Mohammed M J",
+      "family": "Alqahtani",
+      "authorship": "Primary Author, Corresponding Author",
+      "orcid": "https://orcid.org/0000-0002-8222-3130",
+      "sequence": 1
+    },
+    {
+      "given": "Nouf Mohammed",
+      "family": "Al Saud",
+      "sequence": 2
+    },
+    {
+      "given": "Nawal Mohammed",
+      "family": "Alsharef",
+      "sequence": 3
+    },
+    {
+      "given": "Yasser",
+      "family": "Ad-Dab’bagh",
+      "sequence": 4
+    },
+    {
+      "given": "Waleed",
+      "family": "Al-Twaijri",
+      "sequence": 5
+    },
+    {
+      "given": "Mohammed Saleh",
+      "family": "Alsalhi",
+      "sequence": 6
+    },
+    {
+      "given": "Ahmad N",
+      "family": "AlHadi",
+      "sequence": 7
+    },
+    {
+      "given": "Elham H",
+      "family": "Al-Hifthy",
+      "sequence": 8
+    },
+    {
+      "given": "Fawwaz Abdulrazaq",
+      "family": "Alenazi",
+      "sequence": 9
+    },
+    {
+      "given": "Abdulkarim",
+      "family": "Alhossein",
+      "sequence": 10
+    },
+    {
+      "given": "Barakat M",
+      "family": "Alotaibi",
+      "sequence": 11
+    },
+    {
+      "given": "Samirah A",
+      "family": "AlGhamdi",
+      "sequence": 12
+    },
+    {
+      "given": "Boshra A",
+      "family": "Arnout",
+      "sequence": 13
+    },
+    {
+      "given": "Latifah",
+      "family": "ALQasem",
+      "sequence": 14
+    },
+    {
+      "given": "Yasser Jubran",
+      "family": "Alqahtani",
+      "sequence": 15
+    },
+    {
+      "given": "Nader",
+      "family": "Alrahili",
+      "sequence": 16
+    },
+    {
+      "given": "Mahmoud Sultan",
+      "family": "Alsaeed",
+      "sequence": 17
+    },
+    {
+      "given": "Jeremy",
+      "family": "Varnham",
+      "sequence": 18
+    },
+    {
+      "given": "Maysaa W",
+      "family": "Buraik",
+      "sequence": 19
+    },
+    {
+      "given": "Saeed Abdulwahab",
+      "family": "Asiri",
+      "sequence": 20
+    }
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0",
+    "sourceUrl": "https://doi.org/10.1038/s41598-025-12976-7",
+    "localPdfUrl": "library/doi__10.1038__s41598-025-12976-7.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.1038-s41598-025-12976-7"
+}

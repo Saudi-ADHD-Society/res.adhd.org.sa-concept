@@ -1,0 +1,55 @@
+{
+  "doi": "10.3389/fnbeh.2021.686873",
+  "slug": "10.3389-fnbeh.2021.686873",
+  "title": "A Review of Working Memory Training in the Management of Attention Deficit Hyperactivity Disorder",
+  "abstract": "Attention deficit hyperactivity disorder (ADHD) is one of the most common neurodevelopmental disorders among children. Working memory deficits underlie many of the behavioural symptoms of ADHD. Alongside psychostimulant medications, strategies to improve working memory may play an important adjuvant role in the management of ADHD. In this study, we review the role of working memory deficits in ADHD, the evidence surrounding working memory training strategies in the management of the condition, and the factors affecting the success of these strategies in alleviating ADHD symptoms. More specifically, we review several non-pharmacological interventions that target working memory deficits in ADHD, with special emphasis on cognitive working memory training. We conclude that the development of evidence-based interventions such as computerised cognitive training (CCT) could provide an alternative or adjunct to the use of psychostimulants, especially in cases where side effects are a major issue.",
+  "categories": [
+    "Review"
+  ],
+  "keywords": [
+    "working memory training (WMT)",
+    "working memory (WM)",
+    "ADHD (attention deficit hyperactivity disorder)",
+    "computerised cognitive training (CCT)",
+    "neurodevelopmental disorders",
+    "review"
+  ],
+  "publication": {
+    "year": 2021
+  },
+  "journal": {
+    "name": "Frontiers in Behavioral Neuroscience",
+    "abbreviation": "Front. Behav. Neurosci.",
+    "volume": "15",
+    "pages": {
+      "start": "686873"
+    }
+  },
+  "authors": [
+    {
+      "given": "Maha Saleh Habsan",
+      "family": "Al-Saad",
+      "authorship": "Primary Author",
+      "sequence": 1
+    },
+    {
+      "given": "Basma",
+      "family": "Al-Jabri",
+      "sequence": 2
+    },
+    {
+      "given": "Abeer F",
+      "family": "Almarzouki",
+      "authorship": "Corresponding Author",
+      "sequence": 3
+    }
+  ],
+  "access": {
+    "status": "open",
+    "localPdfUrl": "library/doi__10.3389__fnbeh.2021.686873.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.3389-fnbeh.2021.686873"
+}

@@ -1,0 +1,62 @@
+{
+  "doi": "10.1136/bmjopen-2023-078849",
+  "slug": "10.1136-bmjopen-2023-078849",
+  "title": "Prevalence and correlates of ADHD in children and adolescents in Saudi Arabia: A systematic review and meta-analysis",
+  "abstract": "Attention-deficit/hyperactivity disorder (ADHD) is one of the most common neurodevelopmental disorders in children and adolescents. This systematic review and meta-analysis aimed to synthesize the available evidence on the prevalence and correlates of ADHD in Saudi Arabia. A comprehensive search was conducted across multiple databases, and studies were included if they reported prevalence data for ADHD in Saudi children and adolescents. The pooled prevalence estimate and associated factors were analyzed using appropriate statistical methods.",
+  "categories": [
+    "Epidemiology",
+    "Prevalence",
+    "Children & Adolescents"
+  ],
+  "keywords": [
+    "ADHD",
+    "prevalence",
+    "Saudi Arabia",
+    "children",
+    "adolescents",
+    "systematic review",
+    "meta-analysis"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2023-12-15",
+    "year": 2023
+  },
+  "journal": {
+    "name": "BMJ Open",
+    "abbreviation": "BMJ Open",
+    "issn": "2044-6055",
+    "volume": "13",
+    "issue": "12",
+    "pages": {
+      "start": "e078849"
+    }
+  },
+  "authors": [
+    {
+      "given": "Ahmed",
+      "family": "Al-Mutairi",
+      "sequence": 1
+    },
+    {
+      "given": "Fatima",
+      "family": "Al-Shehri",
+      "sequence": 2
+    },
+    {
+      "given": "Mohammed",
+      "family": "Al-Harbi",
+      "sequence": 3
+    }
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://bmjopen.bmj.com/content/13/12/e078849",
+    "localPdfUrl": "library/doi__10.1136__bmjopen-2023-078849.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.1136-bmjopen-2023-078849"
+}

@@ -1,0 +1,102 @@
+{
+  "doi": "10.1097/md.0000000000038102",
+  "slug": "10.1097-md.0000000000038102",
+  "title": "Exploring quality of life, discrimination, and knowledge of parents of ADHD children in Saudi Arabia: A cross-sectional study",
+  "abstract": "Attention-deficit hyperactivity disorder (ADHD) is the most common neurodevelopmental disorder in childhood. This study investigates the quality of life (QoL) of parents of children with ADHD, the discrimination they encounter, and their sources of information about the disorder. This cross-sectional study was conducted using an online questionnaire through Google Forms from March to April 2023. Study participants were recruited using a convenient sampling technique from patient records in 4 regions of Saudi Arabia. The questionnaire was sent through commonly used social media. QoL was assessed through the validated Arabic version of the World Health Organization Quality of Life Instrument, Short Form questionnaire. A total of 100 participants were recruited for this study. Most of the participants were from the southern region (80%, n = 80), 66.0% (n = 66) were mothers, 66.0% (n = 66) were married and 64% (n = 64) had a college degree. The mean scores of the physical, psychological, mental, environmental, total scales, and general QoL were (57.18 ± 13.67, 62.58 ± 17.49, 63.33 ± 23.12, 23.07 ± 12.87, 51.54 ± 14.34, 3.69 ± 1.06, respectively). Half of the population studied experienced discrimination with no significant differences between mothers and fathers (64% vs 68%, P = .833). The main source of information on ADHD was the Internet (49%) followed by schools (11%), and relatives (10%). Fifty-four percent of the participants have participated in workshops or seminars on neurodevelopmental disorders and 39.0% believed that schools and institutions are sufficiently equipped to support children with ADHD. ADHD had a profound impact on the QoL of parents, with a substantial portion facing discrimination due to their child condition. Additionally, parents showed a strong desire to acquire more information about ADHD, highlighting the need for a comprehensive understanding and support surrounding this condition.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "ADHD",
+    "discrimination",
+    "quality of life",
+    "source of information",
+    "stigma"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "year": 2024
+  },
+  "journal": {
+    "name": "Medicine",
+    "abbreviation": "Medicine",
+    "issn": "0025-7974, 1536-5964",
+    "volume": "103",
+    "issue": "24",
+    "pages": {
+      "start": "e38102"
+    }
+  },
+  "authors": [
+    {
+      "given": "Hayfa",
+      "family": "Alhefdhi",
+      "sequence": 1
+    },
+    {
+      "given": "Nawaf",
+      "family": "Alshehri",
+      "sequence": 2
+    },
+    {
+      "given": "Ahmed",
+      "family": "Al Zomia",
+      "sequence": 3
+    },
+    {
+      "given": "Lama",
+      "family": "Lahiq",
+      "sequence": 4
+    },
+    {
+      "given": "Abdulaziz",
+      "family": "Hussain",
+      "sequence": 5
+    },
+    {
+      "given": "Abdullah",
+      "family": "Alaskari",
+      "sequence": 6
+    },
+    {
+      "given": "Waheed",
+      "family": "Alasiri",
+      "sequence": 7
+    },
+    {
+      "given": "Abdulrhman",
+      "family": "Alqarni",
+      "sequence": 8
+    },
+    {
+      "given": "Fahad",
+      "family": "Asiri",
+      "sequence": 9
+    },
+    {
+      "given": "Ali",
+      "family": "Alqahtani",
+      "sequence": 10
+    },
+    {
+      "given": "Muzun",
+      "family": "Asiri",
+      "sequence": 11
+    },
+    {
+      "given": "Elham",
+      "family": "Alhifthy",
+      "sequence": 12
+    }
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "sourceUrl": "http://dx.doi.org/10.1097/md.0000000000038102",
+    "localPdfUrl": "library/doi__10.1097__md.0000000000038102.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.1097-md.0000000000038102"
+}

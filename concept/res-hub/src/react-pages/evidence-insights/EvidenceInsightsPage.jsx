@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookOpen, FileText, ExternalLink, ArrowRight } from 'lucide-react';
+import { BookOpen, FileText, ArrowRight } from 'lucide-react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
@@ -61,26 +61,24 @@ const EvidenceInsightsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
       </a>
     </div>
 
-    {/* External Resource */}
-    <div className="bg-slate-50 border border-slate-200 rounded-xl p-6">
-      <div className="flex items-start space-x-4">
-        <ExternalLink size={24} className="text-slate-400 mt-1 flex-shrink-0" />
-        <div className="flex-1">
-          <h3 className="text-lg font-bold text-slate-900 mb-2">Saudi ADHD Research Library</h3>
-          <p className="text-slate-600 text-sm mb-3">
-            External national library of Saudi ADHD research outputs.
-          </p>
-          <a
-            href="https://res.adhd.org.sa/en/saudi-adhd-research/"
-            target="_blank"
-            rel="noreferrer"
-            className="inline-flex items-center text-emerald-700 hover:text-emerald-800 font-semibold text-sm"
-          >
-            Visit Research Library <ExternalLink size={14} className="ml-2" />
-          </a>
-        </div>
+    {/* Research Library */}
+    <a
+      href={getHref('library', basePath)}
+      className="group block bg-white p-8 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
+    >
+      <div className="w-16 h-16 bg-blue-100 text-blue-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-blue-600 group-hover:text-white transition-colors">
+        <FileText size={32} />
       </div>
-    </div>
+      <h2 className="text-2xl font-bold text-slate-900 mb-3 group-hover:text-emerald-700 transition-colors">
+        Research Library
+      </h2>
+      <p className="text-slate-600 mb-4">
+        Browse and search our comprehensive collection of Saudi ADHD research papers and publications. Access full-text papers, abstracts, and detailed publication information.
+      </p>
+      <div className="text-sm font-semibold text-emerald-700 flex items-center group-hover:text-emerald-800">
+        Explore Research Library <ArrowRight size={16} className="ml-2 group-hover:translate-x-1 transition-transform" />
+      </div>
+    </a>
   </div>
 );
 

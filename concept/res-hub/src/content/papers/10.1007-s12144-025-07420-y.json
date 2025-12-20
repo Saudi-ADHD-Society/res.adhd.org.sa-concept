@@ -1,0 +1,88 @@
+{
+  "doi": "10.1007/s12144-025-07420-y",
+  "slug": "10.1007-s12144-025-07420-y",
+  "title": "Unveiling the dynamic landscape of artificial intelligence in attention-deficit/hyperactivity disorder (ADHD) research: a comprehensive analysis of trends, intellectual structure, and thematic evolution",
+  "abstract": "Research and clinical practice have explored various applications of artificial intelligence (AI) in the field of attention deficit/hyperactivity disorder (ADHD). This study aimed to understand the current landscape and trends in AI-ADHD research. Data were extracted from the Scopus database via search terms generated from the MeSH database and analyzed via the VOSviewer and Bibliometrix platforms. The search strategy and selection of the studies followed the PRISMA guidelines. The dataset used in the study includes 2,064 records from 796 journals, covering research published between 1978 and 2024. AI-ADHD has experienced significant growth in scientific production in recent years. The most prolific journals are Neuroimage, Human Brain Mapping, and Neuroimage Clinical. The United States, the United Kingdom, China, and Germany are the most prolific countries. The most cited documents on AI-ADHD include diagnostic tools, attentional networks, altered brain activity, cortical maturation, working memory impairment, and the development of functional brain networks in children. The most prevalent keywords included “ADHD,” “functional magnetic resonance imaging,” “machine learning” and “neuroimaging.” Thematic evolution revealed a shift from ADHD to related topics such as bipolar disorder, conduct disorder, and executive functions. The intellectual structure identified distinct thematic clusters, classified as basic (functional connectivity, epilepsy, machine learning), niche (reliability, white matter) and motor (Tourette syndrome, case reports). The emerging themes included natural language processing, deep learning, and mental health. Researchers and practitioners can use current findings to advance the understanding of ADHD, improve diagnostic precision, and develop effective interventions that positively impact individuals with ADHD.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "Artificial intelligence",
+    "ADHD",
+    "Bibliometrics Mapping",
+    "Lotka’s Law"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2025-02-10T00:00:00+03:00",
+    "year": 2025
+  },
+  "journal": {
+    "name": "Current Psychology",
+    "abbreviation": "Curr Psychol",
+    "issn": "1046-1310, 1936-4733"
+  },
+  "authors": [
+    {
+      "given": "Manal Mohamed Elhassan",
+      "family": "Taha",
+      "authorship": "Primary Author, Corresponding Author",
+      "sequence": 1
+    },
+    {
+      "given": "Siddig Ibrahim",
+      "family": "Abdelwahab",
+      "orcid": "https://orcid.org/0000-0002-6145-4466",
+      "sequence": 2
+    },
+    {
+      "given": "Ieman A.",
+      "family": "Aljahdali",
+      "sequence": 3
+    },
+    {
+      "given": "Omar",
+      "family": "Oraibi",
+      "sequence": 4
+    },
+    {
+      "given": "Bassem",
+      "family": "Oraibi",
+      "sequence": 5
+    },
+    {
+      "given": "Hassan Ahmad",
+      "family": "Alfaifi",
+      "sequence": 6
+    },
+    {
+      "given": "Amal Hamdan",
+      "family": "Alzahrani",
+      "sequence": 7
+    },
+    {
+      "given": "Abdullah",
+      "family": "Farasani",
+      "sequence": 8
+    },
+    {
+      "given": "Ahmed Ali",
+      "family": "Jerah",
+      "sequence": 9
+    },
+    {
+      "given": "Yasir Osman Hassan",
+      "family": "Babiker",
+      "sequence": 10
+    }
+  ],
+  "access": {
+    "status": "closed",
+    "licenseUrl": "https://www.springernature.com/gp/researchers/text-and-data-mining",
+    "sourceUrl": "https://doi.org/10.1007/s12144-025-07420-y"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.1007-s12144-025-07420-y"
+}

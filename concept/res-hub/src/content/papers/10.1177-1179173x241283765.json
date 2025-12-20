@@ -1,0 +1,87 @@
+{
+  "doi": "10.1177/1179173x241283765",
+  "slug": "10.1177-1179173x241283765",
+  "title": "Exposure to Smoking as a Predictor of ADHD Subtypes Among Children Within Saudi Arabia: An Observational Study",
+  "abstract": "<p>Previous studies have found an association between maternal smoking and an increased risk of attention deficit hyperactivity disorder (ADHD) in offspring. However, the prevalence of maternal smoking, secondhand smoke (SHS) exposure during pregnancy, and ADHD in children within the Saudi Arabian context is not well-documented. Objective: To explore the prevalence of maternal smoking and SHS exposure during pregnancy among mothers of children diagnosed with ADHD and investigate exposure to smoking as a predictor of ADHD subtypes. Methods: A cross-sectional study was conducted from December 1, 2022, to February 28, 2023, using an online questionnaire. The study included 217 parents of children aged 4-17 years diagnosed with ADHD and without a family history of the disorder. Data on sociodemographic determinants, academic achievement, ADHD types, and maternal smoking habits during pregnancy were collected. Results: Among the mothers surveyed, 6.4% reported smoking during pregnancy, while 41% were exposed to SHS. The study found a predominance of the combined subtype of ADHD among the children. Logistic regression analysis revealed that families with monthly income &lt;10 000 SR were 2.6 times more likely to have a child with inattentive or hyperactive ADHD ( P < 0.03). Male gender was associated with a 46% reduced likelihood of these subtypes ( P < 0.03). SHS smoking and active exposure to smoking during pregnancy did not show any significant effect on ADHD. Conclusion: The study found that child gender and family income were significantly associated with the distribution of ADHD subtypes, while maternal smoking and SHS exposure during pregnancy did not show a significant association. The high prevalence of SHS exposure emphasizes the need for increased public health awareness and interventions to promote smoke-free environments during pregnancy.</p>",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "adhd",
+    "offspring",
+    "maternal smoking",
+    "second-hand smoking",
+    "pregnancy"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2024-09-09T00:00:00+03:00",
+    "year": 2024
+  },
+  "journal": {
+    "name": "Tobacco Use Insights",
+    "abbreviation": "Tob Use Insights",
+    "issn": "1179-173X, 1179-173X",
+    "volume": "17"
+  },
+  "authors": [
+    {
+      "given": "Abeer",
+      "family": "Zakariyah",
+      "authorship": "Primary Author, Corresponding Author",
+      "orcid": "http://orcid.org/0000-0003-2798-3927",
+      "sequence": 1
+    },
+    {
+      "given": "Sulafa",
+      "family": "Al Qutub",
+      "sequence": 2
+    },
+    {
+      "given": "Sereen",
+      "family": "Kazim",
+      "sequence": 3
+    },
+    {
+      "given": "Reman",
+      "family": "Alharbi",
+      "sequence": 4
+    },
+    {
+      "given": "Hams",
+      "family": "Alharthi",
+      "sequence": 5
+    },
+    {
+      "given": "Hadeel",
+      "family": "Alharbi",
+      "sequence": 6
+    },
+    {
+      "given": "Maram",
+      "family": "Albassami",
+      "sequence": 7
+    },
+    {
+      "given": "Mehenaz",
+      "family": "Hanbazazh",
+      "sequence": 8
+    },
+    {
+      "given": "Morooj",
+      "family": "Mahnashi",
+      "sequence": 9
+    }
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "sourceUrl": "https://doi.org/10.1177/1179173x241283765",
+    "researchGateUrl": "https://www.researchgate.net/publication/383910541_Exposure_to_Smoking_as_a_Predictor_of_ADHD_Subtypes_Among_Children_Within_Saudi_Arabia_An_Observational_Study",
+    "localPdfUrl": "library/doi__10.1177__1179173x241283765.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.1177-1179173x241283765"
+}

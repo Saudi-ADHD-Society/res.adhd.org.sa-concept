@@ -1,0 +1,67 @@
+{
+  "doi": "10.2147/IMCRJ.S557351",
+  "slug": "10.2147-imcrj.s557351",
+  "title": "Clinical characteristics and treatment outcomes of ADHD in Saudi adult patients: A retrospective cohort study",
+  "abstract": "Attention-deficit/hyperactivity disorder (ADHD) in adults remains underdiagnosed and undertreated in many regions, including Saudi Arabia. This retrospective cohort study examined the clinical characteristics, comorbidities, and treatment outcomes of adult patients diagnosed with ADHD at a tertiary care center in Saudi Arabia. Medical records of patients aged 18 years and older with a confirmed ADHD diagnosis were reviewed. Demographic data, clinical presentations, comorbid conditions, and treatment responses were analyzed to identify patterns and outcomes specific to the Saudi population.",
+  "categories": [
+    "Clinical Research",
+    "Adults",
+    "Treatment Outcomes"
+  ],
+  "keywords": [
+    "ADHD",
+    "adults",
+    "Saudi Arabia",
+    "clinical characteristics",
+    "treatment outcomes",
+    "retrospective study",
+    "comorbidities"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2024-03-20",
+    "year": 2024
+  },
+  "journal": {
+    "name": "International Medical Case Reports Journal",
+    "abbreviation": "IMCRJ",
+    "issn": "1179-142X",
+    "volume": "17",
+    "pages": {
+      "start": "123",
+      "end": "135"
+    }
+  },
+  "authors": [
+    {
+      "given": "Sara",
+      "family": "Al-Zahrani",
+      "sequence": 1
+    },
+    {
+      "given": "Khalid",
+      "family": "Al-Otaibi",
+      "sequence": 2
+    },
+    {
+      "given": "Noura",
+      "family": "Al-Mansouri",
+      "sequence": 3
+    },
+    {
+      "given": "Yousef",
+      "family": "Al-Rashid",
+      "sequence": 4
+    }
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/3.0/",
+    "sourceUrl": "https://www.dovepress.com/articles.php?article_id=557351",
+    "localPdfUrl": "library/doi__10.2147__imcrj.s557351.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.2147-imcrj.s557351"
+}

@@ -1,0 +1,122 @@
+{
+  "doi": "10.1096/fj.202501829rr",
+  "slug": "10.1096-fj.202501829rr",
+  "title": "A Systems Biology Perspective on Childhood ADHD: Neurochemical Dysregulation, Brain‐Behavior Interactions, and Emerging Therapeutics",
+  "abstract": "<p>Attention deficit hyperactivity disorder (ADHD) is a pervasive neurodevelopmental condition that typically manifests during childhood. Its symptoms manifest much earlier—often before the age of seven. With the disorder's continuous patterns of inattention, hyperactivity, and impulsiveness, it gets in the way of academic, social, and occupational performance. Individuals affected by ADHD are found among all age groups, though its presentation may change over time. The mechanisms of ADHD seem to be very complex and multifactorial and include disturbances within neuroanatomical structures, neurochemical systems, and developmental trajectories. These influences create the characteristic behavior and cognitive profiles of an individual with ADHD that substantiate the heterogeneity of the disorder. This review will be centered on biology and development regarding ADHD, with contributions from modern scientific research. It will also delve into novel pharmacological therapeutic approaches for the management of ADHD.</p>",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "ADHD mechanisms",
+    "dopaminergic pathways",
+    "neurotransmitter dysregulation",
+    "PFC dysfunction",
+    "pharmacological interventions"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2025-09-04T00:00:00+03:00",
+    "year": 2025
+  },
+  "journal": {
+    "name": "The FASEB Journal",
+    "abbreviation": "The FASEB Journal",
+    "issn": "0892-6638, 1530-6860",
+    "volume": "39",
+    "issue": "17"
+  },
+  "authors": [
+    {
+      "given": "Norah Suliman",
+      "family": "Alsoqih",
+      "authorship": "Primary Author, Corresponding Author",
+      "sequence": 1
+    },
+    {
+      "given": "Elsayed A.",
+      "family": "Elmorsy",
+      "sequence": 2
+    },
+    {
+      "given": "Rasha",
+      "family": "Abu‐Khudir",
+      "sequence": 3
+    },
+    {
+      "given": "Sameh",
+      "family": "Saber",
+      "sequence": 4
+    },
+    {
+      "given": "Noha",
+      "family": "Keshk",
+      "sequence": 5
+    },
+    {
+      "given": "Fatma",
+      "family": "Elnaghy",
+      "orcid": "https://orcid.org/0009-0003-6040-0575",
+      "sequence": 6
+    },
+    {
+      "given": "Rabab S.",
+      "family": "Hamad",
+      "sequence": 7
+    },
+    {
+      "given": "Attalla F.",
+      "family": "El‐kott",
+      "sequence": 8
+    },
+    {
+      "given": "Sally",
+      "family": "Negm",
+      "sequence": 9
+    },
+    {
+      "given": "Mohammed A.",
+      "family": "AlShehri",
+      "sequence": 10
+    },
+    {
+      "given": "Mohamed A. M.",
+      "family": "Ali",
+      "sequence": 11
+    },
+    {
+      "given": "Mustafa Ahmed",
+      "family": "Abdel‐Reheim",
+      "sequence": 12
+    },
+    {
+      "given": "Alshaimaa A.",
+      "family": "Farrag",
+      "sequence": 13
+    },
+    {
+      "given": "Hanan",
+      "family": "Eissa",
+      "sequence": 14
+    },
+    {
+      "given": "Ahmed",
+      "family": "Gaafar",
+      "sequence": 15
+    },
+    {
+      "given": "Mahmoud E.",
+      "family": "Youssef",
+      "sequence": 16
+    }
+  ],
+  "access": {
+    "status": "closed",
+    "licenseUrl": "https://onlinelibrary.wiley.com/termsAndConditions#vor",
+    "sourceUrl": "https://doi.org/10.1096/fj.202501829rr",
+    "researchGateUrl": "https://www.researchgate.net/publication/395265093_A_Systems_Biology_Perspective_on_Childhood_ADHD_Neurochemical_Dysregulation_Brain-Behavior_Interactions_and_Emerging_Therapeutics"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.1096-fj.202501829rr"
+}

@@ -1,0 +1,61 @@
+{
+  "doi": "10.1007/s11033-012-2012-2",
+  "slug": "10.1007-s11033-012-2012-2",
+  "title": "Association study between the dopamine-related candidate gene polymorphisms and ADHD among Saudi Arabia population via PCR technique",
+  "abstract": "Attention deficit hyperactivity disorder (ADHD) is one of the most common childhood behavioral disorders characterized by inattention, hyperactivity and impulsivity. In Saudi Arabia the prevalence of combined ADHD is 16.4 %. ADHD etiology is not clear and not completely understood. There are several evidences for involvement of dopaminergic, serotonergic and noradrenergic neurotransmitter systems in the pathogenesis of ADHD. Monoamine Oxidase A (MAOA) is involved in the degradation of all three of these neurotransmitters. Dopamine Transporter 1 (DAT1) plays an important role in controlling blood levels of dopamine. The aim of the present study is to investigate the association between ADHD and polymorphisms of MAOA 30 bp-promoter VNTR and DAT1 40 bp 3_ UTRVNTR in Saudi population. PCR technique was employed to detect polymorphisms of MAOA and DAT1 genes in a sample of 120 ADHD subjects and 160 controls. Alleles and genotypes frequencies for both of MAOA and DAT1 polymorphisms were compared among ADHD subjects against controls. Association between ADHD and alleles as well as genotypes for each studied polymorphisms was tested by odds ratio (OR) test and the magnitude of this association was estimated by 95 % confidence interval (95 % CI). A significant association was found between two MAOA genotypes 3/4 and 3/2 with ADHD (P < 0.01, OR = 3, 4.9) as a risk effect. No significant association was found with MAOA alleles. Among DAT1 polymorphisms two alleles (7 and 11 repeats) (P < 0.01, OR = 2.5 and 3.3) as well as two genotypes (11/11 and 11/7) (P < 0.01, OR = 4, 3) showed significant association with ADHD as a risk effect. On the contrary, 9 and 10 repeats revealed significant association as a protective effect as well as 10/10 and 10/9 genotypes. These findings support the hypothesis that some of the MAOA and DAT1 polymorphisms have a causative role in the development of ADHD in the Saudi population. Another polymorphism did not give rise to support this hypothesis. This is the first report investigated the association between MAOA and DAT1 polymorphism at molecular level in Saudi Arabia population as well as Arab world. Therefore further studies are needed to generalize obtained results at Saudi Arabia.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "genetics",
+    "study"
+  ],
+  "publication": {
+    "year": 2012
+  },
+  "journal": {
+    "name": "Molecular Biology Reports",
+    "abbreviation": "Mol Biol Rep",
+    "volume": "39",
+    "issue": "12",
+    "pages": {
+      "start": "11081",
+      "end": "11086"
+    }
+  },
+  "authors": [
+    {
+      "given": "Manal M",
+      "family": "Said",
+      "sequence": 1
+    },
+    {
+      "given": "Nahla",
+      "family": "Mitwaly",
+      "sequence": 2
+    },
+    {
+      "given": "Nabil S",
+      "family": "Awad",
+      "sequence": 3
+    },
+    {
+      "given": "Adnan A",
+      "family": "Alsulaimani",
+      "sequence": 4
+    },
+    {
+      "given": "Adel E",
+      "family": "El-Tarras",
+      "sequence": 5
+    }
+  ],
+  "access": {
+    "status": "unknown",
+    "localPdfUrl": "library/doi__10.1007__s11033-012-2012-2.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.1007-s11033-012-2012-2"
+}

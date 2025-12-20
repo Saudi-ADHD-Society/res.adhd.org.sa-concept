@@ -1,0 +1,93 @@
+{
+  "doi": "10.1177/0091217420982266",
+  "slug": "10.1177-0091217420982266",
+  "title": "Risk factors for ADHD and comorbid psychiatric, academic and behavior problems among primary school students in Jeddah, Saudi Arabia",
+  "abstract": "Risk factors for attention deficit hyperactivity disorder (ADHD), psychiatric, and classroom academic/behavioral problems were examined in 929 students grades 1-6 in Jeddah, Saudi Arabia. Teachers identified ADHD by completing the Vanderbilt ADHD scale. Compared to controls without ADHD, students with ADHD were more likely to have early parental loss, head trauma, motor/language delay, family psychiatric problems, and high family stress. Among those with ADHD, risk factors for psychiatric comorbidity were older age, family psychiatric history, and motor/language delay. Risk factors for impaired academic/behavioral performance were high family stress, family psychiatric problems, and chronic illness. Identifying risk factors for ADHD and common comorbidities associated with this disorder may help parents, teachers and clinicians detect this condition, increasing effective management.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "ADHD",
+    "Saudi Arabia",
+    "school children"
+  ],
+  "publication": {
+    "year": 2021
+  },
+  "journal": {
+    "name": "The International Journal of Psychiatry in Medicine",
+    "abbreviation": "Int J Psychiatry Med",
+    "volume": "56",
+    "issue": "6",
+    "pages": {
+      "start": "422",
+      "end": "432"
+    }
+  },
+  "authors": [
+    {
+      "given": "Faten",
+      "family": "Al Zaben",
+      "authorship": "Primary Author",
+      "sequence": 1
+    },
+    {
+      "given": "Mohammed",
+      "family": "Sehlo",
+      "sequence": 2
+    },
+    {
+      "given": "Walid",
+      "family": "Alghamdi",
+      "sequence": 3
+    },
+    {
+      "given": "Haythum",
+      "family": "Tayeb",
+      "sequence": 4
+    },
+    {
+      "given": "Doaa",
+      "family": "Khalifa",
+      "sequence": 5
+    },
+    {
+      "given": "A",
+      "family": "Altowaireb",
+      "sequence": 6
+    },
+    {
+      "given": "R",
+      "family": "Nughays",
+      "sequence": 7
+    },
+    {
+      "given": "H",
+      "family": "Jawa",
+      "sequence": 8
+    },
+    {
+      "given": "K",
+      "family": "Bashrahil",
+      "sequence": 9
+    },
+    {
+      "given": "Faisal",
+      "family": "Alnemary",
+      "sequence": 10
+    },
+    {
+      "given": "Harold",
+      "family": "Koenig",
+      "sequence": 11
+    }
+  ],
+  "access": {
+    "status": "closed",
+    "researchGateUrl": "https://www.researchgate.net/publication/347504445_Risk_factors_for_ADHD_and_comorbid_psychiatric_academic_and_behavior_problems_among_primary_school_students_in_Jeddah_Saudi_Arabia"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.1177-0091217420982266"
+}

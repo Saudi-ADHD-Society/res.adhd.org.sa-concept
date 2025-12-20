@@ -1,0 +1,58 @@
+{
+  "doi": "10.21203/rs.3.rs-4933706/v1",
+  "slug": "10.21203-rs.3.rs-4933706-v1",
+  "title": "(Pre-Print) ADHD Rating Scale Adaptation in Saudi Arabia: Factor Structure, Measurement Invariance, and Normative Data",
+  "abstract": "The ADHD Rating Scale is widely used to assess ADHD in the United States, and psychometrically sound. However, when assessments are translated into other languages, it is necessary to re-examine psychometrics. This study aimed to analyze the factor structure, test measurement invariance, and provide normative data for an adaptation of the ADHD Rating Scale in Saudi Arabia using parent ratings of 3,127 youth and teacher ratings of 2,595 students. Outcomes corroborate the validity of the two-factor correlated model for both parent and teacher ratings, and the measurement invariance among age and gender groups. The adapted ADHD Rating Scale is suitable for assessing the ADHD symptomology of youth in Saudi Arabia using the normative standards developed in this study.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "publication": {
+    "publishedDate": "2024-09-20T00:00:00+03:00",
+    "year": 2024
+  },
+  "journal": {
+    "name": "ResearchSquare Preprint"
+  },
+  "authors": [
+    {
+      "given": "Corey D.",
+      "family": "Pierce",
+      "authorship": "Primary Author, Corresponding Author",
+      "sequence": 1
+    },
+    {
+      "given": "Abdulkarim",
+      "family": "Alhossein",
+      "sequence": 2
+    },
+    {
+      "given": "Matthew C.",
+      "family": "Lambert",
+      "sequence": 3
+    },
+    {
+      "given": "Rashed",
+      "family": "Aldabas",
+      "sequence": 4
+    },
+    {
+      "given": "Salaheldin Farah Attallah",
+      "family": "Bakhietb",
+      "sequence": 5
+    },
+    {
+      "given": "Heather",
+      "family": "Fitzpatrick",
+      "sequence": 6
+    }
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "http://dx.doi.org/10.21203/rs.3.rs-4933706/v1"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.21203-rs.3.rs-4933706-v1"
+}

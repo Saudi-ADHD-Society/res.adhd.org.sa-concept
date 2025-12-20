@@ -1,0 +1,62 @@
+{
+  "doi": "10.1002/bio.4812",
+  "slug": "10.1002-bio.4812",
+  "title": "Development of fluorescence probe for spectrofluorimetric determination of viloxazine hydrochloride in pharmaceutical form and rat plasma; additional pharmacokinetic study",
+  "abstract": "Attention deficit hyperactivity disorder (ADHD) is a neurological condition frequently identified in early childhood and frequently co-occurs with other neuropsychological disorders, particularly autism. Viloxazine hydrochloride, a non-stimulant medication, has recently gained approval for treating attention-deficit hyperactivity disorder. This paper describes the first spectrofluorimetric method for precisely measuring the content of viloxazine in pharmaceutical capsules and rat plasma. This method employed NBD-Cl (4-chloro-7-nitrobenzo-2-oxa-1,3-diazole) as a fluorescent probe, which transformed viloxazine in an alkaline environment into a remarkably sensitive fluorescent adduct. Upon excitation at 476 nm, this adduct becomes detectable at a wavelength of 536 nm. The method was validated using ICH criteria, revealing acceptable linearity across a concentration range of 200–2000 ng/ml and high sensitivity with LOD and LOQ values of 46.774 ng/ml and 141.741 ng/ml, respectively. This method was adeptly applied in a pharmacokinetic study of viloxazine in rat plasma following a single oral dose (10 mg/kg), yielding a mean peak plasma concentration (C<sub>max</sub>) of 1721 ng/ml, achieved within 1.5 h. Furthermore, the environmental impact of the technique was assessed using two greenness assessment tools, revealing a notable level of eco-friendliness and sustainability.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "ADHD",
+    "green spectrofluorimetric method",
+    "pharmacokinetics",
+    "neurotherapeutics",
+    "treatment",
+    "non-stimulant",
+    "viloxazine"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "year": 2024
+  },
+  "journal": {
+    "name": "Luminescence",
+    "abbreviation": "Luminescence",
+    "issn": "1522-7235, 1522-7243",
+    "volume": "39",
+    "issue": "7"
+  },
+  "authors": [
+    {
+      "given": "Atiah H.",
+      "family": "Almalki",
+      "authorship": "Primary Author",
+      "sequence": 1
+    },
+    {
+      "given": "Reem M.",
+      "family": "Alnemari",
+      "sequence": 2
+    },
+    {
+      "given": "Maram H.",
+      "family": "Abduljabbar",
+      "sequence": 3
+    },
+    {
+      "given": "Ahmed H.",
+      "family": "Abdelazim",
+      "authorship": "Corresponding Author",
+      "sequence": 4
+    }
+  ],
+  "access": {
+    "status": "closed",
+    "licenseUrl": "http://onlinelibrary.wiley.com/termsAndConditions#vor",
+    "sourceUrl": "http://dx.doi.org/10.1002/bio.4812"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.1002-bio.4812"
+}

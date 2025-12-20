@@ -1,0 +1,76 @@
+{
+  "doi": "10.3389/fpsyt.2025.1624590",
+  "slug": "10.3389-fpsyt.2025.1624590",
+  "title": "Challenges in amphetamine medication availability for individuals with ADHD: a narrative review of the current state of evidence",
+  "abstract": "BackgroundAttention-deficit/hyperactivity disorder (ADHD) is a prevalent neurodevelopmental disorder affecting individuals across various age groups. Access to amphetamine (AMPH) stimulant is a critical component of evidence-based care for individuals with ADHD. In Saudi Arabia, despite clinical guidelines endorsing their use, the availability of AMPH-based stimulants remains limited.ObjectiveThis narrative review aims to explore the current regulatory and policy environment influencing AMPH medication availability for individuals diagnosed with ADHD in Saudi Arabia.MethodsA narrative review methodology was adopted following the Scale for the Assessment of Narrative Review Articles guidelines. A literature search was conducted in PubMed, EBSCO, and PsycINFO using defined search terms related to ADHD, psychostimulants, and Saudi Arabia. Additional grey literature from key regulatory bodies, such as the Saudi Food and Drug Authority (SFDA), the Ministry of Health (MOH), and the Saudi ADHD Society, was also reviewed. Thirteen articles and reports met the eligibility criteria and were included for qualitative synthesis.ResultsMethylphenidate is the predominant stimulant prescribed for ADHD, while AMPH-based medications, such as lisdexamfetamine, are under prescribed due to regulatory restrictions, limited formulary inclusion, and supply inconsistencies. Policy reports from national institutions highlight persistent barriers to AMPH access, despite their inclusion in recent clinical practice guidelines. Prescription trends suggest significant treatment gaps for AMPH stimulants.ConclusionThe available evidence suggests a likely shortfall in AMPH-based medications. in Saudi Arabia, despite global and local evidence supporting their efficacy. Our findings suggest the need for enhancing regulatory pathways regarding AMPH access and availability, which requires policy interventions targeting regulatory reform, formulary expansion, and improved awareness among AMPH prescribers.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "attention deficit hyperactivity disorder",
+    "amphetamine",
+    "lisdexamfetamine",
+    "psychostimulants",
+    "access",
+    "ADHD"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2025-07-23T00:00:00+03:00",
+    "year": 2025
+  },
+  "journal": {
+    "name": "Frontiers in Psychiatry",
+    "abbreviation": "Front. Psychiatry",
+    "issn": "1664-0640",
+    "volume": "16"
+  },
+  "authors": [
+    {
+      "given": "Mansour M.",
+      "family": "Alotaibi",
+      "authorship": "Primary Author, Corresponding Author",
+      "sequence": 1
+    },
+    {
+      "given": "Naif Z.",
+      "family": "Alrashdi",
+      "sequence": 2
+    },
+    {
+      "given": "Bakriah",
+      "family": "Alzubaidi",
+      "sequence": 3
+    },
+    {
+      "given": "Marzouq K.",
+      "family": "Almutairi",
+      "sequence": 4
+    },
+    {
+      "given": "Sultan A.",
+      "family": "Alanazi",
+      "sequence": 5
+    },
+    {
+      "given": "Anwar B.",
+      "family": "Almutairi",
+      "sequence": 6
+    },
+    {
+      "given": "Mohammed M.",
+      "family": "Alqahtani",
+      "sequence": 7
+    }
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://doi.org/10.3389/fpsyt.2025.1624590",
+    "localPdfUrl": "library/doi__10.3389__fpsyt.2025.1624590.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.3389-fpsyt.2025.1624590"
+}

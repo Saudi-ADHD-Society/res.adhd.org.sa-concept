@@ -1,0 +1,55 @@
+{
+  "doi": "10.57197/jdr-2025-0738",
+  "slug": "10.57197-jdr-2025-0738",
+  "title": "Quality of Care and Mental Health Outcomes in Children with ADHD: A Cross-sectional Study in Saudi Arabia",
+  "abstract": "<p>Attention-deficit hyperactivity disorder (ADHD) is a prevalent neurodevelopmental disorder that negatively impacts children’s academic, social, and emotional development. This study investigates the link between the quality of care received by children with ADHD and their mental health outcomes. Conducted in Abdullah Al-Tamimi Autism Center in Unaizah, Saudi Arabia, the descriptive cross-sectional study involved 150 children aged 8-18 years diagnosed with ADHD. Data were collected over a 3-month period using the Quality-of-Care Scale and the Mental Health Continuum-Short Form (MHC-SF). Results showed an average Quality-of-Care Scale score of 73.47 [standard deviation (SD) = 12.34], with 83.3% of participants rating their care positively. The overall MHC-SF score was 46.68 (SD = 10.56), indicating moderate mental well-being. Significant positive correlations were found between care quality and emotional well-being ( r = 0.586, P < 0.001) and overall mental health ( r = 0.875, P < 0.001). Linear regression analysis revealed that each unit increase in care quality corresponded to a 0.492 increase in mental health scores ( B = 0.492, P < 0.001). These findings highlight that high-quality care is associated with improved mental health outcomes for children with ADHD, emphasizing the need to address barriers to accessing care for enhanced treatment effectiveness and quality of life.</p>",
+  "categories": [
+    "Uncategorized"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2025-11-05",
+    "year": 2025
+  },
+  "journal": {
+    "name": "Journal of Disability Research",
+    "issn": "1658-9912, 2676-2633",
+    "volume": "4",
+    "issue": "5",
+    "pages": {
+      "start": "1415",
+      "end": "1421"
+    }
+  },
+  "authors": [
+    {
+      "given": "Rasha",
+      "family": "Mohammed Hussein",
+      "orcid": "https://orcid.org/0000-0002-6050-2841",
+      "sequence": 1
+    },
+    {
+      "given": "Nada",
+      "family": "Alqarawi",
+      "orcid": "https://orcid.org/0000-0002-1814-2248",
+      "sequence": 2
+    },
+    {
+      "given": "Mahmoud",
+      "family": "Abdelwahab Khedr",
+      "authorship": "Primary Author, Corresponding Author",
+      "orcid": "https://orcid.org/0000-0003-3437-3764",
+      "sequence": 3
+    }
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://doi.org/10.57197/jdr-2025-0738",
+    "localPdfUrl": "library/doi__10.57197__jdr-2025-0738.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.57197-jdr-2025-0738"
+}

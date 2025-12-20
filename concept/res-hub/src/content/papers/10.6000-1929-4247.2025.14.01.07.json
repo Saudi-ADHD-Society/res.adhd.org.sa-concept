@@ -1,0 +1,76 @@
+{
+  "doi": "10.6000/1929-4247.2025.14.01.07",
+  "slug": "10.6000-1929-4247.2025.14.01.07",
+  "title": "Effect of Maternal Adverse Childhood Experiences on the Stress Level of Mothers of Children Diagnosed with Attention-Deficit/Hyperactivity Disorder: A Case-Control Study",
+  "abstract": "<p>Attention deficit-hyperactivity disorder (ADHD) is a psychiatric disorder that affects children’s ability to function and could be carried into adolescence and adulthood with a prevalence of approximately 66-85%. However, few studies have assessed the association between prenatal maternal stress and ADHD in children in Jeddah, Saudi Arabia. This study aimed to assess the impact of adverse childhood experiences on parents of children with ADHD. This was a case-control study with a sample size of 180 mothers of children with ADHD diagnosed in a child psychiatric clinic at King Abdulaziz University Hospital from 2015 to 2020. We recruited 94 mothers of non-ADHD children for the control group. We investigated stress with a validated questionnaire using the Perceived Stress Scale and Adverse Childhood Experience questionnaire and considered ADHD symptoms as determined using the Conners’ Parent Rating Scale–revised (CPRS-R). The one-way ANOVA revealed a significant association (p=0.002) between multiple early-life traumas and elevated adult stress. Mothers with ADHD children affected severely by past traumas displayed significantly higher stress (p&lt;0.05), unlike the control group, which showed no notable link between PSS levels, ACE questionnaire scores, or the effect of past experiences on maternal health (p>0.05). Of note, mothers of children with ADHD had higher levels of stress than control participants. Boys had a higher prevalence (67.8%) of ADHD than girls.</p>",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "Attention deficit-hyperactivity disorder",
+    "Conners' Parent Rating Scale-revised"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2025-02-10T00:00:00+03:00",
+    "year": 2025
+  },
+  "journal": {
+    "name": "International Journal of Child Health and Nutrition",
+    "abbreviation": "Int. J. Child Health Nutr.",
+    "issn": "1929-4247",
+    "volume": "14",
+    "issue": "1",
+    "pages": {
+      "start": "59",
+      "end": "67"
+    }
+  },
+  "authors": [
+    {
+      "given": "Malak A.",
+      "family": "Alshareef",
+      "authorship": "Primary Author, Corresponding Author",
+      "sequence": 1
+    },
+    {
+      "given": "Reham E.",
+      "family": "Alaklouk",
+      "sequence": 2
+    },
+    {
+      "given": "Amer A.",
+      "family": "Edries",
+      "sequence": 3
+    },
+    {
+      "given": "Zahraa A.",
+      "family": "Alkhadrawi",
+      "sequence": 4
+    },
+    {
+      "given": "Abdulrahman Y.",
+      "family": "Alhashmi",
+      "sequence": 5
+    },
+    {
+      "given": "Badrah H.",
+      "family": "Alghnami",
+      "sequence": 6
+    },
+    {
+      "given": "Sulhi A.",
+      "family": "Alfakeh",
+      "sequence": 7
+    }
+  ],
+  "access": {
+    "status": "open",
+    "sourceUrl": "https://doi.org/10.6000/1929-4247.2025.14.01.07",
+    "localPdfUrl": "library/doi__10.6000__1929-4247.2025.14.01.07.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.6000-1929-4247.2025.14.01.07"
+}

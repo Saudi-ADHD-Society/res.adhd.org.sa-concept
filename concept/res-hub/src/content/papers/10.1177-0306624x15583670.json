@@ -1,0 +1,75 @@
+{
+  "doi": "10.1177/0306624x15583670",
+  "slug": "10.1177-0306624x15583670",
+  "title": "The Effects of Low Self-Control and Delinquent Peers on Alcohol, Tobacco, and Drug Use in a Sample of Saudi Arabia Youth",
+  "abstract": "A considerable amount of research has examined patterns of substance use and the potential explanations of it among samples from the United States and other industrialized nations. To date, however, no research has explored these issues in a sample of Saudi Arabian youth. The current study addressed this gap in the literature and examined the lifetime use of drugs, alcohol, and tobacco among Saudi Arabian youth. We also examined whether key measures from social learning theory and low self-control theory were able to account for patterns of usage. Data drawn from a sample of nearly 500 youth residing in Jeddah, Saudi Arabia, were used. Analysis of the data revealed that 12.7% of youth had smoked cigarettes at least 1 time, 2.6% had consumed alcohol at least once, and 3.0% had used illegal drugs. Moreover, the results of rare-events logistic regression revealed that a measure of delinquent peers was the strongest and most consistent predictor of substance use, while a measure of low self-control was unrelated (or related in a direction opposite to that which was predicted) to the measures of substance use.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "SUD",
+    "adolescents",
+    "delinquency",
+    "self-control",
+    "study",
+    "youth"
+  ],
+  "publication": {
+    "year": 2016
+  },
+  "journal": {
+    "name": "International Journal of Offender Therapy and Comparative Criminology",
+    "abbreviation": "Int J Offender Ther Comp Criminol",
+    "volume": "60",
+    "issue": "13",
+    "pages": {
+      "start": "1569",
+      "end": "1587"
+    }
+  },
+  "authors": [
+    {
+      "given": "Ahmed Nezar",
+      "family": "Kobeisy",
+      "sequence": 1
+    },
+    {
+      "given": "Kevin M",
+      "family": "Beaver",
+      "sequence": 2
+    },
+    {
+      "given": "Mohammed Said",
+      "family": "Al-Ghamdi",
+      "sequence": 3
+    },
+    {
+      "given": "Fathiyah H",
+      "family": "Alqurashi",
+      "sequence": 4
+    },
+    {
+      "given": "Joseph A",
+      "family": "Schwartz",
+      "sequence": 5
+    },
+    {
+      "given": "Eric J",
+      "family": "Connolly",
+      "sequence": 6
+    },
+    {
+      "given": "Jamie M",
+      "family": "Gajos",
+      "sequence": 7
+    }
+  ],
+  "access": {
+    "status": "unknown",
+    "localPdfUrl": "library/doi__10.1177__0306624x15583670.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.1177-0306624x15583670"
+}

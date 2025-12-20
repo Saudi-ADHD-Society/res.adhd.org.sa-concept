@@ -1,0 +1,54 @@
+{
+  "doi": "10.3390/healthcare13131528",
+  "slug": "10.3390-healthcare13131528",
+  "title": "Unmasking the Hidden Struggle Behind the White Coat: Screening Adult ADHD Symptoms Among Medical Students at the University of Tabuk, Saudi Arabia (2025)",
+  "abstract": "Background: Attention-deficit/hyperactivity disorder (ADHD) is a chronic neurodevelopmental disorder that continues into adulthood and is linked to significant academic, occupational, and psychological challenges. Medical students may be at heightened risk due to the cognitive and emotional demands of their training. However, regional data on adult ADHD symptoms in this population, particularly in northern Saudi Arabia, remain limited. Objective: to estimate the prevalence of probable adult ADHD symptoms among medical students at the University of Tabuk and to examine the associated sociodemographic, academic, and health-related factors. Methods: A cross-sectional, web-based survey was conducted between 15 May and 5 June 2025 among randomly selected Saudi medical students (years 2–6) at the University of Tabuk. The validated Arabic version of the WHO Adult ADHD Self-Report Scale (ASRS-v1.1) was used to screen for probable ADHD. A positive screen was defined as ≥4 flagged items. Descriptive and bivariate analyses were performed using SPSS v29. Results: Of the 219 respondents (60.3% male; mean age: 21.6 years), 23.3% screened positive for probable adult ADHD. Symptom frequency peaked in the third (40.0%) and fourth (35.6%) academic years and was lowest among sixth-year students (11.4%) (p = 0.012). A strong association was observed between positive ADHD screening and self-reported psychiatric disorders (p < 0.001). No statistically significant associations were found for gender, income, GPA, marital status, or academic phase. Conclusions: Nearly one in four medical students at the University of Tabuk exhibited symptoms suggestive of adult ADHD, a prevalence markedly higher than global estimates and consistent with regional trends. The association with psychiatric morbidity and the mid-programme peak suggests a need for proactive screening, mental health support, and academic accommodations. Universities can translate these findings into practice by instituting routine ADHD screening, offering flexible assessment accommodations, embedding peer-mentoring programmes, and strengthening on-campus mental-health referral pathways.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "ADHD",
+    "adult attention-deficit/hyperactivity disorder",
+    "medical students",
+    "Saudi Arabia",
+    "ASRS-v1.1",
+    "prevalence",
+    "mental health",
+    "academic stress"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2025-06-26T00:00:00+03:00",
+    "year": 2025
+  },
+  "journal": {
+    "name": "Healthcare",
+    "abbreviation": "Healthcare",
+    "issn": "2227-9032",
+    "volume": "13",
+    "issue": "13",
+    "pages": {
+      "start": "1528"
+    }
+  },
+  "authors": [
+    {
+      "given": "Zinab",
+      "family": "Alatawi",
+      "authorship": "Primary Author, Corresponding Author",
+      "orcid": "https://orcid.org/0000-0002-8963-8398",
+      "sequence": 1
+    }
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://doi.org/10.3390/healthcare13131528",
+    "researchGateUrl": "https://www.researchgate.net/publication/393057493_Unmasking_the_Hidden_Struggle_Behind_the_White_Coat_Screening_Adult_ADHD_Symptoms_Among_Medical_Students_at_the_University_of_Tabuk_Saudi_Arabia_2025",
+    "localPdfUrl": "library/doi__10.3390__healthcare13131528.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.3390-healthcare13131528"
+}

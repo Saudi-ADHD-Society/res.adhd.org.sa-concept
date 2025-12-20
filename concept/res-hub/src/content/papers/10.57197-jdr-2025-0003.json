@@ -1,0 +1,57 @@
+{
+  "doi": "10.57197/jdr-2025-0003",
+  "slug": "10.57197-jdr-2025-0003",
+  "title": "A Comprehensive Bibliometric Analysis of Disability Research in Saudi Arabia: Trends, Gaps, and Future Directions",
+  "abstract": "<p>This study employed bibliometric analysis using the Scopus database to evaluate Saudi disability research (SDR). From an initial dataset of 17,102 documents (0.54% of global output), the scope was refined to 13,246 data-driven publications for detailed examination. Trends, themes, and collaborations were analyzed using R packages and VOSviewer. Metrics such as citations, total link strength (TLS), and thematic mapping were used to identify key contributors, emerging topics, and international partnerships. Saudi authors demonstrated strong international collaboration, with 59.53% of publications involving co-authorships, particularly with the United States, Egypt, and India. Prolific contributors include Alkuraya, F.S. and leading institutions such as King Saud University. Key motor themes include “quality of life” and “Alzheimer’s disease,” while emerging themes such as “deep learning” and “molecular docking” reflect a shift toward advanced technologies. Machine learning is a trending topic applied in early diagnosis, drug discovery, and rehabilitation of conditions such as Alzheimer’s disease, autism, and epilepsy. These findings underscore the evolving priorities and global relevance of SDR.</p>",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "Saudi",
+    "disability research",
+    "bibliometric analysis",
+    "machine learning",
+    "international collaboration",
+    "thematic evolution"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2025-03-22",
+    "year": 2025
+  },
+  "journal": {
+    "name": "Journal of Disability Research",
+    "issn": "1658-9912",
+    "volume": "4",
+    "issue": "2"
+  },
+  "authors": [
+    {
+      "given": "Ali Mufraih",
+      "family": "Albarrati",
+      "authorship": "Primary Author, Corresponding Author",
+      "orcid": "https://orcid.org/0000-0003-0554-8721",
+      "sequence": 1
+    },
+    {
+      "given": "Siddig Ibrahim",
+      "family": "Abdelwahab",
+      "sequence": 2
+    },
+    {
+      "given": "Rakan",
+      "family": "Nazer",
+      "sequence": 3
+    }
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://doi.org/10.57197/jdr-2025-0003",
+    "localPdfUrl": "library/doi__10.57197__jdr-2025-0003.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.57197-jdr-2025-0003"
+}

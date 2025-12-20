@@ -1,0 +1,72 @@
+{
+  "doi": "10.9734/indj/2018/41133",
+  "slug": "10.9734-indj-2018-41133",
+  "title": "Clinical and Biological Perspectives of Non-antipsychotic Psychotropic Medications and Weight Gain",
+  "abstract": "<strong>Background:</strong> Non-antipsychotic medications are frequently used in psychiatric patients with a variety of disorders. However, there is limited research concerning weight gain and metabolic changes in mentally ill population. <strong>Objective:</strong> This review aimed to critically describe non-antipsychotic psychotropic (NAP) medications and their impact on weight in the psychiatric population. Also, the biological and psychosocial mechanisms of weight gain or loss attributed to NAP and antipsychotic medications are also described in this paper. Methods: Electronic searches (2000-2018) of PubMed, Medline,and Google Scholar were conducted using Boolean operators and keywords. Large numbers of articles were retrieved, and two independent reviewers retained 85 articles published in English peer-reviewed journals. <strong>Results:</strong> Only a few non-antipsychotic psychotropic medications prescribed to psychiatric population produce overweight and some metabolic changes, but most of them cause minimal weight gain, or they are weight-neutral and weight-loss. Variable results are reported concerning biological mechanisms attributed to genetics, individual vulnerability, diagnosis and pharmacology of antipsychotic and non-antipsychotic psychotropic medications. <strong>Conclusion:</strong> Unlike antipsychotic medications, non-antipsychotic psychotropic drugs cause the least weight gain mediated by multiple mechanisms, but mostly without meeting salient features of metabolic syndrome. Further studies are needed to explore metabolic changes and underlying mechanisms concerning psychotropic drugs given chiefly to mentally ill patients around the world.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "antipsychotics",
+    "appetite",
+    "medication",
+    "psychostimulants",
+    "psychotropic",
+    "side-effects",
+    "weight gain",
+    "weight loss"
+  ],
+  "publication": {
+    "year": 2018
+  },
+  "journal": {
+    "name": "International Neuropsychiatric Disease Journal",
+    "abbreviation": "International Neuropsychiatric Disease Journal",
+    "volume": "11",
+    "issue": "2",
+    "pages": {
+      "start": "1",
+      "end": "20"
+    }
+  },
+  "authors": [
+    {
+      "given": "Saud M",
+      "family": "Alsanad",
+      "sequence": 1
+    },
+    {
+      "given": "Naseem Akhtar",
+      "family": "Qureshi",
+      "sequence": 2
+    },
+    {
+      "given": "Dalal Salem",
+      "family": "Al-Dossari",
+      "sequence": 3
+    },
+    {
+      "given": "Sara Osama",
+      "family": "Salem",
+      "sequence": 4
+    },
+    {
+      "given": "Fuad Khulaif",
+      "family": "Alharbi",
+      "sequence": 5
+    },
+    {
+      "given": "Osama A",
+      "family": "Alkhamees",
+      "sequence": 6
+    }
+  ],
+  "access": {
+    "status": "unknown",
+    "localPdfUrl": "library/doi__10.9734__indj__2018__41133.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.9734-indj-2018-41133"
+}

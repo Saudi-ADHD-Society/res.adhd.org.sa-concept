@@ -1,0 +1,72 @@
+{
+  "doi": "10.3389/fgene.2024.1405453",
+  "slug": "10.3389-fgene.2024.1405453",
+  "title": "The known and unknown about attention deficit hyperactivity disorder (ADHD) genetics: a special emphasis on Arab population",
+  "abstract": "<p>Attention deficit hyperactivity disorder (ADHD) is a clinically and genetically heterogeneous neurodevelopmental syndrome characterized by behavioral appearances such as impulsivity, inattention, and hyperactivity. The prevalence of ADHD is high in childhood when compared to adults. ADHD has been significantly advanced by genetic research over the past 25 years. However, it is logically conceivable that both genetic and/or non-genetic factors, such as postnatal environmental and social influences, are associated with ADHD phenotype in Arab populations. While genetic influences are strongly linked with the etiology of ADHD, it remains obscure how consanguinity which is an underlying factor for many genetic diseases, contributes to ADHD subtypes. Arabian Gulf Nations have one the highest rates of consanguineous marriages, and consanguinity plays an important contributing factor in many genetic diseases that exist in higher percentages in Arabian Gulf Nations. Therefore, the current review aims to shed light on the genetic variants associated with ADHD subtypes in Arabian Gulf nations and Saudi Arabia in particular. It also focuses on the symptoms and the diagnosis of ADHD before turning to the neuropsychological pathways and subgroups of ADHD. The impact of a consanguinity-based understanding of the ADHD subtype will help to understand the genetic variability of the Arabian Gulf population in comparison with the other parts of the world and will provide novel information to develop new avenues for future research in ADHD.</p>",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "ADHD",
+    "ASD",
+    "consanguinity",
+    "genetic variants",
+    "neurodevelopmental disorders",
+    "learning disorder"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2024-08-06T00:00:00+03:00",
+    "year": 2024
+  },
+  "journal": {
+    "name": "Frontiers in Genetics",
+    "abbreviation": "Front. Genet.",
+    "issn": "1664-8021",
+    "volume": "15"
+  },
+  "authors": [
+    {
+      "given": "Nahed N.",
+      "family": "Mahrous",
+      "authorship": "Primary Author, Corresponding Author",
+      "sequence": 1
+    },
+    {
+      "given": "Amirah",
+      "family": "Albaqami",
+      "sequence": 2
+    },
+    {
+      "given": "Rimah A.",
+      "family": "Saleem",
+      "sequence": 3
+    },
+    {
+      "given": "Basmah",
+      "family": "Khoja",
+      "sequence": 4
+    },
+    {
+      "given": "Mohammed I.",
+      "family": "Khan",
+      "sequence": 5
+    },
+    {
+      "given": "Yousef M.",
+      "family": "Hawsawi",
+      "sequence": 6
+    }
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://doi.org/10.3389/fgene.2024.1405453",
+    "researchGateUrl": "https://www.researchgate.net/publication/383238538_The_known_and_unknown_about_attention_deficit_hyperactivity_disorder_ADHD_genetics_a_special_emphasis_on_Arab_population",
+    "localPdfUrl": "library/doi__10.3389__fgene.2024.1405453.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.3389-fgene.2024.1405453"
+}

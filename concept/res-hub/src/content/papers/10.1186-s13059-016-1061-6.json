@@ -1,0 +1,86 @@
+{
+  "doi": "10.1186/s13059-016-1061-6",
+  "slug": "10.1186-s13059-016-1061-6",
+  "title": "GNB5 mutation causes a novel neuropsychiatric disorder featuring attention deficit hyperactivity disorder, severely impaired language development and normal cognition",
+  "abstract": "BACKGROUND:Neuropsychiatric disorders are common forms of disability in humans. Despite recent progress in deciphering the genetics of these disorders, their phenotypic complexity continues to be a major challenge. Mendelian neuropsychiatric disorders are rare but their study has the potential to unravel novel mechanisms that are relevant to their complex counterparts. RESULTS:In an extended consanguineous family, we identified a novel neuropsychiatric phenotype characterized by severe speech impairment, variable expressivity of attention deficit hyperactivity disorder (ADHD), and motor delay. We identified the disease locus through linkage analysis on 15q21.2, and exome sequencing revealed a novel missense variant in GNB5. GNB5 encodes an atypical _ subunit of the heterotrimeric GTP-binding proteins (G_5). G_5 is enriched in the central nervous system where it forms constitutive complexes with members of the regulator of G protein signaling family of proteins to modulate neurotransmitter signaling that affects a number of neurobehavioral outcomes. Here, we show that the S81L mutant form of G_5 has significantly impaired activity in terminating responses that are elicited by dopamine. CONCLUSIONS:We demonstrate that these deficits originate from the impaired expression of the mutant G_5 protein, resulting in the decreased ability to stabilize regulator of G protein signaling complexes. Our data suggest that this novel neuropsychiatric phenotype is the human equivalent of Gnb5 deficiency in mice, which manifest motor deficits and hyperactivity, and highlight a critical role of G_5 in normal behavior as well as language and motor development in humans.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "ADHD",
+    "G protein coupled receptors (GPCR)",
+    "attention deficit hyperactivity disorder",
+    "hippocampus",
+    "linkage",
+    "mendelian",
+    "neuropsychiatric disorders",
+    "striatum"
+  ],
+  "publication": {
+    "year": 2016
+  },
+  "journal": {
+    "name": "Genome Biology",
+    "abbreviation": "Genome Biology",
+    "volume": "17",
+    "issue": "1",
+    "pages": {
+      "start": "195",
+      "end": "203"
+    }
+  },
+  "authors": [
+    {
+      "given": "S",
+      "family": "Alkuraya",
+      "sequence": 1
+    },
+    {
+      "given": "Fowzan S",
+      "family": "Alkuraya",
+      "sequence": 2
+    },
+    {
+      "given": "Kirill A",
+      "family": "Martemyanov",
+      "sequence": 3
+    },
+    {
+      "given": "Niema",
+      "family": "Ibrahim",
+      "sequence": 4
+    },
+    {
+      "given": "Dipak N",
+      "family": "Patil",
+      "sequence": 5
+    },
+    {
+      "given": "Suad",
+      "family": "Alyamani",
+      "sequence": 6
+    },
+    {
+      "given": "Ahmed",
+      "family": "Alenizi",
+      "sequence": 7
+    },
+    {
+      "given": "Ikuo",
+      "family": "Masuho",
+      "sequence": 8
+    },
+    {
+      "given": "Hanan E",
+      "family": "Shamseldin",
+      "sequence": 9
+    }
+  ],
+  "access": {
+    "status": "unknown"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.1186-s13059-016-1061-6"
+}

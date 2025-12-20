@@ -1,0 +1,51 @@
+{
+  "doi": "10.57197/jdr-2024-0022",
+  "slug": "10.57197-jdr-2024-0022",
+  "title": "Artificial Intelligence Models to Predict Disability for Mental Health Disorders",
+  "abstract": "Early detection of mental health disorders allows specialists to provide more effective interventions, thereby improving the patient’s overall well-being. Mental health refers to the whole state of an individual’s psychological, emotional, and social well-being. Prompt detection of signs of mental disorders is essential for prompt intervention and the mitigation of recurrent symptoms and impairments. Therefore, artificial intelligence (AI) approaches have been used to aid mental health professionals, such as psychiatrists and psychologists, in making decisions by analyzing medical records and patients’ behavioral data. This research identified and evaluated the performance of machine learning algorithms, namely K-nearest neighbors (KNN), random forest (RF), and long short-term memory (LSTM), in detecting mental health conditions based on many accuracy criteria. A mental health disorder dataset was collected from Kaggel. The results of the implemented algorithms demonstrated that the RF approach attained an accuracy of 100%, while the KNN model scored an accuracy of 95%. The LSTM model achieved 99% accuracy with respect to the accuracy metric. The RF model attains an area under the curve of 100%. This system intends to use AI model methodologies to identify and predict mental health disorders at an early stage. This system is a well-established and effective tool that utilizes AI algorithms to accurately detect and diagnose various mental health illnesses, thus assisting in the decision-making process.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "mental health disorder",
+    "machine learning",
+    "deep leaning",
+    "autism spectrum disorder"
+  ],
+  "publication": {
+    "year": 2024
+  },
+  "journal": {
+    "name": "Journal of Disability Research",
+    "abbreviation": "Journal of Disability Research",
+    "volume": "3",
+    "issue": "3"
+  },
+  "authors": [
+    {
+      "given": "Hasan",
+      "family": "Alkahtani",
+      "authorship": "Primary Author",
+      "sequence": 1
+    },
+    {
+      "given": "Theyazn H",
+      "family": "Aldhyani",
+      "sequence": 2
+    },
+    {
+      "given": "Ahmed Abdullah",
+      "family": "Alqarni",
+      "sequence": 3
+    }
+  ],
+  "access": {
+    "status": "open",
+    "researchGateUrl": "https://www.researchgate.net/publication/379177269_Artificial_Intelligence_Models_to_Predict_Disability_for_Mental_Health_Disorders",
+    "localPdfUrl": "library/doi__10.57197__jdr-2024-0022.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.57197-jdr-2024-0022"
+}

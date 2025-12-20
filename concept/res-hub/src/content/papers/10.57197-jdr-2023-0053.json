@@ -1,0 +1,54 @@
+{
+  "doi": "10.57197/jdr-2023-0053",
+  "slug": "10.57197-jdr-2023-0053",
+  "title": "Accurate Identification of Attention-deficit/Hyperactivity Disorder Using Machine Learning Approaches",
+  "abstract": "The identification of ADHD is laden with a great number of challenges and obstacles. If a patient is incorrectly diagnosed, there is a possibility that this will have adverse impact on their health. ADHD is a neurodevelopmental condition characterized by persistent patterns of inattention, hyperactivity, and impulsivity that often emerge in infancy. ADHD is a neurodevelopmental disorder characterized by difficulties in sustaining attention, concentrating, and regulating behavior. Therefore, using artificial intelligence approaches for early detection is very important for reducing the increase in disease. The goal of this research is to find out an accurate model that could differentiate between those who have ADHD and those who do not have it by making use of the method of pattern recognition. The research project was composed of a combination of event-related potential data from people who had been diagnosed with ADHD, in addition to a control group that was made up of people who did not have ADHD. This research presents novel machine learning models based on decision tree (DT), random forest (RF), support vector machine (SVM), and multilayer perceptron (MLP), using dataset collected from ADHD patients for the purpose of training. Significant performance outcomes have been seen in the context of the SVM which has achieved a high accuracy rate of 91%. MLP has demonstrated an accuracy rate of 89%. Furthermore, the RF model has shown an accuracy rate of 87%. Finally, the DT model revealed accurate results up to 78%. The aforementioned results highlight the effectiveness of the utilized methods and the ability of modern computational frameworks in attaining substantial levels of accuracy in the diagnosis and categorization of ADHD.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "machine learning models",
+    "ADHD",
+    "control",
+    "hyperactivity disorder",
+    "diagnosis"
+  ],
+  "publication": {
+    "year": 2024
+  },
+  "journal": {
+    "name": "Journal of Disability Research",
+    "abbreviation": "JDR",
+    "volume": "3",
+    "pages": {
+      "start": "1",
+      "end": "11"
+    }
+  },
+  "authors": [
+    {
+      "given": "Nizar",
+      "family": "Alsharif",
+      "authorship": "Primary Author, Corresponding Author",
+      "sequence": 1
+    },
+    {
+      "given": "Mosleh Hmoud",
+      "family": "Al-Adhaileh",
+      "sequence": 2
+    },
+    {
+      "given": "Mohammed",
+      "family": "Al-Yaari",
+      "sequence": 3
+    }
+  ],
+  "access": {
+    "status": "open",
+    "localPdfUrl": "library/doi__10.57197__jdr-2023-0053.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.57197-jdr-2023-0053"
+}

@@ -1,0 +1,69 @@
+{
+  "doi": "10.1016/j.saa.2024.124793",
+  "slug": "10.1016-j.saa.2024.124793",
+  "title": "Development of a fluorescent nano-sensing probe for atomoxetine analysis: Additional clinical pharmacokinetic study",
+  "abstract": "Atomoxetine is a psychostimulant drug used for the treatment of attention-deficit/hyperactivity disorder (ADHD) symptoms in people with autism. Herein, eco-friendly fluorescent carbon quantum dots (CQDs) were synthesized using black-eyed pea beans and characterized for the purpose of quantifying atomoxetine in pharmaceutical capsules and human plasma. The selectivity of these CQDs towards atomoxetine was improved by functionalizing their surface with an atomoxetine-tetraphenylborate ion complex. The quantification of atomoxetine is based on measuring the fluorescence quenching of the functionalized CQDs in response to varying concentrations of atomoxetine. The Stern-Volmer plot was employed to investigate the mechanism through which atomoxetine quenches the fluorescence intensity of the CQDs. The outcomes indicated a dynamic quenching mechanism. The applied method was optimized and validated in compliance with ICH requirements, resulting in excellent linearity across the concentration range of 50–800 ng/mL. The developed method was successfully used to quantify atomoxetine in pharmaceutical dosage form and human plasma with acceptable accuracy and precision outcomes. In addition, the method was applied for clinical pharmacokinetic study of atomoxetine in the plasma of children diagnosed with both autism and ADHD. Atomoxetine was rapidly absorbed after a single oral dose of 10 mg, reaching maximum concentration within two hours and having a half-life (t1/2) of 3.11 h. Moreover, the method demonstrates a notable degree of eco-friendliness, as evidenced by two greenness evaluation metrics; Green Analytical Procedure Index (GAPI) and Analytical GREEnness (AGREE).",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "pharmacokinetic",
+    "treatment",
+    "atomoxetine",
+    "non-stimulant"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "year": 2024
+  },
+  "journal": {
+    "name": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+    "abbreviation": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+    "issn": "1386-1425",
+    "volume": "322",
+    "pages": {
+      "start": "124793"
+    }
+  },
+  "authors": [
+    {
+      "given": "Manal E.",
+      "family": "Alosaimi",
+      "sequence": 1
+    },
+    {
+      "given": "Maram H.",
+      "family": "Abduljabbar",
+      "sequence": 2
+    },
+    {
+      "given": "Rami M.",
+      "family": "Alzhrani",
+      "sequence": 3
+    },
+    {
+      "given": "Salma",
+      "family": "Saeed",
+      "sequence": 4
+    },
+    {
+      "given": "Sherif",
+      "family": "Ramzy",
+      "sequence": 5
+    },
+    {
+      "given": "Atiah H.",
+      "family": "Almalki",
+      "sequence": 6
+    }
+  ],
+  "access": {
+    "status": "closed",
+    "licenseUrl": "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "sourceUrl": "http://dx.doi.org/10.1016/j.saa.2024.124793"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.1016-j.saa.2024.124793"
+}

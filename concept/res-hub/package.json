@@ -7,9 +7,11 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "import:legacy:no-doi": "node scripts/import-legacy-no-doi-from-csv.mjs"
   },
   "dependencies": {
+    "csv-parse": "^6.1.0",
     "lucide-react": "^0.555.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"

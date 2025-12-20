@@ -1,0 +1,142 @@
+{
+  "doi": "10.1177/10870547251313879",
+  "slug": "10.1177-10870547251313879",
+  "title": "Standardization of the Arabic Version of the Adult ADHD Self-Report Screening Scale for DSM-5 (ASRS-5) Among Adults in Saudi Arabia: Variability of ADHD Screening According to Sociodemographic Variables",
+  "abstract": "Objective: This study investigated the psychometric properties of the Arabic version of the Adult Self-Report Scale-5 (the ASRS-5-AR) within a large sample of adults residing in Saudi Arabia. Methods: This cross-sectional study applied the ASRS-5-AR to a random sample of 4,299 Saudi and non-Saudi adults, aged 19 to 66 years (31.16 ± 9.26 years), living in the regions of Riyadh, Makkah, and the Eastern Province in Saudi Arabia. Collected data were analyzed using IBM SPSS Statistics 26, JASP 0.18.3.0 software, and MedCalc 22.030 statistical software. Results: The ASRS-5-AR demonstrated strong internal consistency, with all six items showing significant positive correlation with the total score (.675–.735). Results of confirmatory factor analysis revealed a goodness-of-fit coefficient of 0.983 for the one-factor model and McDonald’s omega, Cronbach’s α, and Spearman-Brown coefficients of 0.786, 0.788, and 0.724, respectively. In addition, the findings revealed statistically significant differences in self-reported ADHD symptoms based on age ( F = 18.68; p &lt; .001), level of education ( F = 2.61; p &lt; .05), and marital status ( F = 22.30; p &lt; .001). However, there were no significant differences in self-reported ADHD symptoms between males and females ( t = 0.625; p > .05) or Saudi and non-Saudi participants ( t = 0.409; p > .05) or based on region of residence ( t = 2.19; p > .05). Conclusions: This study provides valuable insights into the psychometric properties of the ASRS-5-AR within a large sample of adults in Saudi Arabia. The findings demonstrate acceptable reliability of the ASRS-5-AR within this population. While these findings suggest the ASRS-5-AR may be a useful tool for initial assessment, further research is crucial. Future studies should focus on establishing accurate cutoff scores by comparing a general population sample with a clinically diagnosed sample of adults with ADHD in Saudi Arabia. This will allow for a more accurate evaluation of the scale’s utility in identifying individuals who may require further clinical assessment.",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "ADHD",
+    "adults",
+    "ASRS-5-AR",
+    "attention deficit",
+    "hyperactivity",
+    "SEM"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2025-01-24T00:00:00+03:00",
+    "year": 2025
+  },
+  "journal": {
+    "name": "Journal of Attention Disorders",
+    "abbreviation": "J Atten Disord",
+    "issn": "1087-0547, 1557-1246"
+  },
+  "authors": [
+    {
+      "given": "Mohammed M. J.",
+      "family": "Alqahtani",
+      "authorship": "Primary Author, Corresponding Author",
+      "orcid": "https://orcid.org/0000-0002-8222-3130",
+      "sequence": 1
+    },
+    {
+      "given": "Nouf Mohammed",
+      "family": "Al Saud",
+      "sequence": 2
+    },
+    {
+      "given": "Nawal Mohammed",
+      "family": "Alsharef",
+      "sequence": 3
+    },
+    {
+      "given": "Ahmad N.",
+      "family": "AlHadi",
+      "sequence": 4
+    },
+    {
+      "given": "Saleh Mohammed",
+      "family": "Alsalhi",
+      "sequence": 5
+    },
+    {
+      "given": "Elham H.",
+      "family": "Al-Hifthy",
+      "sequence": 6
+    },
+    {
+      "given": "Yasser",
+      "family": "Ad-Dab’bagh",
+      "sequence": 7
+    },
+    {
+      "given": "Nader",
+      "family": "Alrahili",
+      "orcid": "https://orcid.org/0000-0002-9544-3669",
+      "sequence": 8
+    },
+    {
+      "given": "Fawwaz Abdulrazaq",
+      "family": "Alenazi",
+      "orcid": "https://orcid.org/0009-0000-0016-9138",
+      "sequence": 9
+    },
+    {
+      "given": "Barakat M.",
+      "family": "Alotaibi",
+      "sequence": 10
+    },
+    {
+      "given": "Sultan Mahmoud",
+      "family": "Alsaeed",
+      "sequence": 11
+    },
+    {
+      "given": "Boshra A.",
+      "family": "Arnout",
+      "sequence": 12
+    },
+    {
+      "given": "Latifah",
+      "family": "ALQasem",
+      "sequence": 13
+    },
+    {
+      "given": "Abdulkarim",
+      "family": "Alhossein",
+      "orcid": "https://orcid.org/0000-0001-7869-9921",
+      "sequence": 14
+    },
+    {
+      "given": "Yasser Jubran",
+      "family": "Alqahtani",
+      "orcid": "https://orcid.org/0000-0003-4883-3661",
+      "sequence": 15
+    },
+    {
+      "given": "Samirah A.",
+      "family": "AlGhamdi",
+      "sequence": 16
+    },
+    {
+      "given": "Jeremy",
+      "family": "Varnham",
+      "orcid": "https://orcid.org/0000-0002-8020-0322",
+      "sequence": 17
+    },
+    {
+      "given": "Saeed Abdulwahab",
+      "family": "Asiri",
+      "sequence": 18
+    },
+    {
+      "given": "Maysaa W.",
+      "family": "Buraik",
+      "sequence": 19
+    }
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "sourceUrl": "https://doi.org/10.1177/10870547251313879",
+    "researchGateUrl": "https://www.researchgate.net/publication/388356078_Standardization_of_the_Arabic_Version_of_the_Adult_ADHD_Self-Report_Screening_Scale_for_DSM-5_ASRS-5_Among_Adults_in_Saudi_Arabia_Variability_of_ADHD_Screening_According_to_Sociodemographic_Variables",
+    "localPdfUrl": "library/doi__10.1177__10870547251313879.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.1177-10870547251313879"
+}

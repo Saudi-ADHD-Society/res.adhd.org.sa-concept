@@ -1,0 +1,86 @@
+{
+  "doi": "10.2196/74126",
+  "slug": "10.2196-74126",
+  "title": "Exploring Attention-Deficit/Hyperactivity Disorder Symptoms in Patients With Atopic Dermatitis by Disease Severity: Cross-Sectional Analysis",
+  "abstract": "<p>Abstract Background Atopic dermatitis (AD) is a chronic inflammatory skin condition affecting a significant percentage of the global population. Emerging research suggests a potential link between AD and neurodevelopmental disorders like attention-deficit/hyperactivity disorder (ADHD). However, there is a lack of comprehensive studies within the Saudi Arabian population examining this association. Objective This study aims to determine the prevalence of ADHD among patients with AD in Saudi Arabia and to explore potential associations with demographic and clinical factors. Methods In this cross-sectional, multicenter study conducted between May and November 2024, 419 patients with AD were recruited from various hospitals in Saudi Arabia. Children were screened for ADHD symptoms using the ADHD Rating Scale-5, while adults were assessed with the Adult Self-Report Scale. Logistic regression was used to evaluate the influence of AD severity, age, gender, nationality, and BMI on the likelihood of ADHD symptoms. Results A total of 419 patients with AD were included, of whom 234 (55.8%) were children and 185 (44.2%) were adults; 239 (57%) were female and 360 (85.9%) were Saudi nationals. ADHD symptoms were identified in 84 (20%) patients, with a slightly higher prevalence among children (49/234, 20.9%) compared to adults (35/185, 18.9%; P=.61). No significant associations were found between ADHD symptoms and gender, nationality, BMI, or AD severity in either age group. Moderate to severe AD was more common among adults (48/185, 25.9%) than children (42/234, 17.9%; P=.048). Conclusions This study found that 20% of patients with AD screened positive for ADHD symptoms, with slightly higher rates in children than adults. No significant associations were observed between ADHD symptoms and gender, nationality, BMI, or AD severity. Although no significant clinical predictors were identified, the findings emphasize the need for ADHD screening in patients with AD, particularly in regions with high AD prevalence. Future longitudinal studies should explore underlying mechanisms and assess how managing one condition may influence the other.</p>",
+  "categories": [
+    "Uncategorized"
+  ],
+  "keywords": [
+    "atopic dermatitis",
+    "ADHD",
+    "cross-sectional study",
+    "neurodevelopmental disorders",
+    "attention-deficit/hyperactivity disorder"
+  ],
+  "publication": {
+    "type": "Journal Article",
+    "publishedDate": "2025-07-15T00:00:00+03:00",
+    "year": 2025
+  },
+  "journal": {
+    "name": "JMIR Dermatology",
+    "abbreviation": "JMIR Dermatol",
+    "issn": "2562-0959",
+    "volume": "8",
+    "pages": {
+      "start": "e74126",
+      "end": "e74126"
+    }
+  },
+  "authors": [
+    {
+      "given": "Amr",
+      "family": "Molla",
+      "authorship": "Primary Author, Corresponding Author",
+      "orcid": "https://orcid.org/0000-0002-4743-5365",
+      "sequence": 1
+    },
+    {
+      "given": "Raed",
+      "family": "Jannadi",
+      "orcid": "https://orcid.org/0009-0002-8256-1508",
+      "sequence": 2
+    },
+    {
+      "given": "Dareen",
+      "family": "Hafez",
+      "orcid": "https://orcid.org/0009-0005-5132-6136",
+      "sequence": 3
+    },
+    {
+      "given": "Lujain",
+      "family": "Alrohaily",
+      "orcid": "https://orcid.org/0009-0009-8585-3814",
+      "sequence": 4
+    },
+    {
+      "given": "Ebtesam",
+      "family": "Abdullah",
+      "orcid": "https://orcid.org/0009-0006-2309-2683",
+      "sequence": 5
+    },
+    {
+      "given": "Duha",
+      "family": "Azouni",
+      "orcid": "https://orcid.org/0009-0000-3324-0092",
+      "sequence": 6
+    },
+    {
+      "given": "Muayad",
+      "family": "Albadrani",
+      "orcid": "https://orcid.org/0000-0002-7486-1677",
+      "sequence": 7
+    }
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://derma.jmir.org/publishing-policies/open-access-policy",
+    "sourceUrl": "https://doi.org/10.2196/74126",
+    "localPdfUrl": "library/doi__10.2196__74126.pdf"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "id": "doi-10.2196-74126"
+}
