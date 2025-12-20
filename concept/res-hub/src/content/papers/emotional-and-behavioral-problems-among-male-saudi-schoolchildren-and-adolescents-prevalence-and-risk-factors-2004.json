@@ -15,10 +15,48 @@
     "school",
     "study",
     "prevalence",
-    "risk factors"
+    "risk factors",
+    "behavioral",
+    "emotional",
+    "schoolchildren",
+    "adolescents",
+    "Child Behavior Checklist (CBCL)"
+  ],
+  "authors": [
+    {
+      "given": "Moataz M",
+      "family": "Abdel-Fattah",
+      "sequence": 1
+    },
+    {
+      "given": "Abdel-Rahman A",
+      "family": "Asal",
+      "sequence": 2
+    },
+    {
+      "given": "Saeed M",
+      "family": "Al-Asmary",
+      "sequence": 3
+    },
+    {
+      "given": "Nabil S",
+      "family": "Al-Helali",
+      "sequence": 4
+    },
+    {
+      "given": "Tawfiq M",
+      "family": "Al-Jabbar",
+      "sequence": 5
+    },
+    {
+      "given": "Mostafa A",
+      "family": "Arafa",
+      "sequence": 6
+    }
   ],
   "publication": {
-    "year": 2004
+    "year": 2004,
+    "publishedDate": "2004-01-19"
   },
   "journal": {
     "name": "German Journal of Psychiatry",
@@ -32,6 +70,7 @@
   },
   "access": {
     "status": "unknown",
+    "researchGateUrl": "https://www.researchgate.net/publication/235397488_Emotional_and_behavioral_problems_among_male_Saudi_schoolchildren_and_adolescents",
     "localPdfUrl": "library/emotional-and-behavioral-problems-among-male-saudi-schoolchildren-and-adolescents-prevalence-and-risk-factors-2004-0acdb44c21.pdf"
   },
   "visibility": {

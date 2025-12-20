@@ -15,9 +15,6 @@
     "study",
     "treatment"
   ],
-  "publication": {
-    "year": 2003
-  },
   "journal": {
     "name": "Easter Mediterranean Health Journal",
     "abbreviation": "East. Mediterr. Health J.",
@@ -41,12 +38,15 @@
   },
   "authors": [
     {
-      "given": "Farah Al",
-      "family": "Haidar",
-      "orcid": "https://orcid.org/0009-0009-4044-1111",
+      "given": "Fatima A",
+      "family": "Al-Haidar",
       "sequence": 1
     }
   ],
+  "publication": {
+    "year": 2003,
+    "publishedDate": "2003-04-22"
+  },
   "doi": "10.26719/2003.9.5-6.988",
   "language": "English"
 }
