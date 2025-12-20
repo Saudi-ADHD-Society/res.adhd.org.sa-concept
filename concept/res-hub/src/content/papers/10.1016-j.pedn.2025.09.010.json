@@ -2,9 +2,16 @@
   "doi": "10.1016/j.pedn.2025.09.010",
   "slug": "10.1016-j.pedn.2025.09.010",
   "title": "Caring under pressure: The relationship of caregivers’ stress, mental health, and self-efficacy in ADHD households",
-  "abstract": "<p><strong>Purpose</strong></p>",
+  "abstract": "Purpose\nInvestigates the relationship between caregiver stress, mental health, and self-efficacy in families with children diagnosed with ADHD.\nDesign and methods\nA cross-sectional design was utilized, involving 160 caregivers from the Abdullah Al-Tamimi Autism Center in Unaizah, Saudi Arabia. Participants completed an online questionnaire assessing sociodemographic information, caregiver stress, mental health, and self-efficacy.\nResults\nThe average caregiver stress score was 21.56 (SD = 10.82), with 39.4% reporting severe stress levels. Mental health assessments indicated that 53.1% of caregivers were classified as flourishing. In terms of self-efficacy, 49.4% demonstrated high levels of self-efficacy. Significant negative correlations were found between caregiver stress and mental health (r = −0.343, p < 0.001), and between stress and self-efficacy (r = −0.269, p = 0.001). Multivariate regression analysis revealed that increased stress had a negative influence on self-efficacy (B = −0.091, p = 0.049), while improved mental health was positively correlated with self-efficacy (B = 0.164, p < 0.001). Mediation analysis indicated that mental health mediates the relationship between caregiver stress and self-efficacy (indirect effect = −0.062, p = 0.046).\nConclusion\nCaregivers of children with ADHD experience significant stress that adversely affects their mental health and self-efficacy. Targeted interventions to support caregiver mental health and enhance self-efficacy are essential for improving caregiver well-being and the quality of care for children with ADHD.\nPractice implications\nThis study underscores the urgent need for interventions that address the mental health and self-efficacy of caregivers, integrating support into treatment plans to enhance coping strategies and resilience.",
   "categories": [
-    "Uncategorized"
+    "Families"
+  ],
+  "keywords": [
+    "ADHD",
+    "Caregivers",
+    "Stress",
+    "Mental health",
+    "Self-Efficacy"
   ],
   "authors": [
     {
@@ -24,7 +31,8 @@
     }
   ],
   "access": {
-    "status": "closed"
+    "status": "closed",
+    "sourceUrl": "https://www.pediatricnursing.org/article/S0882-5963(25)00324-0/abstract"
   },
   "visibility": {
     "hidden": false
@@ -43,6 +51,7 @@
     }
   },
   "identifiers": {
-    "doi": "10.1016/j.pedn.2025.09.010"
+    "doi": "10.1016/j.pedn.2025.09.010",
+    "url": "https://www.pediatricnursing.org/article/S0882-5963(25)00324-0/abstract"
   }
 }

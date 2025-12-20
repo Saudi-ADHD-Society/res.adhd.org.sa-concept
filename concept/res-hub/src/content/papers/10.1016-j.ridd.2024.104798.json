@@ -2,7 +2,7 @@
   "doi": "10.1016/j.ridd.2024.104798",
   "slug": "10.1016-j.ridd.2024.104798",
   "title": "Examining the effectiveness of a social-play-based programme to reduce symptoms of Attention-Deficit/Hyperactivity Disorder in Saudi elementary school children",
-  "abstract": "<strong>Background</strong>",
+  "abstract": "Background\nAttention-Deficit/Hyperactivity Disorder (ADHD) is one of the most common neurodevelopmental conditions in children, and can profoundly affect their social interactions, well-being, and relationships with parents, peers, and teachers.\nObjective\nThis study investigated the effectiveness of a social-play-based intervention programme in reducing ADHD symptoms in a sample of 67 Saudi boys aged 8–10 diagnosed with ADHD.\nMethods\nThe programme consisted of ten 60-minute sessions of play-based activities, delivered to the experimental group twice weekly for 5 weeks. The control group followed the usual school curriculum. Teachers and parents completed the Conners' Teacher Rating Scale–Revised: Short Form and Conners' Parent Rating Scale–Revised: Short Form for all participants at pre-test, post-test, and follow-up.\nResults\nThe experimental group showed a significant reduction in ADHD-associated behavioural problems over time, with moderate to large effect sizes. No significant changes over time were found for the control group. The results were maintained at a 2-month follow-up.\nConclusions\nWe recommend incorporating social-play-based activities and skill training into the school context. Reducing ADHD symptoms may improve children's academic performance and perspective on school.",
   "categories": [
     "Uncategorized"
   ],
@@ -29,7 +29,8 @@
     }
   ],
   "access": {
-    "status": "closed"
+    "status": "closed",
+    "sourceUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0891422224001306"
   },
   "visibility": {
     "hidden": false
@@ -48,6 +49,7 @@
     }
   },
   "identifiers": {
-    "doi": "10.1016/j.ridd.2024.104798"
+    "doi": "10.1016/j.ridd.2024.104798",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0891422224001306"
   }
 }

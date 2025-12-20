@@ -2,7 +2,7 @@
   "doi": "10.1016/j.ridd.2024.104858",
   "slug": "10.1016-j.ridd.2024.104858",
   "title": "Investigating the impact of an AI-based play activities intervention on the quality of life of school-aged children with ADHD",
-  "abstract": "<strong>Background</strong>",
+  "abstract": "Background\nAttention-Deficit/Hyperactivity Disorder (ADHD) is a prevalent neurodevelopmental disorder that not only impacts children's behavior, learning, and social interactions but also their quality of life. Advances in artificial intelligence (AI) may provide new opportunities to improve the ADHD symptoms and quality of life of children with ADHD, especially through customized play activities that address their specific needs.\nAims\nThis study examined the impact of AI-based play activities on the quality of life of 61 Saudi children aged between 8 and 12 years who had an ADHD diagnosis.\nMethods\nAI-based play activities intervention consisted of twelve 45-minute sessions, delivered to the experimental group over four weeks (three sessions per week). The control group did not receive any intervention. Children and parents completed the Pediatric Quality of Life Inventory (PedsQL) at pre-test, post-test and follow-up.\nResults and outcomes\nThe experimental group exhibited significant improvements in all dimensions and total scores of PedsQL, with moderate to large effect sizes. These improvements were not observed in the control group. The beneficial effects of the AI-based play activities were maintained at the 7-weeks follow-up.\nConclusions\nAI-based play interventions may enhance quality of life for children with ADHD, with sustained improvements observed after 7-weeks. Incorporating such interventions into educational and therapeutic settings could improve behavioral, social, and cognitive ADHD symptoms. Future research should explore broader applications and long-term effects of AI-based play activities interventions.",
   "categories": [
     "Uncategorized"
   ],
@@ -14,7 +14,8 @@
     }
   ],
   "access": {
-    "status": "closed"
+    "status": "closed",
+    "sourceUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0891422224001902"
   },
   "visibility": {
     "hidden": false
@@ -33,6 +34,7 @@
     }
   },
   "identifiers": {
-    "doi": "10.1016/j.ridd.2024.104858"
+    "doi": "10.1016/j.ridd.2024.104858",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0891422224001902"
   }
 }
