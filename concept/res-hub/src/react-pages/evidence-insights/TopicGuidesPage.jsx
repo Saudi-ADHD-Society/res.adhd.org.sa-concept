@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookOpen, Users, Heart, FlaskConical, ClipboardCheck, Globe, Scale, ArrowRight } from 'lucide-react';
+import { BookOpen, Users, Heart, FlaskConical, ClipboardCheck, Globe, Scale, ShieldCheck, ArrowRight } from 'lucide-react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
@@ -161,6 +161,25 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
         </h3>
         <p className="text-sm text-slate-600 mb-4 line-clamp-3">
           Exploring the question of whether ADHD is considered a disability, examining legal frameworks, rights, accommodations, and the implications for individuals with ADHD in various contexts.
+        </p>
+        <div className="text-sm font-semibold text-emerald-700 flex items-center">
+          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" />
+        </div>
+      </a>
+
+      {/* Guide 9: The Validity and Utility of ADHD */}
+      <a
+        href={getHref('topic-guide-validity-utility', basePath)}
+        className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
+      >
+        <div className="w-12 h-12 bg-cyan-100 text-cyan-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-cyan-600 group-hover:text-white transition-colors">
+          <ShieldCheck size={24} />
+        </div>
+        <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-emerald-700 transition-colors">
+          The Validity and Utility of ADHD: Evidence, Critiques, and Implications for Practice
+        </h3>
+        <p className="text-sm text-slate-600 mb-4 line-clamp-3">
+          Examining the scientific evidence for ADHD as a valid diagnostic construct, addressing common critiques, and exploring implications for clinical practice and policy.
         </p>
         <div className="text-sm font-semibold text-emerald-700 flex items-center">
           Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" />
