@@ -115,23 +115,22 @@ export const HomeHero = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
           </h1>
 
           <p className="text-lg md:text-xl text-slate-300 mb-8 leading-relaxed max-w-2xl">
-            We are transforming the research portal from a library
-            into a national workbench for ADHD research, clinical guidelines, and policy insights.
+            A national platform for ADHD research, evidence synthesis, and clinical guidance—supporting evidence-informed practice and policy in Saudi Arabia.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4">
             <a
-              href={getHref('topic-guides', basePath)}
+              href={getHref('clinical-tools', basePath)}
               className="px-8 py-4 bg-emerald-500 hover:bg-emerald-400 text-emerald-950 font-bold rounded-lg transition-all shadow-lg hover:shadow-emerald-500/25 flex items-center justify-center space-x-2"
             >
-              <span>Explore Evidence &amp; Insights</span>
+              <span>Clinical Guidance</span>
               <ArrowRight size={18} />
             </a>
             <a
-              href={getHref('current-research', basePath)}
+              href={getHref('research-projects', basePath)}
               className="px-8 py-4 bg-white/10 hover:bg-white/20 text-white font-semibold rounded-lg backdrop-blur-md border border-white/10 transition-all flex items-center justify-center"
             >
-              View Current Research Projects
+              Research Updates
             </a>
           </div>
         </div>
