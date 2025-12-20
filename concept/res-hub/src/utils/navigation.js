@@ -32,6 +32,7 @@ export const getPagePath = (pageId) => {
     'topic-guide-diagnosis': '/topic-guides/topic-guide-diagnosis',
     'topic-guide-society': '/topic-guides/topic-guide-society',
     'topic-guide-women-girls': '/topic-guides/topic-guide-women-girls',
+    'topic-guide-disability': '/topic-guides/topic-guide-disability',
     
     // Research briefs (under /research-briefs/)
     'research-briefs': '/research-briefs',

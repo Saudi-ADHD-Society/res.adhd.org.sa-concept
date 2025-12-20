@@ -50,6 +50,7 @@ const Footer = ({ basePath = BASE_PATH }) => {
         <div>
           <h4 className="text-white font-bold mb-4">Legal & Policy</h4>
           <ul className="space-y-2 text-sm">
+            <li><a href={getFullPath('/copyright')} className="hover:text-emerald-400">Copyright Notice</a></li>
             <li><a href="#" className="hover:text-emerald-400">Privacy Policy</a></li>
             <li><a href="#" className="hover:text-emerald-400">Data Sovereignty (KSA)</a></li>
             <li><a href="#" className="hover:text-emerald-400">Disclaimer</a></li>
@@ -57,7 +58,17 @@ const Footer = ({ basePath = BASE_PATH }) => {
         </div>
       </div>
       <div className="max-w-7xl mx-auto px-4 md:px-8 mt-16 pt-8 border-t border-slate-800 text-xs text-center md:text-left flex flex-col md:flex-row justify-between items-center">
-        <p>&copy; 2025 Saudi ADHD Society. All rights reserved. Riyadh, KSA.</p>
+        <p>
+          &copy; 2025{' '}
+          <a href="https://adhd.org.sa/" className="hover:text-emerald-400" target="_blank" rel="noopener noreferrer">
+            Saudi ADHD Society
+          </a>
+          . Licensed under{' '}
+          <a href={getFullPath('/copyright')} className="hover:text-emerald-400">
+            CC BY-NC-SA 4.0
+          </a>
+          . Riyadh, KSA.
+        </p>
         <p className="mt-2 md:mt-0">Developed in alignment with Vision 2030 Healthcare Goals.</p>
       </div>
     </footer>
