@@ -205,7 +205,12 @@ const PrivacyPolicyPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
       {/* Policy Updates Section */}
       <div className="bg-white border border-slate-200 rounded-xl p-6 md:p-8 shadow-sm">
         <div className="space-y-4 text-slate-700 leading-relaxed">
-          <h3 className="text-xl font-bold text-slate-900 mb-2">Policy Updates</h3>
+          <div className="flex items-center justify-between flex-wrap gap-2 mb-2">
+            <h3 className="text-xl font-bold text-slate-900">Policy Updates</h3>
+            <p className="text-sm text-slate-500">
+              Last updated: 20 December 2025
+            </p>
+          </div>
           <p className="text-sm md:text-base">
             We may update this Privacy Policy from time to time to reflect changes in technology, legal requirements, or our practices. Any updates will be posted on this page. You can track changes to this Privacy Policy through the{' '}
             <a 
