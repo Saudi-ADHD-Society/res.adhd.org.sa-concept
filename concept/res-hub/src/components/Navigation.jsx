@@ -136,9 +136,11 @@ const Navigation = ({ basePath = BASE_PATH }) => {
           <div className="flex justify-between items-center">
             
             <a href={getFullPath('/')} className="flex items-center space-x-3 cursor-pointer">
-              <div className="w-10 h-10 bg-emerald-600 rounded-lg flex items-center justify-center text-white font-bold text-xl shadow-md">
-                R
-              </div>
+              <img 
+                src={getFullPath('/images/saudi-adhd-society-logo-web.svg')} 
+                alt="Saudi ADHD Society Logo" 
+                className="w-10 h-10 rounded-lg object-contain"
+              />
               <div className="leading-tight">
                 <h1 className="font-bold text-slate-900 text-lg tracking-tight">Research Portal</h1>
                 <p className="text-xs text-slate-500 font-medium">National ADHD Knowledge Hub</p>
