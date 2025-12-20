@@ -118,14 +118,15 @@ function escapeCsvField(value) {
  * Generates CSV content from missing papers data
  */
 function generateCsv(missingPapers) {
-  const lines = ['slug,title,year,missing_fields'];
+  const lines = ['slug,title,year,access_status,missing_fields'];
   
   for (const paper of missingPapers) {
     const slug = escapeCsvField(paper.slug);
     const title = escapeCsvField(paper.title);
     const year = paper.publication?.year || '';
+    const accessStatus = escapeCsvField(paper.access?.status || 'unknown');
     const missingFields = escapeCsvField(paper.missingFields.join(';'));
-    lines.push(`${slug},${title},${year},${missingFields}`);
+    lines.push(`${slug},${title},${year},${accessStatus},${missingFields}`);
   }
   
   return lines.join('\n');
