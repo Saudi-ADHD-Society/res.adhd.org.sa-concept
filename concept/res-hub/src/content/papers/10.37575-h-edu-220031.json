@@ -28,5 +28,16 @@
   "id": "doi-10.37575-h-edu-220031",
   "publication": {
     "year": 2023
+  },
+  "journal": {
+    "name": "Humanities and Management Sciences - Scientific Journal of King Faisal University",
+    "issn": "1658-838X",
+    "pages": {
+      "start": "1",
+      "end": "8"
+    }
+  },
+  "identifiers": {
+    "doi": "10.37575/h/edu/220031"
   }
 }

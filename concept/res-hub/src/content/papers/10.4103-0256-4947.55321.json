@@ -38,5 +38,18 @@
   "id": "doi-10.4103-0256-4947.55321",
   "publication": {
     "year": 2009
+  },
+  "journal": {
+    "name": "Annals of Saudi Medicine",
+    "issn": "0256-4947",
+    "volume": "29",
+    "issue": "4",
+    "pages": {
+      "start": "294",
+      "end": "298"
+    }
+  },
+  "identifiers": {
+    "doi": "10.4103/0256-4947.55321"
   }
 }

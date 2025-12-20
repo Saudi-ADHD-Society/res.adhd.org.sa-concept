@@ -23,5 +23,18 @@
   "id": "doi-10.13189-ujer.2017.051208",
   "publication": {
     "year": 2017
+  },
+  "journal": {
+    "name": "Universal Journal of Educational Research",
+    "issn": "2332-3205",
+    "volume": "5",
+    "issue": "12",
+    "pages": {
+      "start": "2186",
+      "end": "2195"
+    }
+  },
+  "identifiers": {
+    "doi": "10.13189/ujer.2017.051208"
   }
 }

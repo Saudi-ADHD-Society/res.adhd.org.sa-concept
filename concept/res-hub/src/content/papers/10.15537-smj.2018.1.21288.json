@@ -68,5 +68,18 @@
   "id": "doi-10.15537-smj.2018.1.21288",
   "publication": {
     "year": 2018
+  },
+  "journal": {
+    "name": "Saudi Medical Journal",
+    "issn": "0379-5284",
+    "volume": "39",
+    "issue": "1",
+    "pages": {
+      "start": "52",
+      "end": "58"
+    }
+  },
+  "identifiers": {
+    "doi": "10.15537/smj.2018.1.21288"
   }
 }

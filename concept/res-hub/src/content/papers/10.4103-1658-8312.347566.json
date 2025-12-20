@@ -58,5 +58,18 @@
   "id": "doi-10.4103-1658-8312.347566",
   "publication": {
     "year": 2020
+  },
+  "journal": {
+    "name": "Hail Journal of Health Science",
+    "issn": "1658-8312",
+    "volume": "2",
+    "issue": "1",
+    "pages": {
+      "start": "19",
+      "end": null
+    }
+  },
+  "identifiers": {
+    "doi": "10.4103/1658-8312.347566"
   }
 }

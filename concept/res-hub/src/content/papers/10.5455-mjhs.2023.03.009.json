@@ -58,5 +58,18 @@
   "id": "doi-10.5455-mjhs.2023.03.009",
   "publication": {
     "year": 2023
+  },
+  "journal": {
+    "name": "Majmaah Journal of Health Sciences",
+    "issn": "1658-645X",
+    "volume": "11",
+    "issue": "3",
+    "pages": {
+      "start": "82",
+      "end": null
+    }
+  },
+  "identifiers": {
+    "doi": "10.5455/mjhs.2023.03.009"
   }
 }

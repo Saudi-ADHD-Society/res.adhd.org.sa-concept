@@ -20,7 +20,13 @@
   "journal": {
     "name": "Current Psychology",
     "abbreviation": "Curr Psychol",
-    "issn": "1046-1310, 1936-4733"
+    "issn": "1046-1310, 1936-4733",
+    "volume": "44",
+    "issue": "9",
+    "pages": {
+      "start": "8068",
+      "end": "8081"
+    }
   },
   "authors": [
     {
@@ -84,5 +90,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.1007-s12144-025-07420-y"
+  "id": "doi-10.1007-s12144-025-07420-y",
+  "identifiers": {
+    "doi": "10.1007/s12144-025-07420-y"
+  }
 }

@@ -54,5 +54,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.21203-rs.3.rs-4933706-v1"
+  "id": "doi-10.21203-rs.3.rs-4933706-v1",
+  "identifiers": {
+    "doi": "10.21203/rs.3.rs-4933706/v1"
+  }
 }

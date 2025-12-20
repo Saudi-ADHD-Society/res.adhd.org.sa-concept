@@ -22,7 +22,8 @@
     "pages": {
       "start": "245",
       "end": "256"
-    }
+    },
+    "issn": "1913-9039"
   },
   "authors": [
     {
@@ -37,5 +38,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.5539-ies.v9n4p245"
+  "id": "doi-10.5539-ies.v9n4p245",
+  "identifiers": {
+    "doi": "10.5539/ies.v9n4p245"
+  }
 }

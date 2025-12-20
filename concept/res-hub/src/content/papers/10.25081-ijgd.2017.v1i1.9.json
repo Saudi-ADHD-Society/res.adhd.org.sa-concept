@@ -23,5 +23,18 @@
   "id": "doi-10.25081-ijgd.2017.v1i1.9",
   "publication": {
     "year": 2017
+  },
+  "journal": {
+    "name": "International Journal of Growth and Development",
+    "issn": "2524-213X",
+    "volume": "1",
+    "issue": "1",
+    "pages": {
+      "start": "8",
+      "end": null
+    }
+  },
+  "identifiers": {
+    "doi": "10.25081/ijgd.2017.v1i1.9"
   }
 }

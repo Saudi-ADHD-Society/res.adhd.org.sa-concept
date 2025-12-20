@@ -51,5 +51,17 @@
   "id": "doi-10.2147-ppa.s443481",
   "publication": {
     "year": 2024
+  },
+  "journal": {
+    "name": "Patient Preference and Adherence",
+    "issn": "1177-889X",
+    "volume": "Volume 18",
+    "pages": {
+      "start": "337",
+      "end": "348"
+    }
+  },
+  "identifiers": {
+    "doi": "10.2147/ppa.s443481"
   }
 }

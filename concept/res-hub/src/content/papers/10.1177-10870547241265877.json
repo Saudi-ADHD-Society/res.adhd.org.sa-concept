@@ -34,5 +34,18 @@
   "id": "doi-10.1177-10870547241265877",
   "publication": {
     "year": 2024
+  },
+  "journal": {
+    "name": "Journal of Attention Disorders",
+    "issn": "1087-0547",
+    "volume": "28",
+    "issue": "11",
+    "pages": {
+      "start": "1482",
+      "end": "1495"
+    }
+  },
+  "identifiers": {
+    "doi": "10.1177/10870547241265877"
   }
 }

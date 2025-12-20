@@ -25,7 +25,8 @@
     "pages": {
       "start": "9",
       "end": "16"
-    }
+    },
+    "issn": "2230-8229"
   },
   "authors": [
     {
@@ -55,5 +56,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.4103-jfcm.jfcm_19_18"
+  "id": "doi-10.4103-jfcm.jfcm_19_18",
+  "identifiers": {
+    "doi": "10.4103/jfcm.jfcm_19_18"
+  }
 }

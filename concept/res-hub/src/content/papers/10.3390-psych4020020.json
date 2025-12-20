@@ -51,5 +51,18 @@
   "id": "doi-10.3390-psych4020020",
   "publication": {
     "year": 2022
+  },
+  "journal": {
+    "name": "Psych",
+    "issn": "2624-8611",
+    "volume": "4",
+    "issue": "2",
+    "pages": {
+      "start": "238",
+      "end": "246"
+    }
+  },
+  "identifiers": {
+    "doi": "10.3390/psych4020020"
   }
 }

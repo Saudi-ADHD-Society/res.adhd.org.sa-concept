@@ -73,5 +73,14 @@
   "id": "doi-10.1002-mpr.1831",
   "publication": {
     "year": 2020
+  },
+  "journal": {
+    "name": "International Journal of Methods in Psychiatric Research",
+    "issn": "1049-8931",
+    "volume": "29",
+    "issue": "3"
+  },
+  "identifiers": {
+    "doi": "10.1002/mpr.1831"
   }
 }

@@ -54,5 +54,18 @@
   "id": "doi-10.3390-children11060678",
   "publication": {
     "year": 2024
+  },
+  "journal": {
+    "name": "Children",
+    "issn": "2227-9067",
+    "volume": "11",
+    "issue": "6",
+    "pages": {
+      "start": "678",
+      "end": null
+    }
+  },
+  "identifiers": {
+    "doi": "10.3390/children11060678"
   }
 }

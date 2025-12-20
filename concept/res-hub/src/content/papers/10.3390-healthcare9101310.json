@@ -25,7 +25,8 @@
     "pages": {
       "start": "1",
       "end": "9"
-    }
+    },
+    "issn": "2227-9032"
   },
   "authors": [
     {
@@ -77,5 +78,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.3390-healthcare9101310"
+  "id": "doi-10.3390-healthcare9101310",
+  "identifiers": {
+    "doi": "10.3390/healthcare9101310"
+  }
 }

@@ -38,5 +38,14 @@
   "id": "doi-10.4103-jehp.jehp_334_23",
   "publication": {
     "year": 2023
+  },
+  "journal": {
+    "name": "Journal of Education and Health Promotion",
+    "issn": "2277-9531",
+    "volume": "12",
+    "issue": "1"
+  },
+  "identifiers": {
+    "doi": "10.4103/jehp.jehp_334_23"
   }
 }

@@ -57,5 +57,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.57197-jdr-2024-0082"
+  "id": "doi-10.57197-jdr-2024-0082",
+  "identifiers": {
+    "doi": "10.57197/jdr-2024-0082"
+  }
 }

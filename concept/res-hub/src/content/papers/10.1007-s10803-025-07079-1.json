@@ -23,5 +23,12 @@
   "id": "doi-10.1007-s10803-025-07079-1",
   "publication": {
     "year": 2025
+  },
+  "journal": {
+    "name": "Journal of Autism and Developmental Disorders",
+    "issn": "0162-3257"
+  },
+  "identifiers": {
+    "doi": "10.1007/s10803-025-07079-1"
   }
 }

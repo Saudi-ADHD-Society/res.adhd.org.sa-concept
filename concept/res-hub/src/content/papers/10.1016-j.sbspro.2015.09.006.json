@@ -22,5 +22,17 @@
   "id": "doi-10.1016-j.sbspro.2015.09.006",
   "publication": {
     "year": 2015
+  },
+  "journal": {
+    "name": "Procedia - Social and Behavioral Sciences",
+    "issn": "1877-0428",
+    "volume": "205",
+    "pages": {
+      "start": "18",
+      "end": "29"
+    }
+  },
+  "identifiers": {
+    "doi": "10.1016/j.sbspro.2015.09.006"
   }
 }

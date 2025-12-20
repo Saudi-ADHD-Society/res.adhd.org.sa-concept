@@ -19,7 +19,12 @@
     "name": "International Journal of Learning, Teaching and Educational Research",
     "abbreviation": "IJLTER",
     "volume": "19",
-    "issue": "12"
+    "issue": "12",
+    "issn": "1694-2493",
+    "pages": {
+      "start": "295",
+      "end": "312"
+    }
   },
   "authors": [
     {
@@ -35,5 +40,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.26803-ijlter.19.12.16"
+  "id": "doi-10.26803-ijlter.19.12.16",
+  "identifiers": {
+    "doi": "10.26803/ijlter.19.12.16"
+  }
 }

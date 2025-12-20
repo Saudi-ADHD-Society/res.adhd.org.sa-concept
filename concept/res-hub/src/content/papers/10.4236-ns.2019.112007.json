@@ -113,5 +113,18 @@
   "id": "doi-10.4236-ns.2019.112007",
   "publication": {
     "year": 2019
+  },
+  "journal": {
+    "name": "Natural Science",
+    "issn": "2150-4091",
+    "volume": "11",
+    "issue": "02",
+    "pages": {
+      "start": "45",
+      "end": "60"
+    }
+  },
+  "identifiers": {
+    "doi": "10.4236/ns.2019.112007"
   }
 }

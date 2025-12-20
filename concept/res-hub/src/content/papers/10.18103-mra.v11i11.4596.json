@@ -33,5 +33,14 @@
   "id": "doi-10.18103-mra.v11i11.4596",
   "publication": {
     "year": 2023
+  },
+  "journal": {
+    "name": "Medical Research Archives",
+    "issn": "2375-1916",
+    "volume": "11",
+    "issue": "11"
+  },
+  "identifiers": {
+    "doi": "10.18103/mra.v11i11.4596"
   }
 }

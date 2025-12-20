@@ -58,5 +58,18 @@
   "id": "doi-10.4103-jfmpc.jfmpc_185_23",
   "publication": {
     "year": 2023
+  },
+  "journal": {
+    "name": "Journal of Family Medicine and Primary Care",
+    "issn": "2249-4863",
+    "volume": "12",
+    "issue": "10",
+    "pages": {
+      "start": "2230",
+      "end": "2236"
+    }
+  },
+  "identifiers": {
+    "doi": "10.4103/jfmpc.jfmpc_185_23"
   }
 }

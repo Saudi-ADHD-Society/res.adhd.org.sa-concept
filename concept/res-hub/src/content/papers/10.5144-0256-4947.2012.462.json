@@ -33,5 +33,18 @@
   "id": "doi-10.5144-0256-4947.2012.462",
   "publication": {
     "year": 2012
+  },
+  "journal": {
+    "name": "Annals of Saudi Medicine",
+    "issn": "0256-4947",
+    "volume": "32",
+    "issue": "5",
+    "pages": {
+      "start": "462",
+      "end": "468"
+    }
+  },
+  "identifiers": {
+    "doi": "10.5144/0256-4947.2012.462"
   }
 }

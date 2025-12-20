@@ -48,5 +48,18 @@
   "id": "doi-10.4103-jfcm.jfcm_120_17",
   "publication": {
     "year": 2018
+  },
+  "journal": {
+    "name": "Journal of Family and Community Medicine",
+    "issn": "2230-8229",
+    "volume": "25",
+    "issue": "3",
+    "pages": {
+      "start": "194",
+      "end": null
+    }
+  },
+  "identifiers": {
+    "doi": "10.4103/jfcm.jfcm_120_17"
   }
 }

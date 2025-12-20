@@ -48,5 +48,14 @@
   "id": "doi-10.1016-j.eurpsy.2017.01.407",
   "publication": {
     "year": 2017
+  },
+  "journal": {
+    "name": "European Psychiatry",
+    "issn": "0924-9338",
+    "volume": "41",
+    "issue": "S1"
+  },
+  "identifiers": {
+    "doi": "10.1016/j.eurpsy.2017.01.407"
   }
 }

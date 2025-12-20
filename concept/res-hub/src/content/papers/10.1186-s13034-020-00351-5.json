@@ -137,5 +137,14 @@
   "id": "doi-10.1186-s13034-020-00351-5",
   "publication": {
     "year": 2021
+  },
+  "journal": {
+    "name": "Child and Adolescent Psychiatry and Mental Health",
+    "issn": "1753-2000",
+    "volume": "15",
+    "issue": "1"
+  },
+  "identifiers": {
+    "doi": "10.1186/s13034-020-00351-5"
   }
 }

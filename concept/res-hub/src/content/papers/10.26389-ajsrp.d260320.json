@@ -22,7 +22,8 @@
     "pages": {
       "start": "123",
       "end": "139"
-    }
+    },
+    "issn": "2522-3399"
   },
   "authors": [
     {
@@ -38,5 +39,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.26389-ajsrp.d260320"
+  "id": "doi-10.26389-ajsrp.d260320",
+  "identifiers": {
+    "doi": "10.26389/ajsrp.d260320"
+  }
 }

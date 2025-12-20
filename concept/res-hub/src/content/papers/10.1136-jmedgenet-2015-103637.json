@@ -21,7 +21,8 @@
     "pages": {
       "start": "786",
       "end": "792"
-    }
+    },
+    "issn": "0022-2593"
   },
   "authors": [
     {
@@ -91,5 +92,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.1136-jmedgenet-2015-103637"
+  "id": "doi-10.1136-jmedgenet-2015-103637",
+  "identifiers": {
+    "doi": "10.1136/jmedgenet-2015-103637"
+  }
 }

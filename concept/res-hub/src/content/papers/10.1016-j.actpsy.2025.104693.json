@@ -24,5 +24,17 @@
   "id": "doi-10.1016-j.actpsy.2025.104693",
   "publication": {
     "year": 2025
+  },
+  "journal": {
+    "name": "Acta Psychologica",
+    "issn": "0001-6918",
+    "volume": "253",
+    "pages": {
+      "start": "104693",
+      "end": null
+    }
+  },
+  "identifiers": {
+    "doi": "10.1016/j.actpsy.2025.104693"
   }
 }

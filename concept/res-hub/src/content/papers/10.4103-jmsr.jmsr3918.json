@@ -20,7 +20,9 @@
     "pages": {
       "start": "156",
       "end": "160"
-    }
+    },
+    "issn": "2589-1219",
+    "volume": "2"
   },
   "authors": [
     {
@@ -65,5 +67,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.4103-jmsr.jmsr_39_18"
+  "id": "doi-10.4103-jmsr.jmsr_39_18",
+  "identifiers": {
+    "doi": "10.4103/jmsr.jmsr_39_18"
+  }
 }

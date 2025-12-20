@@ -23,5 +23,18 @@
   "id": "doi-10.21608-sero.2017.91733",
   "publication": {
     "year": 2017
+  },
+  "journal": {
+    "name": "مجلة التربیة الخاصة والتأهیل",
+    "issn": "2735-3141",
+    "volume": "6",
+    "issue": "4",
+    "pages": {
+      "start": "1",
+      "end": "30"
+    }
+  },
+  "identifiers": {
+    "doi": "10.21608/sero.2017.91733"
   }
 }

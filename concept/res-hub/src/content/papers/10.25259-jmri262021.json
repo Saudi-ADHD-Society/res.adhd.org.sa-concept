@@ -37,5 +37,18 @@
   "id": "doi-10.25259-jmri_26_2021",
   "publication": {
     "year": 2022
+  },
+  "journal": {
+    "name": "Journal of Medical Research and Innovation",
+    "issn": "2456-8139",
+    "volume": "5",
+    "issue": "2",
+    "pages": {
+      "start": "23",
+      "end": "27"
+    }
+  },
+  "identifiers": {
+    "doi": "10.25259/jmri_26_2021"
   }
 }

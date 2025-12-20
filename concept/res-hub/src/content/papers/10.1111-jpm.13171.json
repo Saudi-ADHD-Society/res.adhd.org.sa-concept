@@ -55,5 +55,12 @@
   "id": "doi-10.1111-jpm.13171",
   "publication": {
     "year": 2025
+  },
+  "journal": {
+    "name": "Journal of Psychiatric and Mental Health Nursing",
+    "issn": "1351-0126"
+  },
+  "identifiers": {
+    "doi": "10.1111/jpm.13171"
   }
 }

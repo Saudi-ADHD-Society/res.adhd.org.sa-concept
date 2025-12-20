@@ -38,5 +38,18 @@
   "id": "doi-10.5005-jp-journals-10024-2747",
   "publication": {
     "year": 2020
+  },
+  "journal": {
+    "name": "The Journal of Contemporary Dental Practice",
+    "issn": "1526-3711",
+    "volume": "21",
+    "issue": "2",
+    "pages": {
+      "start": "129",
+      "end": "132"
+    }
+  },
+  "identifiers": {
+    "doi": "10.5005/jp-journals-10024-2747"
   }
 }

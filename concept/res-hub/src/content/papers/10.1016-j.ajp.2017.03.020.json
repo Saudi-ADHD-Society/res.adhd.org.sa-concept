@@ -24,7 +24,8 @@
     "pages": {
       "start": "34",
       "end": "37"
-    }
+    },
+    "issn": "1876-2018"
   },
   "authors": [
     {
@@ -44,5 +45,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.1016-j.ajp.2017.03.020"
+  "id": "doi-10.1016-j.ajp.2017.03.020",
+  "identifiers": {
+    "doi": "10.1016/j.ajp.2017.03.020"
+  }
 }

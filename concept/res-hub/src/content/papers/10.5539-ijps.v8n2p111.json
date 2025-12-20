@@ -25,7 +25,8 @@
     "pages": {
       "start": "111",
       "end": "119"
-    }
+    },
+    "issn": "1918-722X"
   },
   "authors": [
     {
@@ -45,5 +46,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.5539-ijps.v8n2p111"
+  "id": "doi-10.5539-ijps.v8n2p111",
+  "identifiers": {
+    "doi": "10.5539/ijps.v8n2p111"
+  }
 }

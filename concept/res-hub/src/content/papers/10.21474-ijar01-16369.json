@@ -68,5 +68,18 @@
   "id": "doi-10.21474-ijar01-16369",
   "publication": {
     "year": 2023
+  },
+  "journal": {
+    "name": "International Journal of Advanced Research",
+    "issn": "2320-5407",
+    "volume": "11",
+    "issue": "02",
+    "pages": {
+      "start": "1222",
+      "end": "1233"
+    }
+  },
+  "identifiers": {
+    "doi": "10.21474/ijar01/16369"
   }
 }

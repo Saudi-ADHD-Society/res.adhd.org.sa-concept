@@ -23,5 +23,14 @@
   "id": "doi-10.4172-2471-271x.1000160",
   "publication": {
     "year": 2018
+  },
+  "journal": {
+    "name": "Journal of Mental Disorders and Treatment",
+    "issn": "2471-271X",
+    "volume": "04",
+    "issue": "02"
+  },
+  "identifiers": {
+    "doi": "10.4172/2471-271x.1000160"
   }
 }

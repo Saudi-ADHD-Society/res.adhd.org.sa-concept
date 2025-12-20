@@ -37,5 +37,18 @@
   "id": "doi-10.4103-jfcm.jfcm_149_19",
   "publication": {
     "year": 2020
+  },
+  "journal": {
+    "name": "Journal of Family and Community Medicine",
+    "issn": "2230-8229",
+    "volume": "27",
+    "issue": "1",
+    "pages": {
+      "start": "46",
+      "end": null
+    }
+  },
+  "identifiers": {
+    "doi": "10.4103/jfcm.jfcm_149_19"
   }
 }

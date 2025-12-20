@@ -23,5 +23,18 @@
   "id": "doi-10.5539-gjhs.v11n3p32",
   "publication": {
     "year": 2019
+  },
+  "journal": {
+    "name": "Global Journal of Health Science",
+    "issn": "1916-9744",
+    "volume": "11",
+    "issue": "3",
+    "pages": {
+      "start": "32",
+      "end": null
+    }
+  },
+  "identifiers": {
+    "doi": "10.5539/gjhs.v11n3p32"
   }
 }

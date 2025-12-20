@@ -73,5 +73,17 @@
   "id": "doi-10.2147-prbm.s426715",
   "publication": {
     "year": 2023
+  },
+  "journal": {
+    "name": "Psychology Research and Behavior Management",
+    "issn": "1179-1578",
+    "volume": "Volume 16",
+    "pages": {
+      "start": "4069",
+      "end": "4081"
+    }
+  },
+  "identifiers": {
+    "doi": "10.2147/prbm.s426715"
   }
 }

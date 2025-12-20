@@ -77,5 +77,14 @@
   "id": "doi-10.1186-1471-2431-12-92",
   "publication": {
     "year": 2012
+  },
+  "journal": {
+    "name": "BMC Pediatrics",
+    "issn": "1471-2431",
+    "volume": "12",
+    "issue": "1"
+  },
+  "identifiers": {
+    "doi": "10.1186/1471-2431-12-92"
   }
 }

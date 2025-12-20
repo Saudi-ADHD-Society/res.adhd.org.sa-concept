@@ -32,5 +32,17 @@
   "id": "doi-10.1016-j.pedn.2025.09.010",
   "publication": {
     "year": 2025
+  },
+  "journal": {
+    "name": "Journal of Pediatric Nursing",
+    "issn": "0882-5963",
+    "volume": "85",
+    "pages": {
+      "start": "467",
+      "end": "476"
+    }
+  },
+  "identifiers": {
+    "doi": "10.1016/j.pedn.2025.09.010"
   }
 }

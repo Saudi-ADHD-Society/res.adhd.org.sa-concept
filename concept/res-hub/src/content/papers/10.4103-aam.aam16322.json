@@ -83,5 +83,18 @@
   "id": "doi-10.4103-aam.aam_163_22",
   "publication": {
     "year": 2023
+  },
+  "journal": {
+    "name": "Annals of African Medicine",
+    "issn": "1596-3519",
+    "volume": "22",
+    "issue": "4",
+    "pages": {
+      "start": "544",
+      "end": "548"
+    }
+  },
+  "identifiers": {
+    "doi": "10.4103/aam.aam_163_22"
   }
 }

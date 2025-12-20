@@ -22,7 +22,12 @@
     "name": "Psychiatric Genetics",
     "abbreviation": "Psychiatr Genet",
     "volume": "0",
-    "issue": "0"
+    "issue": "0",
+    "issn": "0955-8829",
+    "pages": {
+      "start": "131",
+      "end": "138"
+    }
   },
   "authors": [
     {
@@ -77,5 +82,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.1097-ypg.0000000000000173"
+  "id": "doi-10.1097-ypg.0000000000000173",
+  "identifiers": {
+    "doi": "10.1097/ypg.0000000000000173"
+  }
 }

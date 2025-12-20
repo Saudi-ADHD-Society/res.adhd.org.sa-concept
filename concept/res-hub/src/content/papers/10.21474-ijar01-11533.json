@@ -23,7 +23,8 @@
     "pages": {
       "start": "618",
       "end": "624"
-    }
+    },
+    "issn": "2320-5407"
   },
   "authors": [
     {
@@ -39,5 +40,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.21474-ijar01-11533"
+  "id": "doi-10.21474-ijar01-11533",
+  "identifiers": {
+    "doi": "10.21474/ijar01/11533"
+  }
 }

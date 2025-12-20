@@ -22,7 +22,8 @@
     "issue": "2",
     "pages": {
       "start": "238"
-    }
+    },
+    "issn": "2240-0524"
   },
   "authors": [
     {
@@ -43,5 +44,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.36941-jesr-2021-0043"
+  "id": "doi-10.36941-jesr-2021-0043",
+  "identifiers": {
+    "doi": "10.36941/jesr-2021-0043"
+  }
 }

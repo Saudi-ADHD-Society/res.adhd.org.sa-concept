@@ -48,5 +48,18 @@
   "id": "doi-10.1016-j.ijpam.2021.04.002",
   "publication": {
     "year": 2021
+  },
+  "journal": {
+    "name": "International Journal of Pediatrics and Adolescent Medicine",
+    "issn": "2352-6467",
+    "volume": "8",
+    "issue": "3",
+    "pages": {
+      "start": "134",
+      "end": "145"
+    }
+  },
+  "identifiers": {
+    "doi": "10.1016/j.ijpam.2021.04.002"
   }
 }

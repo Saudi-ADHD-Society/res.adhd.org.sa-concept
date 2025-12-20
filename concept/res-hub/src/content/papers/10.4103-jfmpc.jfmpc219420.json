@@ -27,5 +27,18 @@
   "id": "doi-10.4103-jfmpc.jfmpc_2194_20",
   "publication": {
     "year": 2021
+  },
+  "journal": {
+    "name": "Journal of Family Medicine and Primary Care",
+    "issn": "2249-4863",
+    "volume": "10",
+    "issue": "3",
+    "pages": {
+      "start": "1218",
+      "end": "1226"
+    }
+  },
+  "identifiers": {
+    "doi": "10.4103/jfmpc.jfmpc_2194_20"
   }
 }

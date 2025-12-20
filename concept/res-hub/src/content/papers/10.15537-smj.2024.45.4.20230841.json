@@ -34,5 +34,18 @@
   "id": "doi-10.15537-smj.2024.45.4.20230841",
   "publication": {
     "year": 2024
+  },
+  "journal": {
+    "name": "Saudi Medical Journal",
+    "issn": "0379-5284",
+    "volume": "45",
+    "issue": "4",
+    "pages": {
+      "start": "397",
+      "end": "404"
+    }
+  },
+  "identifiers": {
+    "doi": "10.15537/smj.2024.45.4.20230841"
   }
 }

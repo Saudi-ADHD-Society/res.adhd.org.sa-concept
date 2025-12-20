@@ -33,5 +33,18 @@
   "id": "doi-10.20849-ijsn.v3i3.528",
   "publication": {
     "year": 2018
+  },
+  "journal": {
+    "name": "International Journal of Studies in Nursing",
+    "issn": "2529-7317",
+    "volume": "3",
+    "issue": "3",
+    "pages": {
+      "start": "159",
+      "end": null
+    }
+  },
+  "identifiers": {
+    "doi": "10.20849/ijsn.v3i3.528"
   }
 }

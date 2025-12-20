@@ -49,5 +49,18 @@
   "id": "doi-10.3390-healthcare11010054",
   "publication": {
     "year": 2022
+  },
+  "journal": {
+    "name": "Healthcare",
+    "issn": "2227-9032",
+    "volume": "11",
+    "issue": "1",
+    "pages": {
+      "start": "54",
+      "end": null
+    }
+  },
+  "identifiers": {
+    "doi": "10.3390/healthcare11010054"
   }
 }

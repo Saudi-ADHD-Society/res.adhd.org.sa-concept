@@ -67,5 +67,18 @@
   "id": "doi-10.4103-sjmms.sjmms_654_21",
   "publication": {
     "year": 2022
+  },
+  "journal": {
+    "name": "Saudi Journal of Medicine &amp; Medical Sciences",
+    "issn": "1658-631X",
+    "volume": "10",
+    "issue": "2",
+    "pages": {
+      "start": "131",
+      "end": "138"
+    }
+  },
+  "identifiers": {
+    "doi": "10.4103/sjmms.sjmms_654_21"
   }
 }

@@ -63,5 +63,12 @@
   "id": "doi-10.7759-cureus.91607",
   "publication": {
     "year": 2025
+  },
+  "journal": {
+    "name": "Cureus",
+    "issn": "2168-8184"
+  },
+  "identifiers": {
+    "doi": "10.7759/cureus.91607"
   }
 }

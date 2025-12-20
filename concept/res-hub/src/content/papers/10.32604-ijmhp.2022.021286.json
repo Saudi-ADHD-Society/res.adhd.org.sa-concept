@@ -23,7 +23,8 @@
     "pages": {
       "start": "595",
       "end": "601"
-    }
+    },
+    "issn": "1462-3730"
   },
   "authors": [
     {
@@ -39,5 +40,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.32604-ijmhp.2022.021286"
+  "id": "doi-10.32604-ijmhp.2022.021286",
+  "identifiers": {
+    "doi": "10.32604/ijmhp.2022.021286"
+  }
 }

@@ -60,5 +60,14 @@
   "id": "doi-10.1371-journal.pone.0219239",
   "publication": {
     "year": 2019
+  },
+  "journal": {
+    "name": "PLOS ONE",
+    "issn": "1932-6203",
+    "volume": "14",
+    "issue": "7"
+  },
+  "identifiers": {
+    "doi": "10.1371/journal.pone.0219239"
   }
 }

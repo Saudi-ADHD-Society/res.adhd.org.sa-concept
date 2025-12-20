@@ -23,5 +23,18 @@
   "id": "doi-10.5455-ijmsph.2014.120220141",
   "publication": {
     "year": 2014
+  },
+  "journal": {
+    "name": "International Journal of Medical Science and Public Health",
+    "issn": "2320-4664",
+    "volume": "3",
+    "issue": "4",
+    "pages": {
+      "start": "444",
+      "end": null
+    }
+  },
+  "identifiers": {
+    "doi": "10.5455/ijmsph.2014.120220141"
   }
 }

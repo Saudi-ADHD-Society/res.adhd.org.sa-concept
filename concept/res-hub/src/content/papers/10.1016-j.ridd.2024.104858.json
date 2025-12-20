@@ -22,5 +22,17 @@
   "id": "doi-10.1016-j.ridd.2024.104858",
   "publication": {
     "year": 2024
+  },
+  "journal": {
+    "name": "Research in Developmental Disabilities",
+    "issn": "0891-4222",
+    "volume": "154",
+    "pages": {
+      "start": "104858",
+      "end": null
+    }
+  },
+  "identifiers": {
+    "doi": "10.1016/j.ridd.2024.104858"
   }
 }

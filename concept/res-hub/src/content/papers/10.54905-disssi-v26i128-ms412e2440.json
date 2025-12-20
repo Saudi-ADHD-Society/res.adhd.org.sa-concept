@@ -58,5 +58,18 @@
   "id": "doi-10.54905-disssi-v26i128-ms412e2440",
   "publication": {
     "year": 2022
+  },
+  "journal": {
+    "name": "Medical Science",
+    "issn": "2321-7359",
+    "volume": "26",
+    "issue": "128",
+    "pages": {
+      "start": "1",
+      "end": "7"
+    }
+  },
+  "identifiers": {
+    "doi": "10.54905/disssi/v26i128/ms412e2440"
   }
 }

@@ -57,5 +57,18 @@
   "id": "doi-10.4103-jnsm.jnsm_22_22",
   "publication": {
     "year": 2023
+  },
+  "journal": {
+    "name": "Journal of Nature and Science of Medicine",
+    "issn": "2589-627X",
+    "volume": "6",
+    "issue": "1",
+    "pages": {
+      "start": "51",
+      "end": "57"
+    }
+  },
+  "identifiers": {
+    "doi": "10.4103/jnsm.jnsm_22_22"
   }
 }

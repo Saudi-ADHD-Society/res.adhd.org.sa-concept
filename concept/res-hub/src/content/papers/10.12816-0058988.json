@@ -47,5 +47,18 @@
   "id": "doi-10.12816-0058988",
   "publication": {
     "year": 2021
+  },
+  "journal": {
+    "name": "Aljouf University Medical Journal",
+    "issn": "1658-6700",
+    "volume": "8",
+    "issue": "2",
+    "pages": {
+      "start": "45",
+      "end": "56"
+    }
+  },
+  "identifiers": {
+    "doi": "10.12816/0058988"
   }
 }

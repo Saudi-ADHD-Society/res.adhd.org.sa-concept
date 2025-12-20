@@ -22,7 +22,13 @@
   "journal": {
     "name": "Clinical Social Work Journal",
     "abbreviation": "Clin Soc Work J",
-    "issn": "0091-1674, 1573-3343"
+    "issn": "0091-1674, 1573-3343",
+    "volume": "53",
+    "issue": "4",
+    "pages": {
+      "start": "399",
+      "end": "408"
+    }
   },
   "authors": [
     {
@@ -46,5 +52,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.1007-s10615-024-00966-7"
+  "id": "doi-10.1007-s10615-024-00966-7",
+  "identifiers": {
+    "doi": "10.1007/s10615-024-00966-7"
+  }
 }
