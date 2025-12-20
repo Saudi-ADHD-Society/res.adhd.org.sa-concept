@@ -6,12 +6,50 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Nader",
+      "family": "Alrahili",
+      "orcid": "https://orcid.org/0000-0002-9544-3669",
+      "sequence": 1
+    },
+    {
+      "given": "Mansour Abdulaziz",
+      "family": "Al Harthi",
+      "sequence": 2
+    },
+    {
+      "given": "Sarah Jassim",
+      "family": "Ababtain",
+      "orcid": "https://orcid.org/0000-0003-2829-5990",
+      "sequence": 3
+    },
+    {
+      "given": "Salma Saad",
+      "family": "Al Sharif",
+      "orcid": "https://orcid.org/0000-0002-7653-4688",
+      "sequence": 4
+    },
+    {
+      "given": "Mohammed Abdulaziz",
+      "family": "Alnuwaysir",
+      "sequence": 5
+    },
+    {
+      "given": "Roaa Fahad",
+      "family": "Al Huzaimi",
+      "orcid": "https://orcid.org/0000-0002-0943-0782",
+      "sequence": 6
+    }
+  ],
   "access": {
     "status": "unknown"
   },
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.3390-psych4020020"
+  "id": "doi-10.3390-psych4020020",
+  "publication": {
+    "year": 2022
+  }
 }

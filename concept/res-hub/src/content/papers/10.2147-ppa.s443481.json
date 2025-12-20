@@ -6,7 +6,41 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Maha",
+      "family": "Alsubaie",
+      "orcid": "https://orcid.org/0000-0002-5186-2730",
+      "sequence": 1
+    },
+    {
+      "given": "Zainah",
+      "family": "Alshehri",
+      "sequence": 2
+    },
+    {
+      "given": "Ibtihaj",
+      "family": "Alawadh",
+      "sequence": 3
+    },
+    {
+      "given": "Razan",
+      "family": "Abulreesh",
+      "orcid": "https://orcid.org/0000-0002-3024-2620",
+      "sequence": 4
+    },
+    {
+      "given": "Hussain",
+      "family": "Altaweel",
+      "sequence": 5
+    },
+    {
+      "given": "Deemah",
+      "family": "Alateeq",
+      "orcid": "https://orcid.org/0000-0003-2852-5370",
+      "sequence": 6
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.2147__ppa.s443481.pdf"
@@ -14,5 +48,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.2147-ppa.s443481"
+  "id": "doi-10.2147-ppa.s443481",
+  "publication": {
+    "year": 2024
+  }
 }

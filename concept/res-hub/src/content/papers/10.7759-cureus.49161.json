@@ -6,7 +6,13 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Abeer F",
+      "family": "Zakariyah",
+      "sequence": 1
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.7759__cureus.49161.pdf"
@@ -14,5 +20,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.7759-cureus.49161"
+  "id": "doi-10.7759-cureus.49161",
+  "publication": {
+    "year": 2023
+  }
 }

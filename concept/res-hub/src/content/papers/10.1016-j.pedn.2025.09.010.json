@@ -6,12 +6,31 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Mahmoud Abdelwahab",
+      "family": "Khedr",
+      "sequence": 1
+    },
+    {
+      "given": "Nada",
+      "family": "Alqarawi",
+      "sequence": 2
+    },
+    {
+      "given": "Rasha Mohammed",
+      "family": "Hussein",
+      "sequence": 3
+    }
+  ],
   "access": {
     "status": "unknown"
   },
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.1016-j.pedn.2025.09.010"
+  "id": "doi-10.1016-j.pedn.2025.09.010",
+  "publication": {
+    "year": 2025
+  }
 }

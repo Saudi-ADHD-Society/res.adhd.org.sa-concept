@@ -6,7 +6,28 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Ahmad M.",
+      "family": "Hassan",
+      "sequence": 1
+    },
+    {
+      "given": "Fatima",
+      "family": "Al-Haidar",
+      "sequence": 2
+    },
+    {
+      "given": "Fateh",
+      "family": "Al-Alim",
+      "sequence": 3
+    },
+    {
+      "given": "Othman",
+      "family": "Al-Hag",
+      "sequence": 4
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.4103__0256-4947.55321.pdf"
@@ -14,5 +35,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.4103-0256-4947.55321"
+  "id": "doi-10.4103-0256-4947.55321",
+  "publication": {
+    "year": 2009
+  }
 }

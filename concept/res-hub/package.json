@@ -8,7 +8,10 @@
     "build": "astro build",
     "preview": "astro preview",
     "lint": "eslint .",
-    "import:legacy:no-doi": "node scripts/import-legacy-no-doi-from-csv.mjs"
+    "import:legacy:no-doi": "node scripts/import-legacy-no-doi-from-csv.mjs",
+    "papers:audit": "node scripts/audit-papers.mjs",
+    "paper:new": "node scripts/new-paper.mjs",
+    "papers:fetch-crossref": "node scripts/fetch-crossref-metadata.mjs"
   },
   "dependencies": {
     "csv-parse": "^6.1.0",

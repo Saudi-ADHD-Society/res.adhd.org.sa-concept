@@ -6,7 +6,28 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Mubashir",
+      "family": "Zafar",
+      "sequence": 1
+    },
+    {
+      "given": "Alaa Y. S.",
+      "family": "Alhelali",
+      "sequence": 2
+    },
+    {
+      "given": "Mohamed S. M.",
+      "family": "Alfuwis",
+      "sequence": 3
+    },
+    {
+      "given": "Waleed Z. Al-logan",
+      "family": "Alshammari",
+      "sequence": 4
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.4103__jehp.jehp_334_23.pdf"
@@ -14,5 +35,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.4103-jehp.jehp_334_23"
+  "id": "doi-10.4103-jehp.jehp_334_23",
+  "publication": {
+    "year": 2023
+  }
 }

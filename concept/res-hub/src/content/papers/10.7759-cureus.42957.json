@@ -6,7 +6,48 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Nader",
+      "family": "Alrahili",
+      "sequence": 1
+    },
+    {
+      "given": "Mohammad",
+      "family": "Alreefi",
+      "sequence": 2
+    },
+    {
+      "given": "Issa M",
+      "family": "Alkhonain",
+      "sequence": 3
+    },
+    {
+      "given": "Malak",
+      "family": "Aldakhilallah",
+      "sequence": 4
+    },
+    {
+      "given": "Jamal",
+      "family": "Alothaim",
+      "sequence": 5
+    },
+    {
+      "given": "Abdulwahed",
+      "family": "Alzahrani",
+      "sequence": 6
+    },
+    {
+      "given": "Abdulrahman",
+      "family": "Alshargi",
+      "sequence": 7
+    },
+    {
+      "given": "Nuran",
+      "family": "Baabbad",
+      "sequence": 8
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.7759__cureus.42957.pdf"
@@ -14,5 +55,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.7759-cureus.42957"
+  "id": "doi-10.7759-cureus.42957",
+  "publication": {
+    "year": 2023
+  }
 }

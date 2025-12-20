@@ -6,7 +6,13 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Al-Hwaiti",
+      "family": "Mohammed",
+      "sequence": 1
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.5539__gjhs.v11n3p32.pdf"
@@ -14,5 +20,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.5539-gjhs.v11n3p32"
+  "id": "doi-10.5539-gjhs.v11n3p32",
+  "publication": {
+    "year": 2019
+  }
 }

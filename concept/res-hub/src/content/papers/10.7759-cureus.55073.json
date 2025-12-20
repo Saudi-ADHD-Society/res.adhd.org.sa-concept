@@ -6,7 +6,33 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Basmah",
+      "family": "Aljabri",
+      "sequence": 1
+    },
+    {
+      "given": "Joud",
+      "family": "AlSolami",
+      "sequence": 2
+    },
+    {
+      "given": "Ameerah",
+      "family": "Alnakhli",
+      "sequence": 3
+    },
+    {
+      "given": "Arwa",
+      "family": "Ahmed",
+      "sequence": 4
+    },
+    {
+      "given": "Abrar",
+      "family": "Alsharief",
+      "sequence": 5
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.7759__cureus.55073.pdf"
@@ -14,5 +40,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.7759-cureus.55073"
+  "id": "doi-10.7759-cureus.55073",
+  "publication": {
+    "year": 2024
+  }
 }

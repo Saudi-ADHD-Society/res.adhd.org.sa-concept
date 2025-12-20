@@ -6,7 +6,127 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Fahad A.",
+      "family": "Bashiri",
+      "orcid": "https://orcid.org/0000-0003-1436-6727",
+      "sequence": 1
+    },
+    {
+      "given": "Turki H.",
+      "family": "Albatti",
+      "sequence": 2
+    },
+    {
+      "given": "Muddathir H.",
+      "family": "Hamad",
+      "sequence": 3
+    },
+    {
+      "given": "Haya F.",
+      "family": "Al-Joudi",
+      "orcid": "https://orcid.org/0000-0001-8620-0393",
+      "sequence": 4
+    },
+    {
+      "given": "Hadeel F.",
+      "family": "Daghash",
+      "orcid": "https://orcid.org/0000-0002-1614-8937",
+      "sequence": 5
+    },
+    {
+      "given": "Saleh M.",
+      "family": "Al-Salehi",
+      "sequence": 6
+    },
+    {
+      "given": "Jeremy L.",
+      "family": "Varnham",
+      "orcid": "https://orcid.org/0000-0002-8020-0322",
+      "sequence": 7
+    },
+    {
+      "given": "Fatimah",
+      "family": "Alhaidar",
+      "sequence": 8
+    },
+    {
+      "given": "Omar",
+      "family": "Almodayfer",
+      "sequence": 9
+    },
+    {
+      "given": "Abdulkarim",
+      "family": "Alhossein",
+      "orcid": "https://orcid.org/0000-0001-7869-9921",
+      "sequence": 10
+    },
+    {
+      "given": "Hesham",
+      "family": "Aldhalaan",
+      "sequence": 11
+    },
+    {
+      "given": "Yasser A.",
+      "family": "Ad-Dab’bagh",
+      "sequence": 12
+    },
+    {
+      "given": "Nouf",
+      "family": "Al Backer",
+      "sequence": 13
+    },
+    {
+      "given": "Waleed",
+      "family": "Altwaijri",
+      "sequence": 14
+    },
+    {
+      "given": "Khalid",
+      "family": "Alburikan",
+      "sequence": 15
+    },
+    {
+      "given": "Maysaa W.",
+      "family": "Buraik",
+      "sequence": 16
+    },
+    {
+      "given": "Mohammad",
+      "family": "Ghaziuddin",
+      "orcid": "https://orcid.org/0000-0002-5316-1997",
+      "sequence": 17
+    },
+    {
+      "given": "Michael J.",
+      "family": "Nester",
+      "sequence": 18
+    },
+    {
+      "given": "Hayfaa A.",
+      "family": "Wahabi",
+      "orcid": "https://orcid.org/0000-0003-2304-3364",
+      "sequence": 19
+    },
+    {
+      "given": "Samia",
+      "family": "Alhabib",
+      "sequence": 20
+    },
+    {
+      "given": "Amr A.",
+      "family": "Jamal",
+      "orcid": "https://orcid.org/0000-0002-4051-6592",
+      "sequence": 21
+    },
+    {
+      "given": "Yasser S.",
+      "family": "Amer",
+      "orcid": "https://orcid.org/0000-0003-4097-2317",
+      "sequence": 22
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.1186__s13034-020-00351-5.pdf"
@@ -14,5 +134,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.1186-s13034-020-00351-5"
+  "id": "doi-10.1186-s13034-020-00351-5",
+  "publication": {
+    "year": 2021
+  }
 }

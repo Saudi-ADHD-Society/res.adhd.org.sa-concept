@@ -6,7 +6,13 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Sami A.",
+      "family": "Almutairi",
+      "sequence": 1
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.25081__ijgd.2017.v1i1.9.pdf"
@@ -14,5 +20,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.25081-ijgd.2017.v1i1.9"
+  "id": "doi-10.25081-ijgd.2017.v1i1.9",
+  "publication": {
+    "year": 2017
+  }
 }

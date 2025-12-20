@@ -6,7 +6,14 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Norah",
+      "family": "Alkhateeb",
+      "orcid": "https://orcid.org/0000-0002-7931-5608",
+      "sequence": 1
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.1016__j.actpsy.2025.104693.pdf"
@@ -14,5 +21,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.1016-j.actpsy.2025.104693"
+  "id": "doi-10.1016-j.actpsy.2025.104693",
+  "publication": {
+    "year": 2025
+  }
 }

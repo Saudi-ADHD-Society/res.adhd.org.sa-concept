@@ -6,7 +6,103 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Neda Mostafa",
+      "family": "Bogari",
+      "sequence": 1
+    },
+    {
+      "given": "Amr Ahmed",
+      "family": "Amin",
+      "sequence": 2
+    },
+    {
+      "given": "Ashwag",
+      "family": "Aljohani",
+      "sequence": 3
+    },
+    {
+      "given": "Ghida",
+      "family": "Dairi",
+      "sequence": 4
+    },
+    {
+      "given": "Mahmoud Zaki",
+      "family": "El-Readi",
+      "sequence": 5
+    },
+    {
+      "given": "Anas",
+      "family": "Dannoun",
+      "sequence": 6
+    },
+    {
+      "given": "Udaya",
+      "family": "Raja",
+      "sequence": 7
+    },
+    {
+      "given": "Mohammad",
+      "family": "Adil",
+      "sequence": 8
+    },
+    {
+      "given": "Nermeen",
+      "family": "Qutub",
+      "sequence": 9
+    },
+    {
+      "given": "Suhair",
+      "family": "Alhelfawi",
+      "sequence": 10
+    },
+    {
+      "given": "Amal",
+      "family": "Alobaidi",
+      "sequence": 11
+    },
+    {
+      "given": "Derar",
+      "family": "Alqudah",
+      "sequence": 12
+    },
+    {
+      "given": "Hussain",
+      "family": "Banni",
+      "sequence": 13
+    },
+    {
+      "given": "Safaa Yehia",
+      "family": "Eid",
+      "sequence": 14
+    },
+    {
+      "given": "Huda",
+      "family": "Balto",
+      "sequence": 15
+    },
+    {
+      "given": "Faisal",
+      "family": "Al-Allaf",
+      "sequence": 16
+    },
+    {
+      "given": "Mohiuddin",
+      "family": "Taher",
+      "sequence": 17
+    },
+    {
+      "given": "Hiba Saed",
+      "family": "Al-Amoodi",
+      "sequence": 18
+    },
+    {
+      "given": "Ahmed",
+      "family": "Fawzy",
+      "sequence": 19
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.4236__ns.2019.112007.pdf"
@@ -14,5 +110,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.4236-ns.2019.112007"
+  "id": "doi-10.4236-ns.2019.112007",
+  "publication": {
+    "year": 2019
+  }
 }

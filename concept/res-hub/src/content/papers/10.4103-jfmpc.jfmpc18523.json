@@ -6,7 +6,48 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Hadeel H.",
+      "family": "Alshareef",
+      "sequence": 1
+    },
+    {
+      "given": "Suha R.",
+      "family": "Elzahrany",
+      "sequence": 2
+    },
+    {
+      "given": "Reem Abdullah",
+      "family": "Alharthi",
+      "sequence": 3
+    },
+    {
+      "given": "Amal A.",
+      "family": "Alsulmai",
+      "sequence": 4
+    },
+    {
+      "given": "Shuaa G.",
+      "family": "Aljabri",
+      "sequence": 5
+    },
+    {
+      "given": "Ghadeer E.",
+      "family": "Alamri",
+      "sequence": 6
+    },
+    {
+      "given": "Ibrahim",
+      "family": "Alharbi",
+      "sequence": 7
+    },
+    {
+      "given": "Amal M.",
+      "family": "Alkhotani",
+      "sequence": 8
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.4103__jfmpc.jfmpc_185_23.pdf"
@@ -14,5 +55,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.4103-jfmpc.jfmpc_185_23"
+  "id": "doi-10.4103-jfmpc.jfmpc_185_23",
+  "publication": {
+    "year": 2023
+  }
 }

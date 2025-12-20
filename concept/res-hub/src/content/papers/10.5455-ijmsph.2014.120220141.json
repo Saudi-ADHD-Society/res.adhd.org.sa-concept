@@ -6,7 +6,13 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Areej",
+      "family": "Munshi",
+      "sequence": 1
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.5455__ijmsph.2014.120220141.pdf"
@@ -14,5 +20,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.5455-ijmsph.2014.120220141"
+  "id": "doi-10.5455-ijmsph.2014.120220141",
+  "publication": {
+    "year": 2014
+  }
 }

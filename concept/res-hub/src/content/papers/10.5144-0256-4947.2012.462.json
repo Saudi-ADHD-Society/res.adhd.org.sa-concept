@@ -6,7 +6,23 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Elham",
+      "family": "Jenahi",
+      "sequence": 1
+    },
+    {
+      "given": "Mohamed S.",
+      "family": "Khalil",
+      "sequence": 2
+    },
+    {
+      "given": "Hassan",
+      "family": "Bella",
+      "sequence": 3
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.5144__0256-4947.2012.462.pdf"
@@ -14,5 +30,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.5144-0256-4947.2012.462"
+  "id": "doi-10.5144-0256-4947.2012.462",
+  "publication": {
+    "year": 2012
+  }
 }

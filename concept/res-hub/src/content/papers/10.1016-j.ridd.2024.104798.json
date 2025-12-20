@@ -6,12 +6,36 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Abdulaziz Abdullah",
+      "family": "Alothman",
+      "sequence": 1
+    },
+    {
+      "given": "Hesham Fathy",
+      "family": "Gadelrab",
+      "sequence": 2
+    },
+    {
+      "given": "Mona Tawakkul",
+      "family": "Ebrahim",
+      "sequence": 3
+    },
+    {
+      "given": "Naglaa Fathy",
+      "family": "Abo-Eid",
+      "sequence": 4
+    }
+  ],
   "access": {
     "status": "unknown"
   },
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.1016-j.ridd.2024.104798"
+  "id": "doi-10.1016-j.ridd.2024.104798",
+  "publication": {
+    "year": 2024
+  }
 }

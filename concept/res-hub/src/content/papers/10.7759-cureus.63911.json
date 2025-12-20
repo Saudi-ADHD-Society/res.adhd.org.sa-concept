@@ -6,7 +6,68 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Mohammad A",
+      "family": "Jareebi",
+      "sequence": 1
+    },
+    {
+      "given": "Ahmad Y",
+      "family": "Alqassim",
+      "sequence": 2
+    },
+    {
+      "given": "Ibrahim M",
+      "family": "Gosadi",
+      "sequence": 3
+    },
+    {
+      "given": "Mousa",
+      "family": "Zaala",
+      "sequence": 4
+    },
+    {
+      "given": "Ramis",
+      "family": "Manni",
+      "sequence": 5
+    },
+    {
+      "given": "Taif",
+      "family": "Zogel",
+      "sequence": 6
+    },
+    {
+      "given": "Emtnan",
+      "family": "Robidiy",
+      "sequence": 7
+    },
+    {
+      "given": "Fatimah",
+      "family": "Qarn",
+      "sequence": 8
+    },
+    {
+      "given": "Shatha",
+      "family": "Moharaq",
+      "sequence": 9
+    },
+    {
+      "given": "Wafa",
+      "family": "Alharbi",
+      "sequence": 10
+    },
+    {
+      "given": "Aisha",
+      "family": "Alhobani",
+      "sequence": 11
+    },
+    {
+      "given": "Mostafa",
+      "family": "Mohrag",
+      "sequence": 12
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.7759__cureus.63911.pdf"
@@ -14,5 +75,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.7759-cureus.63911"
+  "id": "doi-10.7759-cureus.63911",
+  "publication": {
+    "year": 2024
+  }
 }

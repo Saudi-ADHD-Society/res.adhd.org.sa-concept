@@ -6,12 +6,36 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "NagahMohamed",
+      "family": "Aboel-Fetoh",
+      "sequence": 2
+    },
+    {
+      "given": "JamilahFaisal",
+      "family": "Alnathir",
+      "sequence": 3
+    },
+    {
+      "given": "AminahAbdullah",
+      "family": "Alhussain",
+      "sequence": 5
+    },
+    {
+      "given": "HayatFaisal",
+      "family": "Alnathir",
+      "sequence": 7
+    }
+  ],
   "access": {
     "status": "unknown"
   },
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.21474-ijar01-1789"
+  "id": "doi-10.21474-ijar01-1789",
+  "publication": {
+    "year": 2016
+  }
 }

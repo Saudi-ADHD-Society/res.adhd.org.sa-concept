@@ -6,7 +6,38 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "AyedhA",
+      "family": "Al-Ahmari",
+      "sequence": 1
+    },
+    {
+      "given": "RishiK",
+      "family": "Bharti",
+      "sequence": 2
+    },
+    {
+      "given": "MohammadS",
+      "family": "Al-Shahrani",
+      "sequence": 3
+    },
+    {
+      "given": "MuffarahH",
+      "family": "Alharthi",
+      "sequence": 4
+    },
+    {
+      "given": "HassanM",
+      "family": "Alqarni",
+      "sequence": 5
+    },
+    {
+      "given": "HassanM",
+      "family": "Alshehri",
+      "sequence": 6
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.4103__jfcm.jfcm_120_17.pdf"
@@ -14,5 +45,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.4103-jfcm.jfcm_120_17"
+  "id": "doi-10.4103-jfcm.jfcm_120_17",
+  "publication": {
+    "year": 2018
+  }
 }

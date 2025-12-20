@@ -6,7 +6,48 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Waad",
+      "family": "Aljammaz",
+      "sequence": 1
+    },
+    {
+      "given": "Shahad",
+      "family": "Alruqayb",
+      "sequence": 2
+    },
+    {
+      "given": "Hanadi",
+      "family": "Alotaibi",
+      "sequence": 3
+    },
+    {
+      "given": "Rana",
+      "family": "Alsaeed",
+      "sequence": 4
+    },
+    {
+      "given": "Khawlah",
+      "family": "Alhaqbani",
+      "sequence": 5
+    },
+    {
+      "given": "Razan",
+      "family": "Albrahim",
+      "sequence": 6
+    },
+    {
+      "given": "Shahad",
+      "family": "Albogami",
+      "sequence": 7
+    },
+    {
+      "given": "Tabinda",
+      "family": "hasan",
+      "sequence": 8
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.5455__mjhs.2023.03.009.pdf"
@@ -14,5 +55,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.5455-mjhs.2023.03.009"
+  "id": "doi-10.5455-mjhs.2023.03.009",
+  "publication": {
+    "year": 2023
+  }
 }

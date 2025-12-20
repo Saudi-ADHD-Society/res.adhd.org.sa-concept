@@ -6,7 +6,58 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Laila",
+      "family": "A. Al Bishi",
+      "sequence": 2
+    },
+    {
+      "given": "Abeer",
+      "family": "M. Alanazi",
+      "sequence": 3
+    },
+    {
+      "given": "Shouq",
+      "family": "A. Alwabisi",
+      "sequence": 5
+    },
+    {
+      "given": "Ahlam",
+      "family": "S. Hazazi",
+      "sequence": 7
+    },
+    {
+      "given": "Sarah",
+      "family": "A. Alenzi",
+      "sequence": 9
+    },
+    {
+      "given": "Rawiyah",
+      "family": "A. Alessa",
+      "sequence": 11
+    },
+    {
+      "given": "Khalid",
+      "family": "B. Aljohani",
+      "sequence": 13
+    },
+    {
+      "given": "Shatha",
+      "family": "B. Alotaibi",
+      "sequence": 15
+    },
+    {
+      "given": "Asmaa",
+      "family": "M. Alfuhaymani",
+      "sequence": 17
+    },
+    {
+      "given": "Amal",
+      "family": "A. Qaysi",
+      "sequence": 19
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.21474__ijar01__16369.pdf"
@@ -14,5 +65,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.21474-ijar01-16369"
+  "id": "doi-10.21474-ijar01-16369",
+  "publication": {
+    "year": 2023
+  }
 }

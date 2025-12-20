@@ -6,12 +6,37 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Abdullah M.",
+      "family": "Alshehri",
+      "sequence": 1
+    },
+    {
+      "given": "Shehata F.",
+      "family": "Shehata",
+      "sequence": 2
+    },
+    {
+      "given": "Khalid M.",
+      "family": "Almosa",
+      "sequence": 3
+    },
+    {
+      "given": "Nabil J.",
+      "family": "Awadalla",
+      "orcid": "https://orcid.org/0000-0002-5687-6621",
+      "sequence": 4
+    }
+  ],
   "access": {
     "status": "unknown"
   },
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.3390-ijerph17155605"
+  "id": "doi-10.3390-ijerph17155605",
+  "publication": {
+    "year": 2020
+  }
 }

@@ -1,0 +1,47 @@
+{
+  "id": "",
+  "slug": "",
+  "doi": null,
+  "identifiers": {
+    "doi": null,
+    "url": null,
+    "pmid": null,
+    "pmcid": null,
+    "isbn": null
+  },
+  "title": "",
+  "abstract": null,
+  "categories": [],
+  "keywords": [],
+  "publication": {
+    "type": null,
+    "publishedDate": null,
+    "year": null
+  },
+  "journal": {
+    "name": null,
+    "abbreviation": null,
+    "issn": null,
+    "volume": null,
+    "issue": null,
+    "pages": {
+      "start": null,
+      "end": null
+    }
+  },
+  "authors": [],
+  "access": {
+    "status": "unknown",
+    "license": null,
+    "source": null,
+    "licenseUrl": null,
+    "sourceUrl": null,
+    "localPdfUrl": null,
+    "researchGateUrl": null
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "legacy": {}
+}
+

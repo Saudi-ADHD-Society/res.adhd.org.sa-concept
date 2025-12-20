@@ -6,12 +6,76 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Abdulaziz",
+      "family": "Al-Othman",
+      "sequence": 1
+    },
+    {
+      "given": "Sara",
+      "family": "Al-Musharaf",
+      "sequence": 2
+    },
+    {
+      "given": "Nasser M",
+      "family": "Al-Daghri",
+      "sequence": 3
+    },
+    {
+      "given": "Soundararajan",
+      "family": "Krishnaswamy",
+      "sequence": 4
+    },
+    {
+      "given": "Deqa S",
+      "family": "Yusuf",
+      "sequence": 5
+    },
+    {
+      "given": "Khalid M",
+      "family": "Alkharfy",
+      "sequence": 6
+    },
+    {
+      "given": "Yousef",
+      "family": "Al-Saleh",
+      "sequence": 7
+    },
+    {
+      "given": "Omar S",
+      "family": "Al-Attas",
+      "sequence": 8
+    },
+    {
+      "given": "Majed S",
+      "family": "Alokail",
+      "sequence": 9
+    },
+    {
+      "given": "Osama",
+      "family": "Moharram",
+      "sequence": 10
+    },
+    {
+      "given": "Shaun",
+      "family": "Sabico",
+      "sequence": 11
+    },
+    {
+      "given": "George P",
+      "family": "Chrousos",
+      "sequence": 12
+    }
+  ],
   "access": {
     "status": "unknown"
   },
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.1186-1471-2431-12-92"
+  "id": "doi-10.1186-1471-2431-12-92",
+  "publication": {
+    "year": 2012
+  }
 }

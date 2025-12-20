@@ -6,12 +6,26 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Fahad",
+      "family": "Alanazi",
+      "sequence": 1
+    },
+    {
+      "given": "Yousef",
+      "family": "Al Turki",
+      "sequence": 2
+    }
+  ],
   "access": {
     "status": "unknown"
   },
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.4103-jfmpc.jfmpc_2194_20"
+  "id": "doi-10.4103-jfmpc.jfmpc_2194_20",
+  "publication": {
+    "year": 2021
+  }
 }

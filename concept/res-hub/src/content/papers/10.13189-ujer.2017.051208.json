@@ -6,7 +6,13 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Rabab S.",
+      "family": "Alharbi",
+      "sequence": 1
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.13189__ujer.2017.051208.pdf"
@@ -14,5 +20,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.13189-ujer.2017.051208"
+  "id": "doi-10.13189-ujer.2017.051208",
+  "publication": {
+    "year": 2017
+  }
 }

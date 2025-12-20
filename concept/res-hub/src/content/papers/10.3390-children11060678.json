@@ -6,7 +6,44 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Shuliweeh",
+      "family": "Alenezi",
+      "orcid": "https://orcid.org/0000-0002-7049-0960",
+      "sequence": 1
+    },
+    {
+      "given": "Samah H.",
+      "family": "Alkhawashki",
+      "sequence": 2
+    },
+    {
+      "given": "Muneera",
+      "family": "Alkhorayef",
+      "sequence": 3
+    },
+    {
+      "given": "Sarah",
+      "family": "Alarifi",
+      "sequence": 4
+    },
+    {
+      "given": "Shahad",
+      "family": "Alsahil",
+      "sequence": 5
+    },
+    {
+      "given": "Renad",
+      "family": "Alhaqbani",
+      "sequence": 6
+    },
+    {
+      "given": "Nouf",
+      "family": "Alhussaini",
+      "sequence": 7
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.3390__children11060678.pdf"
@@ -14,5 +51,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.3390-children11060678"
+  "id": "doi-10.3390-children11060678",
+  "publication": {
+    "year": 2024
+  }
 }

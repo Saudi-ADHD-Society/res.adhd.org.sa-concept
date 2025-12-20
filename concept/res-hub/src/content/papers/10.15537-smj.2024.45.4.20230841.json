@@ -6,7 +6,24 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Fatimah A.",
+      "family": "Alsafar",
+      "orcid": "https://orcid.org/0000-0002-2187-9304",
+      "sequence": 1
+    },
+    {
+      "given": "Ali J.",
+      "family": "Alsaad",
+      "sequence": 2
+    },
+    {
+      "given": "Walaa A.",
+      "family": "Albukhaytan",
+      "sequence": 3
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.15537__smj.2024.45.4.20230841.pdf"
@@ -14,5 +31,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.15537-smj.2024.45.4.20230841"
+  "id": "doi-10.15537-smj.2024.45.4.20230841",
+  "publication": {
+    "year": 2024
+  }
 }

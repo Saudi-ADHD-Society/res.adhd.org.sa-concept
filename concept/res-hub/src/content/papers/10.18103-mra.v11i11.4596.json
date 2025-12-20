@@ -6,7 +6,23 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Mohammed",
+      "family": "Alrabah",
+      "sequence": 1
+    },
+    {
+      "given": "Afnan",
+      "family": "AlMarshedi",
+      "sequence": 2
+    },
+    {
+      "given": "Mansour",
+      "family": "Alharthi",
+      "sequence": 3
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.18103__mra.v11i11.4596.pdf"
@@ -14,5 +30,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.18103-mra.v11i11.4596"
+  "id": "doi-10.18103-mra.v11i11.4596",
+  "publication": {
+    "year": 2023
+  }
 }

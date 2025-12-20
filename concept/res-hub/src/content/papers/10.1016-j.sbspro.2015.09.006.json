@@ -6,12 +6,21 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Turki",
+      "family": "Alotaibi",
+      "sequence": 1
+    }
+  ],
   "access": {
     "status": "unknown"
   },
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.1016-j.sbspro.2015.09.006"
+  "id": "doi-10.1016-j.sbspro.2015.09.006",
+  "publication": {
+    "year": 2015
+  }
 }

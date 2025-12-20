@@ -6,12 +6,65 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Yasmin A.",
+      "family": "Altwaijri",
+      "orcid": "https://orcid.org/0000-0001-8826-3224",
+      "sequence": 1
+    },
+    {
+      "given": "Abdullah S.",
+      "family": "Al‐Subaie",
+      "sequence": 2
+    },
+    {
+      "given": "Abdulhameed",
+      "family": "Al‐Habeeb",
+      "sequence": 3
+    },
+    {
+      "given": "Lisa",
+      "family": "Bilal",
+      "orcid": "https://orcid.org/0000-0002-7574-4210",
+      "sequence": 4
+    },
+    {
+      "given": "Majid",
+      "family": "Al‐Desouki",
+      "orcid": "https://orcid.org/0000-0002-9584-4817",
+      "sequence": 5
+    },
+    {
+      "given": "Maggie",
+      "family": "Aradati",
+      "sequence": 6
+    },
+    {
+      "given": "Andrew J.",
+      "family": "King",
+      "sequence": 7
+    },
+    {
+      "given": "Nancy A.",
+      "family": "Sampson",
+      "sequence": 8
+    },
+    {
+      "given": "Ronald C.",
+      "family": "Kessler",
+      "orcid": "https://orcid.org/0000-0003-4831-2305",
+      "sequence": 9
+    }
+  ],
   "access": {
     "status": "unknown"
   },
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.1002-mpr.1836"
+  "id": "doi-10.1002-mpr.1836",
+  "publication": {
+    "year": 2020
+  }
 }

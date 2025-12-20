@@ -6,7 +6,58 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Faten N.",
+      "family": "AlZaben",
+      "sequence": 1
+    },
+    {
+      "given": "Mohammad G.",
+      "family": "Sehlo",
+      "sequence": 2
+    },
+    {
+      "given": "Waleed A.",
+      "family": "Alghamdi",
+      "sequence": 3
+    },
+    {
+      "given": "Haythum O.",
+      "family": "Tayeb",
+      "sequence": 4
+    },
+    {
+      "given": "Doaa A.",
+      "family": "Khalifa",
+      "sequence": 5
+    },
+    {
+      "given": "Abdulrahman T.",
+      "family": "Mira",
+      "sequence": 6
+    },
+    {
+      "given": "Abdulaziz M.",
+      "family": "Alshuaibi",
+      "sequence": 7
+    },
+    {
+      "given": "Mosab A.",
+      "family": "Alguthmi",
+      "sequence": 8
+    },
+    {
+      "given": "Ahmad A.",
+      "family": "Derham",
+      "sequence": 9
+    },
+    {
+      "given": "Harold G.",
+      "family": "Koenig",
+      "sequence": 10
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.15537__smj.2018.1.21288.pdf"
@@ -14,5 +65,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.15537-smj.2018.1.21288"
+  "id": "doi-10.15537-smj.2018.1.21288",
+  "publication": {
+    "year": 2018
+  }
 }

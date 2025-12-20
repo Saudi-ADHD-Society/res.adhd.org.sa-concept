@@ -6,12 +6,54 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Mohamed Hussein Ramadan",
+      "family": "Atta",
+      "orcid": "https://orcid.org/0000-0002-5518-0892",
+      "sequence": 1
+    },
+    {
+      "given": "Shaimaa Mohamed",
+      "family": "Amin",
+      "sequence": 2
+    },
+    {
+      "given": "Nagwa Ibrahim Mohamed",
+      "family": "Hamad",
+      "sequence": 3
+    },
+    {
+      "given": "Ahmed Abdellah",
+      "family": "Othman",
+      "orcid": "https://orcid.org/0009-0009-6755-0625",
+      "sequence": 4
+    },
+    {
+      "given": "Yahia Mohamed",
+      "family": "Sayed",
+      "sequence": 5
+    },
+    {
+      "given": "Hanan Salem",
+      "family": "Sanad",
+      "sequence": 6
+    },
+    {
+      "given": "Ahmed Abdelwahab Ibrahim",
+      "family": "El‐Sayed",
+      "orcid": "https://orcid.org/0000-0001-9124-0808",
+      "sequence": 7
+    }
+  ],
   "access": {
     "status": "unknown"
   },
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.1111-jpm.13171"
+  "id": "doi-10.1111-jpm.13171",
+  "publication": {
+    "year": 2025
+  }
 }

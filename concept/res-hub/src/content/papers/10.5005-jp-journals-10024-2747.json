@@ -6,7 +6,28 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Navin A",
+      "family": "Ingle",
+      "sequence": 1
+    },
+    {
+      "given": "Mohammed J",
+      "family": "Barry",
+      "sequence": 2
+    },
+    {
+      "given": "Fatmah",
+      "family": "Almotawah",
+      "sequence": 3
+    },
+    {
+      "given": "Sharat C",
+      "family": "Pani",
+      "sequence": 4
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.5005__jp-journals-10024-2747.pdf"
@@ -14,5 +35,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.5005-jp-journals-10024-2747"
+  "id": "doi-10.5005-jp-journals-10024-2747",
+  "publication": {
+    "year": 2020
+  }
 }

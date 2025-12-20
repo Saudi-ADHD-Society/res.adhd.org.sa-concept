@@ -6,7 +6,18 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Razan H",
+      "family": "Alzahrani",
+      "sequence": 1
+    },
+    {
+      "given": "Nesrin K",
+      "family": "Abd El-Fatah",
+      "sequence": 2
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.7759__cureus.40057.pdf"
@@ -14,5 +25,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.7759-cureus.40057"
+  "id": "doi-10.7759-cureus.40057",
+  "publication": {
+    "year": 2023
+  }
 }

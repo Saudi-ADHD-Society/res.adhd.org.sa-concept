@@ -6,12 +6,33 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Amr M.",
+      "family": "Mohamed",
+      "orcid": "https://orcid.org/0000-0003-3891-963X",
+      "sequence": 1
+    },
+    {
+      "given": "Tahany S.",
+      "family": "Shaaban",
+      "sequence": 2
+    },
+    {
+      "given": "Hassen Alazhar",
+      "family": "Jmaiel",
+      "orcid": "https://orcid.org/0000-0003-4603-9456",
+      "sequence": 3
+    }
+  ],
   "access": {
     "status": "unknown"
   },
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.1177-10870547241265877"
+  "id": "doi-10.1177-10870547241265877",
+  "publication": {
+    "year": 2024
+  }
 }

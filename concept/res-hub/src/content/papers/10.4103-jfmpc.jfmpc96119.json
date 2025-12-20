@@ -6,12 +6,36 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Mohammed",
+      "family": "Alsuhaibani",
+      "sequence": 1
+    },
+    {
+      "given": "Omar",
+      "family": "Alsaawi",
+      "sequence": 2
+    },
+    {
+      "given": "Khalid",
+      "family": "Alsuwayti",
+      "sequence": 3
+    },
+    {
+      "given": "Ibrahim",
+      "family": "Alahmed",
+      "sequence": 4
+    }
+  ],
   "access": {
     "status": "unknown"
   },
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.4103-jfmpc.jfmpc_961_19"
+  "id": "doi-10.4103-jfmpc.jfmpc_961_19",
+  "publication": {
+    "year": 2020
+  }
 }

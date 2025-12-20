@@ -6,7 +6,38 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Majed Akram",
+      "family": "Al Ghassab",
+      "sequence": 1
+    },
+    {
+      "given": "Rasha Ali",
+      "family": "Abdelrahman",
+      "sequence": 2
+    },
+    {
+      "given": "Ahmad Raja",
+      "family": "Albalawi",
+      "sequence": 3
+    },
+    {
+      "given": "Asma Ali",
+      "family": "Alharbi",
+      "sequence": 4
+    },
+    {
+      "given": "Nawaf Saeed",
+      "family": "Almaliki",
+      "sequence": 5
+    },
+    {
+      "given": "Hamad Ibrahim Hamad",
+      "family": "Albalawi",
+      "sequence": 6
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.5742__mewfm.2025.805257860.pdf"
@@ -14,5 +45,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.5742-mewfm.2025.805257860"
+  "id": "doi-10.5742-mewfm.2025.805257860",
+  "publication": {
+    "year": 2025
+  }
 }

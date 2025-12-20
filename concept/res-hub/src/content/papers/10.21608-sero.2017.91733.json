@@ -6,7 +6,13 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Nawdha",
+      "family": "Alkahtani",
+      "sequence": 1
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.21608__sero.2017.91733.pdf"
@@ -14,5 +20,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.21608-sero.2017.91733"
+  "id": "doi-10.21608-sero.2017.91733",
+  "publication": {
+    "year": 2017
+  }
 }

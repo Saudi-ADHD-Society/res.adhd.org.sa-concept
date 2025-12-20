@@ -6,12 +6,46 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "",
+      "family": "Al Hadi , Ahmad N.",
+      "sequence": 1
+    },
+    {
+      "given": "",
+      "family": "Aldussary , Dina M.",
+      "sequence": 2
+    },
+    {
+      "given": "",
+      "family": "Abanumy , Jawaher A.",
+      "sequence": 3
+    },
+    {
+      "given": "",
+      "family": "Alghamdi , Maha A.",
+      "sequence": 4
+    },
+    {
+      "given": "",
+      "family": "Alsahli , Nora A.",
+      "sequence": 5
+    },
+    {
+      "given": "",
+      "family": "Alghamdi , Sumaya A.",
+      "sequence": 6
+    }
+  ],
   "access": {
     "status": "unknown"
   },
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.12816-0058988"
+  "id": "doi-10.12816-0058988",
+  "publication": {
+    "year": 2021
+  }
 }

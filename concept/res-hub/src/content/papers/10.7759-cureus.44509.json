@@ -6,7 +6,58 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Ebtihal  E",
+      "family": "Eltyeb",
+      "sequence": 1
+    },
+    {
+      "given": "Gassem A",
+      "family": "Gohal",
+      "sequence": 2
+    },
+    {
+      "given": "Nirmin H",
+      "family": "Alhazmi",
+      "sequence": 3
+    },
+    {
+      "given": "Sulaiman",
+      "family": "Hamdi",
+      "sequence": 4
+    },
+    {
+      "given": "Layla H",
+      "family": "Al khairat",
+      "sequence": 5
+    },
+    {
+      "given": "Nawaf A",
+      "family": "Shutayfi",
+      "sequence": 6
+    },
+    {
+      "given": "Alaa H",
+      "family": "Al-Khairat",
+      "sequence": 7
+    },
+    {
+      "given": "Halimah A",
+      "family": "Sumayli",
+      "sequence": 8
+    },
+    {
+      "given": "Taher A",
+      "family": "Someli",
+      "sequence": 9
+    },
+    {
+      "given": "Sharifah A",
+      "family": "Someli",
+      "sequence": 10
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.7759__cureus.44509.pdf"
@@ -14,5 +65,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.7759-cureus.44509"
+  "id": "doi-10.7759-cureus.44509",
+  "publication": {
+    "year": 2023
+  }
 }

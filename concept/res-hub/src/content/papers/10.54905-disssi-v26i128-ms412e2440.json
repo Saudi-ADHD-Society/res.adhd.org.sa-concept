@@ -6,7 +6,48 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Hazem Mohammad",
+      "family": "Aljabri",
+      "sequence": 1
+    },
+    {
+      "given": "Bassam Musleh Bin",
+      "family": "Laswad",
+      "sequence": 2
+    },
+    {
+      "given": "Hasan Zuhier",
+      "family": "Binjabi",
+      "sequence": 3
+    },
+    {
+      "given": "Mohammed Hasan",
+      "family": "Alturki",
+      "sequence": 4
+    },
+    {
+      "given": "Abdulaziz Omar",
+      "family": "Babukur",
+      "sequence": 5
+    },
+    {
+      "given": "Azzam Musleh Bin",
+      "family": "Laswad",
+      "sequence": 6
+    },
+    {
+      "given": "Mohammed Osama",
+      "family": "Krenshi",
+      "sequence": 7
+    },
+    {
+      "given": "Mokhtar Mahfouz",
+      "family": "Shatla",
+      "sequence": 8
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.54905__disssi__v26i128__ms412e2440.pdf"
@@ -14,5 +55,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.54905-disssi-v26i128-ms412e2440"
+  "id": "doi-10.54905-disssi-v26i128-ms412e2440",
+  "publication": {
+    "year": 2022
+  }
 }

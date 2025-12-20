@@ -6,7 +6,50 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Yasser Sami",
+      "family": "Amer",
+      "orcid": "https://orcid.org/0000-0003-4097-2317",
+      "sequence": 1
+    },
+    {
+      "given": "Haya Faisal",
+      "family": "Al-Joudi",
+      "sequence": 2
+    },
+    {
+      "given": "Jeremy L.",
+      "family": "Varnham",
+      "orcid": "https://orcid.org/0000-0002-8020-0322",
+      "sequence": 3
+    },
+    {
+      "given": "Fahad A.",
+      "family": "Bashiri",
+      "sequence": 4
+    },
+    {
+      "given": "Muddathir Hamad",
+      "family": "Hamad",
+      "sequence": 5
+    },
+    {
+      "given": "Saleh M.",
+      "family": "Al Salehi",
+      "sequence": 6
+    },
+    {
+      "given": "Hadeel Fakhri",
+      "family": "Daghash",
+      "sequence": 7
+    },
+    {
+      "given": "Turki Homod",
+      "family": "Albatti",
+      "sequence": 8
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.1371__journal.pone.0219239.pdf"
@@ -14,5 +57,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.1371-journal.pone.0219239"
+  "id": "doi-10.1371-journal.pone.0219239",
+  "publication": {
+    "year": 2019
+  }
 }

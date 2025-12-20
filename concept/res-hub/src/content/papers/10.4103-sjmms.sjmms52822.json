@@ -6,7 +6,48 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Ahmed Hamed",
+      "family": "Aljadani",
+      "sequence": 1
+    },
+    {
+      "given": "Tahani Salem",
+      "family": "Alshammari",
+      "sequence": 2
+    },
+    {
+      "given": "Rawan Ibrahim",
+      "family": "Sadaqir",
+      "sequence": 3
+    },
+    {
+      "given": "Naif Osaywid Eid",
+      "family": "Alrashede",
+      "sequence": 4
+    },
+    {
+      "given": "Bushra Mubarak",
+      "family": "Aldajani",
+      "sequence": 5
+    },
+    {
+      "given": "Samiah Ahmed",
+      "family": "Almehmadi",
+      "sequence": 6
+    },
+    {
+      "given": "Abdullah Saleh",
+      "family": "Altuhayni",
+      "sequence": 7
+    },
+    {
+      "given": "Mohamed Ahmed",
+      "family": "Abouzed",
+      "sequence": 8
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.4103__sjmms.sjmms_528_22.pdf"
@@ -14,5 +55,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.4103-sjmms.sjmms_528_22"
+  "id": "doi-10.4103-sjmms.sjmms_528_22",
+  "publication": {
+    "year": 2023
+  }
 }

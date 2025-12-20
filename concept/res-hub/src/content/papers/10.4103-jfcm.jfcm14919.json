@@ -6,12 +6,36 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "ZainabJ",
+      "family": "Al-Mohsin",
+      "sequence": 1
+    },
+    {
+      "given": "HebaA",
+      "family": "Al-Saffar",
+      "sequence": 2
+    },
+    {
+      "given": "ShaherZ",
+      "family": "Al-Shehri",
+      "sequence": 3
+    },
+    {
+      "given": "MarwaM",
+      "family": "Shafey",
+      "sequence": 4
+    }
+  ],
   "access": {
     "status": "unknown"
   },
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.4103-jfcm.jfcm_149_19"
+  "id": "doi-10.4103-jfcm.jfcm_149_19",
+  "publication": {
+    "year": 2020
+  }
 }

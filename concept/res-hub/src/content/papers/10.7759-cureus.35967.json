@@ -6,7 +6,43 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Ziyad S",
+      "family": "Al-Saedi",
+      "sequence": 1
+    },
+    {
+      "given": "Abdulrahman M",
+      "family": "Alharbi",
+      "sequence": 2
+    },
+    {
+      "given": "Abdulkareem M",
+      "family": "Nmnkany",
+      "sequence": 3
+    },
+    {
+      "given": "Bandar K",
+      "family": "Alzubaidi",
+      "sequence": 4
+    },
+    {
+      "given": "Abed N",
+      "family": "Alansari",
+      "sequence": 5
+    },
+    {
+      "given": "Mohammed",
+      "family": "Alhuzali",
+      "sequence": 6
+    },
+    {
+      "given": "Mokhtar M",
+      "family": "Shatla",
+      "sequence": 7
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.7759__cureus.35967.pdf"
@@ -14,5 +50,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.7759-cureus.35967"
+  "id": "doi-10.7759-cureus.35967",
+  "publication": {
+    "year": 2023
+  }
 }

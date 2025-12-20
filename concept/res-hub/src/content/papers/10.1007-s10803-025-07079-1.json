@@ -6,12 +6,22 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Abdullah",
+      "family": "Alrubaian",
+      "orcid": "https://orcid.org/0000-0002-7733-6931",
+      "sequence": 1
+    }
+  ],
   "access": {
     "status": "unknown"
   },
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.1007-s10803-025-07079-1"
+  "id": "doi-10.1007-s10803-025-07079-1",
+  "publication": {
+    "year": 2025
+  }
 }

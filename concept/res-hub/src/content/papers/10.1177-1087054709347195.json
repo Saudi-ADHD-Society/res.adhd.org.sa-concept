@@ -6,7 +6,13 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Mohammed M.",
+      "family": "Alqahtani",
+      "sequence": 1
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.1177__1087054709347195.pdf"
@@ -14,5 +20,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.1177-1087054709347195"
+  "id": "doi-10.1177-1087054709347195",
+  "publication": {
+    "year": 2010
+  }
 }

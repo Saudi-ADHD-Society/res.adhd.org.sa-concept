@@ -6,7 +6,38 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Moon Fai",
+      "family": "Chan",
+      "sequence": 1
+    },
+    {
+      "given": "Rola",
+      "family": "Al Balushi",
+      "sequence": 2
+    },
+    {
+      "given": "Maryam",
+      "family": "Al Falahi",
+      "sequence": 3
+    },
+    {
+      "given": "Sangeetha",
+      "family": "Mahadevan",
+      "sequence": 4
+    },
+    {
+      "given": "Muna",
+      "family": "Al Saadoon",
+      "sequence": 5
+    },
+    {
+      "given": "Samir",
+      "family": "Al-Adawi",
+      "sequence": 6
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.1016__j.ijpam.2021.04.002.pdf"
@@ -14,5 +45,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.1016-j.ijpam.2021.04.002"
+  "id": "doi-10.1016-j.ijpam.2021.04.002",
+  "publication": {
+    "year": 2021
+  }
 }

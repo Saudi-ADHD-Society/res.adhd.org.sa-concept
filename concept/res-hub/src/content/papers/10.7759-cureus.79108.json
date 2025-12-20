@@ -6,7 +6,48 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Abdullah",
+      "family": "Alqifari",
+      "sequence": 1
+    },
+    {
+      "given": "Hana",
+      "family": "Alqifari",
+      "sequence": 2
+    },
+    {
+      "given": "Jood M",
+      "family": "Alsogaihi",
+      "sequence": 3
+    },
+    {
+      "given": "Jolan S",
+      "family": "Alsaud",
+      "sequence": 4
+    },
+    {
+      "given": "Hussam",
+      "family": "Alshetwi",
+      "sequence": 5
+    },
+    {
+      "given": "Mohammed Y",
+      "family": "Almohaimeed",
+      "sequence": 6
+    },
+    {
+      "given": "Shikhah G",
+      "family": "Alharbi",
+      "sequence": 7
+    },
+    {
+      "given": "Shoog S",
+      "family": "Alhaggas",
+      "sequence": 8
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.7759__cureus.79108.pdf"
@@ -14,5 +55,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.7759-cureus.79108"
+  "id": "doi-10.7759-cureus.79108",
+  "publication": {
+    "year": 2025
+  }
 }

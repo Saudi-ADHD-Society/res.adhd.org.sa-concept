@@ -6,7 +6,39 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Amal Khaleel",
+      "family": "Abu Alhommos",
+      "orcid": "https://orcid.org/0000-0002-7958-8411",
+      "sequence": 1
+    },
+    {
+      "given": "Fatimah Mohammed",
+      "family": "AlHadab",
+      "sequence": 2
+    },
+    {
+      "given": "Rwan Adel",
+      "family": "Alalwan",
+      "sequence": 3
+    },
+    {
+      "given": "Sara Tawfiq",
+      "family": "Alabduladhem",
+      "sequence": 4
+    },
+    {
+      "given": "Zahraa Ali",
+      "family": "Alnaser",
+      "sequence": 5
+    },
+    {
+      "given": "Sarah Saad",
+      "family": "Alnami",
+      "sequence": 6
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.3390__healthcare11010054.pdf"
@@ -14,5 +46,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.3390-healthcare11010054"
+  "id": "doi-10.3390-healthcare11010054",
+  "publication": {
+    "year": 2022
+  }
 }

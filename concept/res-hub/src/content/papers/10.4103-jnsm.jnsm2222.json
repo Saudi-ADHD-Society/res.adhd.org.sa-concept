@@ -6,12 +6,56 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Noura",
+      "family": "Abouammoh",
+      "sequence": 1
+    },
+    {
+      "given": "Afnan",
+      "family": "Younis",
+      "sequence": 2
+    },
+    {
+      "given": "Layan",
+      "family": "Alwatban",
+      "sequence": 3
+    },
+    {
+      "given": "Marwah",
+      "family": "Alkhalil",
+      "sequence": 4
+    },
+    {
+      "given": "Rawan",
+      "family": "Alharbi",
+      "sequence": 5
+    },
+    {
+      "given": "Reham",
+      "family": "AlHalabi",
+      "sequence": 6
+    },
+    {
+      "given": "Shahad",
+      "family": "Alzahrani",
+      "sequence": 7
+    },
+    {
+      "given": "Shikah",
+      "family": "Alrwais",
+      "sequence": 8
+    }
+  ],
   "access": {
     "status": "unknown"
   },
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.4103-jnsm.jnsm_22_22"
+  "id": "doi-10.4103-jnsm.jnsm_22_22",
+  "publication": {
+    "year": 2023
+  }
 }

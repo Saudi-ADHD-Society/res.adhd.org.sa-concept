@@ -6,7 +6,18 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Alanood",
+      "family": "Bin Jardan",
+      "sequence": 1
+    },
+    {
+      "given": "Mohammed",
+      "family": "Al Jaffal",
+      "sequence": 2
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.37575__h__edu__220031.pdf"
@@ -14,5 +25,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.37575-h-edu-220031"
+  "id": "doi-10.37575-h-edu-220031",
+  "publication": {
+    "year": 2023
+  }
 }

@@ -6,7 +6,48 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "AhmedHamed",
+      "family": "ALJadani",
+      "sequence": 1
+    },
+    {
+      "given": "IbrahimAbdullah",
+      "family": "Alnais",
+      "sequence": 2
+    },
+    {
+      "given": "TurkiAli",
+      "family": "Alshammari",
+      "sequence": 3
+    },
+    {
+      "given": "SalmanSayah",
+      "family": "Alonazi",
+      "sequence": 4
+    },
+    {
+      "given": "AbdulrahmanMansour",
+      "family": "Alshammari",
+      "sequence": 5
+    },
+    {
+      "given": "AbdulilahSaad",
+      "family": "Aldhmadi",
+      "sequence": 6
+    },
+    {
+      "given": "MeshaelNazzal",
+      "family": "Alreshidi",
+      "sequence": 7
+    },
+    {
+      "given": "HasanAli",
+      "family": "Alahmed",
+      "sequence": 8
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.4103__1658-8312.347566.pdf"
@@ -14,5 +55,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.4103-1658-8312.347566"
+  "id": "doi-10.4103-1658-8312.347566",
+  "publication": {
+    "year": 2020
+  }
 }

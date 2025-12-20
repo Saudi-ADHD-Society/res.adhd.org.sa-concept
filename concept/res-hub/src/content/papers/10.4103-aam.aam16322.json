@@ -6,7 +6,73 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Foziah Jabbar",
+      "family": "AlShamrani",
+      "sequence": 1
+    },
+    {
+      "given": "Noor",
+      "family": "AlMohish",
+      "sequence": 2
+    },
+    {
+      "given": "Danah",
+      "family": "AlJaafari",
+      "sequence": 3
+    },
+    {
+      "given": "Majed",
+      "family": "AlAbdali",
+      "sequence": 4
+    },
+    {
+      "given": "Erum",
+      "family": "Shariff",
+      "sequence": 5
+    },
+    {
+      "given": "Azra",
+      "family": "Zafar",
+      "sequence": 6
+    },
+    {
+      "given": "Rizwana",
+      "family": "Shahid",
+      "sequence": 7
+    },
+    {
+      "given": "Abdullah",
+      "family": "AlNahdi",
+      "sequence": 8
+    },
+    {
+      "given": "Fahad",
+      "family": "AlDawsari",
+      "sequence": 9
+    },
+    {
+      "given": "Shakel",
+      "family": "Ahmad",
+      "sequence": 10
+    },
+    {
+      "given": "Ghusoon",
+      "family": "AlMoaibed",
+      "sequence": 11
+    },
+    {
+      "given": "Narjes",
+      "family": "AlRamadhan",
+      "sequence": 12
+    },
+    {
+      "given": "Munirah",
+      "family": "AlAbdulqader",
+      "sequence": 13
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.4103__aam.aam_163_22.pdf"
@@ -14,5 +80,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.4103-aam.aam_163_22"
+  "id": "doi-10.4103-aam.aam_163_22",
+  "publication": {
+    "year": 2023
+  }
 }

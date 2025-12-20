@@ -6,12 +6,66 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Waleed Ahmed",
+      "family": "Alghamdi",
+      "sequence": 1
+    },
+    {
+      "given": "Faten N.",
+      "family": "Alzaben",
+      "sequence": 2
+    },
+    {
+      "given": "Hashem H.",
+      "family": "Alhashemi",
+      "sequence": 3
+    },
+    {
+      "given": "Saeed Sami",
+      "family": "Shaaban",
+      "sequence": 4
+    },
+    {
+      "given": "Khawlah M.",
+      "family": "Fairaq",
+      "sequence": 5
+    },
+    {
+      "given": "Ahmed S.",
+      "family": "Alsuliamani",
+      "sequence": 6
+    },
+    {
+      "given": "Bsmah A.",
+      "family": "Mahin",
+      "sequence": 7
+    },
+    {
+      "given": "Radwan A.",
+      "family": "Ghurab",
+      "sequence": 8
+    },
+    {
+      "given": "Mohammad Gamal",
+      "family": "Sehlo",
+      "sequence": 9
+    },
+    {
+      "given": "Harold G.",
+      "family": "Koenig",
+      "sequence": 10
+    }
+  ],
   "access": {
     "status": "unknown"
   },
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.4103-sjmms.sjmms_654_21"
+  "id": "doi-10.4103-sjmms.sjmms_654_21",
+  "publication": {
+    "year": 2022
+  }
 }

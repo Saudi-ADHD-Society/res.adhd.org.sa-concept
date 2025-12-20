@@ -6,7 +6,63 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Reem",
+      "family": "AlOmar",
+      "orcid": "https://orcid.org/0000-0003-4899-7965",
+      "sequence": 1
+    },
+    {
+      "given": "Nouf",
+      "family": "AlShamlan",
+      "orcid": "https://orcid.org/0000-0002-8049-237X",
+      "sequence": 2
+    },
+    {
+      "given": "Wejdan M",
+      "family": "Al-Johani",
+      "orcid": "https://orcid.org/0000-0003-4851-0934",
+      "sequence": 3
+    },
+    {
+      "given": "Ali",
+      "family": "Almayyad",
+      "sequence": 4
+    },
+    {
+      "given": "Hadeel",
+      "family": "Alotaibi",
+      "sequence": 5
+    },
+    {
+      "given": "Sarah",
+      "family": "Alsamin",
+      "sequence": 6
+    },
+    {
+      "given": "Naif Y",
+      "family": "Alfrayyan",
+      "sequence": 7
+    },
+    {
+      "given": "Leila A",
+      "family": "Boubshait",
+      "sequence": 8
+    },
+    {
+      "given": "Layla M",
+      "family": "Alghamdi",
+      "orcid": "https://orcid.org/0000-0002-5624-8625",
+      "sequence": 9
+    },
+    {
+      "given": "Malak A",
+      "family": "Al-Shammari",
+      "orcid": "https://orcid.org/0000-0002-7434-7432",
+      "sequence": 10
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.2147__prbm.s426715.pdf"
@@ -14,5 +70,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.2147-prbm.s426715"
+  "id": "doi-10.2147-prbm.s426715",
+  "publication": {
+    "year": 2023
+  }
 }

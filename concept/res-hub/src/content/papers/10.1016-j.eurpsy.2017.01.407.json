@@ -6,7 +6,38 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "S.",
+      "family": "Almutairi",
+      "sequence": 1
+    },
+    {
+      "given": "M.",
+      "family": "Almutairi",
+      "sequence": 2
+    },
+    {
+      "given": "A.",
+      "family": "Al Harbi",
+      "sequence": 3
+    },
+    {
+      "given": "M.",
+      "family": "Alsuhaibani",
+      "sequence": 4
+    },
+    {
+      "given": "N.",
+      "family": "Alkeaid",
+      "sequence": 5
+    },
+    {
+      "given": "T.",
+      "family": "Albatti",
+      "sequence": 6
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.1016__j.eurpsy.2017.01.407.pdf"
@@ -14,5 +45,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.1016-j.eurpsy.2017.01.407"
+  "id": "doi-10.1016-j.eurpsy.2017.01.407",
+  "publication": {
+    "year": 2017
+  }
 }

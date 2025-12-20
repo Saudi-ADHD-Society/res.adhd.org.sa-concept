@@ -6,7 +6,48 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Rahaf S",
+      "family": "Alotaibi",
+      "sequence": 1
+    },
+    {
+      "given": "Ghadi  A",
+      "family": "Alghamdi",
+      "sequence": 2
+    },
+    {
+      "given": "Anas",
+      "family": "Alloqmani",
+      "sequence": 3
+    },
+    {
+      "given": "Nada  S",
+      "family": "Almuntashiri",
+      "sequence": 4
+    },
+    {
+      "given": "Khaled  a",
+      "family": "alharbi",
+      "sequence": 5
+    },
+    {
+      "given": "Jamil A",
+      "family": "Samkari",
+      "sequence": 6
+    },
+    {
+      "given": "Abdullah A",
+      "family": "Tawakul",
+      "sequence": 7
+    },
+    {
+      "given": "Omar",
+      "family": "Babateen",
+      "sequence": 8
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.7759__cureus.37945.pdf"
@@ -14,5 +55,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.7759-cureus.37945"
+  "id": "doi-10.7759-cureus.37945",
+  "publication": {
+    "year": 2023
+  }
 }

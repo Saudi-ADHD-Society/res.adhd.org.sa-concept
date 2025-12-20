@@ -6,7 +6,53 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Mahdi M",
+      "family": "Alqarni",
+      "sequence": 1
+    },
+    {
+      "given": "Ayed A",
+      "family": "Shati",
+      "sequence": 2
+    },
+    {
+      "given": "Mohammed Z",
+      "family": "Alassiry",
+      "sequence": 3
+    },
+    {
+      "given": "Waddah M. A",
+      "family": "Asiri",
+      "sequence": 4
+    },
+    {
+      "given": "Saeed S",
+      "family": "Alqahtani",
+      "sequence": 5
+    },
+    {
+      "given": "Ahmed S",
+      "family": "ALZomia",
+      "sequence": 6
+    },
+    {
+      "given": "Naif A",
+      "family": "Mahnashi",
+      "sequence": 7
+    },
+    {
+      "given": "Mushary S",
+      "family": "Alqahtani",
+      "sequence": 8
+    },
+    {
+      "given": "Faisal S",
+      "family": "Alamri",
+      "sequence": 9
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.7759__cureus.17396.pdf"
@@ -14,5 +60,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.7759-cureus.17396"
+  "id": "doi-10.7759-cureus.17396",
+  "publication": {
+    "year": 2021
+  }
 }

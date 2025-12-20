@@ -6,7 +6,18 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Omar",
+      "family": "Al-Modayfer",
+      "sequence": 1
+    },
+    {
+      "given": "Yousra",
+      "family": "Alatiq",
+      "sequence": 2
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.12816__0014485.pdf"
@@ -14,5 +25,21 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.12816-0014485"
+  "id": "doi-10.12816-0014485",
+  "publication": {
+    "year": 2015
+  },
+  "journal": {
+    "name": "The Arab Journal of Psychiatry",
+    "issn": "1016-8923",
+    "volume": "26",
+    "issue": "2",
+    "pages": {
+      "start": "184",
+      "end": "192"
+    }
+  },
+  "identifiers": {
+    "doi": "10.12816/0014485"
+  }
 }

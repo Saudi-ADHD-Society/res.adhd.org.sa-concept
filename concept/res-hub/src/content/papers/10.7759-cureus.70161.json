@@ -6,7 +6,33 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Jihad",
+      "family": "Algadeeb",
+      "sequence": 1
+    },
+    {
+      "given": "Essa Mohammed",
+      "family": "AlSaleh",
+      "sequence": 2
+    },
+    {
+      "given": "Rahma B",
+      "family": "AlGadeeb",
+      "sequence": 3
+    },
+    {
+      "given": "Huda Abdulaziz S",
+      "family": "Alkhoufi",
+      "sequence": 4
+    },
+    {
+      "given": "Ali Jawad",
+      "family": "Alsaad",
+      "sequence": 5
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.7759__cureus.70161.pdf"
@@ -14,5 +40,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.7759-cureus.70161"
+  "id": "doi-10.7759-cureus.70161",
+  "publication": {
+    "year": 2024
+  }
 }

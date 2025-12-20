@@ -6,12 +6,36 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Ammar A.",
+      "family": "Albokhari",
+      "sequence": 1
+    },
+    {
+      "given": "Rajab A.",
+      "family": "Bresaly",
+      "sequence": 2
+    },
+    {
+      "given": "Magdy M.",
+      "family": "Hassan",
+      "sequence": 3
+    },
+    {
+      "given": "Abrar A.",
+      "family": "Khan",
+      "sequence": 4
+    }
+  ],
   "access": {
     "status": "unknown"
   },
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.25259-jmri_26_2021"
+  "id": "doi-10.25259-jmri_26_2021",
+  "publication": {
+    "year": 2022
+  }
 }

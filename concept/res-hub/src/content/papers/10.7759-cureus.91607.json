@@ -6,7 +6,53 @@
   "categories": [
     "Uncategorized"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "given": "Salahuddin",
+      "family": "Khan",
+      "sequence": 1
+    },
+    {
+      "given": "Ammar Y",
+      "family": "Al Qahtani",
+      "sequence": 2
+    },
+    {
+      "given": "Abdulrahman K",
+      "family": "Aburas",
+      "sequence": 3
+    },
+    {
+      "given": "Sultan H",
+      "family": "AlKhashan",
+      "sequence": 4
+    },
+    {
+      "given": "Fahad A",
+      "family": "Giraud",
+      "sequence": 5
+    },
+    {
+      "given": "Khaled M",
+      "family": "Alolayan",
+      "sequence": 6
+    },
+    {
+      "given": "Abdullah A",
+      "family": "AL Mohsen",
+      "sequence": 7
+    },
+    {
+      "given": "Abdulaziz M",
+      "family": "Almegren",
+      "sequence": 8
+    },
+    {
+      "given": "Mohammed I",
+      "family": "Albalawi",
+      "sequence": 9
+    }
+  ],
   "access": {
     "status": "unknown",
     "localPdfUrl": "library/doi__10.7759__cureus.91607.pdf"
@@ -14,5 +60,8 @@
   "visibility": {
     "hidden": false
   },
-  "id": "doi-10.7759-cureus.91607"
+  "id": "doi-10.7759-cureus.91607",
+  "publication": {
+    "year": 2025
+  }
 }
