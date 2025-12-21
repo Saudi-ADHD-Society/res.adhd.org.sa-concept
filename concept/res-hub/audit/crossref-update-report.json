@@ -1,8 +1,13 @@
 [
   {
-    "slug": "10.5923-j.ijap.20170705.01",
-    "doi": "10.5923/j.ijap.20170705.01",
-    "status": "error",
-    "error": "DOI not found in Crossref"
+    "slug": "10.21608-sero.2020.120479",
+    "doi": "10.21608/sero.2020.120479",
+    "status": "updated",
+    "updatedFields": [
+      "title",
+      "authors",
+      "publication",
+      "journal"
+    ]
   }
 ]

@@ -12942,6 +12942,71 @@
     "legacy": {}
   },
   {
+    "id": "doi-10.5923-j.ijap.20170705.01",
+    "slug": "10.5923-j.ijap.20170705.01",
+    "doi": "10.5923/j.ijap.20170705.01",
+    "identifiers": {
+      "doi": "10.5923/j.ijap.20170705.01",
+      "url": "http://article.sapub.org/10.5923.j.ijap.20170705.01.html",
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "An Analysis of Prevalence Rates of Saudi's Students with Emotional and Behavior Problems and Its Effects of Gender and Age",
+    "abstract": "Emotional and Behavioral Problems (EBPs) have an adverse impact on a child's education performance. EBPs have been considerably addressed in the Europe and North America nonetheless in Middle East, North Africa and most parts of Asia including Saudi Arabia, they have not been adequately addressed. This study sought to establish the prevalence rates of EBPs, examine the EBP differences between non-clinical students and students with learning disabilities; determine the gender and age differences in terms of EBPs and lastly to establish interactional effects of age and gender on EBPs. The current study adopted a descriptive survey with a sample of 1121 participants; 798 non-clinical students and 323 students referred for learning disabilities. The teacher informant version of the Strengths and Difficulties Questionnaire was used as a research instrument. Students with learning disabilities and younger students (age<12) had higher EBP rates (with p-values below 0.05). Females had higher EBP rates for emotional symptoms and pro-social behavior, and males for conduct problems. Finally, there were gender-age interactional effects on: emotional symptoms, conduct problems, hyperactivity and total difficulty score (p-values<0.05). Generally, there were differences between students with learning disabilities and those referred to as non-clinical; male and female; as well as younger and older, in terms of EBP rates. There were gender-age interactional effects on EBPs. The study suggested that educators should develop mechanisms like guidance and counselling to ensure that differences in EBPs are adequately addressed.",
+    "language": "English",
+    "categories": [
+      "Prevalence"
+    ],
+    "keywords": [
+      "Emotional and behavioral difficulties",
+      "Gender and age differences",
+      "Middle school",
+      "Saudi Arabia"
+    ],
+    "publication": {
+      "type": "Journal Article",
+      "publishedDate": null,
+      "year": 2017
+    },
+    "journal": {
+      "name": "International Journal of Applied Psychology",
+      "abbreviation": null,
+      "issn": "2168-5010",
+      "volume": "7",
+      "issue": "5",
+      "pages": {
+        "start": "101",
+        "end": "109"
+      }
+    },
+    "authors": [
+      {
+        "given": "Mogeda El Sayed",
+        "family": "El Keshky",
+        "sequence": 1
+      },
+      {
+        "given": "Nsreen A.",
+        "family": "Alahmadi",
+        "sequence": 2
+      }
+    ],
+    "access": {
+      "status": "open",
+      "license": "CC BY",
+      "source": "publisher",
+      "licenseUrl": "http://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "http://article.sapub.org/10.5923.j.ijap.20170705.01.html",
+      "localPdfUrl": "library/doi__10.5923__j__ijap__20170705__01.pdf",
+      "researchGateUrl": null
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
+  },
+  {
     "id": "doi-10.1007-s00787-017-0983-1",
     "slug": "10.1007-s00787-017-0983-1",
     "doi": "10.1007/s00787-017-0983-1",
@@ -19018,21 +19083,21 @@
     "legacy": {}
   },
   {
-    "id": "doi-10.5923-j.ijap.20170705.01",
-    "slug": "10.5923-j.ijap.20170705.01",
-    "doi": "10.5923/j.ijap.20170705.01",
+    "id": "doi-10.21608-sero.2020.120479",
+    "slug": "10.21608-sero.2020.120479",
+    "doi": "10.21608/sero.2020.120479",
     "identifiers": {
-      "doi": "10.5923/j.ijap.20170705.01",
+      "doi": "10.21608/sero.2020.120479",
       "url": null,
       "pmid": null,
       "pmcid": null,
       "isbn": null
     },
-    "title": "An Analysis of Prevalence Rates of Saudi’s Students with Emotional and Behavior Problems and Its Effects of Gender and Age",
+    "title": "",
     "abstract": null,
     "language": "English",
     "categories": [
-      "Prevalence"
+      "Uncategorized"
     ],
     "keywords": [],
     "publication": {
@@ -19057,7 +19122,7 @@
       "license": null,
       "source": null,
       "licenseUrl": null,
-      "sourceUrl": "http://article.sapub.org/10.5923.j.ijap.20170705.01.html",
+      "sourceUrl": null,
       "localPdfUrl": null,
       "researchGateUrl": null
     },

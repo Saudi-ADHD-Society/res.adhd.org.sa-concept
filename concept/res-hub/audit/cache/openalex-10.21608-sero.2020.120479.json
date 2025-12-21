@@ -1,0 +1,618 @@
+{
+  "id": "https://openalex.org/W3095380591",
+  "doi": "https://doi.org/10.21608/sero.2020.120479",
+  "title": "المناصرة الذاتیة فی الکتابة وأهمیتها فــی التخطیــــط الانتقــــــالــــی للطلبــــة من ذوی الاضطرابات السلوکیة والانفعالیة The importance of self-advocacy in writing for emotional and behavioral disorders in order of transitional planning",
+  "display_name": "المناصرة الذاتیة فی الکتابة وأهمیتها فــی التخطیــــط الانتقــــــالــــی للطلبــــة من ذوی الاضطرابات السلوکیة والانفعالیة The importance of self-advocacy in writing for emotional and behavioral disorders in order of transitional planning",
+  "publication_year": 2020,
+  "publication_date": "2020-09-01",
+  "ids": {
+    "openalex": "https://openalex.org/W3095380591",
+    "doi": "https://doi.org/10.21608/sero.2020.120479",
+    "mag": "3095380591"
+  },
+  "language": "ar",
+  "primary_location": {
+    "id": "doi:10.21608/sero.2020.120479",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.21608/sero.2020.120479",
+    "pdf_url": "https://sero.journals.ekb.eg/article_120479_0ca2e99ca9e50e21b276c3f62b99d6ed.pdf",
+    "source": {
+      "id": "https://openalex.org/S4210199626",
+      "display_name": "مجلة التربية الخاصة والتأهيل",
+      "issn_l": "2314-8608",
+      "issn": [
+        "2314-8608",
+        "2735-3141"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "مجلة التربیة الخاصة والتأهیل",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://sero.journals.ekb.eg/article_120479_0ca2e99ca9e50e21b276c3f62b99d6ed.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5096964918",
+        "display_name": "لطیفـــة أحمــد عبـدالعـزیـز الملحــم",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "لطیفـــة أحمــد عبـدالعـزیـز الملحــم",
+      "raw_affiliation_strings": [
+        "محــــــاضــــر\nکليـة الـتربيــة-جــامعــة الملک فيصـل"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "محــــــاضــــر\nکليـة الـتربيــة-جــامعــة الملک فيصـل",
+          "institution_ids": []
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5096964918"
+  ],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.17003917,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "10",
+    "issue": "2",
+    "first_page": "159",
+    "last_page": "178"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11632",
+    "display_name": "Family and Disability Support Research",
+    "score": 0.7677000164985657,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3203",
+      "display_name": "Clinical Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11632",
+      "display_name": "Family and Disability Support Research",
+      "score": 0.7677000164985657,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10106",
+      "display_name": "Autism Spectrum Disorder Research",
+      "score": 0.7595999836921692,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11761",
+      "display_name": "Resilience and Mental Health",
+      "score": 0.7498999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/self-advocacy",
+      "display_name": "Self-advocacy",
+      "score": 0.6679648160934448
+    },
+    {
+      "id": "https://openalex.org/keywords/order",
+      "display_name": "Order (exchange)",
+      "score": 0.611883282661438
+    },
+    {
+      "id": "https://openalex.org/keywords/emotional-and-behavioral-disorders",
+      "display_name": "Emotional and behavioral disorders",
+      "score": 0.5763312578201294
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.5382058620452881
+    },
+    {
+      "id": "https://openalex.org/keywords/political-science",
+      "display_name": "Political science",
+      "score": 0.3361550569534302
+    },
+    {
+      "id": "https://openalex.org/keywords/pedagogy",
+      "display_name": "Pedagogy",
+      "score": 0.30158478021621704
+    },
+    {
+      "id": "https://openalex.org/keywords/law",
+      "display_name": "Law",
+      "score": 0.1269010603427887
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2780478730",
+      "wikidata": "https://www.wikidata.org/wiki/Q7448012",
+      "display_name": "Self-advocacy",
+      "level": 2,
+      "score": 0.6679648160934448
+    },
+    {
+      "id": "https://openalex.org/C182306322",
+      "wikidata": "https://www.wikidata.org/wiki/Q1779371",
+      "display_name": "Order (exchange)",
+      "level": 2,
+      "score": 0.611883282661438
+    },
+    {
+      "id": "https://openalex.org/C2778936819",
+      "wikidata": "https://www.wikidata.org/wiki/Q3063847",
+      "display_name": "Emotional and behavioral disorders",
+      "level": 4,
+      "score": 0.5763312578201294
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.5382058620452881
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.3361550569534302
+    },
+    {
+      "id": "https://openalex.org/C19417346",
+      "wikidata": "https://www.wikidata.org/wiki/Q7922",
+      "display_name": "Pedagogy",
+      "level": 1,
+      "score": 0.30158478021621704
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.1269010603427887
+    },
+    {
+      "id": "https://openalex.org/C506058694",
+      "wikidata": "https://www.wikidata.org/wiki/Q132971",
+      "display_name": "Dyslexia",
+      "level": 3,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C10138342",
+      "wikidata": "https://www.wikidata.org/wiki/Q43015",
+      "display_name": "Finance",
+      "level": 1,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C554936623",
+      "wikidata": "https://www.wikidata.org/wiki/Q199657",
+      "display_name": "Reading (process)",
+      "level": 2,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.21608/sero.2020.120479",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.21608/sero.2020.120479",
+      "pdf_url": "https://sero.journals.ekb.eg/article_120479_0ca2e99ca9e50e21b276c3f62b99d6ed.pdf",
+      "source": {
+        "id": "https://openalex.org/S4210199626",
+        "display_name": "مجلة التربية الخاصة والتأهيل",
+        "issn_l": "2314-8608",
+        "issn": [
+          "2314-8608",
+          "2735-3141"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "مجلة التربیة الخاصة والتأهیل",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.21608/sero.2020.120479",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.21608/sero.2020.120479",
+    "pdf_url": "https://sero.journals.ekb.eg/article_120479_0ca2e99ca9e50e21b276c3f62b99d6ed.pdf",
+    "source": {
+      "id": "https://openalex.org/S4210199626",
+      "display_name": "مجلة التربية الخاصة والتأهيل",
+      "issn_l": "2314-8608",
+      "issn": [
+        "2314-8608",
+        "2735-3141"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "مجلة التربیة الخاصة والتأهیل",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 20,
+  "referenced_works": [
+    "https://openalex.org/W2792790173",
+    "https://openalex.org/W2071831448",
+    "https://openalex.org/W111045822",
+    "https://openalex.org/W2223129721",
+    "https://openalex.org/W1987537295",
+    "https://openalex.org/W81028073",
+    "https://openalex.org/W2775221352",
+    "https://openalex.org/W2901621002",
+    "https://openalex.org/W1482832455",
+    "https://openalex.org/W2763761032",
+    "https://openalex.org/W2793284526",
+    "https://openalex.org/W2153119155",
+    "https://openalex.org/W2800001561",
+    "https://openalex.org/W91484462",
+    "https://openalex.org/W1853542319",
+    "https://openalex.org/W2257340810",
+    "https://openalex.org/W2590363325",
+    "https://openalex.org/W2744650086",
+    "https://openalex.org/W2913767228",
+    "https://openalex.org/W2915224391"
+  ],
+  "related_works": [
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2031192031",
+    "https://openalex.org/W2130112734",
+    "https://openalex.org/W2614791696",
+    "https://openalex.org/W2931662336",
+    "https://openalex.org/W2077865380",
+    "https://openalex.org/W610602347",
+    "https://openalex.org/W1497518709",
+    "https://openalex.org/W2053487507",
+    "https://openalex.org/W2765597752"
+  ],
+  "abstract_inverted_index": {
+    "Self-Advocacy": [
+      0
+    ],
+    "in": [
+      1,
+      11,
+      17,
+      48,
+      55,
+      90,
+      92
+    ],
+    "writing": [
+      2,
+      91
+    ],
+    "are": [
+      3,
+      52
+    ],
+    "one": [
+      4
+    ],
+    "of": [
+      5,
+      29,
+      61,
+      68
+    ],
+    "the": [
+      6,
+      41,
+      56,
+      59,
+      66,
+      93
+    ],
+    "most": [
+      7
+    ],
+    "important": [
+      8
+    ],
+    "current": [
+      9
+    ],
+    "issues": [
+      10
+    ],
+    "teaching": [
+      12,
+      32
+    ],
+    "emotional": [
+      13,
+      35
+    ],
+    "and": [
+      14,
+      36,
+      85
+    ],
+    "behavioral": [
+      15,
+      37
+    ],
+    "students": [
+      16,
+      33
+    ],
+    "developed": [
+      18
+    ],
+    "countries.Laws": [
+      19
+    ],
+    "require": [
+      20
+    ],
+    "teachers": [
+      21
+    ],
+    "to": [
+      22,
+      40,
+      64,
+      73,
+      77,
+      88
+    ],
+    "implement": [
+      23
+    ],
+    "self-advocacy": [
+      24,
+      89
+    ],
+    "practices": [
+      25,
+      47,
+      51
+    ],
+    "as": [
+      26
+    ],
+    "a": [
+      27
+    ],
+    "part": [
+      28
+    ],
+    "selfdetermination": [
+      30
+    ],
+    "when": [
+      31
+    ],
+    "with": [
+      34
+    ],
+    "disorders": [
+      38
+    ],
+    "due": [
+      39
+    ],
+    "positive": [
+      42
+    ],
+    "effects": [
+      43
+    ],
+    "for": [
+      44
+    ],
+    "using": [
+      45
+    ],
+    "these": [
+      46,
+      50
+    ],
+    "writing.Unfortunately,": [
+      49
+    ],
+    "rarely": [
+      53
+    ],
+    "discussed": [
+      54
+    ],
+    "Arab": [
+      57,
+      94
+    ],
+    "world.Therefore,": [
+      58
+    ],
+    "purpose": [
+      60
+    ],
+    "this": [
+      62,
+      80
+    ],
+    "study": [
+      63,
+      81
+    ],
+    "define": [
+      65
+    ],
+    "concept": [
+      67
+    ],
+    "self-advocacy,": [
+      69,
+      75
+    ],
+    "their": [
+      70,
+      78
+    ],
+    "importance,": [
+      71
+    ],
+    "how": [
+      72
+    ],
+    "teach": [
+      74
+    ],
+    "obstacles": [
+      76
+    ],
+    "implementation.Finally,": [
+      79
+    ],
+    "presented": [
+      82
+    ],
+    "several": [
+      83
+    ],
+    "recommendations": [
+      84
+    ],
+    "suggestions": [
+      86
+    ],
+    "related": [
+      87
+    ],
+    "world.": [
+      95
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

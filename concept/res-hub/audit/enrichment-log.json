@@ -1,11 +1,18 @@
 [
   {
-    "slug": "10.5923-j.ijap.20170705.01",
-    "doi": "10.5923/j.ijap.20170705.01",
-    "updates": {},
-    "skipped": [
-      "grobid - no local PDF"
-    ],
+    "slug": "10.21608-sero.2020.120479",
+    "doi": "10.21608/sero.2020.120479",
+    "updates": {
+      "abstract": {
+        "source": "openalex",
+        "confidence": 1
+      },
+      "access.sourceUrl": {
+        "source": "openalex",
+        "confidence": 0.9
+      }
+    },
+    "skipped": [],
     "errors": []
   }
 ]
