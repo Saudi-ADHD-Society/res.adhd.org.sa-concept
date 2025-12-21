@@ -19016,5 +19016,54 @@
       "hidden": false
     },
     "legacy": {}
+  },
+  {
+    "id": "doi-10.5923-j.ijap.20170705.01",
+    "slug": "10.5923-j.ijap.20170705.01",
+    "doi": "10.5923/j.ijap.20170705.01",
+    "identifiers": {
+      "doi": "10.5923/j.ijap.20170705.01",
+      "url": null,
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "An Analysis of Prevalence Rates of Saudi’s Students with Emotional and Behavior Problems and Its Effects of Gender and Age",
+    "abstract": null,
+    "language": "English",
+    "categories": [
+      "Prevalence"
+    ],
+    "keywords": [],
+    "publication": {
+      "type": null,
+      "publishedDate": null,
+      "year": null
+    },
+    "journal": {
+      "name": null,
+      "abbreviation": null,
+      "issn": null,
+      "volume": null,
+      "issue": null,
+      "pages": {
+        "start": null,
+        "end": null
+      }
+    },
+    "authors": [],
+    "access": {
+      "status": "unknown",
+      "license": null,
+      "source": null,
+      "licenseUrl": null,
+      "sourceUrl": "http://article.sapub.org/10.5923.j.ijap.20170705.01.html",
+      "localPdfUrl": null,
+      "researchGateUrl": null
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
   }
 ]

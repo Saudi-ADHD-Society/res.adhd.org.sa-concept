@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-12-20T10:03:04.332Z",
+  "timestamp": "2025-12-21T13:14:31.690Z",
   "stats": {
-    "total": 61,
+    "total": 1,
     "updated": 0,
-    "skipped": 61,
+    "skipped": 1,
     "errors": 0,
     "abstractsUpdated": 0,
     "pdfUrlsUpdated": 0,

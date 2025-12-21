@@ -1,69 +1,7 @@
 [
   {
-    "slug": "10.12816-0055785",
-    "doi": "10.12816/0055785",
-    "status": "error",
-    "error": "DOI not found in Crossref"
-  },
-  {
-    "slug": "10.14704-nq.2022.20.6.nq22648",
-    "doi": "10.14704/nq.2022.20.6.nq22648",
-    "status": "error",
-    "error": "DOI not found in Crossref"
-  },
-  {
-    "slug": "10.21608-jasht.2020.118465",
-    "doi": "10.21608/jasht.2020.118465",
-    "status": "error",
-    "error": "DOI not found in Crossref"
-  },
-  {
-    "slug": "10.24087-iam.2019.3.1.693",
-    "doi": "10.24087/iam.2019.3.1.693",
-    "status": "error",
-    "error": "DOI not found in Crossref"
-  },
-  {
-    "slug": "10.37421-2472-0496.22.8.162",
-    "doi": "10.37421/2472-0496.22.8.162",
-    "status": "error",
-    "error": "DOI not found in Crossref"
-  },
-  {
-    "slug": "10.4103-hjhs.hjhs3222",
-    "doi": "10.4103/hjhs.hjhs_32_22",
-    "status": "error",
-    "error": "DOI not found in Crossref"
-  },
-  {
-    "slug": "10.6084-m9.figshare.26310276",
-    "doi": "10.6084/m9.figshare.26310276",
-    "status": "error",
-    "error": "DOI not found in Crossref"
-  },
-  {
-    "slug": "attention-deficit-hyperactivity-disorder-and-dental-traumatic-injuries-a-systemic-review-and-meta-analysis-2024",
-    "doi": "10.26355/eurrev_202405_36176",
-    "status": "error",
-    "error": "DOI not found in Crossref"
-  },
-  {
-    "slug": "attention-deficit-hyperactivity-symptoms-among-al-dawadmi-primary-schools-children-as-reported-by-their-teachers-2016",
-    "doi": "10.21608/ejhc.2016.195279",
-    "status": "updated",
-    "updatedFields": [
-      "journal"
-    ]
-  },
-  {
-    "slug": "prevalence-of-attention-deficit-and-hyperactivity-disorder-in-children-with-language-impairments-and-speech-disorders-2016",
-    "doi": "10.32628/ijsrset162123",
-    "status": "error",
-    "error": "DOI not found in Crossref"
-  },
-  {
-    "slug": "the-new-educators-the-reasons-for-saudi-arabia-to-invest-more-in-student-counseling-programs-2016",
-    "doi": "10.5281/zenodo.1126759",
+    "slug": "10.5923-j.ijap.20170705.01",
+    "doi": "10.5923/j.ijap.20170705.01",
     "status": "error",
     "error": "DOI not found in Crossref"
   }
