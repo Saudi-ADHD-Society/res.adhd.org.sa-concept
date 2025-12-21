@@ -114,6 +114,65 @@ function randomId() {
 }
 
 /**
+ * Recursively removes null values from an object, except for fields that are
+ * explicitly allowed to be null according to the schema (nullable fields).
+ * Fields that are optional but not nullable should be omitted entirely.
+ */
+function removeNullValues(obj, parentPath = '') {
+  if (obj === null || typeof obj !== 'object') {
+    return obj;
+  }
+  
+  if (Array.isArray(obj)) {
+    return obj.map(item => removeNullValues(item, parentPath));
+  }
+  
+  const result = {};
+  for (const [key, value] of Object.entries(obj)) {
+    const currentPath = parentPath ? `${parentPath}.${key}` : key;
+    
+    // Fields that are explicitly nullable according to the schema
+    // These are: access.licenseUrl, access.sourceUrl, access.localPdfUrl, 
+    // access.researchGateUrl, journal.issue, journal.pages.end
+    const nullableFieldPaths = new Set([
+      'access.licenseUrl',
+      'access.sourceUrl',
+      'access.localPdfUrl',
+      'access.researchGateUrl',
+      'journal.issue',
+      'journal.pages.end',
+    ]);
+    
+    if (value === null) {
+      // Keep null values for fields that are explicitly nullable
+      if (nullableFieldPaths.has(currentPath)) {
+        result[key] = null;
+      }
+      // Otherwise, omit the field entirely (don't add it to result)
+    } else if (typeof value === 'object') {
+      const cleaned = removeNullValues(value, currentPath);
+      // Only include non-empty objects/arrays
+      // For objects, check if they have any non-null values
+      if (Array.isArray(cleaned)) {
+        if (cleaned.length > 0) {
+          result[key] = cleaned;
+        }
+      } else {
+        const hasNonNullValues = Object.values(cleaned).some(v => v !== null);
+        if (hasNonNullValues) {
+          result[key] = cleaned;
+        }
+        // If object only contains null values, omit it (since nested objects are optional)
+      }
+    } else {
+      result[key] = value;
+    }
+  }
+  
+  return result;
+}
+
+/**
  * Creates a new paper from template and arguments
  */
 function createNewPaper(args) {
@@ -175,7 +234,12 @@ function createNewPaper(args) {
     };
   }
   
-  return { paper, slug };
+  // Remove null values from optional fields that don't allow null
+  // This ensures the paper matches the Zod schema which expects optional
+  // fields to be omitted rather than set to null
+  const cleanedPaper = removeNullValues(paper);
+  
+  return { paper: cleanedPaper, slug };
 }
 
 // ============================================================================
