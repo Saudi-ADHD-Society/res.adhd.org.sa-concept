@@ -187,7 +187,7 @@ npm run papers:enrich -- --skip-grobid
 
 ### Create New Paper
 
-Generate a new paper JSON file from a template with consistent formatting.
+Generate a new paper JSON file from a template with consistent formatting. Creates a JSON file in `src/content/papers/` based on `scripts/paper.template.json`.
 
 ```bash
 cd concept/res-hub
@@ -195,24 +195,42 @@ npm run paper:new
 ```
 
 **Options:**
-- `--doi <doi>` - Create paper from DOI (slug will be auto-generated)
-- `--slug <slug> --title <title>` - Create paper with custom slug and title
-- `--year <year>` - Set publication year (optional)
+- `--doi <doi>` - Create paper from DOI (slug will be auto-generated from the DOI)
+- `--slug <slug> --title <title>` - Create paper with custom slug (requires `--title`)
+- `--year <year>` - Set publication year (optional, must be between 1900-2099)
 - `--force` - Overwrite existing file if it exists
+
+**Usage:**
+- **With DOI**: Provide `--doi` and optionally `--year`. The slug is automatically generated from the DOI by normalizing it (lowercase, removes `https://doi.org/` prefix, converts `/` to `-`).
+- **Without DOI**: Provide both `--slug` and `--title`, optionally `--year`. The slug will be cleaned (lowercase, removes invalid characters, collapses dashes).
 
 **Examples:**
 ```bash
-# Create from DOI
-npm run paper:new -- --doi "10.1000/test.doi" --title "Test Paper" --year 2024
+# Create from DOI (slug auto-generated as "10-1000-test-doi")
+npm run paper:new -- --doi "10.1000/test.doi" --year 2024
 
-# Create without DOI
-npm run paper:new -- --slug "test-paper" --title "Test Paper" --year 2023
+# Create from DOI with full URL (automatically normalized)
+npm run paper:new -- --doi "https://doi.org/10.1177/10870547241265877"
+
+# Create without DOI (title required)
+npm run paper:new -- --slug "my-research-paper" --title "My Research Paper Title" --year 2023
+
+# Overwrite existing file
+npm run paper:new -- --doi "10.1000/existing.doi" --force
 ```
 
-**Default values:**
+**Output:**
+- Creates a JSON file at `src/content/papers/<slug>.json`
+- Prints confirmation with ID, slug, DOI (if provided), title (if provided), and year (if provided)
+
+**Generated fields:**
+- `id`: `doi-<slug>` if DOI provided, otherwise `legacy-<random10>` (10-character hex string)
+- `slug`: Auto-generated from DOI or cleaned from provided slug
 - `categories`: `["Uncategorized"]`
 - `access.status`: `"unknown"`
-- `id`: `doi-<slug>` if DOI provided, otherwise `legacy-<random10>`
+- `doi` and `identifiers.doi`: Set if `--doi` provided (normalized)
+- `title`: Set if `--title` provided (when using `--slug`)
+- `publication.year`: Set if `--year` provided
 
 ## Paper Schema
 
