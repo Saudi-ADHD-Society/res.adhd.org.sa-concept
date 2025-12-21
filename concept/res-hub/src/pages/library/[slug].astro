@@ -196,31 +196,39 @@ const formatJournalCitation = () => {
               </div>
             )}
 
-            {/* Download PDF */}
-            {paperData.access.localPdfUrl && (
-              <div>
-                <a
-                  href={`${basePath}${paperData.access.localPdfUrl}`}
-                  target="_blank"
-                  rel="noreferrer"
-                  class="inline-flex items-center px-4 py-2 bg-emerald-600 hover:bg-emerald-700 text-white font-semibold rounded-lg transition-colors"
-                >
-                  Download PDF
-                </a>
-              </div>
-            )}
-
-            {/* Publisher Page */}
-            {paperData.access.sourceUrl && !paperData.access.localPdfUrl && (
-              <div>
-                <a
-                  href={paperData.access.sourceUrl}
-                  target="_blank"
-                  rel="noreferrer"
-                  class="inline-flex items-center px-4 py-2 bg-emerald-600 hover:bg-emerald-700 text-white font-semibold rounded-lg transition-colors"
-                >
-                  View Publisher Page →
-                </a>
+            {/* Download PDF and Publisher Page */}
+            {(paperData.access.localPdfUrl || paperData.access.sourceUrl) && (
+              <div class="flex flex-wrap gap-3">
+                {paperData.access.localPdfUrl && (
+                  <a
+                    href={`${basePath}${paperData.access.localPdfUrl}`}
+                    target="_blank"
+                    rel="noreferrer"
+                    class="inline-flex items-center gap-2 px-4 py-2 bg-emerald-600 hover:bg-emerald-700 text-white font-semibold rounded-lg transition-colors"
+                  >
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4">
+                      <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                      <polyline points="7 10 12 15 17 10"></polyline>
+                      <line x1="12" y1="15" x2="12" y2="3"></line>
+                    </svg>
+                    Download PDF
+                  </a>
+                )}
+                {paperData.access.sourceUrl && (
+                  <a
+                    href={paperData.access.sourceUrl}
+                    target="_blank"
+                    rel="noreferrer"
+                    class="inline-flex items-center gap-2 px-4 py-2 bg-emerald-600 hover:bg-emerald-700 text-white font-semibold rounded-lg transition-colors"
+                  >
+                    View Publisher Page
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4">
+                      <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                      <polyline points="15 3 21 3 21 9"></polyline>
+                      <line x1="10" y1="14" x2="21" y2="3"></line>
+                    </svg>
+                  </a>
+                )}
               </div>
             )}
 
