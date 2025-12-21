@@ -233,10 +233,8 @@ async function processPaper(filePath, args, stats) {
       return { status: 'skipped', reason: 'no DOI' };
     }
     
-    // Check if we should process this specific DOI
-    if (args.doi && normalizeDoi(doi) !== normalizeDoi(args.doi)) {
-      return { status: 'skipped', reason: 'DOI mismatch' };
-    }
+    // Note: If args.doi was provided, files were already filtered by DOI/slug/filename,
+    // so no need to check again here
     
     // Check if access update is needed
     if (!needsAccessUpdate(paper)) {
@@ -341,14 +339,20 @@ async function main() {
   // Get list of papers
   let files = readdirSync(PAPERS_DIR).filter(f => f.endsWith('.json'));
   
-  // Filter by DOI if specified
+  // Filter by DOI/slug/filename if specified
   if (args.doi) {
     const targetDoi = normalizeDoi(args.doi);
+    const targetInput = args.doi.toLowerCase().trim();
     files = files.filter(file => {
       try {
         const paper = JSON.parse(readFileSync(join(PAPERS_DIR, file), 'utf-8'));
         const paperDoi = normalizeDoi(paper.doi || paper.identifiers?.doi || '');
-        return paperDoi === targetDoi;
+        const paperSlug = (paper.slug || file.replace(/\.json$/, '')).toLowerCase();
+        const fileName = file.replace(/\.json$/, '').toLowerCase();
+        // Match by normalized DOI, slug, or filename
+        return paperDoi === targetDoi || 
+               paperSlug === targetInput || 
+               fileName === targetInput;
       } catch {
         return false;
       }

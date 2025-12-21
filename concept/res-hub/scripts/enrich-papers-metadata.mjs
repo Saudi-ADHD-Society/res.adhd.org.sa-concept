@@ -922,9 +922,10 @@ async function main() {
            missingFields.includes('identifiers.doi');
   });
   
-  // Filter by DOI if specified
+  // Filter by DOI/slug/filename if specified
   if (args.doi) {
     const targetDoi = normalizeDoi(args.doi);
+    const targetInput = args.doi.toLowerCase().trim();
     papersToEnrich = papersToEnrich.filter(record => {
       // Need to load paper to get DOI
       try {
@@ -932,13 +933,46 @@ async function main() {
         if (existsSync(paperPath)) {
           const paper = JSON.parse(readFileSync(paperPath, 'utf-8'));
           const paperDoi = normalizeDoi(paper.doi || paper.identifiers?.doi || '');
-          return paperDoi === targetDoi;
+          const paperSlug = (paper.slug || record.slug || '').toLowerCase();
+          // Match by normalized DOI or slug
+          return paperDoi === targetDoi || 
+                 paperSlug === targetInput ||
+                 record.slug.toLowerCase() === targetInput;
         }
       } catch {
         return false;
       }
       return false;
     });
+    
+    // If no papers found in CSV, try to load directly from papers directory
+    if (papersToEnrich.length === 0) {
+      const allFiles = readdirSync(PAPERS_DIR).filter(f => f.endsWith('.json'));
+      const matchingFiles = allFiles.filter(file => {
+        try {
+          const paperPath = join(PAPERS_DIR, file);
+          const paper = JSON.parse(readFileSync(paperPath, 'utf-8'));
+          const paperDoi = normalizeDoi(paper.doi || paper.identifiers?.doi || '');
+          const paperSlug = (paper.slug || file.replace(/\.json$/, '')).toLowerCase();
+          const fileName = file.replace(/\.json$/, '').toLowerCase();
+          return paperDoi === targetDoi || 
+                 paperSlug === targetInput || 
+                 fileName === targetInput;
+        } catch {
+          return false;
+        }
+      });
+      
+      // Convert matching files to records format
+      papersToEnrich = matchingFiles.map(file => {
+        const paperPath = join(PAPERS_DIR, file);
+        const paper = JSON.parse(readFileSync(paperPath, 'utf-8'));
+        return {
+          slug: paper.slug || file.replace(/\.json$/, ''),
+          missing_fields: 'abstract;authors;journal.name;publication.year', // Assume all fields might need enrichment
+        };
+      });
+    }
   }
   
   // Apply limit
