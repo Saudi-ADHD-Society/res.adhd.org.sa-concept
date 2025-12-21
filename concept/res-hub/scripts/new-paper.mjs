@@ -17,31 +17,48 @@ const TEMPLATE_PATH = join(__dirname, 'paper.template.json');
 
 /**
  * Normalizes a DOI string by trimming, lowercasing, and removing https://doi.org/ prefix if present
+ * Returns null if the input is empty or invalid after normalization
  */
 function normalizeDoi(input) {
-  if (!input) return '';
+  if (!input) return null;
   let normalized = input.trim().toLowerCase();
   // Remove https://doi.org/ or http://doi.org/ prefix if present
   normalized = normalized.replace(/^https?:\/\/doi\.org\//, '');
   // Remove doi: prefix if present
   normalized = normalized.replace(/^doi:/, '');
+  // Return null if empty after normalization
+  if (!normalized) return null;
   return normalized;
+}
+
+/**
+ * Validates that a normalized DOI has a valid format (prefix/suffix pattern)
+ */
+function isValidDoiFormat(doi) {
+  if (!doi) return false;
+  // DOI format: prefix/suffix where both parts exist
+  // Should have at least one / separating prefix and suffix
+  const parts = doi.split('/');
+  return parts.length >= 2 && parts[0].length > 0 && parts.slice(1).join('/').length > 0;
 }
 
 /**
  * Converts a DOI to a URL-safe slug
  * Replaces / with -, removes illegal chars, collapses multiple dashes
+ * Returns null if the DOI is invalid
  */
 function doiToSlug(doi) {
-  const normalized = normalizeDoi(doi);
+  if (!doi) return null;
   // Replace / with -
-  let slug = normalized.replace(/\//g, '-');
+  let slug = doi.replace(/\//g, '-');
   // Remove any characters that aren't alphanumeric, dash, or dot
   slug = slug.replace(/[^a-z0-9\-.]/g, '');
   // Collapse multiple consecutive dashes into a single dash
   slug = slug.replace(/-+/g, '-');
   // Remove leading/trailing dashes
   slug = slug.replace(/^-+|-+$/g, '');
+  // Return null if empty after processing
+  if (!slug) return null;
   return slug;
 }
 
@@ -185,15 +202,23 @@ function createNewPaper(args) {
   
   if (args.doi) {
     doi = normalizeDoi(args.doi);
+    if (!doi) {
+      throw new Error(`Invalid DOI: "${args.doi}" could not be normalized (empty after processing)`);
+    }
+    if (!isValidDoiFormat(doi)) {
+      throw new Error(`Invalid DOI format: "${doi}" (expected format: prefix/suffix)`);
+    }
     slug = doiToSlug(doi);
+    if (!slug) {
+      throw new Error(`Could not generate a valid slug from DOI: "${doi}"`);
+    }
   } else if (args.slug) {
     slug = cleanSlug(args.slug);
+    if (!slug) {
+      throw new Error(`Invalid slug: "${args.slug}" could not be cleaned (empty after processing)`);
+    }
   } else {
     throw new Error('Either --doi or --slug must be provided');
-  }
-  
-  if (!slug) {
-    throw new Error('Could not generate a valid slug');
   }
   
   // Generate ID
