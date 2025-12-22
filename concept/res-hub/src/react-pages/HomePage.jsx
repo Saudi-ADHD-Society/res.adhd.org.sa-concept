@@ -1,20 +1,9 @@
 import React from 'react';
-import { ChevronRight, ArrowRight, FileText, Activity, Users, BarChart2, BookOpen, Heart, FlaskConical, ClipboardCheck, Globe } from 'lucide-react';
+import { ChevronRight, ArrowRight, FileText, Activity, Users, BarChart2, BookOpen, Heart, FlaskConical, ClipboardCheck } from 'lucide-react';
 import { getHref } from '../utils/navigation';
 
 // Topic Guides Data - ordered by publication date (newest first)
 const TOPIC_GUIDES = [
-  {
-    id: 'topic-guide-society',
-    title: 'ADHD & Society: Costs, Policy, Stigma & Advocacy',
-    description: 'Examining the broader social, economic, and policy dimensions of ADHD, including healthcare costs, educational impacts, stigma reduction, and advocacy strategies.',
-    icon: Globe,
-    iconBg: 'bg-teal-100',
-    iconText: 'text-teal-700',
-    iconBgHover: 'bg-teal-600',
-    iconTextHover: 'text-white',
-    publishedDate: '2025-01-15'
-  },
   {
     id: 'topic-guide-diagnosis',
     title: 'Diagnosis & Assessment — Beyond Symptoms: Functioning & Disability',

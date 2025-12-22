@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookOpen, Users, Heart, FlaskConical, ClipboardCheck, Globe, Scale, ShieldCheck, GraduationCap, ArrowRight } from 'lucide-react';
+import { BookOpen, Users, Heart, FlaskConical, ClipboardCheck, Scale, ShieldCheck, GraduationCap, ArrowRight } from 'lucide-react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
@@ -167,26 +167,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
         </div>
       </a>
 
-      {/* Guide 9: ADHD & Society */}
-      <a
-        href={getHref('topic-guide-society', basePath)}
-        className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
-      >
-        <div className="w-12 h-12 bg-teal-100 text-teal-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-teal-600 group-hover:text-white transition-colors">
-          <Globe size={24} />
-        </div>
-        <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-emerald-700 transition-colors">
-          ADHD &amp; Society: Costs, Policy, Stigma &amp; Advocacy
-        </h3>
-        <p className="text-sm text-slate-600 mb-4 line-clamp-3">
-          Examining the broader social, economic, and policy dimensions of ADHD, including healthcare costs, educational impacts, stigma reduction, and advocacy strategies.
-        </p>
-        <div className="text-sm font-semibold text-emerald-700 flex items-center">
-          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
-        </div>
-      </a>
-
-      {/* Guide 10: ADHD Knowledge, Attitudes, and Awareness in Saudi Arabia */}
+      {/* Guide 9: ADHD Knowledge, Attitudes, and Awareness in Saudi Arabia */}
       <a
         href={getHref('topic-guide-saudi-arabia-knowledge', basePath)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"

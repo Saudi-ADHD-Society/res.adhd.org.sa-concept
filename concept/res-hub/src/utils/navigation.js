@@ -30,7 +30,6 @@ export const getPagePath = (pageId) => {
     'topic-guide-health-comorbidity': '/topic-guides/topic-guide-health-comorbidity',
     'topic-guide-treatments': '/topic-guides/topic-guide-treatments',
     'topic-guide-diagnosis': '/topic-guides/topic-guide-diagnosis',
-    'topic-guide-society': '/topic-guides/topic-guide-society',
     'topic-guide-women-girls': '/topic-guides/topic-guide-women-girls',
     'topic-guide-disability': '/topic-guides/topic-guide-disability',
     'topic-guide-validity-utility': '/topic-guides/topic-guide-validity-utility',
