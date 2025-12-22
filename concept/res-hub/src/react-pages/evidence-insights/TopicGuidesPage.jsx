@@ -33,64 +33,26 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
         </div>
       </a>
 
-      {/* Guide 2: ADHD Across the Lifespan */}
+      {/* Guide 2: The Validity and Utility of ADHD */}
       <a
-        href={getHref('topic-guide-lifespan', basePath)}
+        href={getHref('topic-guide-validity-utility', basePath)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
       >
-        <div className="w-12 h-12 bg-blue-100 text-blue-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-blue-600 group-hover:text-white transition-colors">
-          <Users size={24} />
+        <div className="w-12 h-12 bg-cyan-100 text-cyan-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-cyan-600 group-hover:text-white transition-colors">
+          <ShieldCheck size={24} />
         </div>
         <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-emerald-700 transition-colors">
-          ADHD Across the Lifespan
+          The Validity and Utility of ADHD: Evidence, Critiques, and Implications for Practice
         </h3>
         <p className="text-sm text-slate-600 mb-4 line-clamp-3">
-          Understanding how ADHD presents and evolves from childhood through adolescence, adulthood, and older age, with age-specific considerations for diagnosis and management.
+          Examining the scientific evidence for ADHD as a valid diagnostic construct, addressing common critiques, and exploring implications for clinical practice and policy.
         </p>
         <div className="text-sm font-semibold text-emerald-700 flex items-center">
           Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
         </div>
       </a>
 
-      {/* Guide 3: Health, Comorbidity & Risk */}
-      <a
-        href={getHref('topic-guide-health-comorbidity', basePath)}
-        className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
-      >
-        <div className="w-12 h-12 bg-rose-100 text-rose-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-rose-600 group-hover:text-white transition-colors">
-          <Heart size={24} />
-        </div>
-        <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-emerald-700 transition-colors">
-          Health, Comorbidity &amp; Risk in ADHD
-        </h3>
-        <p className="text-sm text-slate-600 mb-4 line-clamp-3">
-          Exploring the physical and mental health conditions that commonly co-occur with ADHD, risk factors, and strategies for comprehensive care.
-        </p>
-        <div className="text-sm font-semibold text-emerald-700 flex items-center">
-          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
-        </div>
-      </a>
-
-      {/* Guide 4: Evidence-Based Treatments */}
-      <a
-        href={getHref('topic-guide-treatments', basePath)}
-        className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
-      >
-        <div className="w-12 h-12 bg-purple-100 text-purple-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-purple-600 group-hover:text-white transition-colors">
-          <FlaskConical size={24} />
-        </div>
-        <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-emerald-700 transition-colors">
-          Evidence-Based Treatments: What Works &amp; What You Should Know
-        </h3>
-        <p className="text-sm text-slate-600 mb-4 line-clamp-3">
-          A comprehensive overview of proven treatments for ADHD, including medication, behavioral interventions, and combined approaches, with practical guidance for families and clinicians.
-        </p>
-        <div className="text-sm font-semibold text-emerald-700 flex items-center">
-          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
-        </div>
-      </a>
-
-      {/* Guide 5: Diagnosis & Assessment */}
+      {/* Guide 3: Diagnosis & Assessment */}
       <a
         href={getHref('topic-guide-diagnosis', basePath)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
@@ -109,26 +71,26 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
         </div>
       </a>
 
-      {/* Guide 6: ADHD & Society */}
+      {/* Guide 4: ADHD Across the Lifespan */}
       <a
-        href={getHref('topic-guide-society', basePath)}
+        href={getHref('topic-guide-lifespan', basePath)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
       >
-        <div className="w-12 h-12 bg-teal-100 text-teal-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-teal-600 group-hover:text-white transition-colors">
-          <Globe size={24} />
+        <div className="w-12 h-12 bg-blue-100 text-blue-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-blue-600 group-hover:text-white transition-colors">
+          <Users size={24} />
         </div>
         <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-emerald-700 transition-colors">
-          ADHD &amp; Society: Costs, Policy, Stigma &amp; Advocacy
+          ADHD Across the Lifespan
         </h3>
         <p className="text-sm text-slate-600 mb-4 line-clamp-3">
-          Examining the broader social, economic, and policy dimensions of ADHD, including healthcare costs, educational impacts, stigma reduction, and advocacy strategies.
+          Understanding how ADHD presents and evolves from childhood through adolescence, adulthood, and older age, with age-specific considerations for diagnosis and management.
         </p>
         <div className="text-sm font-semibold text-emerald-700 flex items-center">
           Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
         </div>
       </a>
 
-      {/* Guide 7: ADHD in Women & Girls */}
+      {/* Guide 5: ADHD in Women & Girls */}
       <a
         href={getHref('topic-guide-women-girls', basePath)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
@@ -142,6 +104,44 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
         <p className="text-sm text-slate-600 mb-4 line-clamp-3">
           Consensus-based guidance on recognising and managing ADHD in girls and women, including diagnostic interview
           nuances and pharmacological and non-pharmacological treatment considerations across the lifespan.
+        </p>
+        <div className="text-sm font-semibold text-emerald-700 flex items-center">
+          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
+        </div>
+      </a>
+
+      {/* Guide 6: Health, Comorbidity & Risk */}
+      <a
+        href={getHref('topic-guide-health-comorbidity', basePath)}
+        className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
+      >
+        <div className="w-12 h-12 bg-rose-100 text-rose-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-rose-600 group-hover:text-white transition-colors">
+          <Heart size={24} />
+        </div>
+        <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-emerald-700 transition-colors">
+          Health, Comorbidity &amp; Risk in ADHD
+        </h3>
+        <p className="text-sm text-slate-600 mb-4 line-clamp-3">
+          Exploring the physical and mental health conditions that commonly co-occur with ADHD, risk factors, and strategies for comprehensive care.
+        </p>
+        <div className="text-sm font-semibold text-emerald-700 flex items-center">
+          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
+        </div>
+      </a>
+
+      {/* Guide 7: Evidence-Based Treatments */}
+      <a
+        href={getHref('topic-guide-treatments', basePath)}
+        className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
+      >
+        <div className="w-12 h-12 bg-purple-100 text-purple-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-purple-600 group-hover:text-white transition-colors">
+          <FlaskConical size={24} />
+        </div>
+        <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-emerald-700 transition-colors">
+          Evidence-Based Treatments: What Works &amp; What You Should Know
+        </h3>
+        <p className="text-sm text-slate-600 mb-4 line-clamp-3">
+          A comprehensive overview of proven treatments for ADHD, including medication, behavioral interventions, and combined approaches, with practical guidance for families and clinicians.
         </p>
         <div className="text-sm font-semibold text-emerald-700 flex items-center">
           Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
@@ -167,19 +167,19 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
         </div>
       </a>
 
-      {/* Guide 9: The Validity and Utility of ADHD */}
+      {/* Guide 9: ADHD & Society */}
       <a
-        href={getHref('topic-guide-validity-utility', basePath)}
+        href={getHref('topic-guide-society', basePath)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
       >
-        <div className="w-12 h-12 bg-cyan-100 text-cyan-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-cyan-600 group-hover:text-white transition-colors">
-          <ShieldCheck size={24} />
+        <div className="w-12 h-12 bg-teal-100 text-teal-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-teal-600 group-hover:text-white transition-colors">
+          <Globe size={24} />
         </div>
         <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-emerald-700 transition-colors">
-          The Validity and Utility of ADHD: Evidence, Critiques, and Implications for Practice
+          ADHD &amp; Society: Costs, Policy, Stigma &amp; Advocacy
         </h3>
         <p className="text-sm text-slate-600 mb-4 line-clamp-3">
-          Examining the scientific evidence for ADHD as a valid diagnostic construct, addressing common critiques, and exploring implications for clinical practice and policy.
+          Examining the broader social, economic, and policy dimensions of ADHD, including healthcare costs, educational impacts, stigma reduction, and advocacy strategies.
         </p>
         <div className="text-sm font-semibold text-emerald-700 flex items-center">
           Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
