@@ -119,7 +119,7 @@ const TopicGuideWomenGirlsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
           <li>
             Recommendation 2.3, Evidence-Based Clinical Practice Guideline for Management of Attention Deficit Hyperactivity Disorder (ADHD) in Saudi Arabia. Riyadh: Saudi ADHD Society; 2020. ISBN: 978-603-03-4786-5.{' '}
             <a
-              href="/res.adhd.org.sa-concept/adhd-cpg/cpg-clinical-recommendations#rec2.3"
+              href={`${getHref('cpg-clinical-recommendations', basePath)}#rec2.3`}
               onClick={(e) => {
                 e.preventDefault();
                 onNavigate('cpg-clinical-recommendations');

@@ -10,7 +10,17 @@ const DisclaimerPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
       return normalizedBase;
     }
     const normalizedHref = href.startsWith('/') ? href.slice(1) : href;
-    return `${normalizedBase}${normalizedHref}`;
+    // Add trailing slash for Astro's trailingSlash: 'always' config
+    // Handle hash fragments by adding slash before the hash
+    const hashIndex = normalizedHref.indexOf('#');
+    if (hashIndex !== -1) {
+      const pathPart = normalizedHref.substring(0, hashIndex);
+      const hashPart = normalizedHref.substring(hashIndex);
+      const finalPath = pathPart.endsWith('/') ? pathPart : `${pathPart}/`;
+      return `${normalizedBase}${finalPath}${hashPart}`;
+    }
+    const finalPath = normalizedHref.endsWith('/') ? normalizedHref : `${normalizedHref}/`;
+    return `${normalizedBase}${finalPath}`;
   };
 
   return (
