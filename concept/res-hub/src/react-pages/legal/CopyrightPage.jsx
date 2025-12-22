@@ -10,13 +10,23 @@ const CopyrightPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
       return normalizedBase;
     }
     const normalizedHref = href.startsWith('/') ? href.slice(1) : href;
-    // Add trailing slash for Astro's trailingSlash: 'always' config
-    // Handle hash fragments by adding slash before the hash
+    
+    // Check if this is a file path (has a file extension) - files shouldn't get trailing slashes
+    const fileExtensionPattern = /\.(svg|png|jpg|jpeg|gif|webp|ico|pdf|json|xml|txt|css|js|woff|woff2|ttf|eot)$/i;
+    
+    // Handle hash fragments
     const hashIndex = normalizedHref.indexOf('#');
+    const pathWithoutHash = hashIndex !== -1 ? normalizedHref.substring(0, hashIndex) : normalizedHref;
+    const hashPart = hashIndex !== -1 ? normalizedHref.substring(hashIndex) : '';
+    
+    // If it's a file, don't add trailing slash
+    if (fileExtensionPattern.test(pathWithoutHash)) {
+      return `${normalizedBase}${normalizedHref}`;
+    }
+    
+    // Add trailing slash for Astro's trailingSlash: 'always' config (only for directory paths)
     if (hashIndex !== -1) {
-      const pathPart = normalizedHref.substring(0, hashIndex);
-      const hashPart = normalizedHref.substring(hashIndex);
-      const finalPath = pathPart.endsWith('/') ? pathPart : `${pathPart}/`;
+      const finalPath = pathWithoutHash.endsWith('/') ? pathWithoutHash : `${pathWithoutHash}/`;
       return `${normalizedBase}${finalPath}${hashPart}`;
     }
     const finalPath = normalizedHref.endsWith('/') ? normalizedHref : `${normalizedHref}/`;
