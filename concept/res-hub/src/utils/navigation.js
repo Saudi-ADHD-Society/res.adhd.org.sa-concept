@@ -34,6 +34,7 @@ export const getPagePath = (pageId) => {
     'topic-guide-women-girls': '/topic-guides/topic-guide-women-girls',
     'topic-guide-disability': '/topic-guides/topic-guide-disability',
     'topic-guide-validity-utility': '/topic-guides/topic-guide-validity-utility',
+    'topic-guide-saudi-arabia-knowledge': '/topic-guides/topic-guide-saudi-arabia-knowledge',
     
     // Research briefs (under /research-briefs/)
     'research-briefs': '/research-briefs',

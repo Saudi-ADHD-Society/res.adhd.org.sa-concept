@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookOpen, Users, Heart, FlaskConical, ClipboardCheck, Globe, Scale, ShieldCheck, ArrowRight } from 'lucide-react';
+import { BookOpen, Users, Heart, FlaskConical, ClipboardCheck, Globe, Scale, ShieldCheck, GraduationCap, ArrowRight } from 'lucide-react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
@@ -180,6 +180,25 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
         </h3>
         <p className="text-sm text-slate-600 mb-4 line-clamp-3">
           Examining the scientific evidence for ADHD as a valid diagnostic construct, addressing common critiques, and exploring implications for clinical practice and policy.
+        </p>
+        <div className="text-sm font-semibold text-emerald-700 flex items-center">
+          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
+        </div>
+      </a>
+
+      {/* Guide 10: ADHD Knowledge, Attitudes, and Awareness in Saudi Arabia */}
+      <a
+        href={getHref('topic-guide-saudi-arabia-knowledge', basePath)}
+        className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
+      >
+        <div className="w-12 h-12 bg-orange-100 text-orange-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-orange-600 group-hover:text-white transition-colors">
+          <GraduationCap size={24} />
+        </div>
+        <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-emerald-700 transition-colors">
+          ADHD Knowledge, Attitudes, and Awareness in Saudi Arabia
+        </h3>
+        <p className="text-sm text-slate-600 mb-4 line-clamp-3">
+          Exploring the current state of knowledge, attitudes, and awareness about ADHD in the Saudi Arabian context, including public understanding, cultural perspectives, and strategies for improving awareness and reducing stigma.
         </p>
         <div className="text-sm font-semibold text-emerald-700 flex items-center">
           Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
