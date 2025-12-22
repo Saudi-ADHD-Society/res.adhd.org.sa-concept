@@ -1,6 +1,93 @@
 # res.adhd.org.sa-concept
 Research Portal Concept
 
+## Editorial Guidance
+
+### Research Brief vs Topic Guide
+
+This section provides operational definitions to help decide whether content belongs in the **Topic Guides** section or the **Research Briefs** section.
+
+---
+
+#### Research Brief
+
+**Purpose:**
+To communicate the key findings, certainty, and implications of a specific body of evidence (usually a single study, review, or tightly bounded set of studies) in a concise, decision-focused format.
+
+**Defining characteristics:**
+- Anchored to one primary evidence source (e.g. an umbrella review, guideline update, landmark trial)
+- Emphasises what the evidence says now
+- Focuses on findings, strength of evidence, and implications
+- Time-sensitive: may become outdated as evidence evolves
+- Designed to be read quickly by clinicians, researchers, and policy-makers
+
+**Typical questions it answers:**
+- What did this study/review find?
+- How strong and certain is the evidence?
+- What does this mean for practice, policy, or future research?
+- What are the limitations or uncertainties?
+
+**Common features:**
+- Clear citation to the source evidence
+- Summary tables or certainty ratings (e.g. GRADE-style language)
+- Short sections (Background → Key Findings → Implications → Limitations)
+- Neutral, analytical tone
+
+**In short:**
+A Research Brief translates new or specific evidence into action-relevant insight.
+
+---
+
+#### Topic Guide
+
+**Purpose:**
+To provide a structured, authoritative overview of a broad topic, integrating evidence, concepts, debates, and practical implications to support deep understanding and informed use of evidence.
+
+**Defining characteristics:**
+- Covers a topic area, not a single study
+- Integrates multiple evidence types (systematic reviews, guidelines, critiques, conceptual models)
+- Emphasises how to understand and apply the evidence
+- Relatively stable over time, with periodic updates
+- Educational and interpretive, not just summarative
+
+**Typical questions it answers:**
+- What is known about this topic overall?
+- What are the main concepts, models, or controversies?
+- Where is there consensus, and where is there disagreement?
+- How should professionals think about and use this evidence?
+
+**Common features:**
+- Conceptual framing and definitions
+- Thematic sections (e.g. validity, mechanisms, assessment, implications)
+- Links out to multiple Research Briefs and primary sources
+- Clear signposting for different audiences (clinical, research, policy)
+
+**In short:**
+A Topic Guide helps users understand a field, not just a finding.
+
+---
+
+#### The Simplest Editorial Rule (if you're unsure)
+
+- If you are explaining a piece of evidence → **Research Brief**
+- If you are explaining a topic or question → **Topic Guide**
+
+Or even more compact:
+- **Research Brief** = "What does this evidence show?"
+- **Topic Guide** = "How should we understand this area?"
+
+---
+
+#### How They Work Together on the Portal
+
+Think of the relationship like this:
+- **Topic Guides** are the conceptual backbone
+- **Research Briefs** are the evidence updates plugged into that backbone
+
+A Topic Guide should link out to multiple Research Briefs, while a Research Brief should usually sit within (or point back to) a relevant Topic Guide.
+
+---
+
 ## Paper Management Scripts
 
 This repository includes several scripts for managing the research paper library in `concept/res-hub/src/content/papers/`.
