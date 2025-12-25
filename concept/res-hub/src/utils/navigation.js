@@ -35,6 +35,8 @@ export const getPagePath = (pageId) => {
     'topic-guide-validity-utility': '/topic-guides/topic-guide-validity-utility',
     'topic-guide-saudi-arabia-knowledge': '/topic-guides/topic-guide-saudi-arabia-knowledge',
     'topic-guide-adhd-stigma': '/topic-guides/topic-guide-adhd-stigma',
+    'topic-guide-universal-design-learning': '/topic-guides/topic-guide-universal-design-learning',
+    'topic-guide-emotional-regulation': '/topic-guides/topic-guide-emotional-regulation',
     
     // Research briefs (under /research-briefs/)
     'research-briefs': '/research-briefs',

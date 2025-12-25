@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookOpen, Users, Heart, FlaskConical, ClipboardCheck, Scale, ShieldCheck, GraduationCap, ArrowRight } from 'lucide-react';
+import { BookOpen, Users, Heart, FlaskConical, ClipboardCheck, Scale, ShieldCheck, GraduationCap, ArrowRight, TrendingUp } from 'lucide-react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
@@ -200,6 +200,44 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
         <p className="text-sm text-slate-600 mb-4 line-clamp-3">
           How public, structural, and self-stigma around ADHD influence understanding, help-seeking, and access to
           care—and approaches to fostering dignity, inclusion, and evidence-based attitudes in Saudi Arabia.
+        </p>
+        <div className="text-sm font-semibold text-emerald-700 flex items-center">
+          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
+        </div>
+      </a>
+
+      {/* Guide 11: Universal Design for Learning */}
+      <a
+        href={getHref('topic-guide-universal-design-learning', basePath)}
+        className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
+      >
+        <div className="w-12 h-12 bg-violet-100 text-violet-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-violet-600 group-hover:text-white transition-colors">
+          <GraduationCap size={24} />
+        </div>
+        <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-emerald-700 transition-colors">
+          Universal Design for Learning in Higher Education
+        </h3>
+        <p className="text-sm text-slate-600 mb-4 line-clamp-3">
+          An evidence-based framework for creating inclusive, accessible learning environments that support students with ADHD and other learning differences while enhancing outcomes for all learners.
+        </p>
+        <div className="text-sm font-semibold text-emerald-700 flex items-center">
+          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
+        </div>
+      </a>
+
+      {/* Guide 12: ADHD and Emotional Regulation */}
+      <a
+        href={getHref('topic-guide-emotional-regulation', basePath)}
+        className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
+      >
+        <div className="w-12 h-12 bg-rose-100 text-rose-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-rose-600 group-hover:text-white transition-colors">
+          <Heart size={24} />
+        </div>
+        <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-emerald-700 transition-colors">
+          ADHD and Emotional Regulation: Evidence, Impact, and Clinical Implications
+        </h3>
+        <p className="text-sm text-slate-600 mb-4 line-clamp-3">
+          Examining the evidence for emotional dysregulation and Rejection Sensitive Dysphoria (RSD) as central features of ADHD, their impact on social relationships and internalizing disorders, and implications for assessment and treatment in the Saudi context.
         </p>
         <div className="text-sm font-semibold text-emerald-700 flex items-center">
           Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
