@@ -34,6 +34,7 @@ export const getPagePath = (pageId) => {
     'topic-guide-disability': '/topic-guides/topic-guide-disability',
     'topic-guide-validity-utility': '/topic-guides/topic-guide-validity-utility',
     'topic-guide-saudi-arabia-knowledge': '/topic-guides/topic-guide-saudi-arabia-knowledge',
+    'topic-guide-adhd-stigma': '/topic-guides/topic-guide-adhd-stigma',
     
     // Research briefs (under /research-briefs/)
     'research-briefs': '/research-briefs',

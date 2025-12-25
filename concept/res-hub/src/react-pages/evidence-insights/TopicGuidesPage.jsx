@@ -185,6 +185,26 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
           Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
         </div>
       </a>
+
+      {/* Guide 10: ADHD and Stigma */}
+      <a
+        href={getHref('topic-guide-adhd-stigma', basePath)}
+        className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
+      >
+        <div className="w-12 h-12 bg-red-100 text-red-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-red-600 group-hover:text-white transition-colors">
+          <Users size={24} />
+        </div>
+        <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-emerald-700 transition-colors">
+          ADHD and Stigma
+        </h3>
+        <p className="text-sm text-slate-600 mb-4 line-clamp-3">
+          How public, structural, and self-stigma around ADHD influence understanding, help-seeking, and access to
+          care—and approaches to fostering dignity, inclusion, and evidence-based attitudes in Saudi Arabia.
+        </p>
+        <div className="text-sm font-semibold text-emerald-700 flex items-center">
+          Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true" />
+        </div>
+      </a>
     </div>
   </div>
 );
