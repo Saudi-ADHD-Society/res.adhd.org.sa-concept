@@ -56,7 +56,7 @@ const TopicGuideAdhdStigmaPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
         <span>Topic Guide</span>
       </div>
       <h1 className="text-3xl font-bold text-slate-900 mb-4">
-        ADHD and Stigma
+        ADHD Stigma as a Systems Barrier: Care Pathways, Disclosure, and Functional Inclusion
       </h1>
       <p className="text-slate-600 mb-4">
         ADHD-related stigma is a multidimensional barrier that shapes recognition, disclosure, help-seeking, and inclusion.
@@ -199,6 +199,19 @@ const TopicGuideAdhdStigmaPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
             <p className="text-slate-600">
               Understanding these different forms of stigma helps identify where interventions are most needed and how stigma operates across clinical, educational, workplace, and social contexts.
             </p>
+            <div className="rounded-xl border border-slate-200 bg-white p-4">
+              <p className="text-sm font-semibold text-slate-900">Everyday ADHD stigma often operates as “micro-messages”</p>
+              <p className="mt-2 text-sm text-slate-700">
+                A qualitative study of young adults with ADHD and key stakeholders found that stigma is frequently communicated through subtle,
+                sometimes well-intended comments that still carry a devaluing message (e.g., “I never noticed anything”, “just try harder”, “everyone is a bit ADHD”).
+                The authors link these everyday exchanges to a microaggressions framework: small, repeated interactions can accumulate over time and shape identity,
+                disclosure, and access to support (Visser et al., 2024).
+              </p>
+              <p className="mt-2 text-sm text-slate-700">
+                For practice in Saudi Arabia, this is useful because overt stigma may be easier to identify and condemn, while subtle stigma can persist in schools,
+                clinics, and workplaces even among people who see themselves as supportive.
+              </p>
+            </div>
           </div>
         </section>
 
@@ -223,11 +236,66 @@ const TopicGuideAdhdStigmaPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
                 This evidence is drawn from international ADHD studies and should be interpreted cautiously in the Saudi context, where disclosure decisions are strongly shaped by family reputation and confidentiality concerns (Mueller et al., 2012; Alageel et al., 2025).
               </p>
             </div>
+            <div className="rounded-xl border border-slate-200 bg-white p-4">
+              <p className="text-sm font-semibold text-slate-900">WHO Mosaic toolkit: designing effective anti-stigma action</p>
+              <div className="mt-2 text-sm text-slate-700 space-y-3">
+                <p>
+                  The WHO Mosaic toolkit (WHO, 2024) synthesises evidence-based approaches to reduce mental health stigma and discrimination.
+                  While it is not ADHD-specific, several recommendations translate directly into ADHD stigma work, especially for campaign design,
+                  school/workplace practice, and service pathways.
+                </p>
+                <ul className="space-y-1 list-disc pl-4">
+                  <li>
+                    <span className="font-semibold">Co-lead with lived experience:</span> involve people with lived experience from the beginning (preferably in leadership or co-leadership roles), agree respectful terminology, and build psychological safety for participation.
+                  </li>
+                  <li>
+                    <span className="font-semibold">Use structured social contact (not “awareness” alone):</span> design contact to include personal testimonies, dispel myths, emphasise recovery, and use person-first language; aim for equal status, cooperation, and a shared goal; create opportunities for sustained interaction and intergroup friendship.
+                  </li>
+                  <li>
+                    <span className="font-semibold">Use multiple forms of contact:</span> combine in-person and mediated contact (e.g., video testimonies, digital/remote contact) to broaden reach while retaining credibility.
+                  </li>
+                  <li>
+                    <span className="font-semibold">Build inclusive collaborations:</span> partner with the target group (e.g., educators, clinicians, employers), community leaders, service providers, civil society, and policymakers to reduce resistance and support behaviour change.
+                  </li>
+                  <li>
+                    <span className="font-semibold">Work iteratively:</span> WHO frames delivery as a four-step cycle (identify aims, plan and prepare, launch and learn, then reflect and proceed), helping teams treat stigma reduction as continuous improvement rather than a one-off campaign.
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div className="rounded-xl border border-slate-200 bg-white p-4">
+              <p className="text-sm font-semibold text-slate-900">A gender lens: different stigma patterns for women and men</p>
+              <div className="mt-2 text-sm text-slate-700 space-y-3">
+                <p>
+                  Visser et al. (2024) adds a practical nuance for intervention design: the way stigma is experienced (and therefore what “good support” looks like)
+                  can differ by gendered social expectations and by whether a person fits the stereotypical image of ADHD.
+                </p>
+                <ul className="space-y-1 list-disc pl-4">
+                  <li>
+                    <span className="font-semibold">Women:</span> more likely to encounter scepticism and non-recognition (e.g., “you don’t look like you have ADHD”), contributing to delayed diagnosis,
+                    masking, and loneliness.
+                  </li>
+                  <li>
+                    <span className="font-semibold">Men:</span> more likely to report rejection and pressure to “push through”, contributing to non-disclosure and reduced help-seeking.
+                  </li>
+                  <li>
+                    <span className="font-semibold">Across genders:</span> misconceptions that ADHD is “the hyperactive boy” drive under-identification of inattentive presentations and can delay support.
+                  </li>
+                </ul>
+                <p>
+                  This supports a pragmatic approach for Saudi campaigns and training: include diverse ADHD presentations (girls/women, inattentive ADHD, adolescents and adults)
+                  and tailor stigma-aware support pathways (e.g., how to respond to disclosure, how to offer adjustments without labelling, and how to build help-seeking norms).
+                </p>
+              </div>
+            </div>
 
             <div className="rounded-xl border border-slate-200 bg-white p-4">
               <p className="text-sm font-semibold text-slate-900">A practical note for Saudi campaigns</p>
               <p className="mt-2 text-sm text-slate-700">
-                Increasing knowledge alone may not automatically reduce stigma. In one study of Arab parents, knowledge and stigma were not directly correlated, suggesting that stigma can persist through social norms and reputational concerns even when factual knowledge improves (Alkrisat, 2025). This pattern is consistent with broader Saudi mental health stigma findings (AlAteeq et al., 2018; Alkrisat, 2025).
+                Increasing knowledge alone may not automatically reduce stigma. In one study of Arab parents, knowledge and stigma were not directly correlated,
+                suggesting that stigma can persist through social norms and reputational concerns even when factual knowledge improves (Alkrisat, 2025). Visser et al. (2024)
+                adds an important nuance: stigma is also carried by subtle, everyday interactions (“micro-messages”) and by mismatches with stereotypical ADHD images
+                (especially for girls and women), so “awareness” needs to be paired with skills-based guidance for educators, clinicians, and employers on how to respond in practice.
               </p>
             </div>
 
@@ -374,6 +442,8 @@ const TopicGuideAdhdStigmaPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
               <li>AlAteeq et al. (2018). The experience and impact of stigma in Saudi people with a mood disorder.</li>
               <li>Alageel et al. (2025). Factors influencing decisions to seek mental healthcare in the Arab Gulf states (qualitative synthesis).</li>
               <li>Krstanoska-Blazeska et al. (2021). Mental health disorder stigma among Arabic-speaking religious and community leaders (contextual insights).</li>
+              <li>World Health Organization (2024). Mosaic toolkit to end stigma and discrimination in mental health.</li>
+              <li>Visser, M. J., Peters, R. M. H., & Luman, M. (2024). Understanding ADHD-related stigma: A gender analysis of young adult and key stakeholder perspectives. Neurodiversity.</li>
               <li>Alkrisat, S. (2025). Examining the Perceived Knowledge and Stigmatization of Attention-Deficit/Hyperactivity (ADHD) Disorder Among Arab Parents [Doctoral dissertation, Alliant International University]. https://www.proquest.com/openview/4f63def3c3fa2e260dabddd3c817960c/1?cbl=18750&amp;diss=y&amp;pq-origsite=gscholar</li>
             </ul>
           </div>

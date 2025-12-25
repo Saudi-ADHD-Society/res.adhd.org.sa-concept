@@ -186,7 +186,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
         </div>
       </a>
 
-      {/* Guide 10: ADHD and Stigma */}
+      {/* Guide 10: ADHD Stigma as a Systems Barrier */}
       <a
         href={getHref('topic-guide-adhd-stigma', basePath)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
@@ -195,7 +195,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
           <Users size={24} />
         </div>
         <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-emerald-700 transition-colors">
-          ADHD and Stigma
+          ADHD Stigma as a Systems Barrier: Care Pathways, Disclosure, and Functional Inclusion
         </h3>
         <p className="text-sm text-slate-600 mb-4 line-clamp-3">
           How public, structural, and self-stigma around ADHD influence understanding, help-seeking, and access to
