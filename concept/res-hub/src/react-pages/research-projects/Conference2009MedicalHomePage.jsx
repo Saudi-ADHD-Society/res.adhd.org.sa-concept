@@ -1229,10 +1229,6 @@ const Conference2009MedicalHomePage = ({ basePath = '/res.adhd.org.sa-concept/' 
                   </p>
                 </div>
               </div>
-              
-              <p className="text-sm text-slate-600 mt-4">
-                Full attendance at the main symposium and satellite workshops qualifies for the complete credit allocation.
-              </p>
             </div>
 
             <div className="rounded-xl border border-slate-200 bg-slate-50 p-6">
@@ -1739,7 +1735,7 @@ const Conference2009MedicalHomePage = ({ basePath = '/res.adhd.org.sa-concept/' 
                 </div>
                 <div className="flex items-center gap-2 text-sm text-slate-700">
                   <span className="h-1 w-1 rounded-full bg-emerald-600 flex-shrink-0" aria-hidden="true" />
-                  <span>Lamya Alhzani</span>
+                  <span>Lamya Alhazzani</span>
                 </div>
                 <div className="flex items-center gap-2 text-sm text-slate-700">
                   <span className="h-1 w-1 rounded-full bg-emerald-600 flex-shrink-0" aria-hidden="true" />
@@ -1777,30 +1773,44 @@ const Conference2009MedicalHomePage = ({ basePath = '/res.adhd.org.sa-concept/' 
             </div>
           </div>
 
-          {/* Supporters & Collaborators */}
+          {/* Supporters and Sponsors */}
           <div className="rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
             <h3 className="font-semibold text-slate-900 mb-4 flex items-center gap-2">
               <Handshake size={18} className="text-emerald-700" aria-hidden="true" />
-              Supporters & Collaborators
+              Supporters and Sponsors
             </h3>
-            <ul className="space-y-2 text-sm text-slate-700">
-              <li className="flex gap-2">
-                <span className="mt-2 h-1.5 w-1.5 rounded-full bg-emerald-600 flex-shrink-0" aria-hidden="true" />
-                <span><strong>American Academy of Pediatrics (AAP)</strong> — International partner and co-deliverer of the symposium</span>
-              </li>
-              <li className="flex gap-2">
-                <span className="mt-2 h-1.5 w-1.5 rounded-full bg-emerald-600 flex-shrink-0" aria-hidden="true" />
-                <span><strong>Saudi ADHD Support Group</strong> — Organisational owner and host</span>
-              </li>
-              <li className="flex gap-2">
-                <span className="mt-2 h-1.5 w-1.5 rounded-full bg-emerald-600 flex-shrink-0" aria-hidden="true" />
-                <span><strong>King Faisal Specialist Hospital & Research Centre</strong> — Venue and institutional support</span>
-              </li>
-              <li className="flex gap-2">
-                <span className="mt-2 h-1.5 w-1.5 rounded-full bg-emerald-600 flex-shrink-0" aria-hidden="true" />
-                <span><strong>Saudi Council for Health Specialties</strong> — CME accreditation body</span>
-              </li>
-            </ul>
+            
+            <div className="space-y-4">
+              {/* Institutional support */}
+              <div>
+                <h4 className="font-semibold text-slate-800 mb-2 text-sm">Institutional support</h4>
+                <p className="text-sm text-slate-700">King Faisal Specialist Hospital & Research Centre</p>
+              </div>
+
+              {/* Gold Sponsors */}
+              <div>
+                <h4 className="font-semibold text-slate-800 mb-2 text-sm">Gold Sponsors</h4>
+                <p className="text-sm text-slate-700">
+                  Janssen Cilag, Sabic, Banque Saudi Fransi, Saudi Telecom Company (STC), Alkamal, Al Rajhi Bank
+                </p>
+              </div>
+
+              {/* Silver Sponsors */}
+              <div>
+                <h4 className="font-semibold text-slate-800 mb-2 text-sm">Silver Sponsors</h4>
+                <p className="text-sm text-slate-700">
+                  Alrabie Saudi Foods Co., Almarai Company
+                </p>
+              </div>
+
+              {/* Bronze Sponsors */}
+              <div>
+                <h4 className="font-semibold text-slate-800 mb-2 text-sm">Bronze Sponsors</h4>
+                <p className="text-sm text-slate-700">
+                  Arabian Integral Ministration Company (Aimco), Mohammed Rashed Al Fowzan Trading Est., Mohammed and Abdullah Ibrahim Al-Subaie Charity Foundation
+                </p>
+              </div>
+            </div>
           </div>
         </section>
 
@@ -1861,6 +1871,79 @@ const Conference2009MedicalHomePage = ({ basePath = '/res.adhd.org.sa-concept/' 
                 The Medical Home framework established during this event became a cornerstone for subsequent national ADHD care
                 coordination initiatives.
               </p>
+            </div>
+          </div>
+
+          {/* Symposium Recommendations */}
+          <div className="mb-6">
+            <h3 className="text-lg font-semibold text-slate-900 mb-4 flex items-center gap-2">
+              <Target size={18} className="text-emerald-700" aria-hidden="true" />
+              Symposium Recommendations
+            </h3>
+            <div className="rounded-xl border border-slate-200 bg-slate-50 p-6 mb-4">
+              <p className="text-sm text-slate-700 leading-relaxed mb-4">
+                The symposium concluded with a proposed <strong>10-Year Strategic Plan</strong> aimed at positioning Saudi Arabia as a regional leader in ADHD research, care, and policy. The key recommendations were:
+              </p>
+              <div className="space-y-4">
+                <div>
+                  <h4 className="font-semibold text-slate-900 mb-2 text-sm">Adoption of the "Medical Home" Model</h4>
+                  <p className="text-sm text-slate-700">
+                    Endorsing the American Academy of Pediatrics (AAP) model of ADHD care—emphasising accessible, continuous, comprehensive, family-centred, coordinated, compassionate, and culturally effective services.
+                  </p>
+                </div>
+                <div>
+                  <h4 className="font-semibold text-slate-900 mb-2 text-sm">Establishment of a National ADHD Center</h4>
+                  <p className="text-sm text-slate-700">
+                    Creating a national body to coordinate research, set standards of care, support training, and provide strategic leadership across health, education, and community sectors.
+                  </p>
+                </div>
+                <div>
+                  <h4 className="font-semibold text-slate-900 mb-2 text-sm">Research and Localization</h4>
+                  <p className="text-sm text-slate-700">
+                    Prioritising the validation of diagnostic rating scales for Arabic-speaking populations, conducting national epidemiological studies, and contributing Arab-world data—including genetic research—to the international evidence base.
+                  </p>
+                </div>
+                <div>
+                  <h4 className="font-semibold text-slate-900 mb-2 text-sm">Policy and Legislative Development</h4>
+                  <p className="text-sm text-slate-700">
+                    Advancing from general awareness and support toward formal policy and legislative frameworks to protect the rights and needs of individuals with ADHD in education, healthcare, and society.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* Speaker Testimonials */}
+          <div className="mb-6">
+            <h3 className="text-lg font-semibold text-slate-900 mb-4 flex items-center gap-2">
+              <Award size={18} className="text-emerald-700" aria-hidden="true" />
+              Speaker Testimonials
+            </h3>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div className="rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
+                <p className="text-sm text-slate-700 italic mb-3 leading-relaxed">
+                  "This is one of the best conferences that I have ever attended."
+                </p>
+                <p className="text-sm font-semibold text-slate-900">Dr Maximilian Muenke</p>
+              </div>
+              <div className="rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
+                <p className="text-sm text-slate-700 italic mb-3 leading-relaxed">
+                  "My congratulations for the great success of the conference"
+                </p>
+                <p className="text-sm font-semibold text-slate-900">Dr Marwan Al Sharbati</p>
+              </div>
+              <div className="rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
+                <p className="text-sm text-slate-700 italic mb-3 leading-relaxed">
+                  "Thank you for all you did to make the symposium so successful."
+                </p>
+                <p className="text-sm font-semibold text-slate-900">Mr John Forbes</p>
+              </div>
+              <div className="rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
+                <p className="text-sm text-slate-700 italic mb-3 leading-relaxed">
+                  "The organization, hospitality and professionalism was second to none."
+                </p>
+                <p className="text-sm font-semibold text-slate-900">Ms Linda Smith</p>
+              </div>
             </div>
           </div>
 
