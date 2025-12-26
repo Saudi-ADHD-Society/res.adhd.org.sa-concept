@@ -78,17 +78,6 @@ const Conference2009MedicalHomePage = ({ basePath = '/res.adhd.org.sa-concept/' 
             awareness to structured, multi-sector pathways of care.
           </p>
 
-          <div className="flex flex-wrap gap-2">
-            <span className="inline-flex items-center rounded-full bg-emerald-700 text-white px-3 py-1 text-xs font-semibold">
-              Clinical pathway reform
-            </span>
-            <span className="inline-flex items-center rounded-full bg-slate-900 text-white px-3 py-1 text-xs font-semibold">
-              International partnership (AAP)
-            </span>
-            <span className="inline-flex items-center rounded-full bg-white border border-slate-200 px-3 py-1 text-xs font-semibold text-slate-700">
-              Multi-track training model
-            </span>
-          </div>
         </div>
       </div>
     </div>
@@ -255,7 +244,7 @@ const Conference2009MedicalHomePage = ({ basePath = '/res.adhd.org.sa-concept/' 
                   href="#governance-partnerships"
                   className="block text-sm font-medium text-slate-700 hover:text-emerald-700 hover:underline transition-colors"
                 >
-                  Governance & Partnerships
+                  Governance
                 </a>
                 <a
                   href="#proceedings"
@@ -1266,7 +1255,7 @@ const Conference2009MedicalHomePage = ({ basePath = '/res.adhd.org.sa-concept/' 
         <section id="governance-partnerships" className="bg-slate-50 rounded-2xl border border-slate-200 p-8 space-y-8">
           <div className="flex items-center gap-2">
             <Building2 size={20} className="text-emerald-700" aria-hidden="true" />
-            <h2 className="text-xl font-bold text-slate-900">Governance & Partnerships</h2>
+            <h2 className="text-xl font-bold text-slate-900">Governance</h2>
           </div>
 
           {/* Main committees grid */}
