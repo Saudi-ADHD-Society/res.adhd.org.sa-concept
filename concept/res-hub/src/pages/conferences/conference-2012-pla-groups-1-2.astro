@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Conference2012PlaGroups12Page from '../../react-pages/research-projects/Conference2012PlaGroups12Page.jsx';
+
+const basePath = import.meta.env.BASE_URL;
+---
+
+<BaseLayout title="Saudi Pediatric Leadership Alliance (PLA), Groups 1 & 2 - Conferences - Research Portal">
+  <main class="max-w-7xl mx-auto px-4 md:px-8 py-10 min-h-[60vh]">
+    <Conference2012PlaGroups12Page client:load basePath={basePath} />
+  </main>
+</BaseLayout>
+

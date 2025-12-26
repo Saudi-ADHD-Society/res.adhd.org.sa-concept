@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Conference2021AgreeRexWorkshopPage from '../../react-pages/research-projects/Conference2021AgreeRexWorkshopPage.jsx';
+
+const basePath = import.meta.env.BASE_URL;
+---
+
+<BaseLayout title="AGREE-REX Workshop - Conferences - Research Portal">
+  <main class="max-w-7xl mx-auto px-4 md:px-8 py-10 min-h-[60vh]">
+    <Conference2021AgreeRexWorkshopPage client:load basePath={basePath} />
+  </main>
+</BaseLayout>
+

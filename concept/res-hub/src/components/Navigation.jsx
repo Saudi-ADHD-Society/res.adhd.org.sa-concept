@@ -40,6 +40,11 @@ const navStructure = [
         name: "Research Output",
         href: "/research-output",
         desc: "Saudi ADHD Society's own peer-reviewed publications and outputs."
+      },
+      {
+        name: "Conferences & Milestones",
+        href: "/conferences",
+        desc: "Two decades of scientific leadership: from the 2004 Symposium to upcoming forums."
       }
     ]
   },

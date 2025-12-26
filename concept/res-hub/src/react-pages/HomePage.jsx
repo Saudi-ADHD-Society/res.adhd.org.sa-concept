@@ -158,12 +158,13 @@ const HomePage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
           <h2 className="text-3xl font-bold text-slate-900 mb-2">A Legacy of Excellence</h2>
           <p className="text-slate-500 max-w-xl">From the 2004 Symposium to the 2024 Research Forum. Building confidence through two decades of scientific leadership.</p>
         </div>
-        <button 
+        <a 
+          href={getHref('conferences', basePath)}
           className="text-emerald-700 font-semibold hover:text-emerald-800 mt-4 md:mt-0 flex items-center text-sm focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 rounded"
           aria-label="View Full History"
         >
           View Full History <ChevronRight size={16} aria-hidden="true" />
-        </button>
+        </a>
       </div>
 
       <div className="relative border-l-2 border-slate-200 ml-3 md:ml-6 space-y-12 pb-4">

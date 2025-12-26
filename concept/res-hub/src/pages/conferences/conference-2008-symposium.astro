@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Conference2008SymposiumPage from '../../react-pages/research-projects/Conference2008SymposiumPage.jsx';
+
+const basePath = import.meta.env.BASE_URL;
+---
+
+<BaseLayout title="The 2nd International Symposium on ADHD - Conferences - Research Portal">
+  <main class="max-w-7xl mx-auto px-4 md:px-8 py-10 min-h-[60vh]">
+    <Conference2008SymposiumPage client:load basePath={basePath} />
+  </main>
+</BaseLayout>
+
