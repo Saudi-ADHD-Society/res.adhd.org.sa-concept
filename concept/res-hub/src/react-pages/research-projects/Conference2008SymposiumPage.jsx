@@ -12,6 +12,16 @@ import {
   Video,
   FileDown,
   ShieldCheck,
+  Award,
+  BookOpen,
+  Target,
+  CheckCircle,
+  Menu,
+  Handshake,
+  FileText,
+  BarChart3,
+  Image,
+  FileCheck,
 } from 'lucide-react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
@@ -107,13 +117,14 @@ const Conference2008SymposiumPage = ({ basePath = '/res.adhd.org.sa-concept/' })
     <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
       <Breadcrumb basePath={basePath} />
 
+      {/* Header */}
       <div>
         <a
           href={getHref('conferences', basePath)}
           className="inline-flex items-center text-sm text-emerald-700 hover:text-emerald-800 mb-4 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 rounded"
         >
           <ArrowLeft size={16} className="mr-1" aria-hidden="true" />
-          Back to Conferences
+          Back to Conferences & Milestones
         </a>
 
         <div className="rounded-2xl border border-slate-200 bg-gradient-to-br from-emerald-50 via-white to-slate-50 p-8">
@@ -134,6 +145,10 @@ const Conference2008SymposiumPage = ({ basePath = '/res.adhd.org.sa-concept/' })
                   <MapPin size={16} className="mr-2 text-emerald-700" aria-hidden="true" />
                   Tuwaiq Palace, Diplomatic Quarter, Riyadh
                 </span>
+                <span className="inline-flex items-center rounded-full bg-slate-100 border border-slate-300 px-3 py-1 text-sm">
+                  <CheckCircle size={16} className="mr-2 text-slate-600" aria-hidden="true" />
+                  <span className="font-semibold text-slate-700">Status: Archived</span>
+                </span>
               </div>
             </div>
 
@@ -148,24 +163,26 @@ const Conference2008SymposiumPage = ({ basePath = '/res.adhd.org.sa-concept/' })
 
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
         <div className="lg:col-span-2 space-y-6">
-          <section className="bg-slate-50 rounded-xl p-8 border border-slate-200">
-            <h2 className="text-xl font-bold text-slate-900 mb-4">Overview</h2>
+          {/* Overview */}
+          <section id="overview" className="bg-slate-50 rounded-xl p-8 border border-slate-200">
+            <h2 className="text-xl font-bold text-slate-900 mb-6">Overview</h2>
             <div className="space-y-4 text-slate-700">
-              <p>
+              <p className="leading-relaxed">
                 The 2008 conference built on the momentum created by the 2004 symposium, expanding beyond general awareness to deliver
                 structured, skills-focused training across multiple audiences.
               </p>
-              <p>
+              <p className="leading-relaxed">
                 A distinctive feature of this event was the emphasis on <span className="font-semibold">training the trainers</span>—equipping a core
                 cohort of educators to deliver ADHD training across the Kingdom, and establishing a sustainable model of knowledge transfer.
               </p>
             </div>
           </section>
 
-          <section className="bg-slate-50 rounded-xl p-8 border border-slate-200">
-            <h2 className="text-xl font-bold text-slate-900 mb-4">Programme structure</h2>
-            <p className="text-slate-600 mb-6 max-w-3xl">
-              To keep conference pages consistent, we summarise programme content using a small number of standard "tracks".
+          {/* Scientific Program */}
+          <section id="scientific-program" className="bg-slate-50 rounded-xl p-8 border border-slate-200">
+            <h2 className="text-xl font-bold text-slate-900 mb-6">Scientific Program</h2>
+            <p className="text-slate-700 leading-relaxed mb-6">
+              The conference featured multiple tracks designed to address different audiences and build capacity across sectors.
             </p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               {tracks.map((t) => {
@@ -187,10 +204,22 @@ const Conference2008SymposiumPage = ({ basePath = '/res.adhd.org.sa-concept/' })
             </div>
           </section>
 
-          <section className="bg-white rounded-2xl p-8 border border-slate-200 shadow-sm">
-            <div className="flex items-center gap-2 mb-4">
+          {/* Keynote & Featured Speakers */}
+          <section id="keynote-speakers" className="bg-white rounded-2xl border border-slate-200 p-8 space-y-6">
+            <div className="flex items-center gap-2">
+              <Award size={20} className="text-emerald-700" aria-hidden="true" />
+              <h2 className="text-xl font-bold text-slate-900">Keynote & Featured Speakers</h2>
+            </div>
+            <p className="text-slate-600 italic">
+              [Keynote and featured speaker information to be added]
+            </p>
+          </section>
+
+          {/* Speakers */}
+          <section id="speakers" className="bg-white rounded-2xl border border-slate-200 p-8 space-y-6">
+            <div className="flex items-center gap-2">
               <Users size={20} className="text-emerald-700" aria-hidden="true" />
-              <h2 className="text-xl font-bold text-slate-900">Speakers & facilitators</h2>
+              <h2 className="text-xl font-bold text-slate-900">Speakers & Facilitators</h2>
             </div>
             <p className="text-slate-600 mb-6 max-w-3xl">
               This list is compiled from the official symposium programme and highlights the main guest speakers,
@@ -215,10 +244,36 @@ const Conference2008SymposiumPage = ({ basePath = '/res.adhd.org.sa-concept/' })
             </div>
           </section>
 
-          <section className="bg-slate-50 rounded-2xl p-8 border border-slate-200">
+          {/* Themes and Tracks */}
+          <section id="themes-tracks" className="bg-white rounded-2xl border border-slate-200 p-8 space-y-6">
+            <div className="flex items-center gap-2">
+              <BookOpen size={20} className="text-emerald-700" aria-hidden="true" />
+              <h2 className="text-xl font-bold text-slate-900">Themes and Tracks</h2>
+            </div>
+            <p className="text-slate-600 italic">
+              [Detailed themes and tracks information to be added]
+            </p>
+          </section>
+
+          {/* Accreditation */}
+          <section id="accreditation" className="bg-white rounded-2xl border border-slate-200 p-8 space-y-6">
+            <div className="flex items-center gap-2">
+              <ShieldCheck size={20} className="text-emerald-700" aria-hidden="true" />
+              <h2 className="text-xl font-bold text-slate-900">Accreditation</h2>
+            </div>
+            <div className="rounded-xl border border-slate-200 bg-slate-50 p-6">
+              <h3 className="font-semibold text-slate-900 mb-3">CME Credits</h3>
+              <p className="text-sm text-slate-700">
+                [Accreditation details to be added]
+              </p>
+            </div>
+          </section>
+
+          {/* Governance */}
+          <section id="governance" className="bg-slate-50 rounded-2xl border border-slate-200 p-8">
             <div className="flex items-center gap-2 mb-4">
               <Building2 size={20} className="text-emerald-700" aria-hidden="true" />
-              <h2 className="text-xl font-bold text-slate-900">Committees</h2>
+              <h2 className="text-xl font-bold text-slate-900">Governance</h2>
             </div>
             <p className="text-slate-600 mb-6 max-w-3xl">
               The following names are preserved as an archive record from the original conference page.
@@ -330,9 +385,105 @@ const Conference2008SymposiumPage = ({ basePath = '/res.adhd.org.sa-concept/' })
               </div>
             </div>
           </section>
+
+          {/* Proceedings */}
+          <section id="proceedings" className="bg-white rounded-2xl p-8 border border-slate-200 shadow-sm">
+            <div className="flex items-center gap-2 mb-6">
+              <FileText size={20} className="text-emerald-700" aria-hidden="true" />
+              <h2 className="text-xl font-bold text-slate-900">Proceedings</h2>
+            </div>
+
+            {/* Statistics & Impact */}
+            <div className="mb-6">
+              <h3 className="text-lg font-semibold text-slate-900 mb-4 flex items-center gap-2">
+                <BarChart3 size={18} className="text-emerald-700" aria-hidden="true" />
+                Statistics & Impact
+              </h3>
+              <div className="rounded-xl border border-slate-200 bg-slate-50 p-6">
+                <p className="text-sm text-slate-600 italic">
+                  [Attendance data and impact metrics to be added]
+                </p>
+              </div>
+            </div>
+
+            {/* Academic Indexing */}
+            <div>
+              <h3 className="text-lg font-semibold text-slate-900 mb-4 flex items-center gap-2">
+                <FileCheck size={18} className="text-emerald-700" aria-hidden="true" />
+                Academic Indexing
+              </h3>
+              <div className="rounded-xl border border-slate-200 bg-slate-50 p-6">
+                <p className="text-sm text-slate-600 italic">
+                  [Citation information and academic indexing details to be added]
+                </p>
+              </div>
+            </div>
+          </section>
         </div>
 
         <aside className="space-y-6">
+          {/* Page Navigation */}
+          <section className="bg-white rounded-xl p-6 border border-slate-200 shadow-sm">
+            <div className="flex items-start gap-3 mb-4">
+              <div className="mt-0.5 inline-flex h-9 w-9 items-center justify-center rounded-lg bg-slate-900 text-white">
+                <Menu size={18} aria-hidden="true" />
+              </div>
+              <div className="flex-1">
+                <h3 className="text-sm font-semibold text-slate-500 mb-3">Page Navigation</h3>
+                <nav className="space-y-2">
+                  <a
+                    href="#overview"
+                    className="block text-sm font-medium text-slate-700 hover:text-emerald-700 hover:underline transition-colors"
+                  >
+                    Overview
+                  </a>
+                  <a
+                    href="#scientific-program"
+                    className="block text-sm font-medium text-slate-700 hover:text-emerald-700 hover:underline transition-colors"
+                  >
+                    Scientific Program
+                  </a>
+                  <a
+                    href="#keynote-speakers"
+                    className="block text-sm font-medium text-slate-700 hover:text-emerald-700 hover:underline transition-colors"
+                  >
+                    Keynote & Featured Speakers
+                  </a>
+                  <a
+                    href="#speakers"
+                    className="block text-sm font-medium text-slate-700 hover:text-emerald-700 hover:underline transition-colors"
+                  >
+                    Speakers
+                  </a>
+                  <a
+                    href="#themes-tracks"
+                    className="block text-sm font-medium text-slate-700 hover:text-emerald-700 hover:underline transition-colors"
+                  >
+                    Themes and Tracks
+                  </a>
+                  <a
+                    href="#accreditation"
+                    className="block text-sm font-medium text-slate-700 hover:text-emerald-700 hover:underline transition-colors"
+                  >
+                    Accreditation
+                  </a>
+                  <a
+                    href="#governance"
+                    className="block text-sm font-medium text-slate-700 hover:text-emerald-700 hover:underline transition-colors"
+                  >
+                    Governance
+                  </a>
+                  <a
+                    href="#proceedings"
+                    className="block text-sm font-medium text-slate-700 hover:text-emerald-700 hover:underline transition-colors"
+                  >
+                    Proceedings
+                  </a>
+                </nav>
+              </div>
+            </div>
+          </section>
+
           {/* Organisational owner */}
           <section className="bg-white rounded-xl p-6 border border-slate-200 shadow-sm">
             <div className="flex items-start gap-3">
@@ -340,7 +491,7 @@ const Conference2008SymposiumPage = ({ basePath = '/res.adhd.org.sa-concept/' })
                 <Building2 size={18} aria-hidden="true" />
               </div>
               <div>
-                <h3 className="text-sm font-semibold text-slate-500 mb-1">Organiser</h3>
+                <h3 className="text-sm font-semibold text-slate-500 mb-1">Organisational owner</h3>
                 <p className="text-sm font-medium text-slate-900">ADHD Support Group (precursor to the Saudi ADHD Society)</p>
               </div>
             </div>
@@ -350,11 +501,26 @@ const Conference2008SymposiumPage = ({ basePath = '/res.adhd.org.sa-concept/' })
           <section className="bg-white rounded-xl p-6 border border-slate-200 shadow-sm">
             <div className="flex items-start gap-3">
               <div className="mt-0.5 inline-flex h-9 w-9 items-center justify-center rounded-lg bg-slate-900 text-white">
-                <Crown size={18} aria-hidden="true" />
+                <Award size={18} aria-hidden="true" />
               </div>
               <div>
                 <h3 className="text-sm font-semibold text-slate-500 mb-1">Patronage</h3>
                 <p className="text-sm font-medium text-slate-900">HRH Prince Mohammed bin Nawwaf bin Abdulaziz</p>
+              </div>
+            </div>
+          </section>
+
+          {/* Accreditation */}
+          <section className="bg-white rounded-xl p-6 border border-slate-200 shadow-sm">
+            <div className="flex items-start gap-3">
+              <div className="mt-0.5 inline-flex h-9 w-9 items-center justify-center rounded-lg bg-slate-900 text-white">
+                <ShieldCheck size={18} aria-hidden="true" />
+              </div>
+              <div>
+                <h3 className="text-sm font-semibold text-slate-500 mb-1">Accreditation</h3>
+                <p className="text-sm font-medium text-slate-900">
+                  [Accreditation details to be added]
+                </p>
               </div>
             </div>
           </section>
