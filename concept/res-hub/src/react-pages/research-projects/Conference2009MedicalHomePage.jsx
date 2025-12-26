@@ -26,6 +26,10 @@ import {
   Video,
   Image,
   FileCheck,
+  Clock,
+  MessageCircle,
+  MessageSquare,
+  Menu,
 } from 'lucide-react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
@@ -92,7 +96,7 @@ const Conference2009MedicalHomePage = ({ basePath = '/res.adhd.org.sa-concept/' 
     <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
       <div className="lg:col-span-2 space-y-6">
         {/* Overview */}
-        <section className="bg-slate-50 rounded-xl p-8 border border-slate-200">
+        <section id="overview" className="bg-slate-50 rounded-xl p-8 border border-slate-200">
           <h2 className="text-xl font-bold text-slate-900 mb-6">Overview</h2>
           
           {/* Objectives */}
@@ -202,6 +206,68 @@ const Conference2009MedicalHomePage = ({ basePath = '/res.adhd.org.sa-concept/' 
       </div>
 
       <aside className="space-y-6">
+        {/* Page Navigation */}
+        <section className="bg-white rounded-xl p-6 border border-slate-200 shadow-sm">
+          <div className="flex items-start gap-3 mb-4">
+            <div className="mt-0.5 inline-flex h-9 w-9 items-center justify-center rounded-lg bg-slate-900 text-white">
+              <Menu size={18} aria-hidden="true" />
+            </div>
+            <div className="flex-1">
+              <h3 className="text-sm font-semibold text-slate-500 mb-3">Page Navigation</h3>
+              <nav className="space-y-2">
+                <a
+                  href="#overview"
+                  className="block text-sm font-medium text-slate-700 hover:text-emerald-700 hover:underline transition-colors"
+                >
+                  Overview
+                </a>
+                <a
+                  href="#scientific-program"
+                  className="block text-sm font-medium text-slate-700 hover:text-emerald-700 hover:underline transition-colors"
+                >
+                  Scientific Program
+                </a>
+                <a
+                  href="#keynote-speakers"
+                  className="block text-sm font-medium text-slate-700 hover:text-emerald-700 hover:underline transition-colors"
+                >
+                  Keynote & Featured Speakers
+                </a>
+                <a
+                  href="#speakers"
+                  className="block text-sm font-medium text-slate-700 hover:text-emerald-700 hover:underline transition-colors"
+                >
+                  Speakers
+                </a>
+                <a
+                  href="#themes-tracks"
+                  className="block text-sm font-medium text-slate-700 hover:text-emerald-700 hover:underline transition-colors"
+                >
+                  Themes and Tracks
+                </a>
+                <a
+                  href="#accreditation"
+                  className="block text-sm font-medium text-slate-700 hover:text-emerald-700 hover:underline transition-colors"
+                >
+                  Accreditation
+                </a>
+                <a
+                  href="#governance-partnerships"
+                  className="block text-sm font-medium text-slate-700 hover:text-emerald-700 hover:underline transition-colors"
+                >
+                  Governance & Partnerships
+                </a>
+                <a
+                  href="#proceedings"
+                  className="block text-sm font-medium text-slate-700 hover:text-emerald-700 hover:underline transition-colors"
+                >
+                  Proceedings
+                </a>
+              </nav>
+            </div>
+          </div>
+        </section>
+
         {/* Organisational owner */}
         <section className="bg-white rounded-xl p-6 border border-slate-200 shadow-sm">
           <div className="flex items-start gap-3">
@@ -211,8 +277,9 @@ const Conference2009MedicalHomePage = ({ basePath = '/res.adhd.org.sa-concept/' 
             <div>
               <h3 className="text-sm font-semibold text-slate-500 mb-1">Organisational owner</h3>
               <ul className="text-sm font-medium text-slate-900 space-y-1">
-                <li>Saudi ADHD Support Group (Saudi Arabia)</li>
-                <li>American Academy of Pediatrics (U.S.)</li>
+              <li>Saudi ADHD Society</li>
+              <li>Saudi ADHD Support Group</li>
+              <li>American Academy of Pediatrics</li>
               </ul>
             </div>
           </div>
@@ -227,7 +294,7 @@ const Conference2009MedicalHomePage = ({ basePath = '/res.adhd.org.sa-concept/' 
             <div>
               <h3 className="text-sm font-semibold text-slate-500 mb-1">Patronage</h3>
               <p className="text-sm font-medium text-slate-900">
-                HRH Prince Mohammed bin Nawaf bin Abdulaziz
+                Custodian of the Two Holy Mosques King Abdullah bin AbdulAziz Al Saud
               </p>
             </div>
           </div>
@@ -241,8 +308,11 @@ const Conference2009MedicalHomePage = ({ basePath = '/res.adhd.org.sa-concept/' 
             </div>
             <div>
               <h3 className="text-sm font-semibold text-slate-500 mb-1">Accreditation</h3>
+              <p className="text-sm font-medium text-slate-900 mb-2">
+                AACME: 20.75 CME hours (Category 1)
+              </p>
               <p className="text-sm font-medium text-slate-900">
-                CME Accreditation: 35 CME credits approved by Saudi Council for Health Specialties
+                SCFHS: 35 CME credits
               </p>
             </div>
           </div>
@@ -301,7 +371,7 @@ const Conference2009MedicalHomePage = ({ basePath = '/res.adhd.org.sa-concept/' 
 
     <div className="space-y-6">
       {/* Scientific Program */}
-      <section className="bg-slate-50 rounded-xl p-8 border border-slate-200">
+      <section id="scientific-program" className="bg-slate-50 rounded-xl p-8 border border-slate-200">
         <h2 className="text-xl font-bold text-slate-900 mb-6">Scientific Program</h2>
         <p className="text-slate-700 leading-relaxed mb-6">
           Building on earlier national momentum, this symposium marked a strategic pivot: from "awareness events" toward a
@@ -352,192 +422,196 @@ const Conference2009MedicalHomePage = ({ basePath = '/res.adhd.org.sa-concept/' 
           </div>
         </div>
 
-        {/* Themes and Tracks */}
+        {/* Agenda Overview */}
         <div>
-          <h3 className="text-lg font-semibold text-slate-900 mb-4">Themes and Tracks</h3>
-          <div className="space-y-6">
+          <div className="flex items-center gap-2 mb-4">
+            <BookOpen size={20} className="text-emerald-700" aria-hidden="true" />
+            <h3 className="text-lg font-semibold text-slate-900">Agenda Overview</h3>
+          </div>
+          <div className="space-y-5">
             {/* Track 1: Medical Track */}
-            <div className="rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
-              <div className="flex items-start justify-between mb-3">
-                <h4 className="font-semibold text-slate-900">Track 1: Medical Track</h4>
-                <div className="flex flex-col items-end gap-1 text-xs text-slate-600">
-                  <span>7–9 November 2009</span>
-                  <span>8:00am–5:00pm</span>
+            <div className="group rounded-xl border-2 border-emerald-200 bg-gradient-to-br from-emerald-50/50 to-white p-6 shadow-sm hover:shadow-md transition-shadow duration-200">
+              <div className="flex items-start gap-3 mb-3">
+                <div className="flex-shrink-0 w-10 h-10 rounded-lg bg-emerald-600 text-white flex items-center justify-center font-bold text-lg shadow-sm">
+                  1
+                </div>
+                <div className="flex-1">
+                  <h4 className="font-semibold text-slate-900 mb-1">Medical Track</h4>
+                  <p className="text-xs font-medium text-emerald-700">7–9 November 2009</p>
                 </div>
               </div>
-              <div className="mb-3">
-                <span className="inline-block px-2.5 py-1 text-xs font-medium rounded-full bg-emerald-100 text-emerald-800 mb-2">
-                  Target Group: Medical Professionals
-                </span>
-                <span className="inline-block px-2.5 py-1 text-xs font-medium rounded-full bg-slate-100 text-slate-800 ml-2 mb-2">
-                  Language: English
-                </span>
+              <div className="ml-[52px] space-y-2">
+                <div className="flex flex-wrap items-center gap-2 text-sm text-slate-700">
+                  <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-white border border-slate-200">
+                    <Clock size={14} className="text-emerald-600" aria-hidden="true" />
+                    <span className="font-medium">8:00am–5:00pm</span>
+                  </span>
+                  <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-white border border-slate-200">
+                    <Users size={14} className="text-emerald-600" aria-hidden="true" />
+                    <span>Medical professionals</span>
+                  </span>
+                  <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-white border border-slate-200">
+                    <Globe size={14} className="text-emerald-600" aria-hidden="true" />
+                    <span>English</span>
+                  </span>
+                </div>
+                <p className="text-xs text-slate-600 italic">Physicians, nurses, and social workers</p>
               </div>
-              <p className="text-sm text-slate-700 leading-relaxed">
-                This track is for medical professionals, including physicians, nurses, and social workers. This track featured in-depth
-                discussions of neurobiological advances in ADHD. It also dealt with recognition of symptoms and diagnosis and toolkit;
-                treatment and tool kit; team management; putting it all together in a system of care; leadership, advocacy, and community
-                involvement.
-              </p>
             </div>
 
             {/* Track 2: General Track */}
-            <div className="rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
-              <div className="flex items-start justify-between mb-3">
-                <h4 className="font-semibold text-slate-900">Track 2: General Track</h4>
-                <div className="flex flex-col items-end gap-1 text-xs text-slate-600">
-                  <span>7–9 November 2009</span>
-                  <span>8:00am–5:00pm</span>
+            <div className="group rounded-xl border-2 border-blue-200 bg-gradient-to-br from-blue-50/50 to-white p-6 shadow-sm hover:shadow-md transition-shadow duration-200">
+              <div className="flex items-start gap-3 mb-3">
+                <div className="flex-shrink-0 w-10 h-10 rounded-lg bg-blue-600 text-white flex items-center justify-center font-bold text-lg shadow-sm">
+                  2
+                </div>
+                <div className="flex-1">
+                  <h4 className="font-semibold text-slate-900 mb-1">General Track</h4>
+                  <p className="text-xs font-medium text-blue-700">7–9 November 2009</p>
                 </div>
               </div>
-              <div className="mb-3">
-                <span className="inline-block px-2.5 py-1 text-xs font-medium rounded-full bg-emerald-100 text-emerald-800 mb-2">
-                  Target Group: Parents & Educators
-                </span>
-                <span className="inline-block px-2.5 py-1 text-xs font-medium rounded-full bg-slate-100 text-slate-800 ml-2 mb-2">
-                  Language: English with direct Arabic translation
-                </span>
+              <div className="ml-[52px] space-y-2">
+                <div className="flex flex-wrap items-center gap-2 text-sm text-slate-700">
+                  <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-white border border-slate-200">
+                    <Clock size={14} className="text-blue-600" aria-hidden="true" />
+                    <span className="font-medium">8:00am–5:00pm</span>
+                  </span>
+                  <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-white border border-slate-200">
+                    <Users size={14} className="text-blue-600" aria-hidden="true" />
+                    <span>Parents & educators</span>
+                  </span>
+                  <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-white border border-slate-200">
+                    <Globe size={14} className="text-blue-600" aria-hidden="true" />
+                    <span>English + Arabic</span>
+                  </span>
+                </div>
+                <div className="flex items-center gap-2 text-xs text-slate-600">
+                  <MessageCircle size={14} className="text-blue-500" aria-hidden="true" />
+                  <span>Includes daily Q&A panel discussions</span>
+                </div>
               </div>
-              <p className="text-sm text-slate-700 leading-relaxed mb-3">
-                This track will deal with basic facts about ADHD; its definition; its neurobiology; and its diagnosis; the implication of
-                multimodal treatment study for parents and teachers; the impact of ADHD on a person's life, it also deals with the ADHD and
-                educational intervention; genetic studies; the environmental influence on ADHD; the medication basic; common coexisting
-                conditions; medical treatment for complex cases of ADHD. The track also deals with common learning challenges; ADHD outcomes
-                and effective treatment strategies; effective parenting, teaching and behavioral strategies for dealing people with ADHD;
-                ADHD coaching basic; the executive function and its impact on learning and behavior and addressing the executive function
-                deficits (academic and behavior); coping with challenging behaviors; establishing positive behavioral intervention plans;
-                educating children and teens about ADHD; and finding help for students in Saudi Arabia and the Middle East.
-              </p>
-              <p className="text-sm text-slate-700 leading-relaxed">
-                The track also includes three different workshop about a teacher who has an ADHD student; the effective collaboration among
-                involved parties (families, and professionals); and the complementary intervention strategies for ADHD. Every day in this
-                track will be included a panel questions and answers discussion.
-              </p>
             </div>
 
-            {/* Track 3: Intensive Training Sessions */}
-            <div className="rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
-              <div className="flex items-start justify-between mb-3">
-                <h4 className="font-semibold text-slate-900">Track 3: Intensive Training Sessions on ADHD for Parents and Educators</h4>
+            {/* Track 3: Intensive Training Programs */}
+            <div className="group rounded-xl border-2 border-purple-200 bg-gradient-to-br from-purple-50/50 to-white p-6 shadow-sm hover:shadow-md transition-shadow duration-200">
+              <div className="flex items-start gap-3 mb-3">
+                <div className="flex-shrink-0 w-10 h-10 rounded-lg bg-purple-600 text-white flex items-center justify-center font-bold text-lg shadow-sm">
+                  3
+                </div>
+                <div className="flex-1">
+                  <h4 className="font-semibold text-slate-900 mb-1">Intensive Training Programs</h4>
+                  <p className="text-xs font-medium text-purple-700">7–11 November 2009</p>
+                </div>
               </div>
-              <p className="text-sm text-slate-700 leading-relaxed mb-4">
-                The program for parents provided basic information that every parent must know such as how to deal with issues such as
-                learning problems, but also covering less well known issues such as the impact of deficits in executive functions and how
-                it relates to academic success. In addition, many other key topics were addressed; current research on the brain, and the
-                neurobiology of ADHD, the role of neurotransmitters in ADHD, common coexisting conditions, effective parenting strategies
-                for children and teens with ADHD. The program for educators covered the basic information about ADHD, but also provided an
-                in-depth look at dealing with common academic challenges (writing essays, memorization of math facts, completing complex
-                math problems). Attendees were also given an overview of types of medication for ADHD and the best treatment practices, an
-                update on the landmark NIMH/MTA study on ADHD, and also a look at the importance of collaboration among key stakeholders:
-                students, parents, teachers, counselors, and doctors.
-              </p>
-
-              {/* Intensive Training Program for Parents */}
-              <div className="rounded-lg border border-slate-200 bg-slate-50 p-4 mb-4">
-                <div className="flex items-start justify-between mb-2">
-                  <h5 className="font-semibold text-slate-900">Intensive Training Program for Parents</h5>
-                  <div className="flex flex-col items-end gap-1 text-xs text-slate-600">
-                    <span>7–8 November 2009</span>
-                    <span>8:00am–5:00pm</span>
+              <div className="ml-[52px] space-y-3">
+                <div className="rounded-lg border border-purple-100 bg-purple-50/50 p-4">
+                  <div className="flex items-start gap-2 mb-2">
+                    <GraduationCap size={16} className="text-purple-600 mt-0.5 flex-shrink-0" aria-hidden="true" />
+                    <div className="flex-1">
+                      <h5 className="font-medium text-slate-900 text-sm mb-1">For Parents</h5>
+                      <p className="text-xs text-purple-700 font-medium mb-2">7–8 November 2009</p>
+                    </div>
+                  </div>
+                  <div className="flex flex-wrap items-center gap-2 text-xs text-slate-700 ml-6">
+                    <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded bg-white border border-purple-200">
+                      <Clock size={12} className="text-purple-600" aria-hidden="true" />
+                      <span>8:00am–5:00pm</span>
+                    </span>
+                    <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded bg-white border border-purple-200">
+                      <Globe size={12} className="text-purple-600" aria-hidden="true" />
+                      <span>English + Arabic</span>
+                    </span>
                   </div>
                 </div>
-                <div className="mb-2">
-                  <span className="inline-block px-2.5 py-1 text-xs font-medium rounded-full bg-emerald-100 text-emerald-800 mb-2">
-                    Target Group: Parents
-                  </span>
-                  <span className="inline-block px-2.5 py-1 text-xs font-medium rounded-full bg-slate-100 text-slate-800 ml-2 mb-2">
-                    Language: English with direct Arabic translation
-                  </span>
-                </div>
-                <p className="text-sm text-slate-700 leading-relaxed mb-3">
-                  The program for parents provides basic information that every parent must know in order to cope successfully with this
-                  disorder. Specifically, ten key ADHD facts are discussed including less well-known issues such as common learning
-                  problems and the key role of deficits in executive functions. In addition, other key topics are addressed:
-                </p>
-                <ul className="text-sm text-slate-700 space-y-1.5 list-disc list-inside ml-2">
-                  <li>Current research on the brain</li>
-                  <li>The neurobiology of ADHD</li>
-                  <li>The role of neurotransmitters in ADHD</li>
-                  <li>Common coexisting conditions</li>
-                  <li>Effective parenting strategies for children and teens with ADHD</li>
-                  <li>Understanding the impact of executive functions on behavior and academics</li>
-                  <li>The importance of executive functions in academic success</li>
-                  <li>Common academic challenges (writing essays, memorization of math facts, completing complex math problems)</li>
-                  <li>A medication update and best treatment practices</li>
-                  <li>An update on the landmark NIMH/MTA study on ADHD</li>
-                  <li>Collaboration among key stakeholders: student, parents, teachers, counselors, and doctors</li>
-                </ul>
-              </div>
-
-              {/* Intensive Training Program for Educators */}
-              <div className="rounded-lg border border-slate-200 bg-slate-50 p-4">
-                <div className="flex items-start justify-between mb-2">
-                  <h5 className="font-semibold text-slate-900">Intensive Training Program for Educators</h5>
-                  <div className="flex flex-col items-end gap-1 text-xs text-slate-600">
-                    <span>9–11 November 2009</span>
-                    <span>8:00am–5:00pm</span>
+                <div className="rounded-lg border border-purple-100 bg-purple-50/50 p-4">
+                  <div className="flex items-start gap-2 mb-2">
+                    <BookOpen size={16} className="text-purple-600 mt-0.5 flex-shrink-0" aria-hidden="true" />
+                    <div className="flex-1">
+                      <h5 className="font-medium text-slate-900 text-sm mb-1">For Educators</h5>
+                      <p className="text-xs text-purple-700 font-medium mb-2">9–11 November 2009</p>
+                    </div>
+                  </div>
+                  <div className="flex flex-wrap items-center gap-2 text-xs text-slate-700 ml-6">
+                    <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded bg-white border border-purple-200">
+                      <Clock size={12} className="text-purple-600" aria-hidden="true" />
+                      <span>8:00am–5:00pm</span>
+                    </span>
+                    <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded bg-white border border-purple-200">
+                      <Globe size={12} className="text-purple-600" aria-hidden="true" />
+                      <span>English + Arabic</span>
+                    </span>
+                  </div>
+                  <div className="flex items-center gap-2 text-xs text-slate-600 mt-2 ml-6">
+                    <Video size={12} className="text-purple-500" aria-hidden="true" />
+                    <span>Includes Skype communication with teachers in Sonoraville, Georgia, USA</span>
                   </div>
                 </div>
-                <div className="mb-2">
-                  <span className="inline-block px-2.5 py-1 text-xs font-medium rounded-full bg-emerald-100 text-emerald-800 mb-2">
-                    Target Group: Educators
-                  </span>
-                  <span className="inline-block px-2.5 py-1 text-xs font-medium rounded-full bg-slate-100 text-slate-800 ml-2 mb-2">
-                    Language: English with direct Arabic translation
-                  </span>
-                </div>
-                <p className="text-sm text-slate-700 leading-relaxed mb-3">
-                  The teacher training component provides comprehensive in-depth information about key ADHD issues and how they impact
-                  learning and behavior. Key topics addressed include:
-                </p>
-                <ul className="text-sm text-slate-700 space-y-1.5 list-disc list-inside ml-2">
-                  <li>The neurobiology of ADHD</li>
-                  <li>An overview of ADHD and it's impact on school performance</li>
-                  <li>An update on medication</li>
-                  <li>Common learning problems</li>
-                  <li>The profound impact of deficits in executive function on learning and school performance</li>
-                  <li>Best practice teaching strategies</li>
-                  <li>Specific academic intervention strategies</li>
-                  <li>Effective behavioral strategies</li>
-                  <li>Best treatment practices</li>
-                  <li>An update on the landmark NIMH/MTA study on ADHD</li>
-                  <li>Direct communication by Skype web cam between teachers at the conference and teachers in Sonoraville, Georgia, USA</li>
-                  <li>An opportunity to prepare for presenting this ADHD information to others</li>
-                </ul>
               </div>
             </div>
 
             {/* Track 4: An Introduction to ADHD Coaching */}
-            <div className="rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
-              <div className="flex items-start justify-between mb-3">
-                <h4 className="font-semibold text-slate-900">Track 4: An Introduction to ADHD Coaching</h4>
-                <div className="flex flex-col items-end gap-1 text-xs text-slate-600">
-                  <span>9–11 November 2009</span>
-                  <span>8:00am–5:00pm</span>
+            <div className="group rounded-xl border-2 border-amber-200 bg-gradient-to-br from-amber-50/50 to-white p-6 shadow-sm hover:shadow-md transition-shadow duration-200">
+              <div className="flex items-start gap-3 mb-3">
+                <div className="flex-shrink-0 w-10 h-10 rounded-lg bg-amber-600 text-white flex items-center justify-center font-bold text-lg shadow-sm">
+                  4
+                </div>
+                <div className="flex-1">
+                  <h4 className="font-semibold text-slate-900 mb-1">An Introduction to ADHD Coaching</h4>
+                  <p className="text-xs font-medium text-amber-700">9–11 November 2009</p>
                 </div>
               </div>
-              <div className="mb-3">
-                <span className="inline-block px-2.5 py-1 text-xs font-medium rounded-full bg-emerald-100 text-emerald-800 mb-2">
-                  Target Group: Parents & Educators
-                </span>
-                <span className="inline-block px-2.5 py-1 text-xs font-medium rounded-full bg-slate-100 text-slate-800 ml-2 mb-2">
-                  Language: English with direct Arabic translation
-                </span>
+              <div className="ml-[52px] space-y-2">
+                <div className="flex flex-wrap items-center gap-2 text-sm text-slate-700">
+                  <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-white border border-slate-200">
+                    <Clock size={14} className="text-amber-600" aria-hidden="true" />
+                    <span className="font-medium">8:00am–5:00pm</span>
+                  </span>
+                  <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-white border border-slate-200">
+                    <Users size={14} className="text-amber-600" aria-hidden="true" />
+                    <span>Parents & educators</span>
+                  </span>
+                  <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-white border border-slate-200">
+                    <Globe size={14} className="text-amber-600" aria-hidden="true" />
+                    <span>English + Arabic</span>
+                  </span>
+                </div>
+                <div className="flex items-center gap-2 text-xs text-slate-600">
+                  <MessageSquare size={14} className="text-amber-500" aria-hidden="true" />
+                  <span>Includes discussion and feedback opportunities</span>
+                </div>
               </div>
-              <p className="text-sm text-slate-700 leading-relaxed">
-                This track gave an introduction to ADHD coaching, and the areas covered were: motivation and change, neuro-linguistic
-                programming, solution focused approaches, resilience, esteem and emotional literacy, co-morbid conditions. The track will
-                also cover goal & target setting, and how to motivate and coach kids and teens with ADHD, supporting parents, how to take
-                care of yourself if you have ADHD, also the classroom strategies for ADHD. This track also deals with 1-2-3 magic, mental
-                health issues and what makes an ADHD coach. There will be also an opportunity for discussion and feedback.
-              </p>
+            </div>
+
+            {/* Track 5: Children and Teenagers */}
+            <div className="group rounded-xl border-2 border-rose-200 bg-gradient-to-br from-rose-50/50 to-white p-6 shadow-sm hover:shadow-md transition-shadow duration-200">
+              <div className="flex items-start gap-3 mb-3">
+                <div className="flex-shrink-0 w-10 h-10 rounded-lg bg-rose-600 text-white flex items-center justify-center font-bold text-lg shadow-sm">
+                  5
+                </div>
+                <div className="flex-1">
+                  <h4 className="font-semibold text-slate-900 mb-1">Children and Teenagers Program</h4>
+                  <p className="text-xs font-medium text-rose-700">9–10 November 2009</p>
+                </div>
+              </div>
+              <div className="ml-[52px] space-y-2">
+                <div className="flex flex-wrap items-center gap-2 text-sm text-slate-700">
+                  <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-white border border-slate-200">
+                    <Users size={14} className="text-rose-600" aria-hidden="true" />
+                    <span>Children and teenagers</span>
+                  </span>
+                  <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-white border border-slate-200">
+                    <Globe size={14} className="text-rose-600" aria-hidden="true" />
+                    <span>Arabic</span>
+                  </span>
+                </div>
+              </div>
             </div>
           </div>
         </div>
       </section>
 
       {/* Keynote & Featured Speakers */}
-      <section className="bg-white rounded-2xl border border-slate-200 p-8 space-y-6">
+      <section id="keynote-speakers" className="bg-white rounded-2xl border border-slate-200 p-8 space-y-6">
           <div className="flex items-center gap-2">
             <Award size={20} className="text-emerald-700" aria-hidden="true" />
             <h2 className="text-xl font-bold text-slate-900">Keynote & Featured Speakers</h2>
@@ -692,7 +766,7 @@ const Conference2009MedicalHomePage = ({ basePath = '/res.adhd.org.sa-concept/' 
         </section>
 
         {/* Speakers */}
-        <section className="bg-white rounded-2xl border border-slate-200 p-8 space-y-6">
+        <section id="speakers" className="bg-white rounded-2xl border border-slate-200 p-8 space-y-6">
           <div className="flex items-center gap-2">
             <Users size={20} className="text-emerald-700" aria-hidden="true" />
             <h2 className="text-xl font-bold text-slate-900">Speakers</h2>
@@ -940,87 +1014,195 @@ const Conference2009MedicalHomePage = ({ basePath = '/res.adhd.org.sa-concept/' 
           </div>
         </section>
 
-        {/* Agenda Overview */}
-        <section className="bg-white rounded-2xl border border-slate-200 p-8 space-y-6">
+        {/* Themes and Tracks */}
+        <section id="themes-tracks" className="bg-white rounded-2xl border border-slate-200 p-8 space-y-6">
           <div className="flex items-center gap-2">
             <BookOpen size={20} className="text-emerald-700" aria-hidden="true" />
-            <h2 className="text-xl font-bold text-slate-900">Agenda Overview</h2>
+            <h2 className="text-xl font-bold text-slate-900">Themes and Tracks</h2>
           </div>
 
           <div className="space-y-6">
-            {/* Day 1-3: Concurrent Tracks */}
-            <div className="rounded-xl border border-slate-200 bg-slate-50 p-6">
-              <h3 className="font-semibold text-slate-900 mb-4">7–9 November 2009: Concurrent Tracks</h3>
-              <div className="space-y-4">
-                <div>
-                  <h4 className="font-semibold text-slate-800 mb-2 flex items-center gap-2">
-                    <span className="h-2 w-2 rounded-full bg-emerald-600" aria-hidden="true" />
-                    Track 1: Medical Track
-                  </h4>
-                  <p className="text-sm text-slate-700 ml-4">
-                    Daily sessions 8:00am–5:00pm | For medical professionals (physicians, nurses, social workers) | English
-                  </p>
-                </div>
-                <div>
-                  <h4 className="font-semibold text-slate-800 mb-2 flex items-center gap-2">
-                    <span className="h-2 w-2 rounded-full bg-emerald-600" aria-hidden="true" />
-                    Track 2: General Track
-                  </h4>
-                  <p className="text-sm text-slate-700 ml-4">
-                    Daily sessions 8:00am–5:00pm | For parents & educators | English with direct Arabic translation | Includes daily Q&A panel discussions
-                  </p>
+            {/* Track 1: Medical Track */}
+            <div className="rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
+              <div className="flex items-start justify-between mb-3">
+                <h3 className="font-semibold text-slate-900">Track 1: Medical Track</h3>
+                <div className="flex flex-col items-end gap-1 text-xs text-slate-600">
+                  <span>7–9 November 2009</span>
+                  <span>8:00am–5:00pm</span>
                 </div>
               </div>
-            </div>
-
-            {/* Day 1-2: Intensive Training for Parents */}
-            <div className="rounded-xl border border-slate-200 bg-slate-50 p-6">
-              <h3 className="font-semibold text-slate-900 mb-4">7–8 November 2009: Intensive Training Program for Parents</h3>
-              <p className="text-sm text-slate-700 mb-3">
-                Daily sessions 8:00am–5:00pm | English with direct Arabic translation
-              </p>
-              <p className="text-sm text-slate-700">
-                Comprehensive program covering ten key ADHD facts, executive functions, neurobiology, medication updates, and collaboration strategies.
+              <div className="mb-3">
+                <span className="inline-block px-2.5 py-1 text-xs font-medium rounded-full bg-emerald-100 text-emerald-800 mb-2">
+                  Target Group: Medical Professionals
+                </span>
+                <span className="inline-block px-2.5 py-1 text-xs font-medium rounded-full bg-slate-100 text-slate-800 ml-2 mb-2">
+                  Language: English
+                </span>
+              </div>
+              <p className="text-sm text-slate-700 leading-relaxed">
+                This track is for medical professionals, including physicians, nurses, and social workers. This track featured in-depth
+                discussions of neurobiological advances in ADHD. It also dealt with recognition of symptoms and diagnosis and toolkit;
+                treatment and tool kit; team management; putting it all together in a system of care; leadership, advocacy, and community
+                involvement.
               </p>
             </div>
 
-            {/* Day 3-5: Intensive Training for Educators & ADHD Coaching */}
-            <div className="rounded-xl border border-slate-200 bg-slate-50 p-6">
-              <h3 className="font-semibold text-slate-900 mb-4">9–11 November 2009: Concurrent Programs</h3>
-              <div className="space-y-4">
-                <div>
-                  <h4 className="font-semibold text-slate-800 mb-2 flex items-center gap-2">
-                    <span className="h-2 w-2 rounded-full bg-emerald-600" aria-hidden="true" />
-                    Intensive Training Program for Educators
-                  </h4>
-                  <p className="text-sm text-slate-700 ml-4">
-                    Daily sessions 8:00am–5:00pm | English with direct Arabic translation | Includes Skype communication with teachers in Sonoraville, Georgia, USA
-                  </p>
+            {/* Track 2: General Track */}
+            <div className="rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
+              <div className="flex items-start justify-between mb-3">
+                <h3 className="font-semibold text-slate-900">Track 2: General Track</h3>
+                <div className="flex flex-col items-end gap-1 text-xs text-slate-600">
+                  <span>7–9 November 2009</span>
+                  <span>8:00am–5:00pm</span>
                 </div>
-                <div>
-                  <h4 className="font-semibold text-slate-800 mb-2 flex items-center gap-2">
-                    <span className="h-2 w-2 rounded-full bg-emerald-600" aria-hidden="true" />
-                    Track 4: An Introduction to ADHD Coaching
-                  </h4>
-                  <p className="text-sm text-slate-700 ml-4">
-                    Daily sessions 8:00am–5:00pm | For parents & educators | English with direct Arabic translation | Includes discussion and feedback opportunities
-                  </p>
+              </div>
+              <div className="mb-3">
+                <span className="inline-block px-2.5 py-1 text-xs font-medium rounded-full bg-emerald-100 text-emerald-800 mb-2">
+                  Target Group: Parents & Educators
+                </span>
+                <span className="inline-block px-2.5 py-1 text-xs font-medium rounded-full bg-slate-100 text-slate-800 ml-2 mb-2">
+                  Language: English with direct Arabic translation
+                </span>
+              </div>
+              <p className="text-sm text-slate-700 leading-relaxed mb-3">
+                This track will deal with basic facts about ADHD; its definition; its neurobiology; and its diagnosis; the implication of
+                multimodal treatment study for parents and teachers; the impact of ADHD on a person's life, it also deals with the ADHD and
+                educational intervention; genetic studies; the environmental influence on ADHD; the medication basic; common coexisting
+                conditions; medical treatment for complex cases of ADHD. The track also deals with common learning challenges; ADHD outcomes
+                and effective treatment strategies; effective parenting, teaching and behavioral strategies for dealing people with ADHD;
+                ADHD coaching basic; the executive function and its impact on learning and behavior and addressing the executive function
+                deficits (academic and behavior); coping with challenging behaviors; establishing positive behavioral intervention plans;
+                educating children and teens about ADHD; and finding help for students in Saudi Arabia and the Middle East.
+              </p>
+              <p className="text-sm text-slate-700 leading-relaxed">
+                The track also includes three different workshop about a teacher who has an ADHD student; the effective collaboration among
+                involved parties (families, and professionals); and the complementary intervention strategies for ADHD. Every day in this
+                track will be included a panel questions and answers discussion.
+              </p>
+            </div>
+
+            {/* Track 3: Intensive Training Sessions */}
+            <div className="rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
+              <div className="flex items-start justify-between mb-3">
+                <h3 className="font-semibold text-slate-900">Track 3: Intensive Training Sessions on ADHD for Parents and Educators</h3>
+              </div>
+              <p className="text-sm text-slate-700 leading-relaxed mb-4">
+                The program for parents provided basic information that every parent must know such as how to deal with issues such as
+                learning problems, but also covering less well known issues such as the impact of deficits in executive functions and how
+                it relates to academic success. In addition, many other key topics were addressed; current research on the brain, and the
+                neurobiology of ADHD, the role of neurotransmitters in ADHD, common coexisting conditions, effective parenting strategies
+                for children and teens with ADHD. The program for educators covered the basic information about ADHD, but also provided an
+                in-depth look at dealing with common academic challenges (writing essays, memorization of math facts, completing complex
+                math problems). Attendees were also given an overview of types of medication for ADHD and the best treatment practices, an
+                update on the landmark NIMH/MTA study on ADHD, and also a look at the importance of collaboration among key stakeholders:
+                students, parents, teachers, counselors, and doctors.
+              </p>
+
+              {/* Intensive Training Program for Parents */}
+              <div className="rounded-lg border border-slate-200 bg-slate-50 p-4 mb-4">
+                <div className="flex items-start justify-between mb-2">
+                  <h4 className="font-semibold text-slate-900">Intensive Training Program for Parents</h4>
+                  <div className="flex flex-col items-end gap-1 text-xs text-slate-600">
+                    <span>7–8 November 2009</span>
+                    <span>8:00am–5:00pm</span>
+                  </div>
                 </div>
+                <div className="mb-2">
+                  <span className="inline-block px-2.5 py-1 text-xs font-medium rounded-full bg-emerald-100 text-emerald-800 mb-2">
+                    Target Group: Parents
+                  </span>
+                  <span className="inline-block px-2.5 py-1 text-xs font-medium rounded-full bg-slate-100 text-slate-800 ml-2 mb-2">
+                    Language: English with direct Arabic translation
+                  </span>
+                </div>
+                <p className="text-sm text-slate-700 leading-relaxed mb-3">
+                  The program for parents provides basic information that every parent must know in order to cope successfully with this
+                  disorder. Specifically, ten key ADHD facts are discussed including less well-known issues such as common learning
+                  problems and the key role of deficits in executive functions. In addition, other key topics are addressed:
+                </p>
+                <ul className="text-sm text-slate-700 space-y-1.5 list-disc list-inside ml-2">
+                  <li>Current research on the brain</li>
+                  <li>The neurobiology of ADHD</li>
+                  <li>The role of neurotransmitters in ADHD</li>
+                  <li>Common coexisting conditions</li>
+                  <li>Effective parenting strategies for children and teens with ADHD</li>
+                  <li>Understanding the impact of executive functions on behavior and academics</li>
+                  <li>The importance of executive functions in academic success</li>
+                  <li>Common academic challenges (writing essays, memorization of math facts, completing complex math problems)</li>
+                  <li>A medication update and best treatment practices</li>
+                  <li>An update on the landmark NIMH/MTA study on ADHD</li>
+                  <li>Collaboration among key stakeholders: student, parents, teachers, counselors, and doctors</li>
+                </ul>
+              </div>
+
+              {/* Intensive Training Program for Educators */}
+              <div className="rounded-lg border border-slate-200 bg-slate-50 p-4">
+                <div className="flex items-start justify-between mb-2">
+                  <h4 className="font-semibold text-slate-900">Intensive Training Program for Educators</h4>
+                  <div className="flex flex-col items-end gap-1 text-xs text-slate-600">
+                    <span>9–11 November 2009</span>
+                    <span>8:00am–5:00pm</span>
+                  </div>
+                </div>
+                <div className="mb-2">
+                  <span className="inline-block px-2.5 py-1 text-xs font-medium rounded-full bg-emerald-100 text-emerald-800 mb-2">
+                    Target Group: Educators
+                  </span>
+                  <span className="inline-block px-2.5 py-1 text-xs font-medium rounded-full bg-slate-100 text-slate-800 ml-2 mb-2">
+                    Language: English with direct Arabic translation
+                  </span>
+                </div>
+                <p className="text-sm text-slate-700 leading-relaxed mb-3">
+                  The teacher training component provides comprehensive in-depth information about key ADHD issues and how they impact
+                  learning and behavior. Key topics addressed include:
+                </p>
+                <ul className="text-sm text-slate-700 space-y-1.5 list-disc list-inside ml-2">
+                  <li>The neurobiology of ADHD</li>
+                  <li>An overview of ADHD and it's impact on school performance</li>
+                  <li>An update on medication</li>
+                  <li>Common learning problems</li>
+                  <li>The profound impact of deficits in executive function on learning and school performance</li>
+                  <li>Best practice teaching strategies</li>
+                  <li>Specific academic intervention strategies</li>
+                  <li>Effective behavioral strategies</li>
+                  <li>Best treatment practices</li>
+                  <li>An update on the landmark NIMH/MTA study on ADHD</li>
+                  <li>Direct communication by Skype web cam between teachers at the conference and teachers in Sonoraville, Georgia, USA</li>
+                  <li>An opportunity to prepare for presenting this ADHD information to others</li>
+                </ul>
               </div>
             </div>
 
-            {/* Opening Ceremony */}
-            <div className="rounded-xl border border-slate-200 bg-slate-50 p-6">
-              <h3 className="font-semibold text-slate-900 mb-4">Opening Ceremony</h3>
-              <p className="text-sm text-slate-700">
-                Presided over by HRH Prince Mohammed bin Nawaf bin Abdulaziz, Saudi Ambassador to the United Kingdom and Honorary President of the ADHD Society, with addresses from senior government and healthcare officials.
+            {/* Track 4: An Introduction to ADHD Coaching */}
+            <div className="rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
+              <div className="flex items-start justify-between mb-3">
+                <h3 className="font-semibold text-slate-900">Track 4: An Introduction to ADHD Coaching</h3>
+                <div className="flex flex-col items-end gap-1 text-xs text-slate-600">
+                  <span>9–11 November 2009</span>
+                  <span>8:00am–5:00pm</span>
+                </div>
+              </div>
+              <div className="mb-3">
+                <span className="inline-block px-2.5 py-1 text-xs font-medium rounded-full bg-emerald-100 text-emerald-800 mb-2">
+                  Target Group: Parents & Educators
+                </span>
+                <span className="inline-block px-2.5 py-1 text-xs font-medium rounded-full bg-slate-100 text-slate-800 ml-2 mb-2">
+                  Language: English with direct Arabic translation
+                </span>
+              </div>
+              <p className="text-sm text-slate-700 leading-relaxed">
+                This track gave an introduction to ADHD coaching, and the areas covered were: motivation and change, neuro-linguistic
+                programming, solution focused approaches, resilience, esteem and emotional literacy, co-morbid conditions. The track will
+                also cover goal & target setting, and how to motivate and coach kids and teens with ADHD, supporting parents, how to take
+                care of yourself if you have ADHD, also the classroom strategies for ADHD. This track also deals with 1-2-3 magic, mental
+                health issues and what makes an ADHD coach. There will be also an opportunity for discussion and feedback.
               </p>
             </div>
           </div>
         </section>
 
         {/* Accreditation */}
-        <section className="bg-white rounded-2xl border border-slate-200 p-8 space-y-6">
+        <section id="accreditation" className="bg-white rounded-2xl border border-slate-200 p-8 space-y-6">
           <div className="flex items-center gap-2">
             <ShieldCheck size={20} className="text-emerald-700" aria-hidden="true" />
             <h2 className="text-xl font-bold text-slate-900">Accreditation</h2>
@@ -1029,11 +1211,26 @@ const Conference2009MedicalHomePage = ({ basePath = '/res.adhd.org.sa-concept/' 
           <div className="space-y-6">
             <div className="rounded-xl border border-slate-200 bg-slate-50 p-6">
               <h3 className="font-semibold text-slate-900 mb-3">CME Credits</h3>
-              <p className="text-sm text-slate-700 mb-2">
-                Accredited by the American Academy of Continuing Medical Education (AACME) and approved for <strong>35 CME credits</strong> by
-                the Saudi Council for Health Specialties.
-              </p>
-              <p className="text-sm text-slate-600">
+              
+              <div className="space-y-4">
+                <div>
+                  <h4 className="font-semibold text-slate-800 mb-2 text-sm">AACME Credit Designation</h4>
+                  <p className="text-sm text-slate-700 mb-2">
+                    The Accreditation Review Committee (ARC) of the American Academy of Continuing Medical Education (AACME) designates
+                    this medical education activity for a maximum of <strong>20.75 hours</strong> in the Category 1 credit of the AACME
+                    Designation. Each physician must claim only those credits that he/she actually spent in the activity.
+                  </p>
+                </div>
+                
+                <div>
+                  <h4 className="font-semibold text-slate-800 mb-2 text-sm">Saudi Council for Health Specialties</h4>
+                  <p className="text-sm text-slate-700">
+                    Approved for <strong>35 CME credits</strong> by the Saudi Council for Health Specialties.
+                  </p>
+                </div>
+              </div>
+              
+              <p className="text-sm text-slate-600 mt-4">
                 Full attendance at the main symposium and satellite workshops qualifies for the complete credit allocation.
               </p>
             </div>
@@ -1070,7 +1267,7 @@ const Conference2009MedicalHomePage = ({ basePath = '/res.adhd.org.sa-concept/' 
         </section>
 
         {/* Governance & Partnerships */}
-        <section className="bg-slate-50 rounded-2xl border border-slate-200 p-8 space-y-8">
+        <section id="governance-partnerships" className="bg-slate-50 rounded-2xl border border-slate-200 p-8 space-y-8">
           <div className="flex items-center gap-2">
             <Building2 size={20} className="text-emerald-700" aria-hidden="true" />
             <h2 className="text-xl font-bold text-slate-900">Governance & Partnerships</h2>
@@ -1608,7 +1805,7 @@ const Conference2009MedicalHomePage = ({ basePath = '/res.adhd.org.sa-concept/' 
         </section>
 
         {/* Proceedings */}
-        <section className="bg-white rounded-2xl p-8 border border-slate-200 shadow-sm">
+        <section id="proceedings" className="bg-white rounded-2xl p-8 border border-slate-200 shadow-sm">
           <div className="flex items-center gap-2 mb-6">
             <FileText size={20} className="text-emerald-700" aria-hidden="true" />
             <h2 className="text-xl font-bold text-slate-900">Proceedings</h2>
