@@ -1,0 +1,55 @@
+{
+  "id": "doi-10.63332-joph.v6i1.3930",
+  "slug": "10.63332-joph.v6i1.3930",
+  "doi": "10.63332/joph.v6i1.3930",
+  "identifiers": {
+    "doi": "10.63332/joph.v6i1.3930"
+  },
+  "title": "Prevalence of Child Mental Health Disorders in Primary Health Care Settings, Riyadh, Saudi Arabia",
+  "language": "English",
+  "categories": [
+    "Prevalence"
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "sourceUrl": "https://posthumanism.co.uk/jp/article/download/3930/2446",
+    "localPdfUrl": "library/doi__10.63332__joph-v6i1-3930.pdf",
+    "researchGateUrl": "https://www.researchgate.net/publication/400141594_Prevalence_of_Child_Mental_Health_Disorders_in_Primary_Health_Care_Settings_Riyadh_Saudi_Arabia",
+    "license": "cc-by-nc-nd"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "abstract": "Child mental health disorders, such as ADHD, ASD, and anxiety, represent a growing global public health concern. These conditions often emerge in early childhood and are frequently identified first in primary care settings [1,2]. Without early recognition and treatment, these disorders can impair social, academic, and emotional development [3]. This study assesses the prevalence of these disorders among children attending AlWazarat Health Center at Prince Sultan Military Medical City (PSMMC) in Riyadh, Saudi Arabia, and explores associated gender and sociodemographic patterns. A cross-sectional and follow-up study included patterns of mental health Disorders among children attending Al Wazarat Healthcare Center at Prince Sultan Military Medical City (PSMMC), Riyadh, Saudi Arabia, between October 2023 to November 2024. Patients who did not attend the clinic on their appointment time were excluded. Data were collected through structured interviews with either parent, father, mother, or the guardian attending the appointment. Diagnosis was established using DSM-5-aligned clinical tools by qualified practitioners. Data were collected on sociodemographic variables (gender, family status, parental education) and diagnosed mental health conditions, including ADHD, anxiety, autism spectrum disorder (ASD), learning disabilities, and speech delay. Chi-square tests were used to examine associations, with p-values &lt; 0.05 considered statistically significant. A total of 251 children were included in this study. The most prevalent diagnosis was ADHD (59.8%), followed by ASD (13.9%), anxiety (11.6%), speech delay (8.8%), and learning disabilities (6.0%). Males represented 72.1% of the sample and had significantly higher rates of ADHD (63.5% vs. 50%) and speech delay (11.0% vs. 2.9%) compared to females. Anxiety was more common in females (22.9%) than males (7.2%), with p &lt;0.05 [4,5]. Parental education and family status were not significantly associated with diagnostic categories (p&gt;0.05) [6]. This study highlights the high burden of neurodevelopmental and emotional conditions in children seen in primary healthcare. ADHD is the most commonly diagnosed child mental health disorder in this primary care setting, with notable gender differences. These findings support the urgent need for integrated mental health screening and training for primary care physicians in Saudi Arabia.",
+  "authors": [
+    {
+      "given": "Mostafa",
+      "family": "Kofi",
+      "sequence": 1
+    },
+    {
+      "given": "Thamer Ahmed Al",
+      "family": "Sayari",
+      "sequence": 2
+    },
+    {
+      "given": "Nadeer Hassan",
+      "family": "Alkhadhrawi",
+      "sequence": 3
+    }
+  ],
+  "publication": {
+    "year": 2026
+  },
+  "journal": {
+    "name": "Journal of Posthumanism",
+    "issn": "2634-3584",
+    "volume": "6",
+    "issue": "1",
+    "pages": {
+      "start": "351",
+      "end": "364"
+    }
+  }
+}

@@ -1,5 +1,316 @@
 [
   {
+    "id": "doi-10.1007-s13369-025-10984-3",
+    "slug": "10.1007-s13369-025-10984-3",
+    "doi": "10.1007/s13369-025-10984-3",
+    "identifiers": {
+      "doi": "10.1007/s13369-025-10984-3",
+      "url": null,
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "Deep Learning Approaches to Evaluating ADHD Using EEG Data: RNN, GRU, and LSTM Models",
+    "abstract": null,
+    "language": "English",
+    "categories": [
+      "Uncategorized"
+    ],
+    "keywords": [],
+    "publication": {
+      "type": null,
+      "publishedDate": null,
+      "year": 2026
+    },
+    "journal": {
+      "name": "Arabian Journal for Science and Engineering",
+      "abbreviation": null,
+      "issn": "2193-567X",
+      "volume": null,
+      "issue": null,
+      "pages": {
+        "start": null,
+        "end": null
+      }
+    },
+    "authors": [
+      {
+        "given": "Nouf Jubran",
+        "family": "AlQahtani",
+        "sequence": 1
+      },
+      {
+        "given": "Manar",
+        "family": "Gherbi",
+        "sequence": 2
+      },
+      {
+        "given": "Ali",
+        "family": "Al-Shaikhi",
+        "sequence": 3
+      },
+      {
+        "given": "Mohamed A.",
+        "family": "Mohandes",
+        "orcid": "https://orcid.org/0000-0002-7897-1275",
+        "sequence": 4
+      }
+    ],
+    "access": {
+      "status": "closed",
+      "license": null,
+      "source": null,
+      "licenseUrl": null,
+      "sourceUrl": null,
+      "localPdfUrl": null,
+      "researchGateUrl": null
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
+  },
+  {
+    "id": "doi-10.1080-21622965.2026.2613053",
+    "slug": "10.1080-21622965.2026.2613053",
+    "doi": "10.1080/21622965.2026.2613053",
+    "identifiers": {
+      "doi": "10.1080/21622965.2026.2613053",
+      "url": null,
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "Effects of executive function intervention based on motor activity on working memory and sustained attention of Saudi children with ADHD",
+    "abstract": null,
+    "language": "English",
+    "categories": [
+      "Uncategorized"
+    ],
+    "keywords": [],
+    "publication": {
+      "type": null,
+      "publishedDate": null,
+      "year": 2026
+    },
+    "journal": {
+      "name": "Applied Neuropsychology: Child",
+      "abbreviation": null,
+      "issn": "2162-2965",
+      "volume": null,
+      "issue": null,
+      "pages": {
+        "start": "1",
+        "end": "9"
+      }
+    },
+    "authors": [
+      {
+        "given": "Malik M.",
+        "family": "Alrefaei",
+        "sequence": 1
+      }
+    ],
+    "access": {
+      "status": "closed",
+      "license": null,
+      "source": null,
+      "licenseUrl": null,
+      "sourceUrl": null,
+      "localPdfUrl": null,
+      "researchGateUrl": null
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
+  },
+  {
+    "id": "doi-10.63332-joph.v6i1.3930",
+    "slug": "10.63332-joph.v6i1.3930",
+    "doi": "10.63332/joph.v6i1.3930",
+    "identifiers": {
+      "doi": "10.63332/joph.v6i1.3930",
+      "url": null,
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "Prevalence of Child Mental Health Disorders in Primary Health Care Settings, Riyadh, Saudi Arabia",
+    "abstract": "<jats:p>Child mental health disorders, such as ADHD, ASD, and anxiety, represent a growing global public health concern. These conditions often emerge in early childhood and are frequently identified first in primary care settings [1,2]. Without early recognition and treatment, these disorders can impair social, academic, and emotional development [3]. This study assesses the prevalence of these disorders among children attending AlWazarat Health Center at Prince Sultan Military Medical City (PSMMC) in Riyadh, Saudi Arabia, and explores associated gender and sociodemographic patterns. A cross-sectional and follow-up study included patterns of mental health Disorders among children attending Al Wazarat Healthcare Center at Prince Sultan Military Medical City (PSMMC), Riyadh, Saudi Arabia, between October 2023 to November 2024. Patients who did not attend the clinic on their appointment time were excluded. Data were collected through structured interviews with either parent, father, mother, or the guardian attending the appointment. Diagnosis was established using DSM-5-aligned clinical tools by qualified practitioners. Data were collected on sociodemographic variables (gender, family status, parental education) and diagnosed mental health conditions, including ADHD, anxiety, autism spectrum disorder (ASD), learning disabilities, and speech delay. Chi-square tests were used to examine associations, with p-values &lt; 0.05 considered statistically significant. A total of 251 children were included in this study. The most prevalent diagnosis was ADHD (59.8%), followed by ASD (13.9%), anxiety (11.6%), speech delay (8.8%), and learning disabilities (6.0%). Males represented 72.1% of the sample and had significantly higher rates of ADHD (63.5% vs. 50%) and speech delay (11.0% vs. 2.9%) compared to females. Anxiety was more common in females (22.9%) than males (7.2%), with p &lt;0.05 [4,5]. Parental education and family status were not significantly associated with diagnostic categories (p&gt;0.05) [6]. This study highlights the high burden of neurodevelopmental and emotional conditions in children seen in primary healthcare. ADHD is the most commonly diagnosed child mental health disorder in this primary care setting, with notable gender differences. These findings support the urgent need for integrated mental health screening and training for primary care physicians in Saudi Arabia.</jats:p>",
+    "language": "English",
+    "categories": [
+      "Uncategorized"
+    ],
+    "keywords": [],
+    "publication": {
+      "type": null,
+      "publishedDate": null,
+      "year": 2026
+    },
+    "journal": {
+      "name": "Journal of Posthumanism",
+      "abbreviation": null,
+      "issn": "2634-3584",
+      "volume": "6",
+      "issue": "1",
+      "pages": {
+        "start": "351",
+        "end": "364"
+      }
+    },
+    "authors": [
+      {
+        "given": "Mostafa",
+        "family": "Kofi",
+        "sequence": 1
+      },
+      {
+        "given": "Thamer Ahmed Al",
+        "family": "Sayari",
+        "sequence": 2
+      },
+      {
+        "given": "Nadeer Hassan",
+        "family": "Alkhadhrawi",
+        "sequence": 3
+      }
+    ],
+    "access": {
+      "status": "open",
+      "license": "cc-by-nc-nd",
+      "source": null,
+      "licenseUrl": null,
+      "sourceUrl": "https://posthumanism.co.uk/jp/article/download/3930/2446",
+      "localPdfUrl": null,
+      "researchGateUrl": null
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
+  },
+  {
+    "id": "doi-10.33193-jalhss.128.2026.1621",
+    "slug": "10.33193-jalhss.128.2026.1621",
+    "doi": "10.33193/jalhss.128.2026.1621",
+    "identifiers": {
+      "doi": "10.33193/jalhss.128.2026.1621",
+      "url": null,
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "مستوى معرفة معلمات فرط الحركة وتشتت الانتباه باستراتيجية (أخف، انسخ، ثم قارن) في مدارس الدمج للمرحلة الابتدائية بمدينة الرياض",
+    "abstract": "<jats:p>تسعى الدراسة الحالية إلى معرفة مستوى معلمات فَرْط الحركة وتَشتُّت الانتباه باستراتيجية «أخْفِ، انسَخْ، ثم قارِنْ» في المدارس الابتدائية بمدينة الرياض، بالإضافة إلى تسليط الضوء نحو مستوى معرفة معلمات فَرْط الحركة وتَشتُّت الانتباه بتطبيق استراتيجية «أخْفِ، انسَخْ، ثم قارِنْ»، والكشف عن المعوقات التي تحد من تطبيق معلمات فَرْط الحركة وتَشتُّت الانتباه لهذه الاستراتيجية. ولتحقيق أهداف هذه الدراسة تم استخدام المنهج الوصفي، وذلك بتطبيق الاستبانة -أو ما يعرف بالاستقصاء- وهي \"أداة تتضمَّن مجموعة من الأسئلة أو الجُمل الخبرية التي تتطلب الإجابة عنها بطريقة يُحدِّدها الباحث حسَب أغراض البحث، وقد قامت الباحثة بتوزيع أداة الدراسة على جميع المعلمات، استجاب معها (52) معلمة، وهن يُمثِّلن (72.2%) من إجمالي مجتمع الدراسة. وتوصلت الدراسة إلى جملة من النتائج، من أبرزها: أن مستوى معرفة معلمات فَرْط الحركة وتَشتُّت الانتباه باستراتيجية «أخْفِ، انسَخْ، ثم قارِنْ» جاء بدرجة منخفضة، وأن مستوى تطبيق معلمات فَرْط الحركة وتَشتُّت الانتباه لاستراتيجية «أخْفِ، انسَخْ، ثم قارِنْ» مع تلاميذ فَرْط الحركة وتَشتُّت الانتباه جاء بدرجة عالية، بالإضافة إلى أن هناك موافقة بدرجة عالية بين أفراد الدراسة على المعوقات التي تَحدّ من تطبيق معلمات فَرْط الحركة وتَشتُّت الانتباه لاستراتيجية «أخْفِ، انسَخْ، ثم قارِنْ» مع تلاميذ فَرْط الحركة وتَشتُّت الانتباه.</jats:p>",
+    "language": "English",
+    "categories": [
+      "Uncategorized"
+    ],
+    "keywords": [],
+    "publication": {
+      "type": null,
+      "publishedDate": null,
+      "year": 2026
+    },
+    "journal": {
+      "name": "Journal of Arts, Literature, Humanities and Social Sciences",
+      "abbreviation": null,
+      "issn": "2414-3383",
+      "volume": null,
+      "issue": "128",
+      "pages": {
+        "start": "146",
+        "end": "170"
+      }
+    },
+    "authors": [
+      {
+        "given": "",
+        "family": "بشرى جاسم العنزي",
+        "sequence": 1
+      },
+      {
+        "given": "",
+        "family": "د. نوف محمد الزرير",
+        "sequence": 2
+      }
+    ],
+    "access": {
+      "status": "open",
+      "license": "cc-by-sa",
+      "source": null,
+      "licenseUrl": null,
+      "sourceUrl": "https://www.jalhss.com/index.php/jalhss/article/download/1621/1602",
+      "localPdfUrl": null,
+      "researchGateUrl": null
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
+  },
+  {
+    "id": "doi-10.21608-maed.2025.428381",
+    "slug": "10.21608-maed.2025.428381",
+    "doi": "10.21608/maed.2025.428381",
+    "identifiers": {
+      "doi": "10.21608/maed.2025.428381",
+      "url": null,
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "...واقع تطبيق المعلمات للأنشطة التفاعلية بالروضات لتخفيف الاضطرابات لدى الاطفال ذوى فرط الحركة ونقص الانتباه بمرحله الطفولة المبكرة...",
+    "abstract": null,
+    "language": "English",
+    "categories": [
+      "Uncategorized"
+    ],
+    "keywords": [],
+    "publication": {
+      "type": null,
+      "publishedDate": null,
+      "year": 2025
+    },
+    "journal": {
+      "name": "مجلة کلية التربية بالمنصورة",
+      "abbreviation": null,
+      "issn": "2735-4466",
+      "volume": "129",
+      "issue": "1",
+      "pages": {
+        "start": "223",
+        "end": "264"
+      }
+    },
+    "authors": [
+      {
+        "given": "رنا محمد",
+        "family": "الفريدي",
+        "sequence": 1
+      },
+      {
+        "given": "شريف إبراهيم",
+        "family": "خميس",
+        "sequence": 2
+      }
+    ],
+    "access": {
+      "status": "closed",
+      "license": null,
+      "source": null,
+      "licenseUrl": null,
+      "sourceUrl": null,
+      "localPdfUrl": null,
+      "researchGateUrl": null
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
+  },
+  {
     "id": "doi-10.57197-jdr-2025-0003",
     "slug": "10.57197-jdr-2025-0003",
     "doi": "10.57197/jdr-2025-0003",
@@ -1994,6 +2305,118 @@
     "legacy": {}
   },
   {
+    "id": "doi-10.1080-21622965.2025.2598575",
+    "slug": "10.1080-21622965.2025.2598575",
+    "doi": "10.1080/21622965.2025.2598575",
+    "identifiers": {
+      "doi": "10.1080/21622965.2025.2598575",
+      "url": null,
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "The effects of exercise types on inhibitory control and working memory in children with attention deficit hyperactivity disorder: Network meta-analysis",
+    "abstract": null,
+    "language": "English",
+    "categories": [
+      "Uncategorized"
+    ],
+    "keywords": [],
+    "publication": {
+      "type": null,
+      "publishedDate": null,
+      "year": 2025
+    },
+    "journal": {
+      "name": "Applied Neuropsychology: Child",
+      "abbreviation": null,
+      "issn": "2162-2965",
+      "volume": null,
+      "issue": null,
+      "pages": {
+        "start": "1",
+        "end": "11"
+      }
+    },
+    "authors": [
+      {
+        "given": "Mohammed",
+        "family": "Alhwaiti",
+        "orcid": "https://orcid.org/0000-0002-0048-7387",
+        "sequence": 1
+      }
+    ],
+    "access": {
+      "status": "closed",
+      "license": null,
+      "source": null,
+      "licenseUrl": null,
+      "sourceUrl": null,
+      "localPdfUrl": null,
+      "researchGateUrl": null
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
+  },
+  {
+    "id": "doi-10.1080-21622965.2025.2608127",
+    "slug": "10.1080-21622965.2025.2608127",
+    "doi": "10.1080/21622965.2025.2608127",
+    "identifiers": {
+      "doi": "10.1080/21622965.2025.2608127",
+      "url": null,
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "The effects of transcranial direct electrical stimulation on increasing cognitive flexibility and processing speed in children with attention deficit/hyperactivity disorder",
+    "abstract": null,
+    "language": "English",
+    "categories": [
+      "Uncategorized"
+    ],
+    "keywords": [],
+    "publication": {
+      "type": null,
+      "publishedDate": null,
+      "year": 2025
+    },
+    "journal": {
+      "name": "Applied Neuropsychology: Child",
+      "abbreviation": null,
+      "issn": "2162-2965",
+      "volume": null,
+      "issue": null,
+      "pages": {
+        "start": "1",
+        "end": "6"
+      }
+    },
+    "authors": [
+      {
+        "given": "Loul",
+        "family": "Saleh Al Rasheed",
+        "orcid": "https://orcid.org/0000-0003-0708-7420",
+        "sequence": 1
+      }
+    ],
+    "access": {
+      "status": "closed",
+      "license": null,
+      "source": null,
+      "licenseUrl": null,
+      "sourceUrl": null,
+      "localPdfUrl": null,
+      "researchGateUrl": null
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
+  },
+  {
     "id": "doi-10.4103-jehp.jehp_100_25",
     "slug": "10.4103-jehp.jehp10025",
     "doi": "10.4103/jehp.jehp_100_25",
@@ -2140,7 +2563,7 @@
       "license": null,
       "source": null,
       "licenseUrl": null,
-      "sourceUrl": null,
+      "sourceUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jpm.13171",
       "localPdfUrl": null,
       "researchGateUrl": null
     },
@@ -2534,6 +2957,139 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0",
       "sourceUrl": "https://doi.org/10.1038/s41598-025-12976-7",
       "localPdfUrl": "library/doi__10.1038__s41598-025-12976-7.pdf",
+      "researchGateUrl": null
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
+  },
+  {
+    "id": "doi-10.3390-ctn9040055",
+    "slug": "10.3390-ctn9040055",
+    "doi": "10.3390/ctn9040055",
+    "identifiers": {
+      "doi": "10.3390/ctn9040055",
+      "url": null,
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "Working Memory Training Improves Cognitive and Clinical ADHD Symptoms in Children",
+    "abstract": "<jats:p>Working memory training (WMT) has promising effects on cognitive and clinical outcomes in children with attention deficit hyperactivity disorder (ADHD). However, few studies have explored the effectiveness of such programs in developing countries with different populations and sociocultural backgrounds. This study aimed to pilot Cogmed WMT (CWMT) and examine its impact on clinical and cognitive outcomes in children diagnosed with ADHD in Saudi Arabia. We assessed 34 children with ADHD assigned to either a CWMT or standard-of-care group. Both groups were evaluated at baseline and five weeks for ADHD symptoms and cognitive function, including working memory (WM), sustained attention, and impulsivity. Compared with the baseline and the control group, the intervention group demonstrated improved parent ratings of ADHD clinical symptoms and cognitive function scores, including WM, sustained attention, and impulsivity. CWMT improved cognitive and clinical measures in our sample of Saudi children with ADHD and is a promising non-pharmacological therapy for treating children with ADHD in developing countries.</jats:p>",
+    "language": "English",
+    "categories": [
+      "Uncategorized"
+    ],
+    "keywords": [],
+    "publication": {
+      "type": null,
+      "publishedDate": null,
+      "year": 2025
+    },
+    "journal": {
+      "name": "Clinical and Translational Neuroscience",
+      "abbreviation": null,
+      "issn": "2514-183X",
+      "volume": "9",
+      "issue": "4",
+      "pages": {
+        "start": "55",
+        "end": null
+      }
+    },
+    "authors": [
+      {
+        "given": "Maha S.",
+        "family": "Alsaad",
+        "sequence": 1
+      },
+      {
+        "given": "Abeer F.",
+        "family": "Almarzouki",
+        "orcid": "https://orcid.org/0000-0001-8090-5341",
+        "sequence": 2
+      },
+      {
+        "given": "Solafa H.",
+        "family": "Ghoneim",
+        "orcid": "https://orcid.org/0000-0001-8186-5337",
+        "sequence": 3
+      },
+      {
+        "given": "Basma A.",
+        "family": "Al-Jabri",
+        "orcid": "https://orcid.org/0000-0003-1170-4188",
+        "sequence": 4
+      },
+      {
+        "given": "Samraa",
+        "family": "Suliman",
+        "sequence": 5
+      }
+    ],
+    "access": {
+      "status": "open",
+      "license": "cc-by",
+      "source": null,
+      "licenseUrl": null,
+      "sourceUrl": "https://www.mdpi.com/2514-183X/9/4/55/pdf?version=1764667531",
+      "localPdfUrl": null,
+      "researchGateUrl": null
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
+  },
+  {
+    "id": "doi-10.55074-hesj.vi50.1611",
+    "slug": "10.55074-hesj.vi50.1611",
+    "doi": "10.55074/hesj.vi50.1611",
+    "identifiers": {
+      "doi": "10.55074/hesj.vi50.1611",
+      "url": null,
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "تصوُّرات معلمات التلميذات ذوات اضطراب فرط الحركة وتشتت الانتباه حول تطبيق التدريس التشاركي: دراسة نوعية",
+    "abstract": "<jats:p>هدفت الدراسة الحالية إلى التعرف على تصوُّرات معلمات التلميذات ذوات اضطراب فرط الحركة وتشتت الانتباه حول تطبيق التدريس التشاركي، والكشف عن المعوقات التي تحُول دون تطبيق التدريس التشاركي، وكيفية دعمهن لتمكينهن من تطبيق التدريس التشاركي، ولتحقيق ذلك استخدمت الباحثة المنهج النوعي؛ من خلال إجراء مقابلات فردية شبه منظَّمة مع (8) معلمات تعليم عام، ومعلمات تربية خاصة يعملن في المدارس الحكومية الابتدائية بمدينة الرياض، ووفقًا لتحليل البيانات النوعية؛ أظهرت نتائج الدراسة عددًا من الموضوعات التي تتحدث فيها المعلمات عن تصوُّراتهن حول تطبيق التدريس التشاركي، وهي: قلة الوعي بالنماذج المختلِفة للتدريس التشاركي، وفوائد تطبيق التدريس التشاركي على مستوى التلميذات والمعلمات، وكشفت النتائج عن مجموعة من المعوقات التي قد تحُول دون تطبيق التدريس التشاركي، وتمثلت في المعوقات المتعلقة بالبيئة التعليمية، وفريق العمل، وقلة البرامج التدريبية، كما أظهرت الدراسة عددًا من العوامل التي قد تساعد على تطبيق التدريس التشاركي، وهي العوامل الشخصية لفريق العمل، والعوامل التدريبية، والعوامل الإدارية.</jats:p>",
+    "language": "English",
+    "categories": [
+      "Uncategorized"
+    ],
+    "keywords": [],
+    "publication": {
+      "type": null,
+      "publishedDate": null,
+      "year": 2025
+    },
+    "journal": {
+      "name": "مجلة العلوم التربوية و الدراسات الإنسانية",
+      "abbreviation": null,
+      "issn": "2709-0302",
+      "volume": null,
+      "issue": "50",
+      "pages": {
+        "start": "519",
+        "end": "542"
+      }
+    },
+    "authors": [
+      {
+        "given": "امتنان أحمد علي",
+        "family": "المحسن",
+        "sequence": 1
+      }
+    ],
+    "access": {
+      "status": "open",
+      "license": "cc-by",
+      "source": null,
+      "licenseUrl": null,
+      "sourceUrl": "https://hesj.org/ojs/index.php/hesj/article/download/1611/1308",
+      "localPdfUrl": null,
       "researchGateUrl": null
     },
     "visibility": {
@@ -5345,6 +5901,61 @@
       "licenseUrl": null,
       "sourceUrl": "https://www.dovepress.com/getfile.php?fileID=96513",
       "localPdfUrl": "library/doi__10.2147__ppa.s443481.pdf",
+      "researchGateUrl": null
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
+  },
+  {
+    "id": "doi-10.21608-jasht.2024.337376",
+    "slug": "10.21608-jasht.2024.337376",
+    "doi": "10.21608/jasht.2024.337376",
+    "identifiers": {
+      "doi": "10.21608/jasht.2024.337376",
+      "url": null,
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "مستوى توّفر المعايير العالميّة والمحليّة في البرامج التربوية الفردية للطلبة ‏ذوي اضطراب فرط الحركة وتشتت الانتباه",
+    "abstract": null,
+    "language": "English",
+    "categories": [
+      "Uncategorized"
+    ],
+    "keywords": [],
+    "publication": {
+      "type": null,
+      "publishedDate": null,
+      "year": 2024
+    },
+    "journal": {
+      "name": "المجلة العربية لعلوم الإعاقة والموهبة",
+      "abbreviation": null,
+      "issn": "2537-0499",
+      "volume": "8",
+      "issue": "29",
+      "pages": {
+        "start": "45",
+        "end": "74"
+      }
+    },
+    "authors": [
+      {
+        "given": "حنان علي محمد ‎",
+        "family": "القرني",
+        "sequence": 1
+      }
+    ],
+    "access": {
+      "status": "open",
+      "license": null,
+      "source": null,
+      "licenseUrl": null,
+      "sourceUrl": "https://jasht.journals.ekb.eg/article_337376_ff38462575e459574214b46ac387c947.pdf",
+      "localPdfUrl": null,
       "researchGateUrl": null
     },
     "visibility": {
@@ -10610,6 +11221,61 @@
     "legacy": {}
   },
   {
+    "id": "doi-10.21608-sero.2020.120479",
+    "slug": "10.21608-sero.2020.120479",
+    "doi": "10.21608/sero.2020.120479",
+    "identifiers": {
+      "doi": "10.21608/sero.2020.120479",
+      "url": null,
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "The importance of self-advocacy in writing for emotional and behavioral disorders in order of transitional planning",
+    "abstract": "Self-Advocacy in writing are one of the most important current issues in teaching emotional and behavioral students in developed countries.Laws require teachers to implement self-advocacy practices as a part of selfdetermination when teaching students with emotional and behavioral disorders due to the positive effects for using these practices in writing.Unfortunately, these practices are rarely discussed in the Arab world.Therefore, the purpose of this study to define the concept of self-advocacy, their importance, how to teach self-advocacy, obstacles to their implementation.Finally, this study presented several recommendations and suggestions related to self-advocacy in writing in the Arab world.",
+    "language": "English",
+    "categories": [
+      "Uncategorized"
+    ],
+    "keywords": [],
+    "publication": {
+      "type": null,
+      "publishedDate": null,
+      "year": 2020
+    },
+    "journal": {
+      "name": "Journal of Special Education and Rehabilitation",
+      "abbreviation": null,
+      "issn": "2735-3141",
+      "volume": "10",
+      "issue": "2",
+      "pages": {
+        "start": "159",
+        "end": "178"
+      }
+    },
+    "authors": [
+      {
+        "given": "Latifa",
+        "family": "Ahmad Abdulaziz Al-Malham",
+        "sequence": 1
+      }
+    ],
+    "access": {
+      "status": "open",
+      "license": null,
+      "source": null,
+      "licenseUrl": null,
+      "sourceUrl": "https://sero.journals.ekb.eg/article_120479_0ca2e99ca9e50e21b276c3f62b99d6ed.pdf",
+      "localPdfUrl": "library/doi__10.21608__sero__2020__120479.pdf",
+      "researchGateUrl": null
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
+  },
+  {
     "id": "doi-10.52634-mier-2020-v10-i1-1355",
     "slug": "10.52634-mier-2020-v10-i1-1355",
     "doi": "10.52634/mier/2020/v10/i1/1355",
@@ -12811,8 +13477,8 @@
     "legacy": {}
   },
   {
-    "id": "legacy-f8dedf2afc",
-    "slug": "adhd-awareness-among-medical-students-2017",
+    "id": "doi-10.31871-wjrr.4.3.14",
+    "slug": "10.31871-wjrr.4.3.14",
     "doi": "10.31871/wjrr.4.3.14",
     "identifiers": {
       "doi": "10.31871/wjrr.4.3.14",
@@ -19075,55 +19741,6 @@
       "licenseUrl": null,
       "sourceUrl": null,
       "localPdfUrl": "library/a-survey-of-a-child-psychiatry-clinic-in-a-teaching-hospital-in-saudi-arabia-clinical-profile-and-cross-cultural-comparison-1996-2b74372d0d.pdf",
-      "researchGateUrl": null
-    },
-    "visibility": {
-      "hidden": false
-    },
-    "legacy": {}
-  },
-  {
-    "id": "doi-10.21608-sero.2020.120479",
-    "slug": "10.21608-sero.2020.120479",
-    "doi": "10.21608/sero.2020.120479",
-    "identifiers": {
-      "doi": "10.21608/sero.2020.120479",
-      "url": null,
-      "pmid": null,
-      "pmcid": null,
-      "isbn": null
-    },
-    "title": "",
-    "abstract": null,
-    "language": "English",
-    "categories": [
-      "Uncategorized"
-    ],
-    "keywords": [],
-    "publication": {
-      "type": null,
-      "publishedDate": null,
-      "year": null
-    },
-    "journal": {
-      "name": null,
-      "abbreviation": null,
-      "issn": null,
-      "volume": null,
-      "issue": null,
-      "pages": {
-        "start": null,
-        "end": null
-      }
-    },
-    "authors": [],
-    "access": {
-      "status": "unknown",
-      "license": null,
-      "source": null,
-      "licenseUrl": null,
-      "sourceUrl": null,
-      "localPdfUrl": null,
       "researchGateUrl": null
     },
     "visibility": {

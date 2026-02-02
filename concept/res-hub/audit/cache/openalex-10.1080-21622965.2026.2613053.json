@@ -1,0 +1,958 @@
+{
+  "id": "https://openalex.org/W7124255759",
+  "doi": "https://doi.org/10.1080/21622965.2026.2613053",
+  "title": "Effects of executive function intervention based on motor activity on working memory and sustained attention of Saudi children with ADHD",
+  "display_name": "Effects of executive function intervention based on motor activity on working memory and sustained attention of Saudi children with ADHD",
+  "publication_year": 2026,
+  "publication_date": "2026-01-15",
+  "ids": {
+    "openalex": "https://openalex.org/W7124255759",
+    "doi": "https://doi.org/10.1080/21622965.2026.2613053",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/41543232"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1080/21622965.2026.2613053",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1080/21622965.2026.2613053",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2764552972",
+      "display_name": "Applied Neuropsychology Child",
+      "issn_l": "2162-2965",
+      "issn": [
+        "2162-2965",
+        "2162-2973"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320547"
+      ],
+      "host_organization_lineage_names": [
+        "Taylor & Francis"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Applied Neuropsychology: Child",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5091434465",
+        "display_name": "Malik M. Alrefaei",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I179331831",
+          "display_name": "Taif University",
+          "ror": "https://ror.org/014g1a453",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I179331831"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Malik M. Alrefaei",
+      "raw_affiliation_strings": [
+        "Prof. Dr., Special Education, Taif University"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Prof. Dr., Special Education, Taif University",
+          "institution_ids": [
+            "https://openalex.org/I179331831"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5091434465"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I179331831"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.67807351,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "1",
+    "last_page": "9"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10537",
+    "display_name": "Attention Deficit Hyperactivity Disorder",
+    "score": 0.6314520835876465,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.6314520835876465,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12241",
+      "display_name": "Children's Physical and Motor Development",
+      "score": 0.0682893693447113,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10042",
+      "display_name": "Neural and Behavioral Psychology Studies",
+      "score": 0.016205258667469025,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/working-memory",
+      "display_name": "Working memory",
+      "score": 0.8588646054267883
+    },
+    {
+      "id": "https://openalex.org/keywords/intervention",
+      "display_name": "Intervention (counseling)",
+      "score": 0.6773667335510254
+    },
+    {
+      "id": "https://openalex.org/keywords/executive-functions",
+      "display_name": "Executive functions",
+      "score": 0.6446027755737305
+    },
+    {
+      "id": "https://openalex.org/keywords/working-memory-training",
+      "display_name": "Working memory training",
+      "score": 0.5932608246803284
+    },
+    {
+      "id": "https://openalex.org/keywords/cognition",
+      "display_name": "Cognition",
+      "score": 0.5746532678604126
+    },
+    {
+      "id": "https://openalex.org/keywords/motor-skill",
+      "display_name": "Motor skill",
+      "score": 0.44345158338546753
+    },
+    {
+      "id": "https://openalex.org/keywords/short-term-memory",
+      "display_name": "Short-term memory",
+      "score": 0.38449716567993164
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C21963081",
+      "wikidata": "https://www.wikidata.org/wiki/Q11337567",
+      "display_name": "Working memory",
+      "level": 3,
+      "score": 0.8588646054267883
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.7103656530380249
+    },
+    {
+      "id": "https://openalex.org/C2780665704",
+      "wikidata": "https://www.wikidata.org/wiki/Q959298",
+      "display_name": "Intervention (counseling)",
+      "level": 2,
+      "score": 0.6773667335510254
+    },
+    {
+      "id": "https://openalex.org/C2775968953",
+      "wikidata": "https://www.wikidata.org/wiki/Q783092",
+      "display_name": "Executive functions",
+      "level": 3,
+      "score": 0.6446027755737305
+    },
+    {
+      "id": "https://openalex.org/C2778730409",
+      "wikidata": "https://www.wikidata.org/wiki/Q8034979",
+      "display_name": "Working memory training",
+      "level": 4,
+      "score": 0.5932608246803284
+    },
+    {
+      "id": "https://openalex.org/C169900460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+      "display_name": "Cognition",
+      "level": 2,
+      "score": 0.5746532678604126
+    },
+    {
+      "id": "https://openalex.org/C169976356",
+      "wikidata": "https://www.wikidata.org/wiki/Q13208902",
+      "display_name": "Motor skill",
+      "level": 2,
+      "score": 0.44345158338546753
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.41289466619491577
+    },
+    {
+      "id": "https://openalex.org/C179226034",
+      "wikidata": "https://www.wikidata.org/wiki/Q18599",
+      "display_name": "Short-term memory",
+      "level": 4,
+      "score": 0.38449716567993164
+    },
+    {
+      "id": "https://openalex.org/C126139899",
+      "wikidata": "https://www.wikidata.org/wiki/Q4818236",
+      "display_name": "Attentional control",
+      "level": 3,
+      "score": 0.3665520250797272
+    },
+    {
+      "id": "https://openalex.org/C2780783007",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "level": 2,
+      "score": 0.3381679654121399
+    },
+    {
+      "id": "https://openalex.org/C168563851",
+      "wikidata": "https://www.wikidata.org/wiki/Q1436668",
+      "display_name": "Randomized controlled trial",
+      "level": 2,
+      "score": 0.31738123297691345
+    },
+    {
+      "id": "https://openalex.org/C2779985164",
+      "wikidata": "https://www.wikidata.org/wiki/Q5419936",
+      "display_name": "Executive dysfunction",
+      "level": 4,
+      "score": 0.3136155903339386
+    },
+    {
+      "id": "https://openalex.org/C2909801347",
+      "wikidata": "https://www.wikidata.org/wiki/Q5141214",
+      "display_name": "Cognitive Intervention",
+      "level": 3,
+      "score": 0.2731919586658478
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.26642897725105286
+    },
+    {
+      "id": "https://openalex.org/C63529061",
+      "wikidata": "https://www.wikidata.org/wiki/Q3424681",
+      "display_name": "Cognitive remediation therapy",
+      "level": 3,
+      "score": 0.2599535584449768
+    },
+    {
+      "id": "https://openalex.org/C3017694942",
+      "wikidata": "https://www.wikidata.org/wiki/Q16254243",
+      "display_name": "Attention deficit",
+      "level": 3,
+      "score": 0.25812840461730957
+    },
+    {
+      "id": "https://openalex.org/C2779602242",
+      "wikidata": "https://www.wikidata.org/wiki/Q1498506",
+      "display_name": "Cognitive training",
+      "level": 3,
+      "score": 0.25348761677742004
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1080/21622965.2026.2613053",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1080/21622965.2026.2613053",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764552972",
+        "display_name": "Applied Neuropsychology Child",
+        "issn_l": "2162-2965",
+        "issn": [
+          "2162-2965",
+          "2162-2973"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547"
+        ],
+        "host_organization_lineage_names": [
+          "Taylor & Francis"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Applied Neuropsychology: Child",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:41543232",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/41543232",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Applied neuropsychology. Child",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/8",
+      "display_name": "Decent work and economic growth",
+      "score": 0.40458768606185913
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 46,
+  "referenced_works": [
+    "https://openalex.org/W2295422547",
+    "https://openalex.org/W2893163394",
+    "https://openalex.org/W4367320796",
+    "https://openalex.org/W2887544058",
+    "https://openalex.org/W4408155056",
+    "https://openalex.org/W2103436500",
+    "https://openalex.org/W4411333023",
+    "https://openalex.org/W3215638760",
+    "https://openalex.org/W4410571251",
+    "https://openalex.org/W2579360230",
+    "https://openalex.org/W3213154474",
+    "https://openalex.org/W1514128735",
+    "https://openalex.org/W4211081781",
+    "https://openalex.org/W4410737453",
+    "https://openalex.org/W2054825686",
+    "https://openalex.org/W4399741999",
+    "https://openalex.org/W2990384559",
+    "https://openalex.org/W1996670380",
+    "https://openalex.org/W2123803218",
+    "https://openalex.org/W1974081955",
+    "https://openalex.org/W2936849356",
+    "https://openalex.org/W4411306783",
+    "https://openalex.org/W4213099076",
+    "https://openalex.org/W4385322567",
+    "https://openalex.org/W4405842457",
+    "https://openalex.org/W3164546428",
+    "https://openalex.org/W2771454227",
+    "https://openalex.org/W4409397789",
+    "https://openalex.org/W4404330270",
+    "https://openalex.org/W4206814064",
+    "https://openalex.org/W4407895159",
+    "https://openalex.org/W1551781691",
+    "https://openalex.org/W2997255721",
+    "https://openalex.org/W4291280623",
+    "https://openalex.org/W4406893326",
+    "https://openalex.org/W4361293742",
+    "https://openalex.org/W4385938024",
+    "https://openalex.org/W4306736781",
+    "https://openalex.org/W4383875022",
+    "https://openalex.org/W4220739914",
+    "https://openalex.org/W2092597078",
+    "https://openalex.org/W4388906143",
+    "https://openalex.org/W4313648789",
+    "https://openalex.org/W4308289196",
+    "https://openalex.org/W4408958505",
+    "https://openalex.org/W2057241581"
+  ],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "4": [
+      218
+    ],
+    "58": [
+      120
+    ],
+    "The": [
+      0,
+      54,
+      196
+    ],
+    "present": [
+      1,
+      200
+    ],
+    "study": [
+      2,
+      56,
+      201
+    ],
+    "aimed": [
+      3
+    ],
+    "to": [
+      4,
+      62,
+      170
+    ],
+    "investigate": [
+      5
+    ],
+    "the": [
+      6,
+      33,
+      65,
+      102,
+      114,
+      134,
+      193,
+      199
+    ],
+    "effectiveness": [
+      7
+    ],
+    "of": [
+      8,
+      22,
+      67,
+      81,
+      119,
+      146,
+      149,
+      198,
+      220
+    ],
+    "executive": [
+      9,
+      35,
+      68,
+      91,
+      221
+    ],
+    "function": [
+      10,
+      36,
+      69,
+      92,
+      222
+    ],
+    "intervention": [
+      11,
+      37,
+      46,
+      70,
+      93
+    ],
+    "based": [
+      12,
+      38,
+      71,
+      94
+    ],
+    "on": [
+      13,
+      16,
+      39,
+      48,
+      72,
+      75,
+      95
+    ],
+    "motor": [
+      14,
+      40,
+      73,
+      96
+    ],
+    "activity": [
+      15,
+      41,
+      74,
+      97
+    ],
+    "working": [
+      17,
+      49,
+      76,
+      106,
+      206
+    ],
+    "memory": [
+      18,
+      50,
+      77,
+      107,
+      207
+    ],
+    "and": [
+      19,
+      51,
+      78,
+      105,
+      108,
+      127,
+      143,
+      158,
+      162,
+      189,
+      208
+    ],
+    "sustained": [
+      20,
+      52,
+      79,
+      109,
+      209
+    ],
+    "attention": [
+      21,
+      80,
+      110,
+      210,
+      214
+    ],
+    "Saudi": [
+      23,
+      82
+    ],
+    "school": [
+      24,
+      83,
+      154
+    ],
+    "aged-": [
+      25,
+      84
+    ],
+    "children": [
+      26,
+      85,
+      150,
+      212
+    ],
+    "with": [
+      27,
+      86,
+      213
+    ],
+    "ADHD.": [
+      28,
+      87
+    ],
+    "It": [
+      29
+    ],
+    "was": [
+      30,
+      99
+    ],
+    "hypothesized": [
+      31
+    ],
+    "that": [
+      32
+    ],
+    "delivered": [
+      34
+    ],
+    "would": [
+      42
+    ],
+    "have": [
+      43,
+      151,
+      159
+    ],
+    "a": [
+      44,
+      58
+    ],
+    "pre-to-post": [
+      45
+    ],
+    "effect": [
+      47
+    ],
+    "attention.": [
+      53
+    ],
+    "current": [
+      55
+    ],
+    "employed": [
+      57
+    ],
+    "randomized": [
+      59
+    ],
+    "controlled": [
+      60
+    ],
+    "design": [
+      61
+    ],
+    "systematically": [
+      63
+    ],
+    "assess": [
+      64,
+      171
+    ],
+    "effects": [
+      66
+    ],
+    "In": [
+      88
+    ],
+    "this": [
+      89
+    ],
+    "study,": [
+      90
+    ],
+    "training": [
+      98
+    ],
+    "considered": [
+      100,
+      112,
+      182
+    ],
+    "as": [
+      101,
+      113,
+      183,
+      192
+    ],
+    "independent": [
+      103,
+      194
+    ],
+    "variable": [
+      104
+    ],
+    "were": [
+      111,
+      131,
+      137,
+      168,
+      181
+    ],
+    "dependent": [
+      115,
+      184
+    ],
+    "variables.": [
+      116,
+      195
+    ],
+    "A": [
+      117
+    ],
+    "total": [
+      118
+    ],
+    "participants": [
+      121
+    ],
+    "aged": [
+      122
+    ],
+    "7-10": [
+      123
+    ],
+    "years": [
+      124
+    ],
+    "(mean=": [
+      125
+    ],
+    "9.3": [
+      126
+    ],
+    "SD": [
+      128
+    ],
+    "=": [
+      129
+    ],
+    "1.2)": [
+      130
+    ],
+    "included": [
+      132
+    ],
+    "in": [
+      133,
+      141,
+      205,
+      211
+    ],
+    "analyses.": [
+      135
+    ],
+    "Children": [
+      136
+    ],
+    "from": [
+      138
+    ],
+    "five": [
+      139
+    ],
+    "schools": [
+      140
+    ],
+    "urban": [
+      142
+    ],
+    "suburban": [
+      144
+    ],
+    "areas": [
+      145
+    ],
+    "Mecca.": [
+      147
+    ],
+    "parents": [
+      148
+    ],
+    "junior": [
+      152
+    ],
+    "high": [
+      153
+    ],
+    "education": [
+      155
+    ],
+    "or": [
+      156
+    ],
+    "above": [
+      157
+    ],
+    "normal": [
+      160
+    ],
+    "communication": [
+      161
+    ],
+    "cognitive": [
+      163
+    ],
+    "abilities.": [
+      164
+    ],
+    "Linear": [
+      165
+    ],
+    "regression": [
+      166
+    ],
+    "models": [
+      167
+    ],
+    "used": [
+      169
+    ],
+    "within-person": [
+      172
+    ],
+    "differences": [
+      173
+    ],
+    "within": [
+      174
+    ],
+    "conditions": [
+      175
+    ],
+    "for": [
+      176
+    ],
+    "each": [
+      177
+    ],
+    "outcome.": [
+      178
+    ],
+    "Post-test": [
+      179
+    ],
+    "scores": [
+      180,
+      191
+    ],
+    "variables": [
+      185
+    ],
+    "explained": [
+      186
+    ],
+    "by": [
+      187
+    ],
+    "condition": [
+      188
+    ],
+    "pretest": [
+      190
+    ],
+    "results": [
+      197
+    ],
+    "indicated": [
+      202
+    ],
+    "significant": [
+      203
+    ],
+    "improvements": [
+      204
+    ],
+    "deficit/hyperactivity": [
+      215
+    ],
+    "disorder": [
+      216
+    ],
+    "following": [
+      217
+    ],
+    "weeks": [
+      219
+    ],
+    "training.": [
+      223
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-01-17T23:10:49.606395",
+  "created_date": "2026-01-16T00:00:00"
+}

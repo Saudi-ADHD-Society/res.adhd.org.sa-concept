@@ -1,7 +1,165 @@
 [
   {
-    "slug": "10.5923-j.ijap.20170705.01",
-    "doi": "10.5923/j.ijap.20170705.01",
+    "slug": "10.1007-s13369-025-10984-3",
+    "doi": "10.1007/s13369-025-10984-3",
+    "status": "updated",
+    "updatedFields": [
+      "access.status"
+    ]
+  },
+  {
+    "slug": "10.1080-21622965.2025.2598575",
+    "doi": "10.1080/21622965.2025.2598575",
+    "status": "updated",
+    "updatedFields": [
+      "access.status"
+    ]
+  },
+  {
+    "slug": "10.1080-21622965.2025.2608127",
+    "doi": "10.1080/21622965.2025.2608127",
+    "status": "updated",
+    "updatedFields": [
+      "access.status"
+    ]
+  },
+  {
+    "slug": "10.1080-21622965.2026.2613053",
+    "doi": "10.1080/21622965.2026.2613053",
+    "status": "updated",
+    "updatedFields": [
+      "access.status"
+    ]
+  },
+  {
+    "slug": "10.1111-jpm.13171",
+    "doi": "10.1111/jpm.13171",
+    "status": "updated",
+    "updatedFields": [
+      "access.status",
+      "access.sourceUrl"
+    ]
+  },
+  {
+    "slug": "10.14621-tna.20150201",
+    "doi": "10.14621/tna.20150201",
+    "status": "error",
+    "error": "DOI not found in Unpaywall"
+  },
+  {
+    "slug": "10.21608-jasht.2024.337376",
+    "doi": "10.21608/jasht.2024.337376",
+    "status": "updated",
+    "updatedFields": [
+      "access.status",
+      "access.sourceUrl"
+    ]
+  },
+  {
+    "slug": "10.21608-maed.2025.428381",
+    "doi": "10.21608/maed.2025.428381",
+    "status": "updated",
+    "updatedFields": [
+      "access.status"
+    ]
+  },
+  {
+    "slug": "10.26355-eurrev20231134461",
+    "doi": "10.26355/eurrev_202311_34461",
+    "status": "error",
+    "error": "DOI not found in Unpaywall"
+  },
+  {
+    "slug": "10.33193-jalhss.128.2026.1621",
+    "doi": "10.33193/jalhss.128.2026.1621",
+    "status": "updated",
+    "updatedFields": [
+      "access.status",
+      "access.sourceUrl",
+      "access.license"
+    ]
+  },
+  {
+    "slug": "10.3390-ctn9040055",
+    "doi": "10.3390/ctn9040055",
+    "status": "updated",
+    "updatedFields": [
+      "access.status",
+      "access.sourceUrl",
+      "access.license"
+    ]
+  },
+  {
+    "slug": "10.5281-zenodo.1214313",
+    "doi": "10.5281/zenodo.1214313",
+    "status": "error",
+    "error": "DOI not found in Unpaywall"
+  },
+  {
+    "slug": "10.5281-zenodo.3742099",
+    "doi": "10.5281/zenodo.3742099",
+    "status": "error",
+    "error": "DOI not found in Unpaywall"
+  },
+  {
+    "slug": "10.54615-2231-7805.4747",
+    "doi": "10.54615/2231-7805.4747",
+    "status": "error",
+    "error": "DOI not found in Unpaywall"
+  },
+  {
+    "slug": "10.55074-hesj.vi50.1611",
+    "doi": "10.55074/hesj.vi50.1611",
+    "status": "updated",
+    "updatedFields": [
+      "access.status",
+      "access.sourceUrl",
+      "access.license"
+    ]
+  },
+  {
+    "slug": "10.63332-joph.v6i1.3930",
+    "doi": "10.63332/joph.v6i1.3930",
+    "status": "updated",
+    "updatedFields": [
+      "access.status",
+      "access.sourceUrl",
+      "access.license"
+    ]
+  },
+  {
+    "slug": "10.7363-050211",
+    "doi": "10.7363/050211",
+    "status": "error",
+    "error": "DOI not found in Unpaywall"
+  },
+  {
+    "slug": "10.7537-marslsj150518.13",
+    "doi": "10.7537/marslsj150518.13",
+    "status": "error",
+    "error": "DOI not found in Unpaywall"
+  },
+  {
+    "slug": "effectiveness-of-the-proposed-training-program-on-attention-and-working-memory-for-children-with-special-needs-in-saudi-arabia-2014",
+    "doi": "10.7537/marslsj110814.60",
+    "status": "error",
+    "error": "DOI not found in Unpaywall"
+  },
+  {
+    "slug": "prevalence-of-attention-deficit-and-hyperactivity-disorder-in-children-with-language-impairments-and-speech-disorders-2016",
+    "doi": "10.32628/ijsrset162123",
+    "status": "error",
+    "error": "DOI not found in Unpaywall"
+  },
+  {
+    "slug": "the-new-educators-the-reasons-for-saudi-arabia-to-invest-more-in-student-counseling-programs-2016",
+    "doi": "10.5281/zenodo.1126759",
+    "status": "error",
+    "error": "DOI not found in Unpaywall"
+  },
+  {
+    "slug": "the-relationship-between-attention-deficit-and-hyperactivity-disorder-adhd-and-learning-disabilities-2015",
+    "doi": "10.32628/ijsrst151442",
     "status": "error",
     "error": "DOI not found in Unpaywall"
   }

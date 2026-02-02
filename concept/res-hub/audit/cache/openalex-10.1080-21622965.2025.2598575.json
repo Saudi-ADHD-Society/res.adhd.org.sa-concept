@@ -1,0 +1,421 @@
+{
+  "id": "https://openalex.org/W4417246183",
+  "doi": "https://doi.org/10.1080/21622965.2025.2598575",
+  "title": "The effects of exercise types on inhibitory control and working memory in children with attention deficit hyperactivity disorder: Network meta-analysis",
+  "display_name": "The effects of exercise types on inhibitory control and working memory in children with attention deficit hyperactivity disorder: Network meta-analysis",
+  "publication_year": 2025,
+  "publication_date": "2025-12-11",
+  "ids": {
+    "openalex": "https://openalex.org/W4417246183",
+    "doi": "https://doi.org/10.1080/21622965.2025.2598575",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/41379550"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1080/21622965.2025.2598575",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1080/21622965.2025.2598575",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2764552972",
+      "display_name": "Applied Neuropsychology Child",
+      "issn_l": "2162-2965",
+      "issn": [
+        "2162-2965",
+        "2162-2973"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320547"
+      ],
+      "host_organization_lineage_names": [
+        "Taylor & Francis"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Applied Neuropsychology: Child",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5079684912",
+        "display_name": "Mohammed Alhwaiti",
+        "orcid": "https://orcid.org/0000-0002-0048-7387"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I199693650",
+          "display_name": "Umm al-Qura University",
+          "ror": "https://ror.org/01xjqrm90",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Mohammed Alhwaiti",
+      "raw_affiliation_strings": [
+        "Special Education Department, Faculty of Education, Umm Al Qura University",
+        "Special Education Department, Faculty of Education, Umm Al Qura University, Mekkah, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Special Education Department, Faculty of Education, Umm Al Qura University",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Special Education Department, Faculty of Education, Umm Al Qura University, Mekkah, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I199693650"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5079684912"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I199693650"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "1",
+    "last_page": "11"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": null,
+  "topics": [],
+  "keywords": [],
+  "concepts": [],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1080/21622965.2025.2598575",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1080/21622965.2025.2598575",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764552972",
+        "display_name": "Applied Neuropsychology Child",
+        "issn_l": "2162-2965",
+        "issn": [
+          "2162-2965",
+          "2162-2973"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547"
+        ],
+        "host_organization_lineage_names": [
+          "Taylor & Francis"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Applied Neuropsychology: Child",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:41379550",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/41379550",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Applied neuropsychology. Child",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 55,
+  "referenced_works": [
+    "https://openalex.org/W4366598823",
+    "https://openalex.org/W2887544058",
+    "https://openalex.org/W2943214225",
+    "https://openalex.org/W3169435892",
+    "https://openalex.org/W4317585544",
+    "https://openalex.org/W4410003564",
+    "https://openalex.org/W4229007900",
+    "https://openalex.org/W4303696467",
+    "https://openalex.org/W2970230452",
+    "https://openalex.org/W4211081781",
+    "https://openalex.org/W3195973239",
+    "https://openalex.org/W2523316632",
+    "https://openalex.org/W2767129789",
+    "https://openalex.org/W4402529266",
+    "https://openalex.org/W4398254682",
+    "https://openalex.org/W4386034826",
+    "https://openalex.org/W3019571060",
+    "https://openalex.org/W2346262725",
+    "https://openalex.org/W4363673706",
+    "https://openalex.org/W2938998577",
+    "https://openalex.org/W4396808601",
+    "https://openalex.org/W4408303649",
+    "https://openalex.org/W4281489071",
+    "https://openalex.org/W4408546151",
+    "https://openalex.org/W3013844373",
+    "https://openalex.org/W4293005157",
+    "https://openalex.org/W2765748958",
+    "https://openalex.org/W3182977860",
+    "https://openalex.org/W2998635389",
+    "https://openalex.org/W2124517301",
+    "https://openalex.org/W4407895159",
+    "https://openalex.org/W3153659504",
+    "https://openalex.org/W4407657133",
+    "https://openalex.org/W2321936208",
+    "https://openalex.org/W2909016474",
+    "https://openalex.org/W2946564037",
+    "https://openalex.org/W2393159966",
+    "https://openalex.org/W4406850247",
+    "https://openalex.org/W4220739914",
+    "https://openalex.org/W3175757672",
+    "https://openalex.org/W4323805424",
+    "https://openalex.org/W4283384693",
+    "https://openalex.org/W4406599244",
+    "https://openalex.org/W2275189340",
+    "https://openalex.org/W4313648789",
+    "https://openalex.org/W4307283623",
+    "https://openalex.org/W4321503138",
+    "https://openalex.org/W3032763889",
+    "https://openalex.org/W4399322361",
+    "https://openalex.org/W4308289196",
+    "https://openalex.org/W4408460221",
+    "https://openalex.org/W3104369978",
+    "https://openalex.org/W4408958505",
+    "https://openalex.org/W4412415290",
+    "https://openalex.org/W2057241581"
+  ],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      34
+    ],
+    "effects": [
+      1,
+      35
+    ],
+    "of": [
+      2,
+      23,
+      30,
+      36,
+      43
+    ],
+    "sport-based": [
+      3
+    ],
+    "exercise": [
+      4,
+      46
+    ],
+    "modalities;": [
+      5
+    ],
+    "physical": [
+      6
+    ],
+    "and": [
+      7,
+      13,
+      20,
+      47,
+      63
+    ],
+    "mental": [
+      8
+    ],
+    "exercises,": [
+      9
+    ],
+    "cognitive": [
+      10
+    ],
+    "+": [
+      11
+    ],
+    "exercise,": [
+      12
+    ],
+    "ball": [
+      14,
+      37
+    ],
+    "games": [
+      15,
+      38,
+      51
+    ],
+    "on": [
+      16
+    ],
+    "the": [
+      17,
+      31,
+      54,
+      60
+    ],
+    "inhibitory": [
+      18,
+      61
+    ],
+    "control": [
+      19,
+      32,
+      62
+    ],
+    "working": [
+      21,
+      64
+    ],
+    "memory": [
+      22
+    ],
+    "ADHD": [
+      24
+    ],
+    "children": [
+      25
+    ],
+    "are": [
+      26,
+      39
+    ],
+    "better": [
+      27,
+      40
+    ],
+    "than": [
+      28,
+      41
+    ],
+    "those": [
+      29,
+      42
+    ],
+    "group.": [
+      33
+    ],
+    "single": [
+      44
+    ],
+    "aerobic": [
+      45
+    ],
+    "combined": [
+      48
+    ],
+    "exercises.": [
+      49
+    ],
+    "Ball": [
+      50
+    ],
+    "may": [
+      52
+    ],
+    "be": [
+      53
+    ],
+    "most": [
+      55
+    ],
+    "effective": [
+      56
+    ],
+    "intervention": [
+      57
+    ],
+    "measure": [
+      58
+    ],
+    "for": [
+      59
+    ],
+    "memory.": [
+      65
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2025-12-12T23:16:27.785689",
+  "created_date": "2025-12-11T00:00:00"
+}

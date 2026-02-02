@@ -1,0 +1,174 @@
+{
+  "id": "https://openalex.org/W4410476709",
+  "doi": "https://doi.org/10.21608/maed.2025.428381",
+  "title": "...واقع تطبيق المعلمات للأنشطة التفاعلية بالروضات لتخفيف الاضطرابات لدى الاطفال ذوى فرط الحركة ونقص الانتباه بمرحله الطفولة المبكرة...",
+  "display_name": "...واقع تطبيق المعلمات للأنشطة التفاعلية بالروضات لتخفيف الاضطرابات لدى الاطفال ذوى فرط الحركة ونقص الانتباه بمرحله الطفولة المبكرة...",
+  "publication_year": 2025,
+  "publication_date": "2025-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4410476709",
+    "doi": "https://doi.org/10.21608/maed.2025.428381"
+  },
+  "language": "ar",
+  "primary_location": {
+    "id": "doi:10.21608/maed.2025.428381",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.21608/maed.2025.428381",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210200905",
+      "display_name": "Maǧallaẗ Kulliyyaẗ Al-Tarbiyyaẗ Bil-Manṣūraẗ",
+      "issn_l": "1110-9777",
+      "issn": [
+        "1110-9777",
+        "2735-4466"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "مجلة کلية التربية بالمنصورة",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5117589828",
+        "display_name": "رنا محمد الفريدي",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "رنا محمد الفريدي",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5117589829",
+        "display_name": "شريف إبراهيم خميس",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "شريف إبراهيم خميس",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5117589828"
+  ],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "129",
+    "issue": "1",
+    "first_page": "223",
+    "last_page": "264"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": null,
+  "topics": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.27233439683914185
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.27233439683914185
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.21608/maed.2025.428381",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.21608/maed.2025.428381",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210200905",
+        "display_name": "Maǧallaẗ Kulliyyaẗ Al-Tarbiyyaẗ Bil-Manṣūraẗ",
+        "issn_l": "1110-9777",
+        "issn": [
+          "1110-9777",
+          "2735-4466"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "مجلة کلية التربية بالمنصورة",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [],
+  "abstract_inverted_index": null,
+  "counts_by_year": [],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

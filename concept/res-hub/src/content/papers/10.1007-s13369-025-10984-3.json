@@ -1,0 +1,54 @@
+{
+  "id": "doi-10.1007-s13369-025-10984-3",
+  "slug": "10.1007-s13369-025-10984-3",
+  "doi": "10.1007/s13369-025-10984-3",
+  "identifiers": {
+    "doi": "10.1007/s13369-025-10984-3"
+  },
+  "title": "Deep Learning Approaches to Evaluating ADHD Using EEG Data: RNN, GRU, and LSTM Models",
+  "language": "English",
+  "categories": [
+    "Technology"
+  ],
+  "access": {
+    "status": "closed",
+    "licenseUrl": null,
+    "sourceUrl": "https://link.springer.com/content/pdf/10.1007/s13369-025-10984-3.pdf",
+    "localPdfUrl": null,
+    "researchGateUrl": "https://www.researchgate.net/publication/399616410_Deep_Learning_Approaches_to_Evaluating_ADHD_Using_EEG_Data_RNN_GRU_and_LSTM_Models"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "authors": [
+    {
+      "given": "Nouf Jubran",
+      "family": "AlQahtani",
+      "sequence": 1
+    },
+    {
+      "given": "Manar",
+      "family": "Gherbi",
+      "sequence": 2
+    },
+    {
+      "given": "Ali",
+      "family": "Al-Shaikhi",
+      "sequence": 3
+    },
+    {
+      "given": "Mohamed A.",
+      "family": "Mohandes",
+      "orcid": "https://orcid.org/0000-0002-7897-1275",
+      "sequence": 4
+    }
+  ],
+  "publication": {
+    "year": 2026
+  },
+  "journal": {
+    "name": "Arabian Journal for Science and Engineering",
+    "issn": "2193-567X"
+  },
+  "abstract": "Attention deficit/hyperactivity disorder (ADHD) is a neurodevelopmental disorder that can negatively affect daily functioning. In this study, we investigated EEG–based ADHD classification using recurrent neural network (RNN), gated recurrent unit (GRU), and long short–term memory (LSTM) models to explore potential neural features associated with underlying cognitive mechanisms. We analyzed EEG data from 61 children with ADHD and 60 healthy controls (aged 7–12 years) during a visual attention task. EEG signals were recorded from 19 channels at a sampling rate of 128 Hz. Prior to applying machine learning algorithms, the data were pre–processed using a 50 Hz notch filter, a band–pass filter with cut–off frequencies of 4–40 Hz, and independent component analysis (ICA). Feature extraction focused on spectral power across four frequency bands (theta, alpha, beta, and gamma), as well as the frontal–parietal theta–alpha ratio, mean, standard deviation (SD), entropy, and root mean square (RMS). RNN, GRU, and LSTM models were then evaluated and compared. The results showed that the LSTM model outperformed the other architectures, achieving an accuracy of 64.53% in distinguishing individuals with ADHD from controls. Consistent with well–documented ADHD–related deficits in executive functions and attention modulation, features from the frontal and parietal regions were the most discriminative. Overall, this study demonstrates the potential of machine–learning–based approaches for EEG–driven ADHD detection."
+}

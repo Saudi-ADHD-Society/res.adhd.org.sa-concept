@@ -47,7 +47,8 @@
     }
   ],
   "access": {
-    "status": "closed"
+    "status": "closed",
+    "sourceUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jpm.13171"
   },
   "visibility": {
     "hidden": false

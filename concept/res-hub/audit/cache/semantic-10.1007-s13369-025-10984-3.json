@@ -1,0 +1,31 @@
+{
+  "paperId": "32a305d7e7476aa66343d6b4adf0ad951ecde9b6",
+  "title": "Deep Learning Approaches to Evaluating ADHD Using EEG Data: RNN, GRU, and LSTM Models",
+  "venue": "The Arabian journal for science and engineering",
+  "year": 2026,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s13369-025-10984-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s13369-025-10984-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "authors": [
+    {
+      "authorId": "2181978578",
+      "name": "N. AlQahtani"
+    },
+    {
+      "authorId": "2404080036",
+      "name": "Manar Gherbi"
+    },
+    {
+      "authorId": "1394985096",
+      "name": "A. Al-Shaikhi"
+    },
+    {
+      "authorId": "2209289242",
+      "name": "M. Mohandes"
+    }
+  ],
+  "abstract": null
+}

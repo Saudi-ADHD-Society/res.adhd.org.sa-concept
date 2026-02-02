@@ -1,1 +1,722 @@
-null
+{
+  "id": "https://openalex.org/W2545838922",
+  "doi": "https://doi.org/10.5281/zenodo.1126759",
+  "title": "The New Educators: The Reasons For Saudi Arabia To Invest More In Student Counseling Programs",
+  "display_name": "The New Educators: The Reasons For Saudi Arabia To Invest More In Student Counseling Programs",
+  "publication_year": 2016,
+  "publication_date": "2016-08-03",
+  "ids": {
+    "openalex": "https://openalex.org/W2545838922",
+    "doi": "https://doi.org/10.5281/zenodo.1126759",
+    "mag": "2545838922"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.5281/zenodo.1126759",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5281/zenodo.1126759",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306400562",
+      "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I67311998",
+      "host_organization_name": "European Organization for Nuclear Research",
+      "host_organization_lineage": [
+        "https://openalex.org/I67311998"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": null,
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "article-journal"
+  },
+  "type": "article",
+  "indexed_in": [
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://doi.org/10.5281/zenodo.1126759",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5111008855",
+        "display_name": "Turki Alotaibi",
+        "orcid": "https://orcid.org/0009-0002-7988-1594"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "Turki Alotaibi",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5111008855"
+  ],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 1.72042454,
+  "has_fulltext": false,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.91783631,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 94
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T13560",
+    "display_name": "Socioeconomic Development in MENA",
+    "score": 0.972000002861023,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3312",
+      "display_name": "Sociology and Political Science"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T13560",
+      "display_name": "Socioeconomic Development in MENA",
+      "score": 0.972000002861023,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12998",
+      "display_name": "Education and Islamic Studies",
+      "score": 0.946399986743927,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medical-education",
+      "display_name": "Medical education",
+      "score": 0.5164318680763245
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.4205157160758972
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.26451677083969116
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C509550671",
+      "wikidata": "https://www.wikidata.org/wiki/Q126945",
+      "display_name": "Medical education",
+      "level": 1,
+      "score": 0.5164318680763245
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.4205157160758972
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.26451677083969116
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.5281/zenodo.1126759",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.5281/zenodo.1126759",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400562",
+        "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I67311998",
+        "host_organization_name": "European Organization for Nuclear Research",
+        "host_organization_lineage": [
+          "https://openalex.org/I67311998"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "article-journal"
+    },
+    {
+      "id": "doi:10.5281/zenodo.1126760",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.5281/zenodo.1126760",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400562",
+        "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I67311998",
+        "host_organization_name": "European Organization for Nuclear Research",
+        "host_organization_lineage": [
+          "https://openalex.org/I67311998"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "article-journal"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.5281/zenodo.1126759",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5281/zenodo.1126759",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306400562",
+      "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I67311998",
+      "host_organization_name": "European Organization for Nuclear Research",
+      "host_organization_lineage": [
+        "https://openalex.org/I67311998"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": null,
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "article-journal"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "score": 0.4399999976158142,
+      "display_name": "Quality Education"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W2742447273",
+    "https://openalex.org/W3084208170",
+    "https://openalex.org/W3024382778",
+    "https://openalex.org/W3165863292",
+    "https://openalex.org/W87128918",
+    "https://openalex.org/W2938716038",
+    "https://openalex.org/W3186579328",
+    "https://openalex.org/W2993166643",
+    "https://openalex.org/W2605474071",
+    "https://openalex.org/W2950426108",
+    "https://openalex.org/W3164393359",
+    "https://openalex.org/W3156355163",
+    "https://openalex.org/W2319175402",
+    "https://openalex.org/W3137029831",
+    "https://openalex.org/W3153817902",
+    "https://openalex.org/W2626194412",
+    "https://openalex.org/W3165035705",
+    "https://openalex.org/W1996443703",
+    "https://openalex.org/W2965869841",
+    "https://openalex.org/W3002630821"
+  ],
+  "abstract_inverted_index": {
+    "Student": [
+      0,
+      40
+    ],
+    "counseling": [
+      1,
+      32,
+      52,
+      171
+    ],
+    "programs": [
+      2,
+      33
+    ],
+    "can": [
+      3
+    ],
+    "provide": [
+      4
+    ],
+    "many": [
+      5
+    ],
+    "benefits": [
+      6
+    ],
+    "to": [
+      7,
+      30,
+      96,
+      123,
+      131,
+      138,
+      149,
+      156,
+      160
+    ],
+    "students": [
+      8
+    ],
+    "in": [
+      9,
+      34,
+      76,
+      98,
+      100,
+      111,
+      118,
+      121,
+      146,
+      172
+    ],
+    "schools": [
+      10,
+      99,
+      120
+    ],
+    "all": [
+      11
+    ],
+    "around": [
+      12
+    ],
+    "the": [
+      13,
+      17,
+      20,
+      38,
+      140,
+      151
+    ],
+    "world.": [
+      14
+    ],
+    "In": [
+      15
+    ],
+    "theory,": [
+      16
+    ],
+    "government": [
+      18
+    ],
+    "of": [
+      19,
+      22,
+      45,
+      142,
+      153
+    ],
+    "Kingdom": [
+      21
+    ],
+    "Saudi": [
+      23,
+      60,
+      101,
+      112,
+      119,
+      147,
+      173
+    ],
+    "Arabia": [
+      24,
+      61,
+      113
+    ],
+    "(Saudi": [
+      25
+    ],
+    "Arabia)": [
+      26
+    ],
+    "has": [
+      27,
+      62,
+      79
+    ],
+    "committed": [
+      28
+    ],
+    "itself": [
+      29
+    ],
+    "school": [
+      31,
+      157
+    ],
+    "educational": [
+      35
+    ],
+    "institutions": [
+      36
+    ],
+    "throughout": [
+      37
+    ],
+    "country.": [
+      39
+    ],
+    "counselors": [
+      41,
+      110
+    ],
+    "face": [
+      42
+    ],
+    "a": [
+      43
+    ],
+    "number": [
+      44
+    ],
+    "burdens": [
+      46,
+      162
+    ],
+    "and": [
+      47,
+      69,
+      72,
+      74,
+      85,
+      159,
+      163
+    ],
+    "obstacles": [
+      48,
+      164
+    ],
+    "that": [
+      49,
+      59,
+      83,
+      165
+    ],
+    "impact": [
+      50
+    ],
+    "student": [
+      51,
+      109,
+      136,
+      170
+    ],
+    "programs.": [
+      53
+    ],
+    "It": [
+      54,
+      78
+    ],
+    "is": [
+      55
+    ],
+    "also": [
+      56,
+      80
+    ],
+    "widely": [
+      57
+    ],
+    "known": [
+      58
+    ],
+    "extremely": [
+      63
+    ],
+    "high": [
+      64
+    ],
+    "prevalence": [
+      65
+    ],
+    "rates": [
+      66
+    ],
+    "for": [
+      67
+    ],
+    "overweight": [
+      68
+    ],
+    "obesity,": [
+      70
+    ],
+    "anxiety": [
+      71
+    ],
+    "depression,": [
+      73
+    ],
+    "diabetes": [
+      75,
+      97
+    ],
+    "children.": [
+      77
+    ],
+    "been": [
+      81
+    ],
+    "demonstrated": [
+      82
+    ],
+    "teachers": [
+      84
+    ],
+    "staff": [
+      86
+    ],
+    "are": [
+      87,
+      166
+    ],
+    "inadequately": [
+      88
+    ],
+    "prepared": [
+      89
+    ],
+    "when": [
+      90
+    ],
+    "dealing": [
+      91
+    ],
+    "with": [
+      92
+    ],
+    "health": [
+      93,
+      125,
+      144
+    ],
+    "issues": [
+      94,
+      145
+    ],
+    "relating": [
+      95
+    ],
+    "Arabia.": [
+      102
+    ],
+    "This": [
+      103,
+      127
+    ],
+    "study": [
+      104
+    ],
+    "will": [
+      105
+    ],
+    "clearly": [
+      106
+    ],
+    "demonstrate": [
+      107
+    ],
+    "how": [
+      108
+    ],
+    "could": [
+      114
+    ],
+    "become": [
+      115
+    ],
+    "'New": [
+      116
+    ],
+    "Educators'": [
+      117
+    ],
+    "relation": [
+      122
+    ],
+    "these": [
+      124,
+      143
+    ],
+    "issues.": [
+      126
+    ],
+    "would": [
+      128
+    ],
+    "allow": [
+      129
+    ],
+    "them": [
+      130
+    ],
+    "leverage": [
+      132
+    ],
+    "their": [
+      133
+    ],
+    "position": [
+      134
+    ],
+    "as": [
+      135
+    ],
+    "counselor": [
+      137
+    ],
+    "improve": [
+      139,
+      150
+    ],
+    "management": [
+      141
+    ],
+    "schools,": [
+      148
+    ],
+    "quality": [
+      152
+    ],
+    "care": [
+      154
+    ],
+    "provided": [
+      155
+    ],
+    "children,": [
+      158
+    ],
+    "overcome": [
+      161
+    ],
+    "currently": [
+      167
+    ],
+    "negatively": [
+      168
+    ],
+    "affecting": [
+      169
+    ],
+    "schools.": [
+      174
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2019,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-01-29T00:51:44.256932",
+  "created_date": "2016-11-04T00:00:00"
+}

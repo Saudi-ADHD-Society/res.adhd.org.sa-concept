@@ -1,7 +1,7 @@
 [
   {
-    "slug": "10.21608-sero.2020.120479",
-    "doi": "10.21608/sero.2020.120479",
+    "slug": "10.1007-s13369-025-10984-3",
+    "doi": "10.1007/s13369-025-10984-3",
     "status": "updated",
     "updatedFields": [
       "title",
@@ -9,5 +9,120 @@
       "publication",
       "journal"
     ]
+  },
+  {
+    "slug": "10.1080-21622965.2025.2598575",
+    "doi": "10.1080/21622965.2025.2598575",
+    "status": "updated",
+    "updatedFields": [
+      "title",
+      "authors",
+      "publication",
+      "journal"
+    ]
+  },
+  {
+    "slug": "10.1080-21622965.2025.2608127",
+    "doi": "10.1080/21622965.2025.2608127",
+    "status": "updated",
+    "updatedFields": [
+      "title",
+      "authors",
+      "publication",
+      "journal"
+    ]
+  },
+  {
+    "slug": "10.1080-21622965.2026.2613053",
+    "doi": "10.1080/21622965.2026.2613053",
+    "status": "updated",
+    "updatedFields": [
+      "title",
+      "authors",
+      "publication",
+      "journal"
+    ]
+  },
+  {
+    "slug": "10.21608-jasht.2024.337376",
+    "doi": "10.21608/jasht.2024.337376",
+    "status": "updated",
+    "updatedFields": [
+      "title",
+      "authors",
+      "publication",
+      "journal"
+    ]
+  },
+  {
+    "slug": "10.21608-maed.2025.428381",
+    "doi": "10.21608/maed.2025.428381",
+    "status": "updated",
+    "updatedFields": [
+      "title",
+      "authors",
+      "publication",
+      "journal"
+    ]
+  },
+  {
+    "slug": "10.33193-jalhss.128.2026.1621",
+    "doi": "10.33193/jalhss.128.2026.1621",
+    "status": "updated",
+    "updatedFields": [
+      "title",
+      "abstract",
+      "authors",
+      "publication",
+      "journal"
+    ]
+  },
+  {
+    "slug": "10.3390-ctn9040055",
+    "doi": "10.3390/ctn9040055",
+    "status": "updated",
+    "updatedFields": [
+      "title",
+      "abstract",
+      "authors",
+      "publication",
+      "journal"
+    ]
+  },
+  {
+    "slug": "10.55074-hesj.vi50.1611",
+    "doi": "10.55074/hesj.vi50.1611",
+    "status": "updated",
+    "updatedFields": [
+      "title",
+      "abstract",
+      "authors",
+      "publication",
+      "journal"
+    ]
+  },
+  {
+    "slug": "10.63332-joph.v6i1.3930",
+    "doi": "10.63332/joph.v6i1.3930",
+    "status": "updated",
+    "updatedFields": [
+      "title",
+      "abstract",
+      "authors",
+      "publication",
+      "journal"
+    ]
+  },
+  {
+    "slug": "prevalence-of-attention-deficit-and-hyperactivity-disorder-in-children-with-language-impairments-and-speech-disorders-2016",
+    "doi": "10.32628/ijsrset162123",
+    "status": "error",
+    "error": "DOI not found in Crossref"
+  },
+  {
+    "slug": "the-new-educators-the-reasons-for-saudi-arabia-to-invest-more-in-student-counseling-programs-2016",
+    "doi": "10.5281/zenodo.1126759",
+    "status": "error",
+    "error": "DOI not found in Crossref"
   }
 ]

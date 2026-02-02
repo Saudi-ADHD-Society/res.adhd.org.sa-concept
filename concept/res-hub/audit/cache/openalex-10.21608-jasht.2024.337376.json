@@ -1,0 +1,474 @@
+{
+  "id": "https://openalex.org/W4391283563",
+  "doi": "https://doi.org/10.21608/jasht.2024.337376",
+  "title": "مستوى توفر المعايير العالمية والمحلية في البرامج التربوية الفردية للطلبة ذوي اضطراب فرط الحركة وتشتت الانتباه",
+  "display_name": "مستوى توفر المعايير العالمية والمحلية في البرامج التربوية الفردية للطلبة ذوي اضطراب فرط الحركة وتشتت الانتباه",
+  "publication_year": 2024,
+  "publication_date": "2024-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4391283563",
+    "doi": "https://doi.org/10.21608/jasht.2024.337376"
+  },
+  "language": "ar",
+  "primary_location": {
+    "id": "doi:10.21608/jasht.2024.337376",
+    "is_oa": true,
+    "landing_page_url": "http://dx.doi.org/10.21608/jasht.2024.337376",
+    "pdf_url": "https://jasht.journals.ekb.eg/article_337376_ff38462575e459574214b46ac387c947.pdf",
+    "source": {
+      "id": "https://openalex.org/S4210192949",
+      "display_name": "المجلة العربية لعلوم الإعاقة والموهبة",
+      "issn_l": "2537-0480",
+      "issn": [
+        "2537-0480",
+        "2537-0499"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "المجلة العربية لعلوم الإعاقة والموهبة",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://jasht.journals.ekb.eg/article_337376_ff38462575e459574214b46ac387c947.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5093803523",
+        "display_name": "حنان علي محمد ‎ القرني",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "حنان علي محمد ‎ القرني",
+      "raw_affiliation_strings": [
+        "أستاذ التربية الخاصة المساعد بجامعة الملك خالد"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "أستاذ التربية الخاصة المساعد بجامعة الملك خالد",
+          "institution_ids": []
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5093803523"
+  ],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "8",
+    "issue": "29",
+    "first_page": "45",
+    "last_page": "74"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": null,
+  "topics": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.2657124400138855
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.2657124400138855
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.21608/jasht.2024.337376",
+      "is_oa": true,
+      "landing_page_url": "http://dx.doi.org/10.21608/jasht.2024.337376",
+      "pdf_url": "https://jasht.journals.ekb.eg/article_337376_ff38462575e459574214b46ac387c947.pdf",
+      "source": {
+        "id": "https://openalex.org/S4210192949",
+        "display_name": "المجلة العربية لعلوم الإعاقة والموهبة",
+        "issn_l": "2537-0480",
+        "issn": [
+          "2537-0480",
+          "2537-0499"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "المجلة العربية لعلوم الإعاقة والموهبة",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.21608/jasht.2024.337376",
+    "is_oa": true,
+    "landing_page_url": "http://dx.doi.org/10.21608/jasht.2024.337376",
+    "pdf_url": "https://jasht.journals.ekb.eg/article_337376_ff38462575e459574214b46ac387c947.pdf",
+    "source": {
+      "id": "https://openalex.org/S4210192949",
+      "display_name": "المجلة العربية لعلوم الإعاقة والموهبة",
+      "issn_l": "2537-0480",
+      "issn": [
+        "2537-0480",
+        "2537-0499"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "المجلة العربية لعلوم الإعاقة والموهبة",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4391283563.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4391283563.grobid-xml"
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "64": [
+      68
+    ],
+    "234": [
+      52
+    ],
+    "This": [
+      0
+    ],
+    "study": [
+      1,
+      84,
+      92,
+      99
+    ],
+    "aimed": [
+      2
+    ],
+    "to": [
+      3,
+      26,
+      33
+    ],
+    "identify": [
+      4
+    ],
+    "the": [
+      5,
+      28,
+      44,
+      91,
+      98,
+      123,
+      130
+    ],
+    "level": [
+      6,
+      103
+    ],
+    "of": [
+      7,
+      9,
+      51,
+      90,
+      97,
+      104,
+      106,
+      125
+    ],
+    "availability": [
+      8,
+      105
+    ],
+    "international": [
+      10
+    ],
+    "and": [
+      11,
+      25,
+      41,
+      67,
+      70,
+      94,
+      108
+    ],
+    "local": [
+      12,
+      109
+    ],
+    "standards": [
+      13,
+      110
+    ],
+    "in": [
+      14,
+      61,
+      65,
+      78,
+      82,
+      88,
+      111,
+      129
+    ],
+    "individual": [
+      15,
+      53,
+      112
+    ],
+    "educational": [
+      16,
+      54,
+      113
+    ],
+    "programs": [
+      17,
+      55,
+      114
+    ],
+    "for": [
+      18,
+      39,
+      56,
+      73,
+      115
+    ],
+    "students": [
+      19,
+      57,
+      74,
+      116
+    ],
+    "with": [
+      20,
+      58,
+      75,
+      117
+    ],
+    "attention": [
+      21
+    ],
+    "deficit": [
+      22
+    ],
+    "hyperactivity": [
+      23
+    ],
+    "disorder": [
+      24,
+      60,
+      77
+    ],
+    "measure": [
+      27
+    ],
+    "differences": [
+      29,
+      128
+    ],
+    "between": [
+      30
+    ],
+    "them": [
+      31
+    ],
+    "according": [
+      32
+    ],
+    "some": [
+      34
+    ],
+    "variables": [
+      35
+    ],
+    "(gender,": [
+      36
+    ],
+    "academic": [
+      37
+    ],
+    "qualification)": [
+      38
+    ],
+    "males": [
+      40
+    ],
+    "females.Parameters": [
+      42
+    ],
+    "using": [
+      43
+    ],
+    "descriptive": [
+      45
+    ],
+    "analytical": [
+      46
+    ],
+    "approach.It": [
+      47
+    ],
+    "included": [
+      48
+    ],
+    "a": [
+      49,
+      101
+    ],
+    "sample": [
+      50
+    ],
+    "attention-deficit/hyperactivity": [
+      59,
+      76,
+      118
+    ],
+    "general": [
+      62,
+      79
+    ],
+    "education": [
+      63,
+      80
+    ],
+    "schools": [
+      64,
+      81
+    ],
+    "Riyadh,": [
+      66
+    ],
+    "male": [
+      69
+    ],
+    "female": [
+      71
+    ],
+    "teachers": [
+      72
+    ],
+    "Riyadh.The": [
+      83
+    ],
+    "tools": [
+      85
+    ],
+    "were": [
+      86
+    ],
+    "designed": [
+      87
+    ],
+    "light": [
+      89
+    ],
+    "objectives": [
+      93
+    ],
+    "questions.The": [
+      95
+    ],
+    "results": [
+      96
+    ],
+    "showed": [
+      100
+    ],
+    "low": [
+      102
+    ],
+    "global": [
+      107
+    ],
+    "disorder,": [
+      119
+    ],
+    "as": [
+      120,
+      122
+    ],
+    "well": [
+      121
+    ],
+    "presence": [
+      124
+    ],
+    "statistically": [
+      126
+    ],
+    "significant": [
+      127
+    ],
+    "overall": [
+      131
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2025-12-25T23:11:45.687758",
+  "created_date": "2025-10-10T00:00:00"
+}

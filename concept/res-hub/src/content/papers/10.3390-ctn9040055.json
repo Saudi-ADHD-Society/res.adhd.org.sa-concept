@@ -1,0 +1,68 @@
+{
+  "id": "doi-10.3390-ctn9040055",
+  "slug": "10.3390-ctn9040055",
+  "doi": "10.3390/ctn9040055",
+  "identifiers": {
+    "doi": "10.3390/ctn9040055"
+  },
+  "title": "Working Memory Training Improves Cognitive and Clinical ADHD Symptoms in Children",
+  "language": "English",
+  "categories": [
+    "Treatment"
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://www.mdpi.com/2514-183X/9/4/55/pdf?version=1764667531",
+    "localPdfUrl": "library/doi__10.3390__ctn9040055.pdf",
+    "researchGateUrl": "https://www.researchgate.net/publication/398389296_Working_Memory_Training_Improves_Cognitive_and_Clinical_ADHD_Symptoms_in_Children",
+    "license": "cc-by"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "abstract": "Working memory training (WMT) has promising effects on cognitive and clinical outcomes in children with attention deficit hyperactivity disorder (ADHD). However, few studies have explored the effectiveness of such programs in developing countries with different populations and sociocultural backgrounds. This study aimed to pilot Cogmed WMT (CWMT) and examine its impact on clinical and cognitive outcomes in children diagnosed with ADHD in Saudi Arabia. We assessed 34 children with ADHD assigned to either a CWMT or standard-of-care group. Both groups were evaluated at baseline and five weeks for ADHD symptoms and cognitive function, including working memory (WM), sustained attention, and impulsivity. Compared with the baseline and the control group, the intervention group demonstrated improved parent ratings of ADHD clinical symptoms and cognitive function scores, including WM, sustained attention, and impulsivity. CWMT improved cognitive and clinical measures in our sample of Saudi children with ADHD and is a promising non-pharmacological therapy for treating children with ADHD in developing countries.",
+  "authors": [
+    {
+      "given": "Maha S.",
+      "family": "Alsaad",
+      "sequence": 1
+    },
+    {
+      "given": "Abeer F.",
+      "family": "Almarzouki",
+      "orcid": "https://orcid.org/0000-0001-8090-5341",
+      "sequence": 2
+    },
+    {
+      "given": "Solafa H.",
+      "family": "Ghoneim",
+      "orcid": "https://orcid.org/0000-0001-8186-5337",
+      "sequence": 3
+    },
+    {
+      "given": "Basma A.",
+      "family": "Al-Jabri",
+      "orcid": "https://orcid.org/0000-0003-1170-4188",
+      "sequence": 4
+    },
+    {
+      "given": "Samraa",
+      "family": "Suliman",
+      "sequence": 5
+    }
+  ],
+  "publication": {
+    "year": 2025
+  },
+  "journal": {
+    "name": "Clinical and Translational Neuroscience",
+    "issn": "2514-183X",
+    "volume": "9",
+    "issue": "4",
+    "pages": {
+      "start": "55",
+      "end": null
+    }
+  }
+}

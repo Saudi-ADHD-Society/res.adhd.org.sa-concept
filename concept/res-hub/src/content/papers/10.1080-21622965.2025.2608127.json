@@ -1,0 +1,43 @@
+{
+  "id": "doi-10.1080-21622965.2025.2608127",
+  "slug": "10.1080-21622965.2025.2608127",
+  "doi": "10.1080/21622965.2025.2608127",
+  "identifiers": {
+    "doi": "10.1080/21622965.2025.2608127"
+  },
+  "title": "The effects of transcranial direct electrical stimulation on increasing cognitive flexibility and processing speed in children with attention deficit/hyperactivity disorder",
+  "language": "English",
+  "categories": [
+    "Uncategorized"
+  ],
+  "access": {
+    "status": "closed",
+    "licenseUrl": null,
+    "sourceUrl": null,
+    "localPdfUrl": null,
+    "researchGateUrl": null
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "authors": [
+    {
+      "given": "Loul",
+      "family": "Saleh Al Rasheed",
+      "orcid": "https://orcid.org/0000-0003-0708-7420",
+      "sequence": 1
+    }
+  ],
+  "publication": {
+    "year": 2025
+  },
+  "journal": {
+    "name": "Applied Neuropsychology: Child",
+    "issn": "2162-2965",
+    "pages": {
+      "start": "1",
+      "end": "6"
+    }
+  },
+  "abstract": "The aim was to investigate the effectiveness of transcranial direct-current stimulation (tDCS) on increasing cognitive flexibility and processing speed in children with attention deficit/hyperactivity disorder. The present study is a quasi-experimental study with a pretest-posttest design with a control group. Linear regression models were used to assess within-person differences within conditions for each outcome. Post-test scores were considered as dependent variables explained by condition and pretest scores as the independent variables. Paired t-tests were conducted within condition to document pre-to-post differences. Children were recruited among children referred to an ADHD clinic by pediatricians, general practitioners, teachers, psychologists, or parents. In a survey, 180 children aged 6-10 y/o were assessed for eligibility, and of them, 120 passed screening and qualified to participate in the study. Out of 120 participants, 15 refused to participate, and 45 had missing data, so they were dropped out from the study. Findings did directly support the hypotheses; results from regression analyses suggest that tDCS had a significant impact on cognitive flexibility and processing speed in children with attention deficit/hyperactivity disorder."
+}

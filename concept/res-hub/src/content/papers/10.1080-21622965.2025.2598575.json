@@ -1,0 +1,43 @@
+{
+  "id": "doi-10.1080-21622965.2025.2598575",
+  "slug": "10.1080-21622965.2025.2598575",
+  "doi": "10.1080/21622965.2025.2598575",
+  "identifiers": {
+    "doi": "10.1080/21622965.2025.2598575"
+  },
+  "title": "The effects of exercise types on inhibitory control and working memory in children with attention deficit hyperactivity disorder: Network meta-analysis",
+  "language": "English",
+  "categories": [
+    "Uncategorized"
+  ],
+  "access": {
+    "status": "closed",
+    "licenseUrl": null,
+    "sourceUrl": null,
+    "localPdfUrl": null,
+    "researchGateUrl": null
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "authors": [
+    {
+      "given": "Mohammed",
+      "family": "Alhwaiti",
+      "orcid": "https://orcid.org/0000-0002-0048-7387",
+      "sequence": 1
+    }
+  ],
+  "publication": {
+    "year": 2025
+  },
+  "journal": {
+    "name": "Applied Neuropsychology: Child",
+    "issn": "2162-2965",
+    "pages": {
+      "start": "1",
+      "end": "11"
+    }
+  },
+  "abstract": "The effects of sport-based exercise modalities; physical and mental exercises, cognitive + exercise, and ball games on the inhibitory control and working memory of ADHD children are better than those of the control group. The effects of ball games are better than those of single aerobic exercise and combined exercises. Ball games may be the most effective intervention measure for the inhibitory control and working memory."
+}

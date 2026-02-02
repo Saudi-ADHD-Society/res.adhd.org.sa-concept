@@ -1,0 +1,894 @@
+{
+  "id": "https://openalex.org/W7117353164",
+  "doi": "https://doi.org/10.1080/21622965.2025.2608127",
+  "title": "The effects of transcranial direct electrical stimulation on increasing cognitive flexibility and processing speed in children with attention deficit/hyperactivity disorder",
+  "display_name": "The effects of transcranial direct electrical stimulation on increasing cognitive flexibility and processing speed in children with attention deficit/hyperactivity disorder",
+  "publication_year": 2025,
+  "publication_date": "2025-12-27",
+  "ids": {
+    "openalex": "https://openalex.org/W7117353164",
+    "doi": "https://doi.org/10.1080/21622965.2025.2608127",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/41455121"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1080/21622965.2025.2608127",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1080/21622965.2025.2608127",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2764552972",
+      "display_name": "Applied Neuropsychology Child",
+      "issn_l": "2162-2965",
+      "issn": [
+        "2162-2965",
+        "2162-2973"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320547"
+      ],
+      "host_organization_lineage_names": [
+        "Taylor & Francis"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Applied Neuropsychology: Child",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5069726192",
+        "display_name": "Loul Saleh Al Rasheed",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I156216236",
+          "display_name": "Qassim University",
+          "ror": "https://ror.org/01wsfe280",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Loul Saleh Al Rasheed",
+      "raw_affiliation_strings": [
+        "Department of Psychology, Mental Health, College of Education, Qassim University"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology, Mental Health, College of Education, Qassim University",
+          "institution_ids": [
+            "https://openalex.org/I156216236"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5069726192"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I156216236"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.68997969,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "1",
+    "last_page": "6"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10614",
+    "display_name": "Transcranial Magnetic Stimulation Studies",
+    "score": 0.1549656242132187,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2808",
+      "display_name": "Neurology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/28",
+      "display_name": "Neuroscience"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10614",
+      "display_name": "Transcranial Magnetic Stimulation Studies",
+      "score": 0.1549656242132187,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2808",
+        "display_name": "Neurology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10510",
+      "display_name": "Stroke Rehabilitation and Recovery",
+      "score": 0.12691690027713776,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2742",
+        "display_name": "Rehabilitation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.11789905279874802,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/cognition",
+      "display_name": "Cognition",
+      "score": 0.7020710706710815
+    },
+    {
+      "id": "https://openalex.org/keywords/flexibility",
+      "display_name": "Flexibility (engineering)",
+      "score": 0.6729240417480469
+    },
+    {
+      "id": "https://openalex.org/keywords/cognitive-flexibility",
+      "display_name": "Cognitive flexibility",
+      "score": 0.670198380947113
+    },
+    {
+      "id": "https://openalex.org/keywords/regression-analysis",
+      "display_name": "Regression analysis",
+      "score": 0.4583432078361511
+    },
+    {
+      "id": "https://openalex.org/keywords/effects-of-sleep-deprivation-on-cognitive-performance",
+      "display_name": "Effects of sleep deprivation on cognitive performance",
+      "score": 0.3935043513774872
+    },
+    {
+      "id": "https://openalex.org/keywords/elementary-cognitive-task",
+      "display_name": "Elementary cognitive task",
+      "score": 0.3414923846721649
+    },
+    {
+      "id": "https://openalex.org/keywords/regression",
+      "display_name": "Regression",
+      "score": 0.3371563255786896
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C169900460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+      "display_name": "Cognition",
+      "level": 2,
+      "score": 0.7020710706710815
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.6774671077728271
+    },
+    {
+      "id": "https://openalex.org/C2780598303",
+      "wikidata": "https://www.wikidata.org/wiki/Q65921492",
+      "display_name": "Flexibility (engineering)",
+      "level": 2,
+      "score": 0.6729240417480469
+    },
+    {
+      "id": "https://openalex.org/C66102695",
+      "wikidata": "https://www.wikidata.org/wiki/Q5141208",
+      "display_name": "Cognitive flexibility",
+      "level": 3,
+      "score": 0.670198380947113
+    },
+    {
+      "id": "https://openalex.org/C548259974",
+      "wikidata": "https://www.wikidata.org/wiki/Q569965",
+      "display_name": "Audiology",
+      "level": 1,
+      "score": 0.49978911876678467
+    },
+    {
+      "id": "https://openalex.org/C152877465",
+      "wikidata": "https://www.wikidata.org/wiki/Q208042",
+      "display_name": "Regression analysis",
+      "level": 2,
+      "score": 0.4583432078361511
+    },
+    {
+      "id": "https://openalex.org/C185711340",
+      "wikidata": "https://www.wikidata.org/wiki/Q5347381",
+      "display_name": "Effects of sleep deprivation on cognitive performance",
+      "level": 3,
+      "score": 0.3935043513774872
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.3780938684940338
+    },
+    {
+      "id": "https://openalex.org/C119653847",
+      "wikidata": "https://www.wikidata.org/wiki/Q1327780",
+      "display_name": "Elementary cognitive task",
+      "level": 3,
+      "score": 0.3414923846721649
+    },
+    {
+      "id": "https://openalex.org/C83546350",
+      "wikidata": "https://www.wikidata.org/wiki/Q1139051",
+      "display_name": "Regression",
+      "level": 2,
+      "score": 0.3371563255786896
+    },
+    {
+      "id": "https://openalex.org/C48921125",
+      "wikidata": "https://www.wikidata.org/wiki/Q10861030",
+      "display_name": "Linear regression",
+      "level": 2,
+      "score": 0.33131882548332214
+    },
+    {
+      "id": "https://openalex.org/C180747234",
+      "wikidata": "https://www.wikidata.org/wiki/Q23373",
+      "display_name": "Cognitive psychology",
+      "level": 1,
+      "score": 0.31233975291252136
+    },
+    {
+      "id": "https://openalex.org/C522805319",
+      "wikidata": "https://www.wikidata.org/wiki/Q179965",
+      "display_name": "Electroencephalography",
+      "level": 2,
+      "score": 0.3115438222885132
+    },
+    {
+      "id": "https://openalex.org/C2778581513",
+      "wikidata": "https://www.wikidata.org/wiki/Q263962",
+      "display_name": "Transcranial magnetic stimulation",
+      "level": 3,
+      "score": 0.3020875155925751
+    },
+    {
+      "id": "https://openalex.org/C2776035688",
+      "wikidata": "https://www.wikidata.org/wiki/Q1606558",
+      "display_name": "Affect (linguistics)",
+      "level": 2,
+      "score": 0.293105810880661
+    },
+    {
+      "id": "https://openalex.org/C99508421",
+      "wikidata": "https://www.wikidata.org/wiki/Q2678675",
+      "display_name": "Physical medicine and rehabilitation",
+      "level": 1,
+      "score": 0.28242841362953186
+    },
+    {
+      "id": "https://openalex.org/C2777803708",
+      "wikidata": "https://www.wikidata.org/wiki/Q603398",
+      "display_name": "Transcranial direct-current stimulation",
+      "level": 3,
+      "score": 0.2730431854724884
+    },
+    {
+      "id": "https://openalex.org/C53059260",
+      "wikidata": "https://www.wikidata.org/wiki/Q374758",
+      "display_name": "Multilevel model",
+      "level": 2,
+      "score": 0.2647859752178192
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1080/21622965.2025.2608127",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1080/21622965.2025.2608127",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764552972",
+        "display_name": "Applied Neuropsychology Child",
+        "issn_l": "2162-2965",
+        "issn": [
+          "2162-2965",
+          "2162-2973"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547"
+        ],
+        "host_organization_lineage_names": [
+          "Taylor & Francis"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Applied Neuropsychology: Child",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:41455121",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/41455121",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Applied neuropsychology. Child",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "score": 0.5978565812110901,
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality Education"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 28,
+  "referenced_works": [
+    "https://openalex.org/W4405986604",
+    "https://openalex.org/W3187657759",
+    "https://openalex.org/W2074446477",
+    "https://openalex.org/W4406231956",
+    "https://openalex.org/W4412197041",
+    "https://openalex.org/W4288033803",
+    "https://openalex.org/W6910477823",
+    "https://openalex.org/W4403980419",
+    "https://openalex.org/W3195973239",
+    "https://openalex.org/W3092880588",
+    "https://openalex.org/W4411894103",
+    "https://openalex.org/W2562429857",
+    "https://openalex.org/W4402374989",
+    "https://openalex.org/W2904249257",
+    "https://openalex.org/W4411306783",
+    "https://openalex.org/W4412551341",
+    "https://openalex.org/W4312539478",
+    "https://openalex.org/W4407613244",
+    "https://openalex.org/W4407895159",
+    "https://openalex.org/W4399422196",
+    "https://openalex.org/W4408713133",
+    "https://openalex.org/W4411078507",
+    "https://openalex.org/W4280629063",
+    "https://openalex.org/W3175567591",
+    "https://openalex.org/W4408112871",
+    "https://openalex.org/W4400832289",
+    "https://openalex.org/W4406930334",
+    "https://openalex.org/W4409237676"
+  ],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "15": [
+      128
+    ],
+    "45": [
+      133
+    ],
+    "120": [
+      114,
+      126
+    ],
+    "180": [
+      102
+    ],
+    "The": [
+      0,
+      25
+    ],
+    "aim": [
+      1
+    ],
+    "was": [
+      2
+    ],
+    "to": [
+      3,
+      45,
+      77,
+      87,
+      119,
+      130
+    ],
+    "investigate": [
+      4
+    ],
+    "the": [
+      5,
+      68,
+      122,
+      143,
+      149
+    ],
+    "effectiveness": [
+      6
+    ],
+    "of": [
+      7,
+      112,
+      125
+    ],
+    "transcranial": [
+      8
+    ],
+    "direct-current": [
+      9
+    ],
+    "stimulation": [
+      10
+    ],
+    "(tDCS)": [
+      11
+    ],
+    "on": [
+      12,
+      162
+    ],
+    "increasing": [
+      13
+    ],
+    "cognitive": [
+      14,
+      163
+    ],
+    "flexibility": [
+      15,
+      164
+    ],
+    "and": [
+      16,
+      64,
+      111,
+      117,
+      132,
+      165
+    ],
+    "processing": [
+      17,
+      166
+    ],
+    "speed": [
+      18,
+      167
+    ],
+    "in": [
+      19,
+      121,
+      168
+    ],
+    "children": [
+      20,
+      85,
+      103,
+      169
+    ],
+    "with": [
+      21,
+      32,
+      36,
+      170
+    ],
+    "attention": [
+      22,
+      171
+    ],
+    "deficit/hyperactivity": [
+      23,
+      172
+    ],
+    "disorder.": [
+      24,
+      173
+    ],
+    "present": [
+      26
+    ],
+    "study": [
+      27,
+      31
+    ],
+    "is": [
+      28
+    ],
+    "a": [
+      29,
+      33,
+      37,
+      100,
+      159
+    ],
+    "quasi-experimental": [
+      30
+    ],
+    "pretest-posttest": [
+      34
+    ],
+    "design": [
+      35
+    ],
+    "control": [
+      38
+    ],
+    "group.": [
+      39
+    ],
+    "Linear": [
+      40
+    ],
+    "regression": [
+      41,
+      153
+    ],
+    "models": [
+      42
+    ],
+    "were": [
+      43,
+      56,
+      73,
+      82,
+      107,
+      139
+    ],
+    "used": [
+      44
+    ],
+    "assess": [
+      46
+    ],
+    "within-person": [
+      47
+    ],
+    "differences": [
+      48
+    ],
+    "within": [
+      49,
+      75
+    ],
+    "conditions": [
+      50
+    ],
+    "for": [
+      51,
+      109
+    ],
+    "each": [
+      52
+    ],
+    "outcome.": [
+      53
+    ],
+    "Post-test": [
+      54
+    ],
+    "scores": [
+      55,
+      66
+    ],
+    "considered": [
+      57
+    ],
+    "as": [
+      58,
+      67
+    ],
+    "dependent": [
+      59
+    ],
+    "variables": [
+      60
+    ],
+    "explained": [
+      61
+    ],
+    "by": [
+      62,
+      91
+    ],
+    "condition": [
+      63,
+      76
+    ],
+    "pretest": [
+      65
+    ],
+    "independent": [
+      69
+    ],
+    "variables.": [
+      70
+    ],
+    "Paired": [
+      71
+    ],
+    "t-tests": [
+      72
+    ],
+    "conducted": [
+      74
+    ],
+    "document": [
+      78
+    ],
+    "pre-to-post": [
+      79
+    ],
+    "differences.": [
+      80
+    ],
+    "Children": [
+      81
+    ],
+    "recruited": [
+      83
+    ],
+    "among": [
+      84
+    ],
+    "referred": [
+      86
+    ],
+    "an": [
+      88
+    ],
+    "ADHD": [
+      89
+    ],
+    "clinic": [
+      90
+    ],
+    "pediatricians,": [
+      92
+    ],
+    "general": [
+      93
+    ],
+    "practitioners,": [
+      94
+    ],
+    "teachers,": [
+      95
+    ],
+    "psychologists,": [
+      96
+    ],
+    "or": [
+      97
+    ],
+    "parents.": [
+      98
+    ],
+    "In": [
+      99
+    ],
+    "survey,": [
+      101
+    ],
+    "aged": [
+      104
+    ],
+    "6-10": [
+      105
+    ],
+    "y/o": [
+      106
+    ],
+    "assessed": [
+      108
+    ],
+    "eligibility,": [
+      110
+    ],
+    "them,": [
+      113
+    ],
+    "passed": [
+      115
+    ],
+    "screening": [
+      116
+    ],
+    "qualified": [
+      118
+    ],
+    "participate": [
+      120
+    ],
+    "study.": [
+      123,
+      144
+    ],
+    "Out": [
+      124
+    ],
+    "participants,": [
+      127
+    ],
+    "refused": [
+      129
+    ],
+    "participate,": [
+      131
+    ],
+    "had": [
+      134,
+      158
+    ],
+    "missing": [
+      135
+    ],
+    "data,": [
+      136
+    ],
+    "so": [
+      137
+    ],
+    "they": [
+      138
+    ],
+    "dropped": [
+      140
+    ],
+    "out": [
+      141
+    ],
+    "from": [
+      142,
+      152
+    ],
+    "Findings": [
+      145
+    ],
+    "did": [
+      146
+    ],
+    "directly": [
+      147
+    ],
+    "support": [
+      148
+    ],
+    "hypotheses;": [
+      150
+    ],
+    "results": [
+      151
+    ],
+    "analyses": [
+      154
+    ],
+    "suggest": [
+      155
+    ],
+    "that": [
+      156
+    ],
+    "tDCS": [
+      157
+    ],
+    "significant": [
+      160
+    ],
+    "impact": [
+      161
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2025-12-28T23:10:05.387466",
+  "created_date": "2025-12-27T00:00:00"
+}
