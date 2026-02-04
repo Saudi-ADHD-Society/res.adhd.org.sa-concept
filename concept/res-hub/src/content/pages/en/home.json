@@ -1,0 +1,78 @@
+{
+  "id": "home",
+  "locale": "en",
+  "title": "Research Portal - National ADHD Knowledge Hub",
+  "description": "A national platform for ADHD research, evidence synthesis, and clinical guidance—supporting evidence-informed practice and policy in Saudi Arabia.",
+  "hero": {
+    "title": "Bridging the Gap Between Evidence and Practice",
+    "subtitle": "New: Saudi ADHD Society Research Forum 2026",
+    "description": "A national platform for ADHD research, evidence synthesis, and clinical guidance—supporting evidence-informed practice and policy in Saudi Arabia.",
+    "cta": {
+      "primary": {
+        "text": "Clinical Guidance",
+        "href": "/clinical-tools"
+      },
+      "secondary": {
+        "text": "Research Updates",
+        "href": "/research-projects"
+      }
+    }
+  },
+  "sections": [
+    {
+      "id": "evidence-insights",
+      "type": "heading",
+      "content": {
+        "title": "Evidence & Insights",
+        "text": "Bridging the \"Know-Do\" gap. We synthesize complex white papers into actionable topic guides for policymakers, clinicians, educators, and families."
+      }
+    },
+    {
+      "id": "clinical-tools",
+      "type": "heading",
+      "content": {
+        "title": "Clinical Tools & Resources",
+        "text": "For clinicians and school psychologists"
+      }
+    },
+    {
+      "id": "interactive-scales-card",
+      "type": "card",
+      "content": {
+        "title": "Interactive Rating Scales",
+        "text": "Access automated scoring for VADTRS-3-AR, ASRS-5-AR and more. Generate instant reports for patient files.",
+        "link": "/interactive-scales",
+        "linkText": "Launch Tools"
+      }
+    },
+    {
+      "id": "cpg-card",
+      "type": "card",
+      "content": {
+        "title": "Saudi National CPG",
+        "text": "The definitive guide for ADHD diagnosis and management in the Kingdom. Browse by chapter or search specific recommendations.",
+        "metadata": {
+          "badge": "Updated 2025-2026 Cycle"
+        }
+      }
+    }
+  ],
+  "stats": [
+    {
+      "value": "20+",
+      "label": "Years of Research & Knowledge Translation"
+    },
+    {
+      "value": "5",
+      "label": "New Validated Arabic Interactive Scales"
+    },
+    {
+      "value": "CPG",
+      "label": "National Clinical Practice Guidelines"
+    },
+    {
+      "value": "Grant",
+      "label": "Now Accepting Proposals"
+    }
+  ]
+}

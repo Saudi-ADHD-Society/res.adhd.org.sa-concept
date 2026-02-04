@@ -36,9 +36,9 @@ const irbMembers = [
   }
 ];
 
-const IrbPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+const IrbPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => (
   <div className="space-y-10 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <Breadcrumb basePath={basePath} />
+    <Breadcrumb basePath={basePath} locale={locale} />
     {/* Overview Hero */}
     <div className="bg-slate-50 border border-slate-200 rounded-2xl p-8 md:p-10">
       <h2 className="text-3xl font-bold text-slate-900 mb-3">Research Ethics &amp; Local IRB</h2>
@@ -107,7 +107,7 @@ const IrbPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
             before starting a project.
           </p>
           <a
-            href={getHref('irb-overview', basePath)}
+            href={getHref('irb-overview', basePath, locale)}
             className="inline-flex items-center text-sm font-semibold text-emerald-700 hover:text-emerald-800"
           >
             View details <span className="ml-1">→</span>
@@ -122,7 +122,7 @@ const IrbPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
             for maintaining ethical approval.
           </p>
           <a
-            href={getHref('irb-regulations', basePath)}
+            href={getHref('irb-regulations', basePath, locale)}
             className="inline-flex items-center text-sm font-semibold text-emerald-700 hover:text-emerald-800"
           >
             View details <span className="ml-1">→</span>
@@ -137,7 +137,7 @@ const IrbPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
             indicative review timelines.
           </p>
           <a
-            href={getHref('irb-process', basePath)}
+            href={getHref('irb-process', basePath, locale)}
             className="inline-flex items-center text-sm font-semibold text-emerald-700 hover:text-emerald-800"
           >
             View details <span className="ml-1">→</span>
@@ -152,7 +152,7 @@ const IrbPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
             research and practice in Saudi Arabia.
           </p>
           <a
-            href={getHref('irb-guide', basePath)}
+            href={getHref('irb-guide', basePath, locale)}
             className="inline-flex items-center text-sm font-semibold text-emerald-700 hover:text-emerald-800"
           >
             View details <span className="ml-1">→</span>

@@ -2,9 +2,9 @@ import React from 'react';
 import { AlertCircle, CheckCircle2, HelpCircle } from 'lucide-react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 
-const CpgStrengthOfRecommendationsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+const CpgStrengthOfRecommendationsPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <Breadcrumb basePath={basePath} />
+    <Breadcrumb basePath={basePath} locale={locale} />
     <div>
       <h2 className="text-3xl font-bold text-slate-900">Strength of Recommendations</h2>
       <p className="text-slate-500 mt-2">

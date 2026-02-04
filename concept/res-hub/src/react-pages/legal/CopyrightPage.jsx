@@ -2,7 +2,7 @@ import React from 'react';
 import { Copyright, FileText, Shield, AlertCircle } from 'lucide-react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 
-const CopyrightPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
+const CopyrightPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => {
   const getFullPath = (href) => {
     if (href.startsWith('http')) return href;
     const normalizedBase = basePath.endsWith('/') ? basePath : `${basePath}/`;
@@ -35,7 +35,7 @@ const CopyrightPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
 
   return (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <Breadcrumb basePath={basePath} />
+    <Breadcrumb basePath={basePath} locale={locale} />
 
     {/* Hero Section */}
     <div className="relative overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm">

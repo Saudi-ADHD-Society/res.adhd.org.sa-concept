@@ -2,7 +2,7 @@ import React from 'react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
-const CpgContentPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
+const CpgContentPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => {
   const handleAnchorClick = (e, anchorId) => {
     e.preventDefault();
     if (typeof window === 'undefined') return;
@@ -15,7 +15,7 @@ const CpgContentPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
 
   return (
     <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-      <Breadcrumb basePath={basePath} />
+      <Breadcrumb basePath={basePath} locale={locale} />
       {/* Header */}
       <div>
         <h2 className="text-3xl font-bold text-slate-900">Saudi ADHD Clinical Practice Guidelines (CPG)</h2>
@@ -88,10 +88,10 @@ const CpgContentPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
               The guideline is structured to support <strong>real-world clinical decision-making</strong>:
             </p>
             <ul className="list-disc pl-6 space-y-2 text-slate-600 text-sm md:text-base mb-4">
-              <li>Use the <a href={getHref('cpg-clinical-algorithms', basePath)} className="text-emerald-700 hover:text-emerald-800 hover:underline font-semibold">Clinical Algorithm</a> for step-by-step guidance</li>
-              <li>Refer to <a href={getHref('cpg-strength-of-recommendations', basePath)} className="text-emerald-700 hover:text-emerald-800 hover:underline font-semibold">Strength of Recommendations</a> to understand certainty of evidence</li>
-              <li>Consult <a href={getHref('cpg-medication-tables', basePath)} className="text-emerald-700 hover:text-emerald-800 hover:underline font-semibold">Medication Tables</a> and <a href={getHref('interactive-scales', basePath)} className="text-emerald-700 hover:text-emerald-800 hover:underline font-semibold">Rating Scales</a> for practical tools</li>
-              <li>Apply <a href={getHref('cpg-quality-standards', basePath)} className="text-emerald-700 hover:text-emerald-800 hover:underline font-semibold">Quality Standards</a> to support service development and audit</li>
+              <li>Use the <a href={getHref('cpg-clinical-algorithms', basePath, locale)} className="text-emerald-700 hover:text-emerald-800 hover:underline font-semibold">Clinical Algorithm</a> for step-by-step guidance</li>
+              <li>Refer to <a href={getHref('cpg-strength-of-recommendations', basePath, locale)} className="text-emerald-700 hover:text-emerald-800 hover:underline font-semibold">Strength of Recommendations</a> to understand certainty of evidence</li>
+              <li>Consult <a href={getHref('cpg-medication-tables', basePath, locale)} className="text-emerald-700 hover:text-emerald-800 hover:underline font-semibold">Medication Tables</a> and <a href={getHref('interactive-scales', basePath, locale)} className="text-emerald-700 hover:text-emerald-800 hover:underline font-semibold">Rating Scales</a> for practical tools</li>
+              <li>Apply <a href={getHref('cpg-quality-standards', basePath, locale)} className="text-emerald-700 hover:text-emerald-800 hover:underline font-semibold">Quality Standards</a> to support service development and audit</li>
             </ul>
             <p className="text-slate-600 text-sm md:text-base">
               The guideline does not replace clinical judgment but is intended to support informed, consistent, and evidence-based care.
@@ -123,7 +123,7 @@ const CpgContentPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
                 The guideline was developed using the KSU-Modified-ADAPTE methodology, adapting evidence-based recommendations from international guidelines (notably NICE) to the Saudi healthcare context.
               </p>
               <a
-                href={getHref('adhd-cpg-about-development', basePath)}
+                href={getHref('adhd-cpg-about-development', basePath, locale)}
                 className="inline-flex items-center text-sm font-semibold text-emerald-700 hover:text-emerald-800"
               >
                 Read more <span className="ml-1">→</span>
@@ -198,7 +198,7 @@ const CpgContentPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
                 A peer-reviewed publication describing the adaptation process is available: Bashiri, F. A., Albatti, T. H., Hamad, M. H., et al. (2021). Adapting evidence-based clinical practice guidelines for people with attention deficit hyperactivity disorder in Saudi Arabia: process and outputs of a national initiative. <em>Child and Adolescent Psychiatry and Mental Health</em>, 15(1), 1–16.
               </p>
               <a
-                href={getHref('adhd-cpg-about-publications', basePath)}
+                href={getHref('adhd-cpg-about-publications', basePath, locale)}
                 className="inline-flex items-center text-sm font-semibold text-emerald-700 hover:text-emerald-800"
               >
                 Read more <span className="ml-1">→</span>
@@ -212,7 +212,7 @@ const CpgContentPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
                 The development of this guideline was made possible through the contributions of national and international experts, healthcare professionals, patients, families, and organizations. The Saudi ADHD Society acknowledges all individuals and groups who participated in the guideline development process.
               </p>
               <a
-                href={getHref('adhd-cpg-about-acknowledgements', basePath)}
+                href={getHref('adhd-cpg-about-acknowledgements', basePath, locale)}
                 className="inline-flex items-center text-sm font-semibold text-emerald-700 hover:text-emerald-800"
               >
                 Read more <span className="ml-1">→</span>
@@ -229,7 +229,7 @@ const CpgContentPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
                 The guideline does not override the individual responsibility of healthcare professionals to make decisions appropriate to the circumstances of the individual patient, in consultation with the patient and/or their carer or guardian.
               </p>
               <a
-                href={getHref('adhd-cpg-about-disclaimer', basePath)}
+                href={getHref('adhd-cpg-about-disclaimer', basePath, locale)}
                 className="inline-flex items-center text-sm font-semibold text-emerald-700 hover:text-emerald-800"
               >
                 Read more <span className="ml-1">→</span>
@@ -246,7 +246,7 @@ const CpgContentPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
                 Use of this CPG is governed by the original <a href="https://www.nice.org.uk/terms-and-conditions" target="_blank" rel="noreferrer noopener" className="text-emerald-700 hover:underline">NICE Terms and Conditions</a> and the <a href="https://www.nice.org.uk/re-using-our-content/uk-open-content-licence" target="_blank" rel="noreferrer noopener" className="text-emerald-700 hover:underline">NICE UK Open Content Licence</a>. As the end user, your right to freely use the adapted CPG is covered by a <a href="https://creativecommons.org/licenses/by-nd/4.0/" target="_blank" rel="noreferrer noopener" className="text-emerald-700 hover:underline">Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) licence</a> in as far as this does not conflict with the original terms and conditions.
               </p>
               <a
-                href={getHref('adhd-cpg-about-copyright', basePath)}
+                href={getHref('adhd-cpg-about-copyright', basePath, locale)}
                 className="inline-flex items-center text-sm font-semibold text-emerald-700 hover:text-emerald-800"
               >
                 Read more <span className="ml-1">→</span>
@@ -266,55 +266,55 @@ const CpgContentPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
               <h3 className="text-sm font-semibold text-slate-900 mb-3 uppercase tracking-wide">Guideline contents</h3>
               <div className="space-y-2">
                 <a
-                  href={getHref('cpg-clinical-recommendations', basePath)}
+                  href={getHref('cpg-clinical-recommendations', basePath, locale)}
                   className="block w-full text-left p-2 hover:bg-emerald-50 rounded-lg transition-colors text-slate-600 hover:text-emerald-800 text-sm font-semibold"
                 >
                   Clinical Recommendations
                 </a>
                 <a
-                  href={getHref('cpg-strength-of-recommendations', basePath)}
+                  href={getHref('cpg-strength-of-recommendations', basePath, locale)}
                   className="block w-full text-left p-2 hover:bg-emerald-50 rounded-lg transition-colors text-slate-600 hover:text-emerald-800 text-sm font-semibold"
                 >
                   Strength of Recommendations
                 </a>
                 <a
-                  href={getHref('cpg-clinical-algorithms', basePath)}
+                  href={getHref('cpg-clinical-algorithms', basePath, locale)}
                   className="block w-full text-left p-2 hover:bg-emerald-50 rounded-lg transition-colors text-slate-600 hover:text-emerald-800 text-sm font-semibold"
                 >
                   Clinical Algorithms
                 </a>
                 <a
-                  href={getHref('cpg-medication-tables', basePath)}
+                  href={getHref('cpg-medication-tables', basePath, locale)}
                   className="block w-full text-left p-2 hover:bg-emerald-50 rounded-lg transition-colors text-slate-600 hover:text-emerald-800 text-sm font-semibold"
                 >
                   Medication Tables
                 </a>
                 <a
-                  href={getHref('interactive-scales', basePath)}
+                  href={getHref('interactive-scales', basePath, locale)}
                   className="block w-full text-left p-2 hover:bg-emerald-50 rounded-lg transition-colors text-slate-600 hover:text-emerald-800 text-sm font-semibold"
                 >
                   Rating Scales
                 </a>
                 <a
-                  href={getHref('cpg-terminology', basePath)}
+                  href={getHref('cpg-terminology', basePath, locale)}
                   className="block w-full text-left p-2 hover:bg-emerald-50 rounded-lg transition-colors text-slate-600 hover:text-emerald-800 text-sm font-semibold"
                 >
                   Terminology
                 </a>
                 <a
-                  href={getHref('cpg-icd-codes', basePath)}
+                  href={getHref('cpg-icd-codes', basePath, locale)}
                   className="block w-full text-left p-2 hover:bg-emerald-50 rounded-lg transition-colors text-slate-600 hover:text-emerald-800 text-sm font-semibold"
                 >
                   ICD Codes
                 </a>
                 <a
-                  href={getHref('cpg-quality-standards', basePath)}
+                  href={getHref('cpg-quality-standards', basePath, locale)}
                   className="block w-full text-left p-2 hover:bg-emerald-50 rounded-lg transition-colors text-slate-600 hover:text-emerald-800 text-sm font-semibold"
                 >
                   Quality Standards
                 </a>
                 <a
-                  href={getHref('cpg-guideline-updates', basePath)}
+                  href={getHref('cpg-guideline-updates', basePath, locale)}
                   className="block w-full text-left p-2 hover:bg-emerald-50 rounded-lg transition-colors text-slate-600 hover:text-emerald-800 text-sm font-semibold"
                 >
                   Guideline Updates

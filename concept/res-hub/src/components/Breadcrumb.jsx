@@ -1,6 +1,7 @@
 import React from 'react';
 import { ChevronRight, Home } from 'lucide-react';
 import { getHref } from '../utils/navigation';
+import { t } from '../utils/i18n';
 
 const BASE_PATH = '/res.adhd.org.sa-concept';
 
@@ -82,61 +83,16 @@ const NAV_SECTIONS = {
   'irb-guide': 'Research Governance',
 };
 
-// Page display names mapping
-const PAGE_NAMES = {
-  'home': 'Home',
-  'evidence-insights': 'Evidence & Insights',
-  'topic-guides': 'Topic Guides',
-  'topic-guide-what-is-adhd': 'What is ADHD?',
-  'topic-guide-lifespan': 'ADHD Across the Lifespan',
-  'topic-guide-health-comorbidity': 'Health, Comorbidity & Risk',
-  'topic-guide-treatments': 'Evidence-Based Treatments',
-  'topic-guide-diagnosis': 'Diagnosis & Assessment',
-  'topic-guide-women-girls': 'Women & Girls with ADHD',
-  'topic-guide-disability': 'Is ADHD a Disability?',
-  'topic-guide-validity-utility': 'The Validity and Utility of ADHD',
-  'topic-guide-saudi-arabia-knowledge': 'ADHD Knowledge, Attitudes, and Awareness in Saudi Arabia',
-  'topic-guide-adhd-stigma': 'ADHD Stigma as a Systems Barrier',
-  'topic-guide-universal-design-learning': 'Universal Design for Learning',
-  'research-briefs': 'Research Briefs',
-  'research-brief-agree-ii': 'AGREE II Quality Assessment',
-  'research-brief-cpg-adaptation': 'CPG Adaptation Process',
-  'research-brief-arab-world': 'ADHD in Saudi Arabia & Arab World',
-  'research-brief-global-policy-access': 'Global Policy & Access',
-  'research-brief-lifespan-interventions': 'ADHD Interventions Across the Lifespan',
-  'library': 'Research Library',
-  'research-projects': 'Research Projects',
-  'current-research': 'Current Research',
-  'cpg-overview': 'CPG Overview',
-  'research-output': 'Research Output',
-  'clinical-tools': 'Clinical Tools & Resources',
-  'adhd-cpg': 'Saudi National ADHD CPG',
-  'cpg-clinical-recommendations': 'Clinical Recommendations',
-  'cpg-strength-of-recommendations': 'Strength of Recommendations',
-  'cpg-clinical-algorithms': 'Clinical Algorithms',
-  'cpg-medication-tables': 'Medication Tables',
-  'cpg-terminology': 'Terminology',
-  'cpg-icd-codes': 'ICD Codes',
-  'cpg-quality-standards': 'Quality Standards',
-  'cpg-guideline-updates': 'Guideline Updates',
-  'adhd-cpg-about': 'About the Guideline',
-  'adhd-cpg-about-development': 'Development',
-  'adhd-cpg-about-publications': 'Publications',
-  'adhd-cpg-about-acknowledgements': 'Acknowledgements',
-  'adhd-cpg-about-disclaimer': 'Disclaimer',
-  'adhd-cpg-about-copyright': 'Copyright',
-  'interactive-scales': 'Rating Scales & Assessment Tools',
-  'functional-assessment': 'ICF & Functional Assessment',
-  'hcp-resources': 'HCP Resources',
-  'consensus-statement': 'International Consensus Statement',
-  'research-governance': 'Research Governance',
-  'research-priorities': 'Research Priorities',
-  'ishraq-grant': 'Grants & Funding',
-  'irb': 'Research Ethics & IRB',
-  'irb-overview': 'IRB Overview',
-  'irb-regulations': 'IRB Regulations',
-  'irb-process': 'IRB Process',
-  'irb-guide': 'IRB Guide',
+// Get page display name using translations
+const getPageName = (pageId, locale) => {
+  const breadcrumbKey = `breadcrumbs.${pageId}`;
+  const translated = t(breadcrumbKey, locale);
+  // If translation found (not the key itself), return it
+  if (translated !== breadcrumbKey) {
+    return translated;
+  }
+  // Fallback to a readable version of the pageId
+  return pageId.split('-').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
 };
 
 // Map page IDs to their URL paths
@@ -162,13 +118,18 @@ const getPagePath = (pageId) => {
   return `/${pageId}`;
 };
 
-// Get section title for a page
-const getSectionTitle = (pageId) => {
-  return NAV_SECTIONS[pageId] || null;
+// Get section title for a page using translations
+const getSectionTitle = (pageId, locale) => {
+  const sectionKey = NAV_SECTIONS[pageId];
+  if (!sectionKey) return null;
+  // Map section keys to translation keys
+  const translationKey = `breadcrumbs.${sectionKey}`;
+  const translated = t(translationKey, locale);
+  return translated !== translationKey ? translated : sectionKey;
 };
 
 // Build breadcrumb trail
-const buildBreadcrumbTrail = (pageId) => {
+const buildBreadcrumbTrail = (pageId, locale) => {
   const trail = [];
   
   // Don't show breadcrumb on home page
@@ -183,7 +144,7 @@ const buildBreadcrumbTrail = (pageId) => {
   while (currentPageId && !visited.has(currentPageId)) {
     visited.add(currentPageId);
     
-    const pageName = PAGE_NAMES[currentPageId];
+    const pageName = getPageName(currentPageId, locale);
     
     if (pageName) {
       trail.unshift({
@@ -199,7 +160,7 @@ const buildBreadcrumbTrail = (pageId) => {
   
   // Add section title as the first item if we have a trail and it's not a top-level page
   if (trail.length > 0) {
-    const sectionTitle = getSectionTitle(trail[0].id);
+    const sectionTitle = getSectionTitle(trail[0].id, locale);
     // Only add section title if it's different from the page name (i.e., not a top-level page)
     if (sectionTitle && sectionTitle !== trail[0].name) {
       trail.unshift({
@@ -244,7 +205,7 @@ const getPageIdFromPath = (pathname, basePath) => {
   return path;
 };
 
-const Breadcrumb = ({ pageId: pageIdProp, basePath = BASE_PATH }) => {
+const Breadcrumb = ({ pageId: pageIdProp, basePath = BASE_PATH, locale = 'en' }) => {
   const [currentPageId, setCurrentPageId] = React.useState(() => {
     if (typeof window !== 'undefined') {
       return getPageIdFromPath(window.location.pathname, basePath);
@@ -273,7 +234,7 @@ const Breadcrumb = ({ pageId: pageIdProp, basePath = BASE_PATH }) => {
     return null;
   }
   
-  const trail = buildBreadcrumbTrail(currentPageId);
+  const trail = buildBreadcrumbTrail(currentPageId, locale);
   
   if (trail.length === 0) {
     return null;
@@ -284,12 +245,12 @@ const Breadcrumb = ({ pageId: pageIdProp, basePath = BASE_PATH }) => {
       <ol className="flex items-center space-x-2 flex-wrap">
         <li>
           <a
-            href={getHref('home', basePath)}
+            href={getHref('home', basePath, locale)}
             className="hover:text-emerald-600 transition-colors flex items-center"
-            aria-label="Home"
+            aria-label={t('breadcrumbs.home', locale)}
           >
             <Home size={14} className="mr-1" />
-            <span>Home</span>
+            <span>{t('breadcrumbs.home', locale)}</span>
           </a>
         </li>
         {trail.map((item, index) => (
@@ -301,7 +262,7 @@ const Breadcrumb = ({ pageId: pageIdProp, basePath = BASE_PATH }) => {
               </span>
             ) : (
               <a
-                href={getHref(item.id, basePath)}
+                href={getHref(item.id, basePath, locale)}
                 className="hover:text-emerald-600 transition-colors"
               >
                 {item.name}

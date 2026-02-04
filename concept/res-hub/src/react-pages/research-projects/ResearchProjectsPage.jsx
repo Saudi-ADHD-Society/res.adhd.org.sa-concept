@@ -3,9 +3,9 @@ import { Activity, FileText, BookOpen, ArrowRight } from 'lucide-react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
-const ResearchProjectsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+const ResearchProjectsPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <Breadcrumb basePath={basePath} />
+    <Breadcrumb basePath={basePath} locale={locale} />
     
     {/* Hero Section */}
     <div className="bg-gradient-to-br from-blue-50 to-indigo-50 border border-blue-200 rounded-2xl p-8 md:p-10">
@@ -24,7 +24,7 @@ const ResearchProjectsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
     <div className="grid md:grid-cols-2 gap-6">
       {/* Current Research */}
       <a
-        href={getHref('current-research', basePath)}
+        href={getHref('current-research', basePath, locale)}
         className="group block text-left bg-white p-8 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-blue-300 transition-all"
       >
         <div className="w-16 h-16 bg-blue-100 text-blue-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-blue-600 group-hover:text-white transition-colors">
@@ -43,7 +43,7 @@ const ResearchProjectsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
 
       {/* Research Output */}
       <a
-        href={getHref('research-output', basePath)}
+        href={getHref('research-output', basePath, locale)}
         className="group block text-left bg-white p-8 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-blue-300 transition-all"
       >
         <div className="w-16 h-16 bg-indigo-100 text-indigo-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-indigo-600 group-hover:text-white transition-colors">
@@ -71,7 +71,7 @@ const ResearchProjectsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
             For clinicians and policy makers: a structured overview of the Saudi National ADHD Clinical Practice Guideline and its current 2025–2026 update cycle.
           </p>
           <a
-            href={getHref('cpg-overview', basePath)}
+            href={getHref('cpg-overview', basePath, locale)}
             className="inline-flex items-center text-blue-700 hover:text-blue-800 font-semibold text-sm"
           >
             View CPG Overview <ArrowRight size={14} className="ml-2" />

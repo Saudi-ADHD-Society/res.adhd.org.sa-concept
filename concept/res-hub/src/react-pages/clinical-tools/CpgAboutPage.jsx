@@ -1,9 +1,9 @@
 import React from 'react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 
-const CpgAboutPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+const CpgAboutPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <Breadcrumb basePath={basePath} />
+    <Breadcrumb basePath={basePath} locale={locale} />
 
     {/* Header */}
     <div className="bg-white border border-slate-200 rounded-xl p-6 shadow-sm">

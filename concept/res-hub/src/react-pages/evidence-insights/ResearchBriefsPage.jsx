@@ -3,9 +3,9 @@ import { FileCheck, FileText, Globe, ArrowRight } from 'lucide-react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
-const ResearchBriefsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+const ResearchBriefsPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <Breadcrumb basePath={basePath} />
+    <Breadcrumb basePath={basePath} locale={locale} />
     <div>
       <h2 className="text-3xl font-bold text-slate-900 mb-4">Research Briefs</h2>
       <p className="text-slate-600 max-w-2xl">
@@ -16,7 +16,7 @@ const ResearchBriefsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
     <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
       {/* Brief 1: ADHD in Arab World */}
       <a
-        href={getHref('research-brief-arab-world', basePath)}
+        href={getHref('research-brief-arab-world', basePath, locale)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
       >
         <div className="flex items-center space-x-2 text-emerald-600 text-sm font-bold mb-3">
@@ -36,7 +36,7 @@ const ResearchBriefsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
 
       {/* Brief 2: Global Policy & Access */}
       <a
-        href={getHref('research-brief-global-policy-access', basePath)}
+        href={getHref('research-brief-global-policy-access', basePath, locale)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
       >
         <div className="flex items-center space-x-2 text-purple-600 text-sm font-bold mb-3">
@@ -56,7 +56,7 @@ const ResearchBriefsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
 
       {/* Brief 3: CPG Adaptation Process */}
       <a
-        href={getHref('research-brief-cpg-adaptation', basePath)}
+        href={getHref('research-brief-cpg-adaptation', basePath, locale)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
       >
         <div className="flex items-center space-x-2 text-teal-600 text-sm font-bold mb-3">
@@ -76,7 +76,7 @@ const ResearchBriefsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
 
       {/* Brief 4: AGREE II CPG Appraisal */}
       <a
-        href={getHref('research-brief-agree-ii', basePath)}
+        href={getHref('research-brief-agree-ii', basePath, locale)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
       >
         <div className="flex items-center space-x-2 text-indigo-600 text-sm font-bold mb-3">
@@ -96,7 +96,7 @@ const ResearchBriefsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
 
       {/* Brief 5: Lifespan Interventions */}
       <a
-        href={getHref('research-brief-lifespan-interventions', basePath)}
+        href={getHref('research-brief-lifespan-interventions', basePath, locale)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
       >
         <div className="flex items-center space-x-2 text-teal-600 text-sm font-bold mb-3">

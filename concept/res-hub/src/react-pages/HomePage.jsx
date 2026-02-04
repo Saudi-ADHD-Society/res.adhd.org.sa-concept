@@ -1,6 +1,7 @@
 import React from 'react';
 import { ChevronRight, ArrowRight, FileText, Activity, Users, BarChart2, BookOpen, Heart, FlaskConical, ClipboardCheck } from 'lucide-react';
 import { getHref } from '../utils/navigation';
+import { t } from '../utils/i18n';
 
 // Topic Guides Data - ordered by publication date (newest first)
 const TOPIC_GUIDES = [
@@ -81,7 +82,9 @@ const getIconClasses = (guide) => {
   return `${baseClasses} ${baseColorClass} ${hoverClasses[baseColorClass]}`;
 };
 
-export const HomeHero = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+export const HomeHero = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en', content }) => {
+  const heroContent = content?.hero || {};
+  return (
   <header className="relative bg-gradient-to-br from-slate-900 via-emerald-900 to-slate-900 text-white overflow-hidden">
     <div className="absolute top-0 right-0 w-1/2 h-full bg-emerald-800/10 rounded-l-full blur-3xl transform translate-x-1/3" aria-hidden="true"></div>
     <div className="absolute bottom-0 left-0 w-96 h-96 bg-blue-600/10 rounded-full blur-3xl transform -translate-x-1/4 translate-y-1/4" aria-hidden="true"></div>
@@ -89,74 +92,105 @@ export const HomeHero = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
     <div className="relative z-10">
       <div className="max-w-7xl mx-auto px-4 md:px-8 py-16 md:py-24">
         <div className="max-w-3xl">
-          <div className="inline-flex items-center space-x-2 bg-emerald-500/20 border border-emerald-400/30 rounded-full px-3 py-1 mb-6 backdrop-blur-sm">
-            <span className="w-2 h-2 bg-emerald-400 rounded-full animate-pulse" aria-hidden="true"></span>
-            <span className="text-emerald-100 text-xs font-medium tracking-wide uppercase">
-              New: Saudi ADHD Society Research Forum 2026
-            </span>
-          </div>
+          {heroContent.subtitle && (
+            <div className="inline-flex items-center space-x-2 bg-emerald-500/20 border border-emerald-400/30 rounded-full px-3 py-1 mb-6 backdrop-blur-sm">
+              <span className="w-2 h-2 bg-emerald-400 rounded-full animate-pulse" aria-hidden="true"></span>
+              <span className="text-emerald-100 text-xs font-medium tracking-wide uppercase">
+                {heroContent.subtitle}
+              </span>
+            </div>
+          )}
 
           <h1 className="text-4xl md:text-6xl font-bold leading-tight mb-6">
-            Bridging the Gap Between <br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-teal-300">
-              Evidence and Practice
-            </span>
+            {heroContent.title || 'Bridging the Gap Between Evidence and Practice'}
           </h1>
 
           <p className="text-lg md:text-xl text-slate-300 mb-8 leading-relaxed max-w-2xl">
-            A national platform for ADHD research, evidence synthesis, and clinical guidance—supporting evidence-informed practice and policy in Saudi Arabia.
+            {heroContent.description || 'A national platform for ADHD research, evidence synthesis, and clinical guidance—supporting evidence-informed practice and policy in Saudi Arabia.'}
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4">
-            <a
-              href={getHref('clinical-tools', basePath)}
-              className="px-8 py-4 bg-emerald-500 hover:bg-emerald-400 text-emerald-950 font-bold rounded-lg transition-all shadow-lg hover:shadow-emerald-500/25 flex items-center justify-center space-x-2"
-            >
-              <span>Clinical Guidance</span>
-              <ArrowRight size={18} aria-hidden="true" />
-            </a>
-            <a
-              href={getHref('research-projects', basePath)}
-              className="px-8 py-4 bg-white/10 hover:bg-white/20 text-white font-semibold rounded-lg backdrop-blur-md border border-white/10 transition-all flex items-center justify-center"
-            >
-              Research Updates
-            </a>
+            {heroContent.cta?.primary && (
+              <a
+                href={getHref(heroContent.cta.primary.href.replace('/', ''), basePath, locale)}
+                className="px-8 py-4 bg-emerald-500 hover:bg-emerald-400 text-emerald-950 font-bold rounded-lg transition-all shadow-lg hover:shadow-emerald-500/25 flex items-center justify-center space-x-2"
+              >
+                <span>{heroContent.cta.primary.text}</span>
+                <ArrowRight size={18} aria-hidden="true" />
+              </a>
+            )}
+            {heroContent.cta?.secondary && (
+              <a
+                href={getHref(heroContent.cta.secondary.href.replace('/', ''), basePath, locale)}
+                className="px-8 py-4 bg-white/10 hover:bg-white/20 text-white font-semibold rounded-lg backdrop-blur-md border border-white/10 transition-all flex items-center justify-center"
+              >
+                {heroContent.cta.secondary.text}
+              </a>
+            )}
           </div>
         </div>
       </div>
 
-      <div className="border-t border-white/10 bg-black/20 backdrop-blur-sm">
-        <div className="max-w-7xl mx-auto px-4 md:px-8 py-6 grid grid-cols-2 md:grid-cols-4 gap-6 text-center md:text-left">
-          <div>
-            <div className="text-2xl font-bold text-white">20+</div>
-            <div className="text-xs text-slate-400 uppercase tracking-wider">Years of Research<br/>& Knowledge Translation</div>
-          </div>
-          <div>
-            <div className="text-2xl font-bold text-white">5</div>
-            <div className="text-xs text-slate-400 uppercase tracking-wider">New Validated Arabic<br/>Interactive Scales</div>
-          </div>
-          <div>
-            <div className="text-2xl font-bold text-white">CPG</div>
-            <div className="text-xs text-slate-400 uppercase tracking-wider">National Clinical<br/>Practice Guidelines</div>
-          </div>
-          <div>
-            <div className="text-2xl font-bold text-white">Grant</div>
-            <div className="text-xs text-slate-400 uppercase tracking-wider">Now Accepting<br/>Proposals</div>
+      {content?.stats && content.stats.length > 0 ? (
+        <div className="border-t border-white/10 bg-black/20 backdrop-blur-sm">
+          <div className="max-w-7xl mx-auto px-4 md:px-8 py-6 grid grid-cols-2 md:grid-cols-4 gap-6 text-center md:text-left">
+            {content.stats.map((stat, idx) => (
+              <div key={idx}>
+                <div className="text-2xl font-bold text-white">{stat.value}</div>
+                <div className="text-xs text-slate-400 uppercase tracking-wider">
+                  {stat.label.split('<br/>').map((line, i, arr) => (
+                    <React.Fragment key={i}>
+                      {line}
+                      {i < arr.length - 1 && <br />}
+                    </React.Fragment>
+                  ))}
+                </div>
+              </div>
+            ))}
           </div>
         </div>
-      </div>
+      ) : (
+        <div className="border-t border-white/10 bg-black/20 backdrop-blur-sm">
+          <div className="max-w-7xl mx-auto px-4 md:px-8 py-6 grid grid-cols-2 md:grid-cols-4 gap-6 text-center md:text-left">
+            <div>
+              <div className="text-2xl font-bold text-white">20+</div>
+              <div className="text-xs text-slate-400 uppercase tracking-wider">Years of Research<br/>& Knowledge Translation</div>
+            </div>
+            <div>
+              <div className="text-2xl font-bold text-white">5</div>
+              <div className="text-xs text-slate-400 uppercase tracking-wider">New Validated Arabic<br/>Interactive Scales</div>
+            </div>
+            <div>
+              <div className="text-2xl font-bold text-white">CPG</div>
+              <div className="text-xs text-slate-400 uppercase tracking-wider">National Clinical<br/>Practice Guidelines</div>
+            </div>
+            <div>
+              <div className="text-2xl font-bold text-white">Grant</div>
+              <div className="text-xs text-slate-400 uppercase tracking-wider">Now Accepting<br/>Proposals</div>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   </header>
-);
+  );
+};
 
-const HomePage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+const HomePage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en', content }) => {
+  const sections = content?.sections || [];
+  const evidenceSection = sections.find(s => s.id === 'evidence-insights');
+  const clinicalSection = sections.find(s => s.id === 'clinical-tools');
+  
+  return (
   <>
     {/* Evidence & Insights (Topic Guides) */}
     <section className="bg-slate-50 rounded-3xl p-8 md:p-12 border border-slate-100 mb-20">
       <div className="text-center max-w-2xl mx-auto mb-12">
-        <h2 className="text-3xl font-bold text-slate-900 mb-4">Evidence &amp; Insights</h2>
+        <h2 className="text-3xl font-bold text-slate-900 mb-4">
+          {evidenceSection?.content?.title || 'Evidence & Insights'}
+        </h2>
         <p className="text-slate-600">
-          Bridging the \"Know-Do\" gap. We synthesize complex white papers into actionable topic guides for policymakers, clinicians, educators, and families.
+          {evidenceSection?.content?.text || 'Bridging the "Know-Do" gap. We synthesize complex white papers into actionable topic guides for policymakers, clinicians, educators, and families.'}
         </p>
       </div>
 
@@ -166,7 +200,7 @@ const HomePage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
           return (
             <a
               key={guide.id}
-              href={getHref(guide.id, basePath)}
+              href={getHref(guide.id, basePath, locale)}
               className="group block text-left bg-white p-6 rounded-2xl shadow-sm border border-slate-100 hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
             >
               <div className={getIconClasses(guide)}>
@@ -176,7 +210,7 @@ const HomePage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
               <p className="text-sm text-slate-500 mb-4 line-clamp-3">
                 {guide.description}
               </p>
-              <div className="text-sm font-semibold text-emerald-700 flex items-center">Read Guide <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true"/></div>
+              <div className="text-sm font-semibold text-emerald-700 flex items-center">{t('common.readGuide', locale)} <ArrowRight size={14} className="ml-1 group-hover:translate-x-1 transition-transform" aria-hidden="true"/></div>
             </a>
           );
         })}
@@ -186,8 +220,12 @@ const HomePage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
     {/* Section 3: The Workbench (Tools) */}
     <section>
       <div className="flex flex-col md:flex-row justify-between items-center mb-8">
-         <h2 className="text-3xl font-bold text-slate-900">Clinical Tools &amp; Resources</h2>
-         <span className="text-slate-500 text-sm">For clinicians and school psychologists</span>
+         <h2 className="text-3xl font-bold text-slate-900">
+           {clinicalSection?.content?.title || 'Clinical Tools & Resources'}
+         </h2>
+         <span className="text-slate-500 text-sm">
+           {clinicalSection?.content?.text || 'For clinicians and school psychologists'}
+         </span>
       </div>
       
       <div className="grid md:grid-cols-2 gap-6">
@@ -200,7 +238,7 @@ const HomePage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
              <p className="text-emerald-200 mb-6 max-w-md">
                Access automated scoring for VADTRS-3-AR, ASRS-5-AR and more. Generate instant reports for patient files.
              </p>
-             <a href={getHref('interactive-scales', basePath)} className="inline-block bg-emerald-500 hover:bg-emerald-400 text-emerald-950 px-6 py-3 rounded-lg font-bold transition-colors">
+             <a href={getHref('interactive-scales', basePath, locale)} className="inline-block bg-emerald-500 hover:bg-emerald-400 text-emerald-950 px-6 py-3 rounded-lg font-bold transition-colors">
                Launch Tools
              </a>
            </div>
@@ -218,10 +256,10 @@ const HomePage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
              The definitive guide for ADHD diagnosis and management in the Kingdom. Browse by chapter or search specific recommendations.
            </p>
            <div className="flex gap-3 mt-auto">
-             <a href={getHref('cpg-overview', basePath)} className="flex-1 bg-slate-50 hover:bg-slate-100 text-slate-700 border border-slate-200 py-2 rounded-lg text-sm font-semibold transition-colors text-center">
+             <a href={getHref('cpg-overview', basePath, locale)} className="flex-1 bg-slate-50 hover:bg-slate-100 text-slate-700 border border-slate-200 py-2 rounded-lg text-sm font-semibold transition-colors text-center">
                View Overview
              </a>
-             <a href={getHref('adhd-cpg', basePath)} className="flex-1 bg-emerald-50 hover:bg-emerald-100 text-emerald-800 border border-emerald-200 py-2 rounded-lg text-sm font-semibold transition-colors text-center">
+             <a href={getHref('adhd-cpg', basePath, locale)} className="flex-1 bg-emerald-50 hover:bg-emerald-100 text-emerald-800 border border-emerald-200 py-2 rounded-lg text-sm font-semibold transition-colors text-center">
                Open Guidelines
              </a>
            </div>
@@ -229,6 +267,7 @@ const HomePage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
       </div>
     </section>
   </>
-);
+  );
+};
 
 export default HomePage;

@@ -1,0 +1,15 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import TopicGuideUniversalDesignLearningPage from '../../../react-pages/evidence-insights/TopicGuideUniversalDesignLearningPage.jsx';
+
+const basePath = import.meta.env.BASE_URL;
+const locale = 'en';
+
+---
+
+<BaseLayout title="Universal Design for Learning in Higher Education - Research Portal" locale={locale}>
+  <main class="max-w-7xl mx-auto px-4 md:px-8 py-10 min-h-[60vh]">
+    <TopicGuideUniversalDesignLearningPage client:load basePath={basePath} locale={locale} />
+  </main>
+</BaseLayout>
+

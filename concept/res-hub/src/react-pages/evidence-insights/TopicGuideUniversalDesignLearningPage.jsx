@@ -3,9 +3,9 @@ import { GraduationCap, BookOpen, Users, Target, Eye, Hand, Brain, CheckCircle2,
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
-const TopicGuideUniversalDesignLearningPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+const TopicGuideUniversalDesignLearningPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <Breadcrumb basePath={basePath} />
+    <Breadcrumb basePath={basePath} locale={locale} />
 
     {/* Hero */}
     <div className="relative overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm">
@@ -622,7 +622,7 @@ const TopicGuideUniversalDesignLearningPage = ({ basePath = '/res.adhd.org.sa-co
     <div className="bg-slate-50 border border-slate-200 rounded-xl p-6">
       <div className="flex flex-col sm:flex-row items-center justify-center gap-3">
         <a
-          href={getHref('topic-guides', basePath)}
+          href={getHref('topic-guides', basePath, locale)}
           className="text-emerald-700 font-semibold hover:text-emerald-800"
         >
           Back to Topic Guides

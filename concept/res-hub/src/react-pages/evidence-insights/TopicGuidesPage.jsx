@@ -3,9 +3,9 @@ import { BookOpen, Users, Heart, FlaskConical, ClipboardCheck, Scale, ShieldChec
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
-const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <Breadcrumb basePath={basePath} />
+    <Breadcrumb basePath={basePath} locale={locale} />
     <div>
       <h2 className="text-3xl font-bold text-slate-900 mb-4">Topic Guides</h2>
       <p className="text-slate-600 max-w-2xl">
@@ -16,7 +16,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
     <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
       {/* Guide 1: What is ADHD */}
       <a
-        href={getHref('topic-guide-what-is-adhd', basePath)}
+        href={getHref('topic-guide-what-is-adhd', basePath, locale)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
       >
         <div className="w-12 h-12 bg-emerald-100 text-emerald-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-emerald-600 group-hover:text-white transition-colors">
@@ -35,7 +35,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
 
       {/* Guide 2: The Validity and Utility of ADHD */}
       <a
-        href={getHref('topic-guide-validity-utility', basePath)}
+        href={getHref('topic-guide-validity-utility', basePath, locale)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
       >
         <div className="w-12 h-12 bg-cyan-100 text-cyan-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-cyan-600 group-hover:text-white transition-colors">
@@ -54,7 +54,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
 
       {/* Guide 3: Diagnosis & Assessment */}
       <a
-        href={getHref('topic-guide-diagnosis', basePath)}
+        href={getHref('topic-guide-diagnosis', basePath, locale)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
       >
         <div className="w-12 h-12 bg-amber-100 text-amber-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-amber-600 group-hover:text-white transition-colors">
@@ -73,7 +73,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
 
       {/* Guide 4: ADHD Across the Lifespan */}
       <a
-        href={getHref('topic-guide-lifespan', basePath)}
+        href={getHref('topic-guide-lifespan', basePath, locale)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
       >
         <div className="w-12 h-12 bg-blue-100 text-blue-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-blue-600 group-hover:text-white transition-colors">
@@ -92,7 +92,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
 
       {/* Guide 5: ADHD in Women & Girls */}
       <a
-        href={getHref('topic-guide-women-girls', basePath)}
+        href={getHref('topic-guide-women-girls', basePath, locale)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
       >
         <div className="w-12 h-12 bg-pink-100 text-pink-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-pink-600 group-hover:text-white transition-colors">
@@ -112,7 +112,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
 
       {/* Guide 6: Health, Comorbidity & Risk */}
       <a
-        href={getHref('topic-guide-health-comorbidity', basePath)}
+        href={getHref('topic-guide-health-comorbidity', basePath, locale)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
       >
         <div className="w-12 h-12 bg-rose-100 text-rose-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-rose-600 group-hover:text-white transition-colors">
@@ -131,7 +131,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
 
       {/* Guide 7: Evidence-Based Treatments */}
       <a
-        href={getHref('topic-guide-treatments', basePath)}
+        href={getHref('topic-guide-treatments', basePath, locale)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
       >
         <div className="w-12 h-12 bg-purple-100 text-purple-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-purple-600 group-hover:text-white transition-colors">
@@ -150,7 +150,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
 
       {/* Guide 8: Is ADHD a Disability? */}
       <a
-        href={getHref('topic-guide-disability', basePath)}
+        href={getHref('topic-guide-disability', basePath, locale)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
       >
         <div className="w-12 h-12 bg-indigo-100 text-indigo-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-indigo-600 group-hover:text-white transition-colors">
@@ -169,7 +169,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
 
       {/* Guide 9: ADHD Knowledge, Attitudes, and Awareness in Saudi Arabia */}
       <a
-        href={getHref('topic-guide-saudi-arabia-knowledge', basePath)}
+        href={getHref('topic-guide-saudi-arabia-knowledge', basePath, locale)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
       >
         <div className="w-12 h-12 bg-orange-100 text-orange-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-orange-600 group-hover:text-white transition-colors">
@@ -188,7 +188,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
 
       {/* Guide 10: ADHD Stigma as a Systems Barrier */}
       <a
-        href={getHref('topic-guide-adhd-stigma', basePath)}
+        href={getHref('topic-guide-adhd-stigma', basePath, locale)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
       >
         <div className="w-12 h-12 bg-red-100 text-red-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-red-600 group-hover:text-white transition-colors">
@@ -208,7 +208,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
 
       {/* Guide 11: Universal Design for Learning */}
       <a
-        href={getHref('topic-guide-universal-design-learning', basePath)}
+        href={getHref('topic-guide-universal-design-learning', basePath, locale)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
       >
         <div className="w-12 h-12 bg-violet-100 text-violet-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-violet-600 group-hover:text-white transition-colors">
@@ -227,7 +227,7 @@ const TopicGuidesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
 
       {/* Guide 12: ADHD and Emotional Regulation */}
       <a
-        href={getHref('topic-guide-emotional-regulation', basePath)}
+        href={getHref('topic-guide-emotional-regulation', basePath, locale)}
         className="group block text-left bg-white p-6 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-300 transition-all"
       >
         <div className="w-12 h-12 bg-rose-100 text-rose-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-rose-600 group-hover:text-white transition-colors">

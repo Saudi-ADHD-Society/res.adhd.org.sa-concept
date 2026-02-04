@@ -3,9 +3,9 @@ import { Globe, ExternalLink, AlertCircle } from 'lucide-react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
-const ResearchBriefGlobalPolicyAccessPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+const ResearchBriefGlobalPolicyAccessPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <Breadcrumb basePath={basePath} />
+    <Breadcrumb basePath={basePath} locale={locale} />
 
     {/* Header */}
     <div className="bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
@@ -315,7 +315,7 @@ const ResearchBriefGlobalPolicyAccessPage = ({ basePath = '/res.adhd.org.sa-conc
             <li>
               see the{' '}
               <a
-                href={getHref('adhd-cpg', basePath)}
+                href={getHref('adhd-cpg', basePath, locale)}
                 className="underline font-semibold hover:text-indigo-700"
               >
                 Saudi National ADHD Clinical Practice Guideline
@@ -324,14 +324,14 @@ const ResearchBriefGlobalPolicyAccessPage = ({ basePath = '/res.adhd.org.sa-conc
             <li>
               and the associated{' '}
               <a
-                href={getHref('cpg-medication-tables', basePath)}
+                href={getHref('cpg-medication-tables', basePath, locale)}
                 className="underline font-semibold hover:text-indigo-700"
               >
                 medication tables
               </a>
               {' '}and{' '}
               <a
-                href={getHref('cpg-clinical-recommendations', basePath)}
+                href={getHref('cpg-clinical-recommendations', basePath, locale)}
                 className="underline font-semibold hover:text-indigo-700"
               >
                 clinical recommendations
@@ -376,7 +376,7 @@ const ResearchBriefGlobalPolicyAccessPage = ({ basePath = '/res.adhd.org.sa-conc
     <div className="bg-slate-50 border border-slate-200 rounded-xl p-6">
       <div className="flex justify-center">
         <a
-          href={getHref('research-briefs', basePath)}
+          href={getHref('research-briefs', basePath, locale)}
           className="text-emerald-700 font-semibold hover:text-emerald-800"
         >
           Back to Research Briefs

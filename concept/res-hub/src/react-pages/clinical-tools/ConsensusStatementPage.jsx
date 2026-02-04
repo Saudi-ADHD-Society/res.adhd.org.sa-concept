@@ -3,7 +3,7 @@ import { ArrowLeft, Search } from 'lucide-react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
-const ConsensusStatementPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
+const ConsensusStatementPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => {
   const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState([]);
   const contentRef = useRef(null);
@@ -315,7 +315,7 @@ const ConsensusStatementPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
 
   return (
     <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-      <Breadcrumb basePath={basePath} />
+      <Breadcrumb basePath={basePath} locale={locale} />
 
       {/* Header */}
       <div id="consensus-statement-title" className="bg-white p-6 rounded-xl border border-slate-200 shadow-sm scroll-mt-20">
@@ -1024,7 +1024,7 @@ const ConsensusStatementPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
       {/* Back Button */}
       <div className="pt-8">
         <a
-          href={getHref('hcp-resources', basePath)}
+          href={getHref('hcp-resources', basePath, locale)}
           className="inline-flex items-center text-emerald-600 hover:text-emerald-700 font-semibold"
         >
           <ArrowLeft size={18} className="mr-2" />

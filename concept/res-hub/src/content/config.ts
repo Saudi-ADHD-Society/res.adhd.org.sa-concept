@@ -1,5 +1,64 @@
 import { defineCollection, z } from 'astro:content';
 
+// Content section schema for page content
+const contentSectionSchema = z.object({
+  id: z.string(),
+  type: z.enum(['heading', 'paragraph', 'list', 'card', 'hero', 'stats', 'cta']),
+  content: z.union([
+    z.string(), // For simple text content
+    z.object({
+      title: z.string().optional(),
+      text: z.string().optional(),
+      items: z.array(z.string()).optional(),
+      link: z.string().optional(),
+      linkText: z.string().optional(),
+      icon: z.string().optional(),
+      metadata: z.record(z.any()).optional(),
+    }),
+  ]),
+  metadata: z.record(z.any()).optional(),
+});
+
+const pagesCollection = defineCollection({
+  type: 'data',
+  schema: z.object({
+    id: z.string(), // Page identifier (e.g., "home", "clinical-tools", "topic-guide-what-is-adhd")
+    locale: z.enum(['en', 'ar']),
+    title: z.string(),
+    description: z.string().optional(),
+    sections: z.array(contentSectionSchema).optional(),
+    // For structured content like topic guides
+    hero: z.object({
+      title: z.string().optional(),
+      subtitle: z.string().optional(),
+      description: z.string().optional(),
+      cta: z.object({
+        primary: z.object({
+          text: z.string(),
+          href: z.string(),
+        }).optional(),
+        secondary: z.object({
+          text: z.string(),
+          href: z.string(),
+        }).optional(),
+      }).optional(),
+    }).optional(),
+    // For card-based pages like clinical tools
+    cards: z.array(z.object({
+      id: z.string(),
+      title: z.string(),
+      description: z.string(),
+      href: z.string(),
+      icon: z.string().optional(),
+    })).optional(),
+    // For stats sections (like home page)
+    stats: z.array(z.object({
+      value: z.string(),
+      label: z.string(),
+    })).optional(),
+  }),
+});
+
 const papersCollection = defineCollection({
   type: 'data',
   schema: z.object({
@@ -59,4 +118,5 @@ const papersCollection = defineCollection({
 
 export const collections = {
   papers: papersCollection,
+  pages: pagesCollection,
 };

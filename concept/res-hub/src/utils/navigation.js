@@ -1,17 +1,19 @@
 const BASE_PATH = '/res.adhd.org.sa-concept';
 
 // Map page IDs to their URL paths (based on actual Astro file structure)
-export const getPagePath = (pageId) => {
-  if (pageId === 'home') return '/';
+export const getPagePath = (pageId, locale = 'en') => {
+  const localePrefix = locale ? `/${locale}` : '';
+  
+  if (pageId === 'home') return `${localePrefix}/`;
   
   // Handle 3-level paths for about pages
   if (pageId.startsWith('adhd-cpg-about-')) {
     const segment = pageId.replace('adhd-cpg-about-', '');
-    return `/adhd-cpg/about/${segment}`;
+    return `${localePrefix}/adhd-cpg/about/${segment}`;
   }
   
   if (pageId === 'adhd-cpg-about') {
-    return '/adhd-cpg/about';
+    return `${localePrefix}/adhd-cpg/about`;
   }
   
   // Map page IDs to actual Astro file-based routes
@@ -79,11 +81,12 @@ export const getPagePath = (pageId) => {
     'irb-guide': '/irb/irb-guide',
   };
   
-  return ROUTE_MAP[pageId] || `/${pageId}`;
+  const basePath = ROUTE_MAP[pageId] || `/${pageId}`;
+  return `${localePrefix}${basePath}`;
 };
 
-export const getFullPath = (pageId, basePath = BASE_PATH) => {
-  const path = getPagePath(pageId);
+export const getFullPath = (pageId, basePath = BASE_PATH, locale = 'en') => {
+  const path = getPagePath(pageId, locale);
   // Ensure basePath has trailing slash
   const normalizedBase = basePath.endsWith('/') ? basePath : `${basePath}/`;
   if (path === '/') {
@@ -97,18 +100,46 @@ export const getFullPath = (pageId, basePath = BASE_PATH) => {
 };
 
 // Create a navigation function that works with Astro (for non-link navigation only)
-export const createNavigate = (basePath = BASE_PATH) => {
+export const createNavigate = (basePath = BASE_PATH, locale = 'en') => {
   return (pageId) => {
     if (typeof window !== 'undefined') {
-      const path = getFullPath(pageId, basePath);
+      const path = getFullPath(pageId, basePath, locale);
       window.location.href = path;
     }
   };
 };
 
 // Get href for anchor tags (preferred method)
-export const getHref = (pageId, basePath = BASE_PATH) => {
-  return getFullPath(pageId, basePath);
+export const getHref = (pageId, basePath = BASE_PATH, locale = 'en') => {
+  return getFullPath(pageId, basePath, locale);
+};
+
+// Build locale-aware path from a relative path (e.g., '/evidence-insights' -> '/en/evidence-insights' or '/ar/evidence-insights')
+export const buildLocalizedPath = (path, locale = 'en') => {
+  if (!path || path.startsWith('http')) return path;
+  const localePrefix = locale ? `/${locale}` : '';
+  if (path === '/') return `${localePrefix}/`;
+  const normalizedPath = path.startsWith('/') ? path : `/${path}`;
+  return `${localePrefix}${normalizedPath}`;
+};
+
+// Get alternate locale path (swaps /en/ with /ar/ and vice versa)
+export const getAlternateLocalePath = (currentPath, currentLocale) => {
+  const alternateLocale = currentLocale === 'en' ? 'ar' : 'en';
+  // Remove base path if present
+  let path = currentPath.replace(BASE_PATH, '');
+  // Remove leading/trailing slashes for processing
+  path = path.replace(/^\/+|\/+$/g, '');
+  
+  // Extract locale and remaining path
+  const parts = path.split('/');
+  if (parts[0] === 'en' || parts[0] === 'ar') {
+    parts[0] = alternateLocale;
+  } else {
+    parts.unshift(alternateLocale);
+  }
+  
+  return `${BASE_PATH}/${parts.join('/')}/`;
 };
 
 // Get asset URL with base path (for images, PDFs, etc. in public folder)

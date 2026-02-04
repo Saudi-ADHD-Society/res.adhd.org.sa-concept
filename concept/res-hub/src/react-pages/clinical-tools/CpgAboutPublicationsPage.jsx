@@ -4,16 +4,16 @@ import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getAssetUrl } from '../../utils/navigation';
 import { withBase } from '../../utils/assets';
 
-const CpgAboutPublicationsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+const CpgAboutPublicationsPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <Breadcrumb basePath={basePath} />
+    <Breadcrumb basePath={basePath} locale={locale} />
 
     {/* Publication 1: English CPG */}
     <div className="bg-white border border-slate-200 rounded-xl p-6 shadow-sm">
       <div className="flex flex-col md:flex-row gap-6">
         <div className="md:w-1/4 flex-shrink-0">
           <img 
-            src={withBase(basePath, "images/saudi-adhd-cpg-thumb.png")} 
+            src={withBase({ basePath = '/res.adhd.org.sa-concept/', locale = 'en' })} 
             alt="ADHD CPG English thumbnail" 
             className="w-full rounded-lg border border-slate-200"
           />
@@ -52,7 +52,7 @@ const CpgAboutPublicationsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
       <div className="flex flex-col md:flex-row gap-6">
         <div className="md:w-1/4 flex-shrink-0">
           <img 
-            src={withBase(basePath, "images/saudi-adhd-cpg-ar-thumb.png")} 
+            src={withBase({ basePath = '/res.adhd.org.sa-concept/', locale = 'en' })} 
             alt="Saudi ADHD CPG Arabic thumbnail" 
             className="w-full rounded-lg border border-slate-200"
           />
@@ -91,7 +91,7 @@ const CpgAboutPublicationsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
       <div className="flex flex-col md:flex-row gap-6">
         <div className="md:w-1/4 flex-shrink-0">
           <img 
-            src={withBase(basePath, "images/paper2-thumb.png")} 
+            src={withBase({ basePath = '/res.adhd.org.sa-concept/', locale = 'en' })} 
             alt="Adaptation study thumbnail" 
             className="w-full rounded-lg border border-slate-200"
           />
@@ -121,7 +121,7 @@ const CpgAboutPublicationsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
       <div className="flex flex-col md:flex-row gap-6">
         <div className="md:w-1/4 flex-shrink-0">
           <img 
-            src={withBase(basePath, "images/journal-pone-thumb.png")} 
+            src={withBase({ basePath = '/res.adhd.org.sa-concept/', locale = 'en' })} 
             alt="Thumbnail of ADHD CPG appraisal paper" 
             className="w-full rounded-lg border border-slate-200"
           />
@@ -162,7 +162,7 @@ const CpgAboutPublicationsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
       <div className="flex flex-col md:flex-row gap-6">
         <div className="md:w-1/4 flex-shrink-0">
           <img 
-            src={withBase(basePath, "images/prospero-thumb.png")} 
+            src={withBase({ basePath = '/res.adhd.org.sa-concept/', locale = 'en' })} 
             alt="prospero thumbnail" 
             className="w-full rounded-lg border border-slate-200"
           />

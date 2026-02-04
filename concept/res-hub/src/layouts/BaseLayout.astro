@@ -2,12 +2,21 @@
 import Navigation from '../components/Navigation';
 import Footer from '../components/Footer';
 
-const { title = 'Research Portal - National ADHD Knowledge Hub', description = 'The Research Unit of the Saudi ADHD Society' } = Astro.props;
+const { 
+  title = 'Research Portal - National ADHD Knowledge Hub', 
+  description = 'The Research Unit of the Saudi ADHD Society',
+  locale = 'en',
+  currentPathname
+} = Astro.props;
 const basePath = import.meta.env.BASE_URL;
+const htmlLang = locale === 'ar' ? 'ar' : 'en';
+const htmlDir = locale === 'ar' ? 'rtl' : 'ltr';
+// Get current pathname from Astro if not provided
+const pathname = currentPathname || Astro.url.pathname;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang={htmlLang} dir={htmlDir}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -21,13 +30,13 @@ const basePath = import.meta.env.BASE_URL;
       Skip to main content
     </a>
     <div class="min-h-screen bg-slate-50 font-sans text-slate-800">
-      <Navigation client:load basePath={basePath} />
+      <Navigation client:load basePath={basePath} locale={locale} currentPathname={pathname} />
       
       <main id="main-content">
         <slot />
       </main>
       
-      <Footer client:load basePath={basePath} />
+      <Footer client:load basePath={basePath} locale={locale} />
     </div>
   </body>
 </html>

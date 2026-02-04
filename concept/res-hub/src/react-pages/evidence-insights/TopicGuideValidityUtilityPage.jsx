@@ -13,9 +13,9 @@ import {
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
-const TopicGuideValidityUtilityPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+const TopicGuideValidityUtilityPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <Breadcrumb basePath={basePath} />
+    <Breadcrumb basePath={basePath} locale={locale} />
 
     {/* Header */}
     <div className="bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
@@ -412,7 +412,7 @@ const TopicGuideValidityUtilityPage = ({ basePath = '/res.adhd.org.sa-concept/' 
           <h2 className="text-lg font-bold text-slate-900">Related resources</h2>
           <div className="mt-4 space-y-3">
             <a
-              href={getHref('clinical-tools', basePath)}
+              href={getHref('clinical-tools', basePath, locale)}
               className="group block rounded-lg border border-slate-200 bg-white p-4 hover:border-emerald-200 hover:shadow-sm transition"
             >
               <div className="flex items-center justify-between">
@@ -428,7 +428,7 @@ const TopicGuideValidityUtilityPage = ({ basePath = '/res.adhd.org.sa-concept/' 
             </a>
 
             <a
-              href={getHref('research-projects', basePath)}
+              href={getHref('research-projects', basePath, locale)}
               className="group block rounded-lg border border-slate-200 bg-white p-4 hover:border-emerald-200 hover:shadow-sm transition"
             >
               <div className="flex items-center justify-between">
@@ -460,7 +460,7 @@ const TopicGuideValidityUtilityPage = ({ basePath = '/res.adhd.org.sa-concept/' 
     <div className="bg-slate-50 border border-slate-200 rounded-xl p-6">
       <div className="flex justify-center">
         <a
-          href={getHref('topic-guides', basePath)}
+          href={getHref('topic-guides', basePath, locale)}
           className="text-emerald-700 font-semibold hover:text-emerald-800"
         >
           Back to Topic Guides

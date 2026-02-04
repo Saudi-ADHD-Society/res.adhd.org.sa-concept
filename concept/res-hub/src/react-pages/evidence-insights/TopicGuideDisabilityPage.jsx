@@ -3,9 +3,9 @@ import { Scale, FileText, GraduationCap, Briefcase, Gavel, ClipboardCheck, Arrow
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
-const TopicGuideDisabilityPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+const TopicGuideDisabilityPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <Breadcrumb basePath={basePath} />
+    <Breadcrumb basePath={basePath} locale={locale} />
 
     {/* Hero */}
     <div className="relative overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm">
@@ -32,7 +32,7 @@ const TopicGuideDisabilityPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
 
         <div className="mt-5 flex flex-col sm:flex-row sm:items-center gap-3">
           <a
-            href={getHref('functional-assessment', basePath)}
+            href={getHref('functional-assessment', basePath, locale)}
             className="inline-flex items-center justify-center gap-2 rounded-lg bg-emerald-600 px-4 py-2 text-white font-semibold hover:bg-emerald-700"
           >
             <ClipboardCheck size={18} />
@@ -316,7 +316,7 @@ const TopicGuideDisabilityPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
               Use the Functional Assessment Guide to support ICF-aligned documentation, reporting, and cross-sector communication.
             </p>
             <a
-              href={getHref('functional-assessment', basePath)}
+              href={getHref('functional-assessment', basePath, locale)}
               className="mt-3 inline-flex items-center gap-2 text-emerald-700 font-semibold hover:text-emerald-800"
             >
               Open Functional Assessment Guide
@@ -363,14 +363,14 @@ const TopicGuideDisabilityPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
     <div className="bg-slate-50 border border-slate-200 rounded-xl p-6">
       <div className="flex flex-col sm:flex-row items-center justify-center gap-3">
         <a
-          href={getHref('topic-guides', basePath)}
+          href={getHref('topic-guides', basePath, locale)}
           className="text-emerald-700 font-semibold hover:text-emerald-800"
         >
           Back to Topic Guides
         </a>
         <span className="hidden sm:inline text-slate-300">•</span>
         <a
-          href={getHref('functional-assessment', basePath)}
+          href={getHref('functional-assessment', basePath, locale)}
           className="text-indigo-700 font-semibold hover:text-indigo-800"
         >
           Functional Assessment Guide

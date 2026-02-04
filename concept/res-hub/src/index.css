@@ -44,3 +44,9 @@ textarea:focus-visible,
   outline-offset: 2px;
   border-radius: 0.25rem;
 }
+
+/* RTL Support: Adjust skip link position for RTL */
+html[dir="rtl"] .sr-only:focus {
+  left: auto;
+  right: 1rem;
+}

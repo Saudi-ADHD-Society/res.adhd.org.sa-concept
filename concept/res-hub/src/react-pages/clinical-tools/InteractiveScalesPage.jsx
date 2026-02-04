@@ -1,9 +1,9 @@
 import React from 'react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 
-const InteractiveScalesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+const InteractiveScalesPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <Breadcrumb basePath={basePath} />
+    <Breadcrumb basePath={basePath} locale={locale} />
     <div className="flex justify-between items-center">
         <h2 className="text-3xl font-bold text-slate-900">Interactive Rating Scales</h2>
         <span className="bg-emerald-100 text-emerald-800 text-xs font-bold px-3 py-1 rounded-full">New for Nov 2025</span>

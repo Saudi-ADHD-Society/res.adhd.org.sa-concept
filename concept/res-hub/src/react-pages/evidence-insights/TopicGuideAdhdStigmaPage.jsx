@@ -45,9 +45,9 @@ const Callout = ({ tone = 'neutral', icon: Icon, title, children }) => {
   );
 };
 
-const TopicGuideAdhdStigmaPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+const TopicGuideAdhdStigmaPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <Breadcrumb basePath={basePath} />
+    <Breadcrumb basePath={basePath} locale={locale} />
 
     {/* Header */}
     <div className="bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
@@ -532,7 +532,7 @@ const TopicGuideAdhdStigmaPage = ({ basePath = '/res.adhd.org.sa-concept/' }) =>
     <div className="bg-slate-50 border border-slate-200 rounded-xl p-6">
       <div className="flex justify-center">
         <a
-          href={getHref('topic-guides', basePath)}
+          href={getHref('topic-guides', basePath, locale)}
           className="text-emerald-700 font-semibold hover:text-emerald-800"
         >
           Back to Topic Guides

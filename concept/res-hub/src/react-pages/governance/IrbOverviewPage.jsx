@@ -2,9 +2,9 @@ import React from 'react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
-const IrbOverviewPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+const IrbOverviewPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <Breadcrumb basePath={basePath} />
+    <Breadcrumb basePath={basePath} locale={locale} />
 
     <header className="space-y-2">
       <h1 className="text-3xl font-bold text-slate-900">IRB Overview &amp; Scope</h1>
@@ -127,13 +127,13 @@ const IrbOverviewPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
       </div>
       <div className="flex gap-3">
         <a
-          href={getHref('irb-regulations', basePath)}
+          href={getHref('irb-regulations', basePath, locale)}
           className="px-4 py-2 rounded-lg bg-white border border-slate-200 text-sm font-semibold text-slate-800 hover:bg-slate-100"
         >
           View Regulations
         </a>
         <a
-          href={getHref('irb-process', basePath)}
+          href={getHref('irb-process', basePath, locale)}
           className="px-4 py-2 rounded-lg bg-emerald-600 text-sm font-semibold text-white hover:bg-emerald-700"
         >
           Go to Application Process
@@ -143,7 +143,7 @@ const IrbOverviewPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
 
     <div className="text-xs text-slate-500">
       <a
-        href={getHref('irb', basePath)}
+        href={getHref('irb', basePath, locale)}
         className="underline hover:text-emerald-700"
       >
         Back to Research Ethics &amp; Local IRB overview

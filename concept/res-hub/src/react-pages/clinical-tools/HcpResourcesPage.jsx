@@ -3,9 +3,9 @@ import { ArrowRight, ExternalLink, MapPin, Globe, Brain, BookOpen, FlaskConical,
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
-const HcpResourcesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+const HcpResourcesPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <Breadcrumb basePath={basePath} />
+    <Breadcrumb basePath={basePath} locale={locale} />
     <div>
       <h2 className="text-3xl font-bold text-slate-900 mb-4">HCP Resources</h2>
       <p className="text-slate-600 text-lg leading-relaxed max-w-4xl">
@@ -22,7 +22,7 @@ const HcpResourcesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
             and provides a solid foundation for clinical practice.
         </p>
         <a
-          href={getHref('consensus-statement', basePath)}
+          href={getHref('consensus-statement', basePath, locale)}
           className="inline-flex items-center px-6 py-3 bg-indigo-600 text-white font-bold rounded-lg hover:bg-indigo-700 transition-colors"
         >
             Read Consensus Statement <ArrowRight size={16} className="ml-2"/>

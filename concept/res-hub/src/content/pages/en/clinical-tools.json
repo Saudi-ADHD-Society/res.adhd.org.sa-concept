@@ -1,0 +1,40 @@
+{
+  "id": "clinical-tools",
+  "locale": "en",
+  "title": "Clinical Tools & Resources - Research Portal",
+  "description": "Evidence-based clinical practice guidelines, assessment tools, and resources designed to support healthcare professionals in the diagnosis, treatment, and management of ADHD across the lifespan in Saudi Arabia.",
+  "hero": {
+    "title": "Clinical Tools & Resources",
+    "description": "Evidence-based clinical practice guidelines, assessment tools, and resources designed to support healthcare professionals in the diagnosis, treatment, and management of ADHD across the lifespan in Saudi Arabia."
+  },
+  "cards": [
+    {
+      "id": "adhd-cpg",
+      "title": "Saudi National ADHD CPG",
+      "description": "The Saudi National ADHD Clinical Practice Guideline content. Evidence-based clinical guidance for the assessment and management of Attention Deficit/Hyperactivity Disorder (ADHD) across the lifespan in Saudi Arabia.",
+      "href": "/adhd-cpg",
+      "icon": "BookOpen"
+    },
+    {
+      "id": "interactive-scales",
+      "title": "Rating Scales & Assessment Tools",
+      "description": "Interactive Arabic rating scales and scoring. Professionally designed, fillable PDFs with automated scoring logic, reducing calculation errors and saving clinicians valuable time during assessment.",
+      "href": "/interactive-scales",
+      "icon": "ClipboardCheck"
+    },
+    {
+      "id": "functional-assessment",
+      "title": "ICF & Functional Assessment",
+      "description": "Translating ADHD into functioning and rights. The International Classification of Functioning, Disability and Health (ICF) helps describe how ADHD affects daily life—not just which symptoms are present.",
+      "href": "/functional-assessment",
+      "icon": "Ruler"
+    },
+    {
+      "id": "hcp-resources",
+      "title": "HCP Resources",
+      "description": "Key documents and references for clinicians. Access the World Federation of ADHD International Consensus Statement and other essential resources for healthcare professionals.",
+      "href": "/hcp-resources",
+      "icon": "FileText"
+    }
+  ]
+}

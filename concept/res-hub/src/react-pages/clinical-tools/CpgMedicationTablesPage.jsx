@@ -1,7 +1,7 @@
 import React from 'react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 
-const CpgMedicationTablesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
+const CpgMedicationTablesPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => {
   const handleAnchorClick = (e, anchorId) => {
     e.preventDefault();
     if (typeof window === 'undefined') return;
@@ -14,7 +14,7 @@ const CpgMedicationTablesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => 
 
   return (
     <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-      <Breadcrumb basePath={basePath} />
+      <Breadcrumb basePath={basePath} locale={locale} />
       {/* Header */}
       <div>
         <h2 className="text-3xl font-bold text-slate-900">Medication Tables</h2>

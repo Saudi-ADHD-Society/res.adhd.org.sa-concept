@@ -109,13 +109,13 @@ const getLibrarySlugFromDoi = (doiUrl) => {
 };
 
 // Helper component for reference links
-const ReferenceLink = ({ doiUrl, basePath, children }) => {
+const ReferenceLink = ({ doiUrl, basePath, locale = 'en', children }) => {
   const slug = getLibrarySlugFromDoi(doiUrl);
   if (!slug) {
     // If no DOI, return content without link
     return <p className="text-slate-700">{children}</p>;
   }
-  const libraryBase = getHref('library', basePath);
+  const libraryBase = getHref('library', basePath, locale);
   const libraryUrl = libraryBase.endsWith('/') ? `${libraryBase}${slug}/` : `${libraryBase}/${slug}/`;
   return (
     <a
@@ -127,9 +127,9 @@ const ReferenceLink = ({ doiUrl, basePath, children }) => {
   );
 };
 
-const TopicGuideSaudiArabiaKnowledgePage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+const TopicGuideSaudiArabiaKnowledgePage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <Breadcrumb basePath={basePath} />
+    <Breadcrumb basePath={basePath} locale={locale} />
 
     {/* Header */}
     <div className="bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
@@ -503,14 +503,14 @@ const TopicGuideSaudiArabiaKnowledgePage = ({ basePath = '/res.adhd.org.sa-conce
           <div className="mt-2 grid grid-cols-1 md:grid-cols-2 gap-3">
             <a
               className="group rounded-xl border border-slate-200 bg-slate-50 p-4 hover:bg-white"
-              href={getHref('topic-guide-what-is-adhd', basePath)}
+              href={getHref('topic-guide-what-is-adhd', basePath, locale)}
             >
               <p className="font-extrabold text-slate-900 group-hover:text-orange-700">What is ADHD — Myths vs Evidence</p>
               <p className="mt-1 text-sm text-slate-600">Separating fact from fiction about ADHD as a neurodevelopmental condition.</p>
             </a>
             <a
               className="group rounded-xl border border-slate-200 bg-slate-50 p-4 hover:bg-white"
-              href={getHref('topic-guide-disability', basePath)}
+              href={getHref('topic-guide-disability', basePath, locale)}
             >
               <p className="font-extrabold text-slate-900 group-hover:text-orange-700">Is ADHD a Disability?</p>
               <p className="mt-1 text-sm text-slate-600">Exploring legal frameworks, rights, accommodations, and implications for individuals with ADHD.</p>
@@ -627,7 +627,7 @@ const TopicGuideSaudiArabiaKnowledgePage = ({ basePath = '/res.adhd.org.sa-conce
     <div className="bg-slate-50 border border-slate-200 rounded-xl p-6">
       <div className="flex justify-center">
         <a
-          href={getHref('topic-guides', basePath)}
+          href={getHref('topic-guides', basePath, locale)}
           className="text-emerald-700 font-semibold hover:text-emerald-800"
         >
           Back to Topic Guides

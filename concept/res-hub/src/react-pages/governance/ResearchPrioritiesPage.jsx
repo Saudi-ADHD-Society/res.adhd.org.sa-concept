@@ -2,9 +2,9 @@ import React from 'react';
 import { Globe, Globe2, Flag } from 'lucide-react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 
-const ResearchPrioritiesPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+const ResearchPrioritiesPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <Breadcrumb basePath={basePath} />
+    <Breadcrumb basePath={basePath} locale={locale} />
     <h2 className="text-3xl font-bold text-slate-900 mb-2">Research Priorities</h2>
     <p className="text-slate-500 max-w-2xl mb-8">
       Defining the agenda for the next decade. We are moving away from ad-hoc studies to a strategic, consensus-based roadmap

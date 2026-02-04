@@ -3,9 +3,9 @@ import { ExternalLink, CheckCircle2 } from 'lucide-react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
-const CpgOverviewPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+const CpgOverviewPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <Breadcrumb basePath={basePath} />
+    <Breadcrumb basePath={basePath} locale={locale} />
     <div className="flex justify-between items-start">
       <div>
         <h2 className="text-3xl font-bold text-slate-900">Saudi National ADHD CPG Overview</h2>
@@ -15,7 +15,7 @@ const CpgOverviewPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
         </p>
       </div>
       <a
-        href={getHref('adhd-cpg', basePath)}
+        href={getHref('adhd-cpg', basePath, locale)}
         className="flex items-center text-emerald-600 font-bold hover:underline"
       >
         View CPG
@@ -203,7 +203,7 @@ const CpgOverviewPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
           evidence and safety advice pending the full 2025–2026 revision.
         </p>
         <a
-          href={getHref('cpg-guideline-updates', basePath)}
+          href={getHref('cpg-guideline-updates', basePath, locale)}
           className="inline-flex items-center text-emerald-700 font-semibold text-xs md:text-sm hover:underline"
         >
           View full list of minor updates
@@ -284,7 +284,7 @@ const CpgOverviewPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
           implementation tools. The CPG is now integrated into this research portal, with online access to the guideline in Arabic and English as well as downloadable PDFs.
         </p>
         <a
-          href={getHref('adhd-cpg-about-development', basePath)}
+          href={getHref('adhd-cpg-about-development', basePath, locale)}
           className="inline-flex items-center text-emerald-700 font-semibold text-xs md:text-sm hover:underline"
         >
           Learn more about the 1st edition development

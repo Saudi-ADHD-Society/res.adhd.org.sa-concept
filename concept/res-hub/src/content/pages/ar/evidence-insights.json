@@ -1,0 +1,37 @@
+{
+  "id": "evidence-insights",
+  "locale": "ar",
+  "title": "[AR] Evidence & Insights - Research Portal",
+  "description": "[AR] Bridging the \"Know-Do\" gap. We synthesize complex white papers into actionable topic guides for policymakers, clinicians, educators, and families.",
+  "hero": {
+    "title": "[AR] Evidence & Insights",
+    "description": "[AR] Bridging the \"Know-Do\" gap. We synthesize complex white papers into actionable topic guides for policymakers, clinicians, educators, and families."
+  },
+  "sections": [
+    {
+      "id": "intro",
+      "type": "paragraph",
+      "content": "[AR] Our Evidence & Insights section provides synthesized, evidence-based guidance on ADHD in the Saudi context. We translate complex research into practical, actionable resources for different audiences."
+    }
+  ],
+  "cards": [
+    {
+      "id": "topic-guides",
+      "title": "[AR] Topic Guides",
+      "description": "[AR] Synthesised guidance on core ADHD themes in the Saudi context.",
+      "href": "/topic-guides"
+    },
+    {
+      "id": "research-briefs",
+      "title": "[AR] Research Briefs",
+      "description": "[AR] Plain-language summaries of key Saudi and global ADHD studies.",
+      "href": "/research-briefs"
+    },
+    {
+      "id": "library",
+      "title": "[AR] Research Library",
+      "description": "[AR] Browse and search our comprehensive collection of Saudi ADHD research papers and publications.",
+      "href": "/library"
+    }
+  ]
+}

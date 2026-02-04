@@ -1,106 +1,123 @@
 import React, { useState, useEffect } from 'react';
 import { BookOpen, Activity, Users, Search, Menu, X, Stethoscope } from 'lucide-react';
+import { buildLocalizedPath, getAlternateLocalePath, getHref } from '../utils/navigation';
+import { t } from '../utils/i18n';
 
 const BASE_PATH = '/res.adhd.org.sa-concept';
 
-const navStructure = [
+// Build navigation structure dynamically based on locale
+const buildNavStructure = (locale) => [
   {
-    title: "Evidence & Insights",
+    title: t('navigation.sections.evidence-insights', locale),
     icon: BookOpen,
     sectionId: "evidence-insights",
     items: [
       {
-        name: "Topic Guides",
+        name: t('navigation.items.topic-guides', locale),
         href: "/topic-guides",
-        desc: "Synthesised guidance on core ADHD themes in the Saudi context."
+        desc: t('navigation.descriptions.topic-guides', locale)
       },
       {
-        name: "Research Briefs",
+        name: t('navigation.items.research-briefs', locale),
         href: "/research-briefs",
-        desc: "Plain-language summaries of key Saudi and global ADHD studies."
+        desc: t('navigation.descriptions.research-briefs', locale)
       },
       {
-        name: "Research Library",
+        name: t('navigation.items.library', locale),
         href: "/library",
-        desc: "Browse and search our comprehensive collection of Saudi ADHD research papers and publications."
+        desc: t('navigation.descriptions.library', locale)
       }
     ]
   },
   {
-    title: "Research Projects",
+    title: t('navigation.sections.research-projects', locale),
     icon: Activity,
     sectionId: "research-projects",
     items: [
       {
-        name: "Current Research",
+        name: t('navigation.items.current-research', locale),
         href: "/current-research",
-        desc: "National survey, CPG update, rating scales phase 2, and more."
+        desc: t('navigation.descriptions.current-research', locale)
       },
       {
-        name: "Research Output",
+        name: t('navigation.items.research-output', locale),
         href: "/research-output",
-        desc: "Saudi ADHD Society's own peer-reviewed publications and outputs."
+        desc: t('navigation.descriptions.research-output', locale)
       }
     ]
   },
   {
-    title: "Clinical Tools & Resources",
+    title: t('navigation.sections.clinical-tools', locale),
     icon: Stethoscope,
     sectionId: "clinical-tools",
     items: [
       {
-        name: "Saudi National ADHD CPG",
+        name: t('navigation.items.adhd-cpg', locale),
         href: "/adhd-cpg",
-        desc: "The Saudi National ADHD Clinical Practice Guideline content."
+        desc: t('navigation.descriptions.adhd-cpg', locale)
       },
       {
-        name: "Rating Scales & Assessment Tools",
+        name: t('navigation.items.interactive-scales', locale),
         href: "/interactive-scales",
-        desc: "Interactive Arabic rating scales and scoring."
+        desc: t('navigation.descriptions.interactive-scales', locale)
       },
       {
-        name: "ICF & Functional Assessment",
+        name: t('navigation.items.functional-assessment', locale),
         href: "/functional-assessment",
-        desc: "Translating ADHD into functioning and rights."
+        desc: t('navigation.descriptions.functional-assessment', locale)
       },
       {
-        name: "HCP Resources",
+        name: t('navigation.items.hcp-resources', locale),
         href: "/hcp-resources",
-        desc: "Key documents and references for clinicians."
+        desc: t('navigation.descriptions.hcp-resources', locale)
       }
     ]
   },
   {
-    title: "Research Governance",
+    title: t('navigation.sections.research-governance', locale),
     icon: Users,
     sectionId: "research-governance",
     items: [
       {
-        name: "Research Priorities",
+        name: t('navigation.items.research-priorities', locale),
         href: "/research-priorities",
-        desc: "Strategic ADHD research priorities for Saudi Arabia and the GCC."
+        desc: t('navigation.descriptions.research-priorities', locale)
       },
       {
-        name: "Grants & Funding",
+        name: t('navigation.items.ishraq-grant', locale),
         href: "/ishraq-grant",
-        desc: "Saudi ADHD Society research grant calls and funded projects."
+        desc: t('navigation.descriptions.ishraq-grant', locale)
       },
       {
-        name: "Research Ethics & IRB",
+        name: t('navigation.items.irb', locale),
         href: "/irb",
-        desc: "Local research ethics process and committee information."
+        desc: t('navigation.descriptions.irb', locale)
       }
     ]
   }
 ];
 
-const Navigation = ({ basePath = BASE_PATH }) => {
+const Navigation = ({ basePath = BASE_PATH, locale = 'en', currentPathname }) => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const [activeDropdown, setActiveDropdown] = useState(null);
   const [focusedDropdownIndex, setFocusedDropdownIndex] = useState(null);
   const mobileMenuRef = React.useRef(null);
   const previousFocusRef = React.useRef(null);
+  
+  // Build navigation structure for current locale
+  const navStructure = buildNavStructure(locale);
+  
+  // Get alternate locale path for language switcher
+  const getAlternatePath = () => {
+    // Use currentPathname prop if available (from SSR), otherwise use window.location
+    const pathname = currentPathname || (typeof window !== 'undefined' ? window.location.pathname : null);
+    if (pathname) {
+      return getAlternateLocalePath(pathname, locale);
+    }
+    // Fallback to root if we can't determine the current path
+    return locale === 'en' ? `${basePath}/ar/` : `${basePath}/en/`;
+  };
 
   useEffect(() => {
     const handleScroll = () => {
@@ -169,15 +186,17 @@ const Navigation = ({ basePath = BASE_PATH }) => {
     }
   }, [isMenuOpen]);
 
-  const getFullPath = (href) => {
+  const getFullPath = (href, skipLocalization = false) => {
     if (href.startsWith('http')) return href;
-    // Ensure basePath has trailing slash, href doesn't start with slash (except for root)
+    // For static assets (images, etc.), skip localization
+    const localizedPath = skipLocalization ? href : buildLocalizedPath(href, locale);
+    // Ensure basePath has trailing slash
     const normalizedBase = basePath.endsWith('/') ? basePath : `${basePath}/`;
-    if (href === '/') {
-      return normalizedBase;
+    if (localizedPath === '/') {
+      return `${normalizedBase}${locale}/`;
     }
-    // Remove leading slash from href if present, then combine
-    const normalizedHref = href.startsWith('/') ? href.slice(1) : href;
+    // Remove leading slash from localizedPath if present, then combine
+    const normalizedHref = localizedPath.startsWith('/') ? localizedPath.slice(1) : localizedPath;
     
     // Check if this is a file path (has a file extension) - files shouldn't get trailing slashes
     const fileExtensionPattern = /\.(svg|png|jpg|jpeg|gif|webp|ico|pdf|json|xml|txt|css|js|woff|woff2|ttf|eot)$/i;
@@ -205,18 +224,28 @@ const Navigation = ({ basePath = BASE_PATH }) => {
     <>
       {/* Top Bar */}
       <div className="bg-emerald-900 text-emerald-50 text-xs py-2 px-4 md:px-8 flex justify-between items-center">
-        <span className="opacity-80">The Scientific Arm of the Saudi ADHD Society</span>
+        <span className="opacity-80">{t('navigation.topBar', locale)}</span>
         <div className="flex space-x-4">
-          <a href="https://adhd.org.sa" className="hover:text-white transition-colors">Main Society Site</a>
-          <button 
-            className="hover:text-white transition-colors bg-transparent border-none p-0 cursor-pointer"
-            aria-label="Switch to Arabic language"
-            disabled
-            aria-disabled="true"
-            lang="ar"
-          >
-            عربي
-          </button>
+          <a href="https://adhd.org.sa" className="hover:text-white transition-colors">{t('navigation.mainSocietySite', locale)}</a>
+          {locale === 'en' ? (
+            <a 
+              href={getAlternatePath()}
+              className="hover:text-white transition-colors bg-transparent border-none p-0 cursor-pointer"
+              aria-label="Switch to Arabic language"
+              lang="ar"
+            >
+              {t('navigation.languageSwitcher.arabic', locale)}
+            </a>
+          ) : (
+            <a 
+              href={getAlternatePath()}
+              className="hover:text-white transition-colors bg-transparent border-none p-0 cursor-pointer"
+              aria-label="Switch to English language"
+              lang="en"
+            >
+              {t('navigation.languageSwitcher.english', locale)}
+            </a>
+          )}
         </div>
       </div>
 
@@ -225,9 +254,9 @@ const Navigation = ({ basePath = BASE_PATH }) => {
         <div className="w-full px-4 md:px-8">
           <div className="flex justify-between items-center">
             
-            <a href={getFullPath('/')} className="flex items-center space-x-3 cursor-pointer focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 rounded">
+            <a href={getHref('home', basePath, locale)} className="flex items-center space-x-3 cursor-pointer focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 rounded">
               <img 
-                src={getFullPath('/images/saudi-adhd-society-logo-web.svg')} 
+                src={getFullPath('/images/saudi-adhd-society-logo-web.svg', true)} 
                 alt="Saudi ADHD Society Logo" 
                 className="w-10 h-10 rounded-lg object-contain"
               />
@@ -361,10 +390,10 @@ const Navigation = ({ basePath = BASE_PATH }) => {
               
               <button 
                 className="bg-emerald-600 hover:bg-emerald-700 text-white px-5 py-2 rounded-full text-sm font-semibold transition-all shadow-md hover:shadow-lg flex items-center space-x-2 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2"
-                aria-label="Search Evidence"
+                aria-label={t('navigation.searchEvidence', locale)}
               >
                 <Search size={16} aria-hidden="true" />
-                <span>Search Evidence</span>
+                <span>{t('navigation.searchEvidence', locale)}</span>
               </button>
             </div>
 

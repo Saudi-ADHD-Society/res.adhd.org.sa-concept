@@ -1,0 +1,18 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import EvidenceInsightsPage from '../../react-pages/evidence-insights/EvidenceInsightsPage.jsx';
+import { getPageContent } from '../../utils/content';
+
+const basePath = import.meta.env.BASE_URL;
+const locale = 'ar';
+
+// Load page content from collection
+const pageEntry = await getPageContent('evidence-insights', locale);
+const pageContent = pageEntry?.data || null;
+---
+
+<BaseLayout title={pageContent?.title || '[AR] Evidence & Insights - Research Portal'} description={pageContent?.description} locale={locale}>
+  <main class="max-w-7xl mx-auto px-4 md:px-8 py-10 min-h-[60vh]">
+    <EvidenceInsightsPage client:load basePath={basePath} locale={locale} content={pageContent} />
+  </main>
+</BaseLayout>

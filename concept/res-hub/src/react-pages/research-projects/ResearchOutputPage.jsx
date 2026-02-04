@@ -103,7 +103,7 @@ const publications = [
   }
 ];
 
-const ResearchOutputPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
+const ResearchOutputPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => {
   const sortedPublications = [...publications].sort((a, b) => b.year - a.year);
 
   // Generate URL for each publication
@@ -115,7 +115,7 @@ const ResearchOutputPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
 
   return (
     <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-      <Breadcrumb basePath={basePath} />
+      <Breadcrumb basePath={basePath} locale={locale} />
       <div className="flex justify-between items-end">
         <div>
           <h2 className="text-3xl font-bold text-slate-900">Saudi ADHD Society Research Output &amp; Publications</h2>

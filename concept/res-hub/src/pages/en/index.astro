@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import HomePage, { HomeHero } from '../../react-pages/HomePage.jsx';
+import { getPageContent } from '../../utils/content';
+
+const basePath = import.meta.env.BASE_URL;
+const locale = 'en';
+
+// Load page content from collection
+const pageEntry = await getPageContent('home', locale);
+const pageContent = pageEntry?.data || null;
+---
+
+<BaseLayout title={pageContent?.title || 'Research Portal - National ADHD Knowledge Hub'} description={pageContent?.description} locale={locale}>
+  <HomeHero client:load basePath={basePath} locale={locale} content={pageContent} />
+  <div class="max-w-7xl mx-auto px-4 md:px-8 py-10 min-h-[60vh]">
+    <HomePage client:load basePath={basePath} locale={locale} content={pageContent} />
+  </div>
+</BaseLayout>
+

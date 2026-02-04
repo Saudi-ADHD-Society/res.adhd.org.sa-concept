@@ -3,7 +3,7 @@ import { Heart, AlertTriangle, CheckCircle2, Users, Brain, TrendingUp, ShieldChe
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
-const TopicGuideEmotionalRegulationPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
+const TopicGuideEmotionalRegulationPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => {
   const evidenceRef = useRef(null);
   const rsdRef = useRef(null);
   const relationshipsRef = useRef(null);
@@ -17,7 +17,7 @@ const TopicGuideEmotionalRegulationPage = ({ basePath = '/res.adhd.org.sa-concep
 
   return (
     <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-      <Breadcrumb basePath={basePath} />
+      <Breadcrumb basePath={basePath} locale={locale} />
 
       {/* Header */}
       <div className="bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
@@ -568,7 +568,7 @@ const TopicGuideEmotionalRegulationPage = ({ basePath = '/res.adhd.org.sa-concep
       <div className="bg-slate-50 border border-slate-200 rounded-xl p-6">
         <div className="flex justify-center">
           <a
-            href={getHref('topic-guides', basePath)}
+            href={getHref('topic-guides', basePath, locale)}
             className="text-emerald-700 font-semibold hover:text-emerald-800"
           >
             Back to Topic Guides

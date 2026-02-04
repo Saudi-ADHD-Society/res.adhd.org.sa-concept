@@ -3,9 +3,9 @@ import { Globe, ExternalLink, TrendingUp } from 'lucide-react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
-const ResearchBriefArabWorldPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+const ResearchBriefArabWorldPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <Breadcrumb basePath={basePath} />
+    <Breadcrumb basePath={basePath} locale={locale} />
 
     {/* Header */}
     <div className="bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
@@ -259,7 +259,7 @@ const ResearchBriefArabWorldPage = ({ basePath = '/res.adhd.org.sa-concept/' }) 
     <div className="bg-slate-50 border border-slate-200 rounded-xl p-6">
       <div className="flex justify-center">
         <a
-          href={getHref('research-briefs', basePath)}
+          href={getHref('research-briefs', basePath, locale)}
           className="text-emerald-700 font-semibold hover:text-emerald-800"
         >
           Back to Research Briefs

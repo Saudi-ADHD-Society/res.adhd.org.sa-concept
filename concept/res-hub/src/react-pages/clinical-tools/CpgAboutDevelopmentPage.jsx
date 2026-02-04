@@ -4,7 +4,7 @@ import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 import { withBase } from '../../utils/assets';
 
-const CpgAboutDevelopmentPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
+const CpgAboutDevelopmentPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => {
   const handleAnchorClick = (e, anchorId) => {
     e.preventDefault();
     if (typeof window === 'undefined') return;
@@ -17,7 +17,7 @@ const CpgAboutDevelopmentPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => 
 
   return (
     <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-      <Breadcrumb basePath={basePath} />
+      <Breadcrumb basePath={basePath} locale={locale} />
 
       {/* Two Column Layout: Content Left, Sections Right */}
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
@@ -278,7 +278,7 @@ const CpgAboutDevelopmentPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => 
                   Members of the Saudi ADHD Society's working group on the development of Saudi unified clinical practice guidelines for ADHD. All members of the panel have filled the "Declaration of Conflict of Interest" (ADAPTE Tool 3).
                 </p>
                 <p className="text-slate-600 text-sm md:text-base">
-                  See <a href={getHref('adhd-cpg-about-acknowledgements', basePath)} className="text-emerald-700 hover:underline">CPG Adaptation Committee</a>
+                  See <a href={getHref('adhd-cpg-about-acknowledgements', basePath, locale)} className="text-emerald-700 hover:underline">CPG Adaptation Committee</a>
                 </p>
               </div>
 
@@ -509,14 +509,14 @@ const CpgAboutDevelopmentPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => 
                       Who was asked to review the clinical content of the CPG?
                     </p>
                     <p className="text-slate-600 text-sm md:text-base">
-                      See <a href={getHref('adhd-cpg-about-acknowledgements', basePath)} className="text-emerald-700 hover:underline">External Reviewers: Clinical Content</a>
+                      See <a href={getHref('adhd-cpg-about-acknowledgements', basePath, locale)} className="text-emerald-700 hover:underline">External Reviewers: Clinical Content</a>
                     </p>
                   </div>
 
                   <div>
                     <h4 className="text-base font-bold text-slate-900 mb-2">Reviewers for the Adaptation Methodology</h4>
                     <p className="text-slate-600 text-sm md:text-base">
-                      See <a href={getHref('adhd-cpg-about-acknowledgements', basePath)} className="text-emerald-700 hover:underline">External Reviewers: Methodology</a>
+                      See <a href={getHref('adhd-cpg-about-acknowledgements', basePath, locale)} className="text-emerald-700 hover:underline">External Reviewers: Methodology</a>
                     </p>
                   </div>
                 </div>
@@ -550,7 +550,7 @@ const CpgAboutDevelopmentPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => 
               </div>
               <div className="border border-slate-200 rounded-lg p-4 bg-white">
                 <img 
-                  src={withBase(basePath, "images/ipgrp-registration-receipt.png")} 
+                  src={withBase({ basePath = '/res.adhd.org.sa-concept/', locale = 'en' })} 
                   alt="IPGRP Protocol Registration Receipt for the Saudi National ADHD CPG" 
                   className="w-full max-w-2xl mx-auto rounded-lg shadow-sm"
                 />
@@ -572,7 +572,7 @@ const CpgAboutDevelopmentPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => 
                 For information about the current 2025–2026 major update cycle and the ongoing development process, see the CPG Research Project page.
               </p>
               <a
-                href={getHref('cpg-overview', basePath)}
+                href={getHref('cpg-overview', basePath, locale)}
                 className="inline-flex items-center text-emerald-700 font-semibold text-xs md:text-sm hover:underline"
               >
                 View Saudi National ADHD CPG Overview

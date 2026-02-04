@@ -3,9 +3,9 @@ import { Users, Flag, Award, Shield, ArrowRight } from 'lucide-react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
-const ResearchGovernancePage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+const ResearchGovernancePage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <Breadcrumb basePath={basePath} />
+    <Breadcrumb basePath={basePath} locale={locale} />
     
     {/* Hero Section */}
     <div className="bg-gradient-to-br from-slate-50 to-slate-100 border border-slate-200 rounded-2xl p-8 md:p-10">
@@ -24,7 +24,7 @@ const ResearchGovernancePage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
     <div className="grid md:grid-cols-2 gap-6">
       {/* Research Priorities */}
       <a
-        href={getHref('research-priorities', basePath)}
+        href={getHref('research-priorities', basePath, locale)}
         className="group block text-left bg-white p-8 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-slate-300 transition-all"
       >
         <div className="w-16 h-16 bg-slate-100 text-slate-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-slate-700 group-hover:text-white transition-colors">
@@ -43,7 +43,7 @@ const ResearchGovernancePage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
 
       {/* Grants & Funding */}
       <a
-        href={getHref('ishraq-grant', basePath)}
+        href={getHref('ishraq-grant', basePath, locale)}
         className="group block text-left bg-white p-8 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-slate-300 transition-all"
       >
         <div className="w-16 h-16 bg-amber-100 text-amber-700 rounded-xl flex items-center justify-center mb-4 group-hover:bg-amber-600 group-hover:text-white transition-colors">
@@ -62,7 +62,7 @@ const ResearchGovernancePage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
 
       {/* Research Ethics & IRB */}
       <a
-        href={getHref('irb', basePath)}
+        href={getHref('irb', basePath, locale)}
         className="group block text-left bg-white p-8 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-slate-300 transition-all md:col-span-2"
       >
         <div className="flex items-start space-x-6">

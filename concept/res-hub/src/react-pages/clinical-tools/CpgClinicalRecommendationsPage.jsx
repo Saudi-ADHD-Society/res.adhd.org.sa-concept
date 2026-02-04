@@ -3,7 +3,7 @@ import { Search } from 'lucide-react';
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
-const CpgClinicalRecommendationsPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => {
+const CpgClinicalRecommendationsPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => {
   const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState([]);
   const contentRef = useRef(null);
@@ -21,7 +21,7 @@ const CpgClinicalRecommendationsPage = ({ basePath = '/res.adhd.org.sa-concept/'
 
   // Helper function to get the update link href with hash anchor
   const getUpdateLinkHref = (updateId) => {
-    return `${getHref('cpg-guideline-updates', basePath)}#${updateId}`;
+    return `${getHref('cpg-guideline-updates', basePath, locale)}#${updateId}`;
   };
 
   // Function to extract text content from an element and its children
@@ -309,7 +309,7 @@ const CpgClinicalRecommendationsPage = ({ basePath = '/res.adhd.org.sa-concept/'
 
   return (
     <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-      <Breadcrumb basePath={basePath} />
+      <Breadcrumb basePath={basePath} locale={locale} />
       {/* Header Section */}
       <div className="bg-white border border-slate-200 rounded-xl p-6 shadow-sm">
         <h2 className="text-3xl font-bold text-slate-900 text-center mb-2">

@@ -3,9 +3,9 @@ import { Activity, FlaskConical, Calendar, ArrowRight, BookOpen, BarChart2 } fro
 import Breadcrumb from '../../components/Breadcrumb.jsx';
 import { getHref } from '../../utils/navigation';
 
-const CurrentResearchPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
+const CurrentResearchPage = ({ basePath = '/res.adhd.org.sa-concept/' , locale = 'en'}) => (
   <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-    <Breadcrumb basePath={basePath} />
+    <Breadcrumb basePath={basePath} locale={locale} />
     <div className="flex items-start justify-between">
       <div>
         <h2 className="text-3xl font-bold text-slate-900">Current Research Projects</h2>
@@ -63,7 +63,7 @@ const CurrentResearchPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
           <li>• Co-design workshops with clinicians and families planned</li>
         </ul>
         <a
-          href={getHref('cpg-overview', basePath)}
+          href={getHref('cpg-overview', basePath, locale)}
           className="mt-auto inline-flex items-center text-sm font-semibold text-emerald-700 hover:text-emerald-800"
         >
           View ADHD CPG Overview
@@ -90,7 +90,7 @@ const CurrentResearchPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
           <li>• Linking scores to functional impairment benchmarks</li>
         </ul>
         <a
-          href={getHref('interactive-scales', basePath)}
+          href={getHref('interactive-scales', basePath, locale)}
           className="mt-auto inline-flex items-center text-sm font-semibold text-emerald-700 hover:text-emerald-800"
         >
           Go to Rating Scales &amp; Tools
@@ -117,7 +117,7 @@ const CurrentResearchPage = ({ basePath = '/res.adhd.org.sa-concept/' }) => (
           <li>• Direct input into Saudi ADHD Society funding calls</li>
         </ul>
         <a
-          href={getHref('research-priorities', basePath)}
+          href={getHref('research-priorities', basePath, locale)}
           className="mt-auto inline-flex items-center text-sm font-semibold text-emerald-700 hover:text-emerald-800"
         >
           View Research Priorities Detail

@@ -1,17 +1,21 @@
 import React from 'react';
+import { buildLocalizedPath } from '../utils/navigation';
+import { t } from '../utils/i18n';
 
 const BASE_PATH = '/res.adhd.org.sa-concept';
 
-const Footer = ({ basePath = BASE_PATH }) => {
+const Footer = ({ basePath = BASE_PATH, locale = 'en' }) => {
   const getFullPath = (href) => {
     if (href.startsWith('http')) return href;
-    // Ensure basePath has trailing slash, href doesn't start with slash (except for root)
+    // Build locale-aware path
+    const localizedPath = buildLocalizedPath(href, locale);
+    // Ensure basePath has trailing slash
     const normalizedBase = basePath.endsWith('/') ? basePath : `${basePath}/`;
-    if (href === '/') {
-      return normalizedBase;
+    if (localizedPath === '/') {
+      return `${normalizedBase}${locale}/`;
     }
-    // Remove leading slash from href if present, then combine
-    const normalizedHref = href.startsWith('/') ? href.slice(1) : href;
+    // Remove leading slash from localizedPath if present, then combine
+    const normalizedHref = localizedPath.startsWith('/') ? localizedPath.slice(1) : localizedPath;
     
     // Check if this is a file path (has a file extension) - files shouldn't get trailing slashes
     const fileExtensionPattern = /\.(svg|png|jpg|jpeg|gif|webp|ico|pdf|json|xml|txt|css|js|woff|woff2|ttf|eot)$/i;
@@ -41,48 +45,48 @@ const Footer = ({ basePath = BASE_PATH }) => {
         <div className="col-span-1 md:col-span-1">
           <div className="w-10 h-10 bg-emerald-800 rounded-lg flex items-center justify-center text-white font-bold text-xl mb-4">R</div>
           <p className="text-sm leading-relaxed mb-6">
-            The Research Unit of the Saudi ADHD Society. Supporting evidence-informed practice and policy through research, synthesis, and knowledge translation.
+            {t('footer.description', locale)}
           </p>
           <div className="flex space-x-4">
-            <a href="https://www.linkedin.com/company/adhdarabia" className="hover:text-emerald-400 transition-colors focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+            <a href="https://www.linkedin.com/company/adhdarabia" className="hover:text-emerald-400 transition-colors focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded" target="_blank" rel="noopener noreferrer">{t('footer.linkedIn', locale)}</a>
           </div>
         </div>
         
         <div>
-          <h4 className="text-white font-bold mb-4">Quick Links</h4>
+          <h4 className="text-white font-bold mb-4">{t('footer.sections.quickLinks', locale)}</h4>
           <ul className="space-y-2 text-sm">
-            <li><a href={getFullPath('/library')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Research Library</a></li>
-            <li><a href={getFullPath('/topic-guides')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Topic Guides</a></li>
-            <li><a href={getFullPath('/research-briefs')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Research Briefs</a></li>
-            <li><a href={getFullPath('/current-research')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Current Research</a></li>
+            <li><a href={getFullPath('/library')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">{t('footer.links.library', locale)}</a></li>
+            <li><a href={getFullPath('/topic-guides')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">{t('footer.links.topic-guides', locale)}</a></li>
+            <li><a href={getFullPath('/research-briefs')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">{t('footer.links.research-briefs', locale)}</a></li>
+            <li><a href={getFullPath('/current-research')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">{t('footer.links.current-research', locale)}</a></li>
           </ul>
         </div>
         
         <div>
-          <h4 className="text-white font-bold mb-4">For Researchers</h4>
+          <h4 className="text-white font-bold mb-4">{t('footer.sections.forResearchers', locale)}</h4>
           <ul className="space-y-2 text-sm">
-            <li><a href={getFullPath('/irb')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Research Ethics & IRB</a></li>
-            <li><a href={getFullPath('/ishraq-grant')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Open Grants</a></li>
-            <li><a href={getFullPath('/research-output')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Research Output</a></li>
-            <li><a href={getFullPath('/interactive-scales')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Tools</a></li>
+            <li><a href={getFullPath('/irb')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">{t('footer.links.irb', locale)}</a></li>
+            <li><a href={getFullPath('/ishraq-grant')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">{t('footer.links.ishraq-grant', locale)}</a></li>
+            <li><a href={getFullPath('/research-output')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">{t('footer.links.research-output', locale)}</a></li>
+            <li><a href={getFullPath('/interactive-scales')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">{t('footer.links.interactive-scales', locale)}</a></li>
           </ul>
         </div>
         
         <div>
-          <h4 className="text-white font-bold mb-4">Resources</h4>
+          <h4 className="text-white font-bold mb-4">{t('footer.sections.resources', locale)}</h4>
           <ul className="space-y-2 text-sm">
-            <li><a href={getFullPath('/adhd-cpg')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Saudi ADHD CPG</a></li>
-            <li><a href={getFullPath('/clinical-tools')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Clinical Tools</a></li>
-            <li><a href={getFullPath('/hcp-resources/consensus-statement')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">International Consensus Statement</a></li>
+            <li><a href={getFullPath('/adhd-cpg')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">{t('footer.links.adhd-cpg', locale)}</a></li>
+            <li><a href={getFullPath('/clinical-tools')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">{t('footer.links.clinical-tools', locale)}</a></li>
+            <li><a href={getFullPath('/hcp-resources/consensus-statement')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">{t('footer.links.consensus-statement', locale)}</a></li>
           </ul>
         </div>
         
         <div>
-          <h4 className="text-white font-bold mb-4">Legal & Policy</h4>
+          <h4 className="text-white font-bold mb-4">{t('footer.sections.legalPolicy', locale)}</h4>
           <ul className="space-y-2 text-sm">
-            <li><a href={getFullPath('/copyright')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Copyright Notice</a></li>
-            <li><a href={getFullPath('/privacy-policy')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Privacy Policy</a></li>
-            <li><a href={getFullPath('/disclaimer')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">Disclaimer</a></li>
+            <li><a href={getFullPath('/copyright')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">{t('footer.links.copyright', locale)}</a></li>
+            <li><a href={getFullPath('/privacy-policy')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">{t('footer.links.privacy-policy', locale)}</a></li>
+            <li><a href={getFullPath('/disclaimer')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">{t('footer.links.disclaimer', locale)}</a></li>
           </ul>
         </div>
       </div>
@@ -92,13 +96,13 @@ const Footer = ({ basePath = BASE_PATH }) => {
           <a href="https://adhd.org.sa/" className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded" target="_blank" rel="noopener noreferrer">
             Saudi ADHD Society
           </a>
-          . Licensed under{' '}
+          . {t('footer.copyright', locale)}{' '}
           <a href={getFullPath('/copyright')} className="hover:text-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 rounded">
-            CC BY-NC-SA 4.0
+            {t('footer.copyrightLink', locale)}
           </a>
           . Riyadh, KSA.
         </p>
-        <p className="mt-2 md:mt-0">Developed in alignment with Vision 2030 Healthcare Goals.</p>
+        <p className="mt-2 md:mt-0">{t('footer.vision2030', locale)}</p>
       </div>
     </footer>
   );
