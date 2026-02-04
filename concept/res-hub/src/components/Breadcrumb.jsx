@@ -33,16 +33,6 @@ const PAGE_HIERARCHY = {
   'current-research': 'research-projects',
   'research-output': 'research-projects',
   'cpg-overview': 'research-projects',
-  'conferences': 'research-projects',
-  'conference-2004-symposium': 'conferences',
-  'conference-2008-symposium': 'conferences',
-  'conference-2009-medical-home': 'conferences',
-  'conference-2012-pla-groups-1-2': 'conferences',
-  'conference-2012-pla-group-3': 'conferences',
-  'conference-2014-pla-group-4': 'conferences',
-  'conference-2021-agree-rex-workshop': 'conferences',
-  'conference-2024-research-forum': 'conferences',
-  'conference-2026-research-forum': 'conferences',
   'adhd-cpg': 'clinical-tools',
   'cpg-clinical-recommendations': 'adhd-cpg',
   'cpg-strength-of-recommendations': 'adhd-cpg',
@@ -76,7 +66,6 @@ const NAV_SECTIONS = {
   'current-research': 'Research Projects',
   'research-output': 'Research Projects',
   'cpg-overview': 'Research Projects',
-  'conferences': 'Research Projects',
   'clinical-tools': 'Clinical Tools & Resources',
   'adhd-cpg': 'Clinical Tools & Resources',
   'interactive-scales': 'Clinical Tools & Resources',
@@ -120,16 +109,6 @@ const PAGE_NAMES = {
   'current-research': 'Current Research',
   'cpg-overview': 'CPG Overview',
   'research-output': 'Research Output',
-  'conferences': 'Conferences',
-  'conference-2004-symposium': 'The First Middle Eastern Symposium on ADHD',
-  'conference-2008-symposium': 'The 2nd International Symposium on ADHD',
-  'conference-2009-medical-home': 'The 3rd International Symposium: Medical Home',
-  'conference-2012-pla-groups-1-2': 'Saudi Pediatric Leadership Alliance (PLA), Groups 1 & 2',
-  'conference-2012-pla-group-3': 'Second Saudi Pediatric Leadership Alliance (PLA), Group 3',
-  'conference-2014-pla-group-4': 'Saudi Pediatric Leadership Alliance (PLA), Group 4',
-  'conference-2021-agree-rex-workshop': 'AGREE-REX Workshop',
-  'conference-2024-research-forum': 'Saudi ADHD Society Research Forum 2024',
-  'conference-2026-research-forum': 'Saudi ADHD Society Research Forum 2026',
   'clinical-tools': 'Clinical Tools & Resources',
   'adhd-cpg': 'Saudi National ADHD CPG',
   'cpg-clinical-recommendations': 'Clinical Recommendations',
@@ -248,21 +227,15 @@ const getPageIdFromPath = (pathname, basePath) => {
     return `adhd-cpg-about-${parts[2]}`;
   }
   
-  // Handle 3-level paths like "clinical-tools/hcp-resources/consensus-statement" or "conferences/conference-2004-symposium"
+  // Handle 3-level paths like "clinical-tools/hcp-resources/consensus-statement"
   if (parts.length === 3) {
-    if (parts[0] === 'conferences') {
-      return parts[2];
-    }
     return parts[2];
   }
   
-  // Handle 2-level paths like "hcp-resources/consensus-statement" or "adhd-cpg/about" or "conferences"
+  // Handle 2-level paths like "hcp-resources/consensus-statement" or "adhd-cpg/about"
   if (parts.length === 2) {
     if (parts[0] === 'adhd-cpg' && parts[1] === 'about') {
       return 'adhd-cpg-about';
-    }
-    if (parts[0] === 'conferences') {
-      return parts[1];
     }
     return parts[1];
   }

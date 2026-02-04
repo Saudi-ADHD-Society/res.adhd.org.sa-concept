@@ -51,17 +51,6 @@ export const getPagePath = (pageId) => {
     'research-output': '/research-output',
     'cpg-overview': '/cpg-overview',
     
-    // Conferences (under /conferences/)
-    'conferences': '/conferences',
-    'conference-2004-symposium': '/conferences/conference-2004-symposium',
-    'conference-2008-symposium': '/conferences/conference-2008-symposium',
-    'conference-2009-medical-home': '/conferences/conference-2009-medical-home',
-    'conference-2012-pla-groups-1-2': '/conferences/conference-2012-pla-groups-1-2',
-    'conference-2012-pla-group-3': '/conferences/conference-2012-pla-group-3',
-    'conference-2014-pla-group-4': '/conferences/conference-2014-pla-group-4',
-    'conference-2021-agree-rex-workshop': '/conferences/conference-2021-agree-rex-workshop',
-    'conference-2024-research-forum': '/conferences/conference-2024-research-forum',
-    'conference-2026-research-forum': '/conferences/conference-2026-research-forum',
     
     // CPG pages (under /adhd-cpg/)
     'adhd-cpg': '/adhd-cpg',
