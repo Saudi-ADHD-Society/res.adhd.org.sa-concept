@@ -85,6 +85,14 @@ const NAV_SECTIONS = {
 
 // Get page display name using translations
 const getPageName = (pageId, locale) => {
+  if (pageId.startsWith('library/')) {
+    const slug = pageId.slice('library/'.length);
+    return slug
+      .split('-')
+      .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+      .join(' ');
+  }
+
   const breadcrumbKey = `breadcrumbs.${pageId}`;
   const translated = t(breadcrumbKey, locale);
   // If translation found (not the key itself), return it
@@ -98,6 +106,11 @@ const getPageName = (pageId, locale) => {
 // Map page IDs to their URL paths
 const getPagePath = (pageId) => {
   if (pageId === 'home') return '/';
+
+  if (pageId.startsWith('library/')) {
+    const slug = pageId.slice('library/'.length);
+    return `/library/${slug}`;
+  }
   
   // Handle 3-level paths for about pages
   if (pageId.startsWith('adhd-cpg-about-')) {
@@ -130,6 +143,33 @@ const getSectionTitle = (pageId, locale) => {
 
 // Build breadcrumb trail
 const buildBreadcrumbTrail = (pageId, locale) => {
+  if (pageId.startsWith('library/')) {
+    const trail = [
+      {
+        id: 'library',
+        name: getPageName('library', locale),
+        path: getPagePath('library'),
+      },
+      {
+        id: pageId,
+        name: getPageName(pageId, locale),
+        path: getPagePath(pageId),
+      },
+    ];
+
+    const sectionTitle = getSectionTitle('library', locale);
+    if (sectionTitle) {
+      trail.unshift({
+        id: 'library',
+        name: sectionTitle,
+        path: getPagePath('library'),
+        isSection: true,
+      });
+    }
+
+    return trail;
+  }
+
   const trail = [];
   
   // Don't show breadcrumb on home page
@@ -190,6 +230,9 @@ const getPageIdFromPath = (pathname, basePath) => {
   
   // Handle 3-level paths like "clinical-tools/hcp-resources/consensus-statement"
   if (parts.length === 3) {
+    if (parts[1] === 'library') {
+      return `library/${parts[2]}`;
+    }
     return parts[2];
   }
   
