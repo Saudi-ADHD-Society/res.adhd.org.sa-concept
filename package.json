@@ -13,7 +13,8 @@
     "paper:new": "node scripts/new-paper.mjs",
     "papers:fetch-crossref": "node scripts/fetch-crossref-metadata.mjs",
     "papers:fetch-unpaywall": "node scripts/fetch-unpaywall-metadata.mjs",
-    "papers:enrich": "node scripts/enrich-papers-metadata.mjs"
+    "papers:enrich": "node scripts/enrich-papers-metadata.mjs",
+    "papers:clean-abstracts": "node scripts/remove-html-from-abstracts.mjs"
   },
   "dependencies": {
     "csv-parse": "^6.1.0",

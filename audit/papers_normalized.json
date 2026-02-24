@@ -11,10 +11,10 @@
       "isbn": null
     },
     "title": "Deep Learning Approaches to Evaluating ADHD Using EEG Data: RNN, GRU, and LSTM Models",
-    "abstract": null,
+    "abstract": "Attention deficit/hyperactivity disorder (ADHD) is a neurodevelopmental disorder that can negatively affect daily functioning. In this study, we investigated EEG–based ADHD classification using recurrent neural network (RNN), gated recurrent unit (GRU), and long short–term memory (LSTM) models to explore potential neural features associated with underlying cognitive mechanisms. We analyzed EEG data from 61 children with ADHD and 60 healthy controls (aged 7–12 years) during a visual attention task. EEG signals were recorded from 19 channels at a sampling rate of 128 Hz. Prior to applying machine learning algorithms, the data were pre–processed using a 50 Hz notch filter, a band–pass filter with cut–off frequencies of 4–40 Hz, and independent component analysis (ICA). Feature extraction focused on spectral power across four frequency bands (theta, alpha, beta, and gamma), as well as the frontal–parietal theta–alpha ratio, mean, standard deviation (SD), entropy, and root mean square (RMS). RNN, GRU, and LSTM models were then evaluated and compared. The results showed that the LSTM model outperformed the other architectures, achieving an accuracy of 64.53% in distinguishing individuals with ADHD from controls. Consistent with well–documented ADHD–related deficits in executive functions and attention modulation, features from the frontal and parietal regions were the most discriminative. Overall, this study demonstrates the potential of machine–learning–based approaches for EEG–driven ADHD detection.",
     "language": "English",
     "categories": [
-      "Uncategorized"
+      "Technology"
     ],
     "keywords": [],
     "publication": {
@@ -61,9 +61,9 @@
       "license": null,
       "source": null,
       "licenseUrl": null,
-      "sourceUrl": null,
+      "sourceUrl": "https://link.springer.com/content/pdf/10.1007/s13369-025-10984-3.pdf",
       "localPdfUrl": null,
-      "researchGateUrl": null
+      "researchGateUrl": "https://www.researchgate.net/publication/399616410_Deep_Learning_Approaches_to_Evaluating_ADHD_Using_EEG_Data_RNN_GRU_and_LSTM_Models"
     },
     "visibility": {
       "hidden": false
@@ -82,7 +82,7 @@
       "isbn": null
     },
     "title": "Effects of executive function intervention based on motor activity on working memory and sustained attention of Saudi children with ADHD",
-    "abstract": null,
+    "abstract": "The present study aimed to investigate the effectiveness of executive function intervention based on motor activity on working memory and sustained attention of Saudi school aged- children with ADHD. It was hypothesized that the delivered executive function intervention based on motor activity would have a pre-to-post intervention effect on working memory and sustained attention. The current study employed a randomized controlled design to systematically assess the effects of executive function intervention based on motor activity on working memory and sustained attention of Saudi school aged- children with ADHD. In this study, executive function intervention based on motor activity training was considered as the independent variable and working memory and sustained attention were considered as the dependent variables. A total of 58 participants aged 7-10 years (mean= 9.3 and SD = 1.2) were included in the analyses. Children were from five schools in urban and suburban areas of Mecca. parents of children have junior high school education or above and have normal communication and cognitive abilities. Linear regression models were used to assess within-person differences within conditions for each outcome. Post-test scores were considered as dependent variables explained by condition and pretest scores as the independent variables. The results of the present study indicated significant improvements in working memory and sustained attention in children with attention deficit/hyperactivity disorder following 4 weeks of executive function training.",
     "language": "English",
     "categories": [
       "Uncategorized"
@@ -126,6 +126,76 @@
     "legacy": {}
   },
   {
+    "id": "doi-10.4103-ijpam.ijpam16725",
+    "slug": "10.4103-ijpam.ijpam16725",
+    "doi": "10.4103/ijpam.ijpam_167_25",
+    "identifiers": {
+      "doi": "10.4103/ijpam.ijpam_167_25",
+      "url": null,
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "Electronic Device Use and Attention-Deficit/Hyperactivity Disorder: A Cross-Sectional Study in Saudi Arabia",
+    "abstract": "Background: Attention-deficit/hyperactivity disorder (ADHD) is a neurodevelopmental disorder characterized by persistent patterns of inattention, hyperactivity, and impulsivity.\n\nObjectives: This cross-sectional study aimed to investigate the association between electronic device use and ADHD symptoms in school-aged children in Saudi Arabia.\n\nMethods: The study was conducted in developmental and behavioral clinics across several cities in Saudi Arabia. A total of 140 children aged 6 to 12 years with a clinically confirmed diagnosis of ADHD, based on Diagnostic and Statistical Manual of Mental Disorders , 5th Edition criteria and diagnosed by a clinician, participated in the study. Participants were recruited via convenience sampling from the participating clinics. Data were collected using the Conners’ Parent Rating Scale-Revised (CPRS-R) to assess ADHD symptom severity and a study-specific questionnaire gathering information on electronic device usage patterns, parental monitoring practices, sleep quality, academic performance, and social behavior. Statistical analyses included descriptive statistics, chi-square tests, one-way analysis of variance, and multiple regression analysis. The primary outcome measure was the CPRS-R score, reflecting the severity of ADHD symptoms. Secondary outcome measures included parent-reported sleep quality, academic performance, and social behavior, derived from the study-specific questionnaire.\n\nResults: The mean age of participants was 8.7 ± 1.9 years, and 63.6% were male. The most commonly used devices were television (90%) and cell phones (60%). The average daily screen time was 3.97 ± 2.7 hours. Parental monitoring of screen time was reported by 72.55% of parents. A statistically significant difference was found in the frequency of parental monitoring ( P\n= 0.007). Children whose parents actively monitored their screen time daily had a higher percentage of “normal” CPRS-R scores (66%) compared to those monitored less frequently.\n\nConclusion: While electronic device use is prevalent among school-aged children with ADHD in Saudi Arabia, this study found no significant association between overall device use and ADHD symptom severity. However, the frequency of parental monitoring of screen time appears to be positively associated with fewer ADHD symptom severity.",
+    "language": "English",
+    "categories": [
+      "Uncategorized"
+    ],
+    "keywords": [],
+    "publication": {
+      "type": null,
+      "publishedDate": null,
+      "year": 2026
+    },
+    "journal": {
+      "name": "International Journal of Pediatrics and Adolescent Medicine",
+      "abbreviation": null,
+      "issn": "2352-6467",
+      "volume": null,
+      "issue": null,
+      "pages": {
+        "start": null,
+        "end": null
+      }
+    },
+    "authors": [
+      {
+        "given": "Fatimah Saeed",
+        "family": "Alahmari",
+        "sequence": 1
+      },
+      {
+        "given": "Arwa",
+        "family": "AlMubaydh",
+        "sequence": 2
+      },
+      {
+        "given": "Maha",
+        "family": "Aldosari",
+        "sequence": 3
+      },
+      {
+        "given": "Marwah",
+        "family": "Aloufi",
+        "sequence": 4
+      }
+    ],
+    "access": {
+      "status": "open",
+      "license": "cc-by-nc-nd",
+      "source": null,
+      "licenseUrl": null,
+      "sourceUrl": "https://doi.org/10.4103/ijpam.ijpam_167_25",
+      "localPdfUrl": null,
+      "researchGateUrl": null
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
+  },
+  {
     "id": "doi-10.63332-joph.v6i1.3930",
     "slug": "10.63332-joph.v6i1.3930",
     "doi": "10.63332/joph.v6i1.3930",
@@ -137,10 +207,10 @@
       "isbn": null
     },
     "title": "Prevalence of Child Mental Health Disorders in Primary Health Care Settings, Riyadh, Saudi Arabia",
-    "abstract": "<jats:p>Child mental health disorders, such as ADHD, ASD, and anxiety, represent a growing global public health concern. These conditions often emerge in early childhood and are frequently identified first in primary care settings [1,2]. Without early recognition and treatment, these disorders can impair social, academic, and emotional development [3]. This study assesses the prevalence of these disorders among children attending AlWazarat Health Center at Prince Sultan Military Medical City (PSMMC) in Riyadh, Saudi Arabia, and explores associated gender and sociodemographic patterns. A cross-sectional and follow-up study included patterns of mental health Disorders among children attending Al Wazarat Healthcare Center at Prince Sultan Military Medical City (PSMMC), Riyadh, Saudi Arabia, between October 2023 to November 2024. Patients who did not attend the clinic on their appointment time were excluded. Data were collected through structured interviews with either parent, father, mother, or the guardian attending the appointment. Diagnosis was established using DSM-5-aligned clinical tools by qualified practitioners. Data were collected on sociodemographic variables (gender, family status, parental education) and diagnosed mental health conditions, including ADHD, anxiety, autism spectrum disorder (ASD), learning disabilities, and speech delay. Chi-square tests were used to examine associations, with p-values &lt; 0.05 considered statistically significant. A total of 251 children were included in this study. The most prevalent diagnosis was ADHD (59.8%), followed by ASD (13.9%), anxiety (11.6%), speech delay (8.8%), and learning disabilities (6.0%). Males represented 72.1% of the sample and had significantly higher rates of ADHD (63.5% vs. 50%) and speech delay (11.0% vs. 2.9%) compared to females. Anxiety was more common in females (22.9%) than males (7.2%), with p &lt;0.05 [4,5]. Parental education and family status were not significantly associated with diagnostic categories (p&gt;0.05) [6]. This study highlights the high burden of neurodevelopmental and emotional conditions in children seen in primary healthcare. ADHD is the most commonly diagnosed child mental health disorder in this primary care setting, with notable gender differences. These findings support the urgent need for integrated mental health screening and training for primary care physicians in Saudi Arabia.</jats:p>",
+    "abstract": "Child mental health disorders, such as ADHD, ASD, and anxiety, represent a growing global public health concern. These conditions often emerge in early childhood and are frequently identified first in primary care settings [1,2]. Without early recognition and treatment, these disorders can impair social, academic, and emotional development [3]. This study assesses the prevalence of these disorders among children attending AlWazarat Health Center at Prince Sultan Military Medical City (PSMMC) in Riyadh, Saudi Arabia, and explores associated gender and sociodemographic patterns. A cross-sectional and follow-up study included patterns of mental health Disorders among children attending Al Wazarat Healthcare Center at Prince Sultan Military Medical City (PSMMC), Riyadh, Saudi Arabia, between October 2023 to November 2024. Patients who did not attend the clinic on their appointment time were excluded. Data were collected through structured interviews with either parent, father, mother, or the guardian attending the appointment. Diagnosis was established using DSM-5-aligned clinical tools by qualified practitioners. Data were collected on sociodemographic variables (gender, family status, parental education) and diagnosed mental health conditions, including ADHD, anxiety, autism spectrum disorder (ASD), learning disabilities, and speech delay. Chi-square tests were used to examine associations, with p-values &lt; 0.05 considered statistically significant. A total of 251 children were included in this study. The most prevalent diagnosis was ADHD (59.8%), followed by ASD (13.9%), anxiety (11.6%), speech delay (8.8%), and learning disabilities (6.0%). Males represented 72.1% of the sample and had significantly higher rates of ADHD (63.5% vs. 50%) and speech delay (11.0% vs. 2.9%) compared to females. Anxiety was more common in females (22.9%) than males (7.2%), with p &lt;0.05 [4,5]. Parental education and family status were not significantly associated with diagnostic categories (p&gt;0.05) [6]. This study highlights the high burden of neurodevelopmental and emotional conditions in children seen in primary healthcare. ADHD is the most commonly diagnosed child mental health disorder in this primary care setting, with notable gender differences. These findings support the urgent need for integrated mental health screening and training for primary care physicians in Saudi Arabia.",
     "language": "English",
     "categories": [
-      "Uncategorized"
+      "Prevalence"
     ],
     "keywords": [],
     "publication": {
@@ -180,10 +250,10 @@
       "status": "open",
       "license": "cc-by-nc-nd",
       "source": null,
-      "licenseUrl": null,
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "sourceUrl": "https://posthumanism.co.uk/jp/article/download/3930/2446",
-      "localPdfUrl": null,
-      "researchGateUrl": null
+      "localPdfUrl": "library/doi__10.63332__joph-v6i1-3930.pdf",
+      "researchGateUrl": "https://www.researchgate.net/publication/400141594_Prevalence_of_Child_Mental_Health_Disorders_in_Primary_Health_Care_Settings_Riyadh_Saudi_Arabia"
     },
     "visibility": {
       "hidden": false
@@ -201,11 +271,11 @@
       "pmcid": null,
       "isbn": null
     },
-    "title": "مستوى معرفة معلمات فرط الحركة وتشتت الانتباه باستراتيجية (أخف، انسخ، ثم قارن) في مدارس الدمج للمرحلة الابتدائية بمدينة الرياض",
-    "abstract": "<jats:p>تسعى الدراسة الحالية إلى معرفة مستوى معلمات فَرْط الحركة وتَشتُّت الانتباه باستراتيجية «أخْفِ، انسَخْ، ثم قارِنْ» في المدارس الابتدائية بمدينة الرياض، بالإضافة إلى تسليط الضوء نحو مستوى معرفة معلمات فَرْط الحركة وتَشتُّت الانتباه بتطبيق استراتيجية «أخْفِ، انسَخْ، ثم قارِنْ»، والكشف عن المعوقات التي تحد من تطبيق معلمات فَرْط الحركة وتَشتُّت الانتباه لهذه الاستراتيجية. ولتحقيق أهداف هذه الدراسة تم استخدام المنهج الوصفي، وذلك بتطبيق الاستبانة -أو ما يعرف بالاستقصاء- وهي \"أداة تتضمَّن مجموعة من الأسئلة أو الجُمل الخبرية التي تتطلب الإجابة عنها بطريقة يُحدِّدها الباحث حسَب أغراض البحث، وقد قامت الباحثة بتوزيع أداة الدراسة على جميع المعلمات، استجاب معها (52) معلمة، وهن يُمثِّلن (72.2%) من إجمالي مجتمع الدراسة. وتوصلت الدراسة إلى جملة من النتائج، من أبرزها: أن مستوى معرفة معلمات فَرْط الحركة وتَشتُّت الانتباه باستراتيجية «أخْفِ، انسَخْ، ثم قارِنْ» جاء بدرجة منخفضة، وأن مستوى تطبيق معلمات فَرْط الحركة وتَشتُّت الانتباه لاستراتيجية «أخْفِ، انسَخْ، ثم قارِنْ» مع تلاميذ فَرْط الحركة وتَشتُّت الانتباه جاء بدرجة عالية، بالإضافة إلى أن هناك موافقة بدرجة عالية بين أفراد الدراسة على المعوقات التي تَحدّ من تطبيق معلمات فَرْط الحركة وتَشتُّت الانتباه لاستراتيجية «أخْفِ، انسَخْ، ثم قارِنْ» مع تلاميذ فَرْط الحركة وتَشتُّت الانتباه.</jats:p>",
-    "language": "English",
+    "title": "The Level of Knowledge of Teachers of Students with ADHD About the “Cover-Copy-Compare” Strategy in Inclusive Elementary Schools in Riyadh",
+    "abstract": "The  current  study  aims  to  identify  the  level  of  knowledge  of teachers with  ADHD about  the  \"Cover-Copy-Compare\"  strategy  in  elementary  schools  in  Riyadh. Additionally, it aims to shed light on the level of knowledge of teachers with ADHD in applying the \"Cover-Copy-Compare\" strategy anduncover the obstacles that limit teachers  of  students  with  ADHD  from  implementing  this  strategy.  To  achieve  the objectives   of   this   study,   the   descriptive   approach   was   used   by   applying   a questionnaire  distributed  to  all  teachers,  which  was  answered  by  (52)  teachers representing (72.2%) of the total study population. The study reached several results, most notably: the level of knowledge of teachers of students with ADHD about the \"Cover-Copy-Compare\" strategy was low, thelevel of application of the \"Hide, Copy, Then  Compare\"  strategy  by  teachers  with  students  with  ADHD  was  high,  and  there was high agreement among the study participants on the obstacles limiting teachers of students with ADHD from implementing the \"Hide, Copy, Then Compare\" strategy.\n\nمستوى معرفة معلمات فرط الحركة وتشتت الانتباه باستراتيجية (أخف، انسخ، ثم قارن) في مدارس الدمج للمرحلة الابتدائية بمدينة الرياض\n\nتسعى الدراسة الحالية إلى معرفة مستوى معلمات فَرْط الحركة وتَشتُّت الانتباه باستراتيجية «أخْفِ، انسَخْ، ثم قارِنْ» في المدارس الابتدائية بمدينة الرياض، بالإضافة إلى تسليط الضوء نحو مستوى معرفة معلمات فَرْط الحركة وتَشتُّت الانتباه بتطبيق استراتيجية «أخْفِ، انسَخْ، ثم قارِنْ»، والكشف عن المعوقات التي تحد من تطبيق معلمات فَرْط الحركة وتَشتُّت الانتباه لهذه الاستراتيجية. ولتحقيق أهداف هذه الدراسة تم استخدام المنهج الوصفي، وذلك بتطبيق الاستبانة -أو ما يعرف بالاستقصاء- وهي أداة تتضمَّن مجموعة من الأسئلة أو الجُمل الخبرية التي تتطلب الإجابة عنها بطريقة يُحدِّدها الباحث حسَب أغراض البحث، وقد قامت الباحثة بتوزيع أداة الدراسة على جميع المعلمات، استجاب معها (52) معلمة، وهن يُمثِّلن (72.2%) من إجمالي مجتمع الدراسة. وتوصلت الدراسة إلى جملة من النتائج، من أبرزها: أن مستوى معرفة معلمات فَرْط الحركة وتَشتُّت الانتباه باستراتيجية «أخْفِ، انسَخْ، ثم قارِنْ» جاء بدرجة منخفضة، وأن مستوى تطبيق معلمات فَرْط الحركة وتَشتُّت الانتباه لاستراتيجية «أخْفِ، انسَخْ، ثم قارِنْ» مع تلاميذ فَرْط الحركة وتَشتُّت الانتباه جاء بدرجة عالية، بالإضافة إلى أن هناك موافقة بدرجة عالية بين أفراد الدراسة على المعوقات التي تَحدّ من تطبيق معلمات فَرْط الحركة وتَشتُّت الانتباه لاستراتيجية «أخْفِ، انسَخْ، ثم قارِنْ» مع تلاميذ فَرْط الحركة وتَشتُّت الانتباه.",
+    "language": "Arabic",
     "categories": [
-      "Uncategorized"
+      "Awareness"
     ],
     "keywords": [],
     "publication": {
@@ -226,13 +296,13 @@
     },
     "authors": [
       {
-        "given": "",
-        "family": "بشرى جاسم العنزي",
+        "given": "Bushra Jassim",
+        "family": "Alenazi",
         "sequence": 1
       },
       {
-        "given": "",
-        "family": "د. نوف محمد الزرير",
+        "given": "Nouf",
+        "family": "Alzrayer",
         "sequence": 2
       }
     ],
@@ -240,70 +310,10 @@
       "status": "open",
       "license": "cc-by-sa",
       "source": null,
-      "licenseUrl": null,
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "sourceUrl": "https://www.jalhss.com/index.php/jalhss/article/download/1621/1602",
-      "localPdfUrl": null,
-      "researchGateUrl": null
-    },
-    "visibility": {
-      "hidden": false
-    },
-    "legacy": {}
-  },
-  {
-    "id": "doi-10.21608-maed.2025.428381",
-    "slug": "10.21608-maed.2025.428381",
-    "doi": "10.21608/maed.2025.428381",
-    "identifiers": {
-      "doi": "10.21608/maed.2025.428381",
-      "url": null,
-      "pmid": null,
-      "pmcid": null,
-      "isbn": null
-    },
-    "title": "...واقع تطبيق المعلمات للأنشطة التفاعلية بالروضات لتخفيف الاضطرابات لدى الاطفال ذوى فرط الحركة ونقص الانتباه بمرحله الطفولة المبكرة...",
-    "abstract": null,
-    "language": "English",
-    "categories": [
-      "Uncategorized"
-    ],
-    "keywords": [],
-    "publication": {
-      "type": null,
-      "publishedDate": null,
-      "year": 2025
-    },
-    "journal": {
-      "name": "مجلة کلية التربية بالمنصورة",
-      "abbreviation": null,
-      "issn": "2735-4466",
-      "volume": "129",
-      "issue": "1",
-      "pages": {
-        "start": "223",
-        "end": "264"
-      }
-    },
-    "authors": [
-      {
-        "given": "رنا محمد",
-        "family": "الفريدي",
-        "sequence": 1
-      },
-      {
-        "given": "شريف إبراهيم",
-        "family": "خميس",
-        "sequence": 2
-      }
-    ],
-    "access": {
-      "status": "closed",
-      "license": null,
-      "source": null,
-      "licenseUrl": null,
-      "sourceUrl": null,
-      "localPdfUrl": null,
-      "researchGateUrl": null
+      "localPdfUrl": "library/doi__10.33193__JALHSS-128-2026-1621.pdf",
+      "researchGateUrl": "https://www.researchgate.net/publication/400207872_mstwy_mrft_mlmat_frt_alhrkt_wtshtt_alantbah_bastratyjyt_akhf_anskh_thm_qarn_fy_mdars_aldmj_llmrhlt_alabtdayyt_bmdynt_alryad"
     },
     "visibility": {
       "hidden": false
@@ -1683,6 +1693,61 @@
     "legacy": {}
   },
   {
+    "id": "doi-10.55074-hesj.vi50.1611",
+    "slug": "10.55074-hesj.vi50.1611",
+    "doi": "10.55074/hesj.vi50.1611",
+    "identifiers": {
+      "doi": "10.55074/hesj.vi50.1611",
+      "url": null,
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "Perceptions of teachers of students with ADHD about the implementation of Co-Teaching: A qualitative study",
+    "abstract": "The current study aimed to explore the perceptions of female teachers of students with Attention Deficit Hyperactivity Disorder (ADHD) regarding the implementation of co-teaching, in addition to identifying the obstacles that hinder its application and examining how to support teachers to enable them to implement co-teaching effectively. To achieve this, the researcher employed a qualitative approach by conducting semi-structured individual interviews with eight teachers, including general education and special education teachers, working in public elementary schools in Riyadh. According to the qualitative data analysis, the study’s findings revealed several themes regarding teachers’ perceptions of co-teaching implementation. These included limited awareness of the different co-teaching models and the benefits of applying co-teaching for both students and teachers. Additionally, the results identified a set of obstacles that may impede co-teaching, including those related to the educational environment, the teaching team, and the scarcity of training programs. The study also highlighted a number of factors that may facilitate the implementation of co-teaching, namely personal factors of the teaching team, training-related factors, and administrative factors.\n\nتصوُّرات معلمات التلميذات ذوات اضطراب فرط الحركة وتشتت الانتباه حول تطبيق التدريس التشاركي: دراسة نوعية\n\nهدفت الدراسة الحالية إلى التعرف على تصوُّرات معلمات التلميذات ذوات اضطراب فرط الحركة وتشتت الانتباه حول تطبيق التدريس التشاركي، والكشف عن المعوقات التي تحُول دون تطبيق التدريس التشاركي، وكيفية دعمهن لتمكينهن من تطبيق التدريس التشاركي، ولتحقيق ذلك استخدمت الباحثة المنهج النوعي؛ من خلال إجراء مقابلات فردية شبه منظَّمة مع (8) معلمات تعليم عام، ومعلمات تربية خاصة يعملن في المدارس الحكومية الابتدائية بمدينة الرياض، ووفقًا لتحليل البيانات النوعية؛ أظهرت نتائج الدراسة عددًا من الموضوعات التي تتحدث فيها المعلمات عن تصوُّراتهن حول تطبيق التدريس التشاركي، وهي: قلة الوعي بالنماذج المختلِفة للتدريس التشاركي، وفوائد تطبيق التدريس التشاركي على مستوى التلميذات والمعلمات، وكشفت النتائج عن مجموعة من المعوقات التي قد تحُول دون تطبيق التدريس التشاركي، وتمثلت في المعوقات المتعلقة بالبيئة التعليمية، وفريق العمل، وقلة البرامج التدريبية، كما أظهرت الدراسة عددًا من العوامل التي قد تساعد على تطبيق التدريس التشاركي، وهي العوامل الشخصية لفريق العمل، والعوامل التدريبية، والعوامل الإدارية.",
+    "language": "Arabic",
+    "categories": [
+      "Awareness"
+    ],
+    "keywords": [],
+    "publication": {
+      "type": null,
+      "publishedDate": null,
+      "year": 2025
+    },
+    "journal": {
+      "name": "Humanities and Educational Sciences Journal",
+      "abbreviation": null,
+      "issn": "2709-0302",
+      "volume": null,
+      "issue": "50",
+      "pages": {
+        "start": "519",
+        "end": "542"
+      }
+    },
+    "authors": [
+      {
+        "given": "Imtinan Ahmed",
+        "family": "Almohsen",
+        "sequence": 1
+      }
+    ],
+    "access": {
+      "status": "open",
+      "license": "cc-by",
+      "source": null,
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://hesj.org/ojs/index.php/hesj/article/download/1611/1308",
+      "localPdfUrl": "library/doi__10.55074__hesj-vi50-1611.pdf",
+      "researchGateUrl": "https://www.researchgate.net/publication/398112078_tswurat_mlmat_altlmydhat_dhwat_adtrab_frt_alhrkt_wtshtt_alantbah_hwl_ttbyq_altdrys_altsharky_drast_nwyt"
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
+  },
+  {
     "id": "doi-10.1080-1034912x.2025.2502043",
     "slug": "10.1080-1034912x.2025.2502043",
     "doi": "10.1080/1034912x.2025.2502043",
@@ -2316,7 +2381,7 @@
       "isbn": null
     },
     "title": "The effects of exercise types on inhibitory control and working memory in children with attention deficit hyperactivity disorder: Network meta-analysis",
-    "abstract": null,
+    "abstract": "The effects of sport-based exercise modalities; physical and mental exercises, cognitive + exercise, and ball games on the inhibitory control and working memory of ADHD children are better than those of the control group. The effects of ball games are better than those of single aerobic exercise and combined exercises. Ball games may be the most effective intervention measure for the inhibitory control and working memory.",
     "language": "English",
     "categories": [
       "Uncategorized"
@@ -2372,7 +2437,7 @@
       "isbn": null
     },
     "title": "The effects of transcranial direct electrical stimulation on increasing cognitive flexibility and processing speed in children with attention deficit/hyperactivity disorder",
-    "abstract": null,
+    "abstract": "The aim was to investigate the effectiveness of transcranial direct-current stimulation (tDCS) on increasing cognitive flexibility and processing speed in children with attention deficit/hyperactivity disorder. The present study is a quasi-experimental study with a pretest-posttest design with a control group. Linear regression models were used to assess within-person differences within conditions for each outcome. Post-test scores were considered as dependent variables explained by condition and pretest scores as the independent variables. Paired t-tests were conducted within condition to document pre-to-post differences. Children were recruited among children referred to an ADHD clinic by pediatricians, general practitioners, teachers, psychologists, or parents. In a survey, 180 children aged 6-10 y/o were assessed for eligibility, and of them, 120 passed screening and qualified to participate in the study. Out of 120 participants, 15 refused to participate, and 45 had missing data, so they were dropped out from the study. Findings did directly support the hypotheses; results from regression analyses suggest that tDCS had a significant impact on cognitive flexibility and processing speed in children with attention deficit/hyperactivity disorder.",
     "language": "English",
     "categories": [
       "Uncategorized"
@@ -2478,6 +2543,66 @@
       "sourceUrl": "https://doi.org/10.4103/jehp.jehp_100_25",
       "localPdfUrl": "library/doi__10.4103__jehp.jehp_100_25.pdf",
       "researchGateUrl": null
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
+  },
+  {
+    "id": "doi-10.21608-maed.2025.428381",
+    "slug": "10.21608-maed.2025.428381",
+    "doi": "10.21608/maed.2025.428381",
+    "identifiers": {
+      "doi": "10.21608/maed.2025.428381",
+      "url": null,
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "The reality of applying parameters for interactive activities in kindergartens to relieve disorders in children with hyperactivity and attention deficit in early childhood",
+    "abstract": "This study aimed to identify the degree of teachers' use of interactive activities in kindergartens to alleviate disorders in children with ADHD in early childhood, to reveal the obstacles that limit teachers' use of interactive activities in kindergartens to alleviate disorders in children with ADHD in early childhood, and to find the necessary ways to activate teachers' use of interactive activities in kindergartens to alleviate disorders in children with ADHD in early childhood. To achieve this, the study relied on the descriptive analytical approach, and used the questionnaire tool. The study community consisted of early childhood teachers in Riyadh, while the study sample was a simple random sample numbering (120). The results showed that early childhood teachers use interactive activities to a large extent in kindergartens to alleviate disorders in children with ADHD in early childhood. The results revealed that the study sample members agreed to a moderate degree on the obstacles that limit teachers' use of interactive activities in kindergartens to alleviate disorders in children with ADHD in early childhood. The most prominent paragraphs that came to a large degree were (the absence of a guide to help teachers employ interactive activities to alleviate disorders in children with ADHD in early childhood, the increased burdens placed on teachers limit their application of the necessary interactive activities to alleviate disorders in children with ADHD in early childhood). The results also showed that early childhood teachers largely agreed on the necessary ways to activate teachers' use of interactive activities in kindergartens to alleviate disorders in children with ADHD in early childhood. The most prominent of these ways were (activating cooperation and exchanging experiences between teachers, with regard to implementing the necessary interactive activities to alleviate disorders in children with ADHD in early childhood, reducing the number of children in classrooms to enable teachers to implement the necessary interactive activities to alleviate disorders in children with ADHD in early childhood).\n\nواقع تطبيق المعلمات للأنشطة التفاعلية بالروضات لتخفيف الاضطرابات لدى الاطفال ذوى فرط الحركة ونقص الانتباه بمرحله الطفولة المبكرة\n\nهدفت هذه الدراسة إلى التعرف على درجة استخدام المعلمات للأنشطة التفاعلية بالروضات لتخفيف الاضطرابات لدى الاطفال ذوى فرط الحركة ونقص الانتباه بمرحله الطفولة المبكرة، والكشف عن المعوقات التي تحد من استخدام المعلمات للأنشطة التفاعلية بالروضات لتخفيف الاضطرابات لدى الاطفال ذوى فرط الحركة ونقص الانتباه بمرحله الطفولة المبكرة، والتوصل للسبل اللازمة لتفعيل استخدام المعلمات للأنشطة التفاعلية بالروضات لتخفيف الاضطرابات لدى الاطفال ذوى فرط الحركة ونقص الانتباه بمرحله الطفولة المبكرة، ولتحقيق ذلك اعتمدت الدراسة على المنهج الوصفي التحليلي، كما استخدمت أداة الاستبانة، تكون مجتمع الدراسة من معلمات مرحلة الطفولة المبكرة بمدينة الرياض، أما عينة الدراسة فقد تمثلت في عينة عشوائية بسيطة بلغ عددها (120)، أظهرت النتائج أن معلمات الطفولة المبكرة يستخدمن الأنشطة التفاعلية بدرجة كبيرة في الروضات لتخفيف الاضطرابات لدى الأطفال ذوي فرط الحركة ونقص الانتباه بمرحلة الطفولة المبكرة، وكشفت النتائج أن أفراد عينة الدراسة موافقات بدرجة متوسطة على المعوقات التي تحد من استخدام المعلمات للأنشطة التفاعلية بالروضات لتخفيف الاضطرابات لدى الاطفال ذوى فرط الحركة ونقص الانتباه بمرحله الطفولة المبكرة، وتمثلت ابرز الفقرات التي جاءت بدرجة كبيرة في (عدم وجود دليل إرشادي يُساعد المعلمات على توظيف الأنشطة التفاعلية لتخفيف الاضطرابات لدى الاطفال ذوى فرط الحركة ونقص الانتباه بمرحله الطفولة المبكرة، زيادة الأعباء الملقاة على عاتق المعلمات يحد من تطبيقهن للأنشطة التفاعلية اللازمة لتخفيف الاضطرابات لدى الاطفال ذوى فرط الحركة ونقص الانتباه بمرحله الطفولة المبكرة). كما أوضحت النتائج  أن معلمات الطفولة المبكرة موافقات بدرجة كبيرة على بالسبل اللازمة لتفعيل استخدام المعلمات للأنشطة التفاعلية بالروضات لتخفيف الاضطرابات لدى الاطفال ذوى فرط الحركة ونقص الانتباه بمرحله الطفولة المبكرة، وتمثلت أبرز هذه السبل في (تفعيل التعاون وتبادل الخبرات بين المعلمات، فيما يتعلق بتطبيق الأنشطة التفاعلية اللازمة لتخفيف الاضطرابات لدى الاطفال ذوى فرط الحركة ونقص الانتباه بمرحله الطفولة المبكرة، تخفيض اعداد الأطفال داخل الفصول الدراسية لتمكين المعلمات من تطبيق  الأنشطة التفاعلية اللازمة لتخفيف الاضطرابات لدى الاطفال ذوى فرط الحركة ونقص الانتباه بمرحله الطفولة المبكرة).",
+    "language": "Arabic",
+    "categories": [
+      "Education"
+    ],
+    "keywords": [],
+    "publication": {
+      "type": null,
+      "publishedDate": null,
+      "year": 2025
+    },
+    "journal": {
+      "name": "Journal of the Faculty of Education in Mansoura",
+      "abbreviation": null,
+      "issn": "2735-4466",
+      "volume": "129",
+      "issue": "1",
+      "pages": {
+        "start": "223",
+        "end": "264"
+      }
+    },
+    "authors": [
+      {
+        "given": "Rana Mohammed",
+        "family": "Al-Faridi",
+        "sequence": 1
+      },
+      {
+        "given": "Sherif Ibrahim",
+        "family": "Khamis",
+        "sequence": 2
+      }
+    ],
+    "access": {
+      "status": "open",
+      "license": null,
+      "source": null,
+      "licenseUrl": null,
+      "sourceUrl": "https://doi.org/10.21608/maed.2025.428381",
+      "localPdfUrl": "library/doi__10.21608__maed-2025-428381.pdf",
+      "researchGateUrl": "https://www.researchgate.net/publication/391859176_waq_ttbyq_almlmat_llanshtt_altfalyt_balrwdat_ltkhfyf_aladtrabat_ldy_alatfal_dhwy_frt_alhrkt_wnqs_alantbah_bmrhlh_altfwlt_almbkrt"
     },
     "visibility": {
       "hidden": false
@@ -2976,10 +3101,10 @@
       "isbn": null
     },
     "title": "Working Memory Training Improves Cognitive and Clinical ADHD Symptoms in Children",
-    "abstract": "<jats:p>Working memory training (WMT) has promising effects on cognitive and clinical outcomes in children with attention deficit hyperactivity disorder (ADHD). However, few studies have explored the effectiveness of such programs in developing countries with different populations and sociocultural backgrounds. This study aimed to pilot Cogmed WMT (CWMT) and examine its impact on clinical and cognitive outcomes in children diagnosed with ADHD in Saudi Arabia. We assessed 34 children with ADHD assigned to either a CWMT or standard-of-care group. Both groups were evaluated at baseline and five weeks for ADHD symptoms and cognitive function, including working memory (WM), sustained attention, and impulsivity. Compared with the baseline and the control group, the intervention group demonstrated improved parent ratings of ADHD clinical symptoms and cognitive function scores, including WM, sustained attention, and impulsivity. CWMT improved cognitive and clinical measures in our sample of Saudi children with ADHD and is a promising non-pharmacological therapy for treating children with ADHD in developing countries.</jats:p>",
+    "abstract": "Working memory training (WMT) has promising effects on cognitive and clinical outcomes in children with attention deficit hyperactivity disorder (ADHD). However, few studies have explored the effectiveness of such programs in developing countries with different populations and sociocultural backgrounds. This study aimed to pilot Cogmed WMT (CWMT) and examine its impact on clinical and cognitive outcomes in children diagnosed with ADHD in Saudi Arabia. We assessed 34 children with ADHD assigned to either a CWMT or standard-of-care group. Both groups were evaluated at baseline and five weeks for ADHD symptoms and cognitive function, including working memory (WM), sustained attention, and impulsivity. Compared with the baseline and the control group, the intervention group demonstrated improved parent ratings of ADHD clinical symptoms and cognitive function scores, including WM, sustained attention, and impulsivity. CWMT improved cognitive and clinical measures in our sample of Saudi children with ADHD and is a promising non-pharmacological therapy for treating children with ADHD in developing countries.",
     "language": "English",
     "categories": [
-      "Uncategorized"
+      "Treatment"
     ],
     "keywords": [],
     "publication": {
@@ -3032,65 +3157,10 @@
       "status": "open",
       "license": "cc-by",
       "source": null,
-      "licenseUrl": null,
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "sourceUrl": "https://www.mdpi.com/2514-183X/9/4/55/pdf?version=1764667531",
-      "localPdfUrl": null,
-      "researchGateUrl": null
-    },
-    "visibility": {
-      "hidden": false
-    },
-    "legacy": {}
-  },
-  {
-    "id": "doi-10.55074-hesj.vi50.1611",
-    "slug": "10.55074-hesj.vi50.1611",
-    "doi": "10.55074/hesj.vi50.1611",
-    "identifiers": {
-      "doi": "10.55074/hesj.vi50.1611",
-      "url": null,
-      "pmid": null,
-      "pmcid": null,
-      "isbn": null
-    },
-    "title": "تصوُّرات معلمات التلميذات ذوات اضطراب فرط الحركة وتشتت الانتباه حول تطبيق التدريس التشاركي: دراسة نوعية",
-    "abstract": "<jats:p>هدفت الدراسة الحالية إلى التعرف على تصوُّرات معلمات التلميذات ذوات اضطراب فرط الحركة وتشتت الانتباه حول تطبيق التدريس التشاركي، والكشف عن المعوقات التي تحُول دون تطبيق التدريس التشاركي، وكيفية دعمهن لتمكينهن من تطبيق التدريس التشاركي، ولتحقيق ذلك استخدمت الباحثة المنهج النوعي؛ من خلال إجراء مقابلات فردية شبه منظَّمة مع (8) معلمات تعليم عام، ومعلمات تربية خاصة يعملن في المدارس الحكومية الابتدائية بمدينة الرياض، ووفقًا لتحليل البيانات النوعية؛ أظهرت نتائج الدراسة عددًا من الموضوعات التي تتحدث فيها المعلمات عن تصوُّراتهن حول تطبيق التدريس التشاركي، وهي: قلة الوعي بالنماذج المختلِفة للتدريس التشاركي، وفوائد تطبيق التدريس التشاركي على مستوى التلميذات والمعلمات، وكشفت النتائج عن مجموعة من المعوقات التي قد تحُول دون تطبيق التدريس التشاركي، وتمثلت في المعوقات المتعلقة بالبيئة التعليمية، وفريق العمل، وقلة البرامج التدريبية، كما أظهرت الدراسة عددًا من العوامل التي قد تساعد على تطبيق التدريس التشاركي، وهي العوامل الشخصية لفريق العمل، والعوامل التدريبية، والعوامل الإدارية.</jats:p>",
-    "language": "English",
-    "categories": [
-      "Uncategorized"
-    ],
-    "keywords": [],
-    "publication": {
-      "type": null,
-      "publishedDate": null,
-      "year": 2025
-    },
-    "journal": {
-      "name": "مجلة العلوم التربوية و الدراسات الإنسانية",
-      "abbreviation": null,
-      "issn": "2709-0302",
-      "volume": null,
-      "issue": "50",
-      "pages": {
-        "start": "519",
-        "end": "542"
-      }
-    },
-    "authors": [
-      {
-        "given": "امتنان أحمد علي",
-        "family": "المحسن",
-        "sequence": 1
-      }
-    ],
-    "access": {
-      "status": "open",
-      "license": "cc-by",
-      "source": null,
-      "licenseUrl": null,
-      "sourceUrl": "https://hesj.org/ojs/index.php/hesj/article/download/1611/1308",
-      "localPdfUrl": null,
-      "researchGateUrl": null
+      "localPdfUrl": "library/doi__10.3390__ctn9040055.pdf",
+      "researchGateUrl": "https://www.researchgate.net/publication/398389296_Working_Memory_Training_Improves_Cognitive_and_Clinical_ADHD_Symptoms_in_Children"
     },
     "visibility": {
       "hidden": false
@@ -5603,6 +5673,61 @@
     "legacy": {}
   },
   {
+    "id": "doi-10.21608-jasht.2024.337376",
+    "slug": "10.21608-jasht.2024.337376",
+    "doi": "10.21608/jasht.2024.337376",
+    "identifiers": {
+      "doi": "10.21608/jasht.2024.337376",
+      "url": null,
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "The Level of Availability of International and Local Standards in Individual Educational programs for Students with Attention Deficit Hyperactivity Disorder",
+    "abstract": "This study aimed to identify the level of availability of international and local standards in individual educational programs for students with attention deficit hyperactivity disorder and to measure the differences between them according to some variables (gender, academic qualification) for males and females. Parameters using the descriptive analytical approach. It included a sample of 234 individual educational programs for students with attention-deficit/hyperactivity disorder in general education schools in Riyadh, and 64 male and female teachers for students with attention-deficit/hyperactivity disorder in general education schools in Riyadh. The study tools were designed in light of the study objectives and questions. The results of the study showed a low level of availability of global and local standards in individual educational programs for students with attention-deficit/hyperactivity disorder, as well as the presence of statistically significant differences in the overall degree of availability of global and local standards. In individual educational programs for students with attention deficit hyperactivity disorder according to the variable (gender). ) in favor of females, while there are no differences in academic qualification. Keywords: individual educational program, international and local standards.\n\nمستوى توّفر المعايير العالميّة والمحليّة في البرامج التربوية الفردية للطلبة ‏ذوي اضطراب فرط الحركة وتشتت الانتباه\n\nهدَفَت هذه الدراسة إلى التعرف على مستوى توفر المعايير العالمية والمحلية في البرامج التربوية الفردية للطلبة ذوي اضطراب فرط الحركة وتشتت الانتباه وقياس الفروق بينها وفقاً لبعض المتغيِّرات(الجنس، والمؤهل العلمي) لمعلميهم ومعلماتهم باستخدم المنهجَ الوصفيَّ التحليلي؛ على عينةُ مكونة من 234 برنامجاً تربوياً فردياً للطلاب ذوي اضطراب فرط الحركة وتشتت الانتباه في مدارس التعليم العام بمدينة الرياض، و٦٤ معلماً ومعلمة للطلبة ذوي اضطراب فرط الحركة وتشتت الانتباه في مدارس التعليم العام بمدينة الرياض، وصممت أدوات الدراسة في ضوء أهداف وأسئلة الدراسة. وأظهرت نتائج الدراسة انخفاض مستوى توفر المعايير العالمية والمحلية في البرامج التربوية الفردية للطلبة ذوي اضطراب فرط الحركة وتشتت الانتباه، ووجود اختلافات ذات دلالة إحصائية في الدرجة الكلية لمستوى توفر المعايير العالمية والمحلية في البرامج التربوية الفردية للطلبة ذوي اضطراب فرط الحركة وتشتت الانتباه تبعاً لمتغير (الجنس) لصالح الإناث، في حين لا يوجد اختلافات في المؤهل العلمي.",
+    "language": "Arabic",
+    "categories": [
+      "Education"
+    ],
+    "keywords": [],
+    "publication": {
+      "type": null,
+      "publishedDate": null,
+      "year": 2024
+    },
+    "journal": {
+      "name": "The Arab Journal of Disability and Talent Sciences",
+      "abbreviation": null,
+      "issn": "2537-0499",
+      "volume": "8",
+      "issue": "29",
+      "pages": {
+        "start": "45",
+        "end": "74"
+      }
+    },
+    "authors": [
+      {
+        "given": "Hanan Ali Mohammad‎",
+        "family": "Al-Qarni",
+        "sequence": 1
+      }
+    ],
+    "access": {
+      "status": "open",
+      "license": null,
+      "source": null,
+      "licenseUrl": null,
+      "sourceUrl": "https://jasht.journals.ekb.eg/article_337376_ff38462575e459574214b46ac387c947.pdf",
+      "localPdfUrl": "library/doi__10.21608__jasht-2024-337376.pdf",
+      "researchGateUrl": "https://www.researchgate.net/publication/377757210_mstwy_twfr_almayyr_alalmyt_walmhlyt_fy_albramj_altrbwyt_alfrdyt_lltlbt_dhwy_adtrab_frt_alhrkt_wtshtt_alantbah"
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
+  },
+  {
     "id": "doi-10.3390-children11060678",
     "slug": "10.3390-children11060678",
     "doi": "10.3390/children11060678",
@@ -5901,61 +6026,6 @@
       "licenseUrl": null,
       "sourceUrl": "https://www.dovepress.com/getfile.php?fileID=96513",
       "localPdfUrl": "library/doi__10.2147__ppa.s443481.pdf",
-      "researchGateUrl": null
-    },
-    "visibility": {
-      "hidden": false
-    },
-    "legacy": {}
-  },
-  {
-    "id": "doi-10.21608-jasht.2024.337376",
-    "slug": "10.21608-jasht.2024.337376",
-    "doi": "10.21608/jasht.2024.337376",
-    "identifiers": {
-      "doi": "10.21608/jasht.2024.337376",
-      "url": null,
-      "pmid": null,
-      "pmcid": null,
-      "isbn": null
-    },
-    "title": "مستوى توّفر المعايير العالميّة والمحليّة في البرامج التربوية الفردية للطلبة ‏ذوي اضطراب فرط الحركة وتشتت الانتباه",
-    "abstract": null,
-    "language": "English",
-    "categories": [
-      "Uncategorized"
-    ],
-    "keywords": [],
-    "publication": {
-      "type": null,
-      "publishedDate": null,
-      "year": 2024
-    },
-    "journal": {
-      "name": "المجلة العربية لعلوم الإعاقة والموهبة",
-      "abbreviation": null,
-      "issn": "2537-0499",
-      "volume": "8",
-      "issue": "29",
-      "pages": {
-        "start": "45",
-        "end": "74"
-      }
-    },
-    "authors": [
-      {
-        "given": "حنان علي محمد ‎",
-        "family": "القرني",
-        "sequence": 1
-      }
-    ],
-    "access": {
-      "status": "open",
-      "license": null,
-      "source": null,
-      "licenseUrl": null,
-      "sourceUrl": "https://jasht.journals.ekb.eg/article_337376_ff38462575e459574214b46ac387c947.pdf",
-      "localPdfUrl": null,
       "researchGateUrl": null
     },
     "visibility": {
@@ -19741,6 +19811,55 @@
       "licenseUrl": null,
       "sourceUrl": null,
       "localPdfUrl": "library/a-survey-of-a-child-psychiatry-clinic-in-a-teaching-hospital-in-saudi-arabia-clinical-profile-and-cross-cultural-comparison-1996-2b74372d0d.pdf",
+      "researchGateUrl": null
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
+  },
+  {
+    "id": "doi-10.3389-fpsyg.2026.1694782",
+    "slug": "10.3389-fpsyg.2026.1694782",
+    "doi": "10.3389/fpsyg.2026.1694782",
+    "identifiers": {
+      "doi": "10.3389/fpsyg.2026.1694782",
+      "url": null,
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "",
+    "abstract": null,
+    "language": "English",
+    "categories": [
+      "Uncategorized"
+    ],
+    "keywords": [],
+    "publication": {
+      "type": null,
+      "publishedDate": null,
+      "year": null
+    },
+    "journal": {
+      "name": null,
+      "abbreviation": null,
+      "issn": null,
+      "volume": null,
+      "issue": null,
+      "pages": {
+        "start": null,
+        "end": null
+      }
+    },
+    "authors": [],
+    "access": {
+      "status": "unknown",
+      "license": null,
+      "source": null,
+      "licenseUrl": null,
+      "sourceUrl": null,
+      "localPdfUrl": null,
       "researchGateUrl": null
     },
     "visibility": {

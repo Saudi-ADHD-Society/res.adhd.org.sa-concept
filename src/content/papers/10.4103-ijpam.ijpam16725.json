@@ -1,0 +1,54 @@
+{
+  "id": "doi-10.4103-ijpam.ijpam16725",
+  "slug": "10.4103-ijpam.ijpam16725",
+  "doi": "10.4103/ijpam.ijpam_167_25",
+  "identifiers": {
+    "doi": "10.4103/ijpam.ijpam_167_25"
+  },
+  "title": "Electronic Device Use and Attention-Deficit/Hyperactivity Disorder: A Cross-Sectional Study in Saudi Arabia",
+  "language": "English",
+  "categories": [
+    "Uncategorized"
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": null,
+    "sourceUrl": "https://doi.org/10.4103/ijpam.ijpam_167_25",
+    "localPdfUrl": null,
+    "researchGateUrl": null,
+    "license": "cc-by-nc-nd"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "abstract": "Background: Attention-deficit/hyperactivity disorder (ADHD) is a neurodevelopmental disorder characterized by persistent patterns of inattention, hyperactivity, and impulsivity.\n\nObjectives: This cross-sectional study aimed to investigate the association between electronic device use and ADHD symptoms in school-aged children in Saudi Arabia.\n\nMethods: The study was conducted in developmental and behavioral clinics across several cities in Saudi Arabia. A total of 140 children aged 6 to 12 years with a clinically confirmed diagnosis of ADHD, based on Diagnostic and Statistical Manual of Mental Disorders , 5th Edition criteria and diagnosed by a clinician, participated in the study. Participants were recruited via convenience sampling from the participating clinics. Data were collected using the Conners’ Parent Rating Scale-Revised (CPRS-R) to assess ADHD symptom severity and a study-specific questionnaire gathering information on electronic device usage patterns, parental monitoring practices, sleep quality, academic performance, and social behavior. Statistical analyses included descriptive statistics, chi-square tests, one-way analysis of variance, and multiple regression analysis. The primary outcome measure was the CPRS-R score, reflecting the severity of ADHD symptoms. Secondary outcome measures included parent-reported sleep quality, academic performance, and social behavior, derived from the study-specific questionnaire.\n\nResults: The mean age of participants was 8.7 ± 1.9 years, and 63.6% were male. The most commonly used devices were television (90%) and cell phones (60%). The average daily screen time was 3.97 ± 2.7 hours. Parental monitoring of screen time was reported by 72.55% of parents. A statistically significant difference was found in the frequency of parental monitoring ( P\n= 0.007). Children whose parents actively monitored their screen time daily had a higher percentage of “normal” CPRS-R scores (66%) compared to those monitored less frequently.\n\nConclusion: While electronic device use is prevalent among school-aged children with ADHD in Saudi Arabia, this study found no significant association between overall device use and ADHD symptom severity. However, the frequency of parental monitoring of screen time appears to be positively associated with fewer ADHD symptom severity.",
+  "authors": [
+    {
+      "given": "Fatimah Saeed",
+      "family": "Alahmari",
+      "sequence": 1
+    },
+    {
+      "given": "Arwa",
+      "family": "AlMubaydh",
+      "sequence": 2
+    },
+    {
+      "given": "Maha",
+      "family": "Aldosari",
+      "sequence": 3
+    },
+    {
+      "given": "Marwah",
+      "family": "Aloufi",
+      "sequence": 4
+    }
+  ],
+  "publication": {
+    "year": 2026
+  },
+  "journal": {
+    "name": "International Journal of Pediatrics and Adolescent Medicine",
+    "issn": "2352-6467"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "doi-10.3389-fpsyg.2026.1694782",
+  "slug": "10.3389-fpsyg.2026.1694782",
+  "doi": "10.3389/fpsyg.2026.1694782",
+  "identifiers": {
+    "doi": "10.3389/fpsyg.2026.1694782"
+  },
+  "title": "Social–Emotional Learning for students with ADHD: investigating teacher perspectives and practices",
+  "language": "English",
+  "categories": [
+    "Uncategorized"
+  ],
+  "access": {
+    "status": "unknown",
+    "licenseUrl": null,
+    "sourceUrl": "https://public-pages-files-2025.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1694782/pdf",
+    "localPdfUrl": null,
+    "researchGateUrl": null
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "abstract": "Background: Social-Emotional Learning (SEL) is a powerful approach for helping students develop essential life skills. For students with Attention-Deficit/Hyperactivity Disorder (ADHD), these skills are particularly vital. The five core competencies of SEL directly address the executive function deficits that often accompany ADHD. While SEL is essential for the holistic and academic success of these students, its effective implementation depends heavily on teachers’ attitudes and beliefs. This study investigates teacher perceptions and practices regarding SEL for students with ADHD and identifies the specific challenges they face.\n\nMethods: The study employed a mixed-methods approach, utilizing a self-reporting quantitative survey supplemented by three qualitative open-ended questions. The survey administered to 144 primary school teachers (91 female, 53 male). Data analysis focused on how perceptions and practices varied across demographic factors, including gender, job title, experience, and academic qualifications.\n\nResults: Teachers’ perceptions and practices of SEL for students with ADHD differ significantly based on gender; however, no significant differences were found regarding job title, years of experience, or academic degree. Integrated findings from both quantitative and qualitative data indicate that while teachers acknowledge the profound value of SEL, they face substantial systemic barriers that hinder full implementation in the classroom.\n\nConclusion: There is a clear gap between teachers’ pedagogical beliefs and their actual classroom practices. Closing this gap between belief and practice is essential for the holistic development and academic success of students with ADHD. Without dedicated resources and institutional support, the full potential of SEL to positively impact students with ADHD will remain largely unrealized.",
+  "authors": [
+    {
+      "given": "Ghram A. S.",
+      "family": "Kushi",
+      "sequence": 1
+    },
+    {
+      "given": "Keetam D. F.",
+      "family": "Alkahtani",
+      "sequence": 2
+    }
+  ],
+  "publication": {
+    "year": 2026
+  },
+  "journal": {
+    "name": "Frontiers in Psychology",
+    "issn": "1664-1078",
+    "volume": "17"
+  }
+}

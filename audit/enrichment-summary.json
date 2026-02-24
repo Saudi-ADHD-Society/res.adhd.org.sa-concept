@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-02-02T11:52:32.026Z",
+  "timestamp": "2026-02-24T12:31:08.953Z",
   "stats": {
-    "total": 54,
-    "updated": 5,
-    "skipped": 49,
+    "total": 1,
+    "updated": 1,
+    "skipped": 0,
     "errors": 0,
-    "abstractsUpdated": 5,
+    "abstractsUpdated": 0,
     "pdfUrlsUpdated": 1,
     "authorsUpdated": 0,
     "journalNamesUpdated": 0,
