@@ -549,8 +549,8 @@ const CpgAboutDevelopmentPage = ({ basePath = '/res.adhd.org.sa-concept/' , loca
                 </a>
               </div>
               <div className="border border-slate-200 rounded-lg p-4 bg-white">
-                <img 
-                  src={withBase({ basePath = '/res.adhd.org.sa-concept/', locale = 'en' })} 
+                <img
+                  src={withBase(basePath, 'images/ipgrp-registration-receipt.png')}
                   alt="IPGRP Protocol Registration Receipt for the Saudi National ADHD CPG" 
                   className="w-full max-w-2xl mx-auto rounded-lg shadow-sm"
                 />

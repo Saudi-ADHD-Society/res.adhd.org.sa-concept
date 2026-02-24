@@ -12,8 +12,8 @@ const CpgAboutPublicationsPage = ({ basePath = '/res.adhd.org.sa-concept/' , loc
     <div className="bg-white border border-slate-200 rounded-xl p-6 shadow-sm">
       <div className="flex flex-col md:flex-row gap-6">
         <div className="md:w-1/4 flex-shrink-0">
-          <img 
-            src={withBase({ basePath = '/res.adhd.org.sa-concept/', locale = 'en' })} 
+          <img
+            src={withBase(basePath, 'images/saudi-adhd-cpg-thumb.png')}
             alt="ADHD CPG English thumbnail" 
             className="w-full rounded-lg border border-slate-200"
           />
@@ -51,8 +51,8 @@ const CpgAboutPublicationsPage = ({ basePath = '/res.adhd.org.sa-concept/' , loc
     <div className="bg-white border border-slate-200 rounded-xl p-6 shadow-sm">
       <div className="flex flex-col md:flex-row gap-6">
         <div className="md:w-1/4 flex-shrink-0">
-          <img 
-            src={withBase({ basePath = '/res.adhd.org.sa-concept/', locale = 'en' })} 
+          <img
+            src={withBase(basePath, 'images/saudi-adhd-cpg-ar-thumb.png')}
             alt="Saudi ADHD CPG Arabic thumbnail" 
             className="w-full rounded-lg border border-slate-200"
           />
@@ -90,8 +90,8 @@ const CpgAboutPublicationsPage = ({ basePath = '/res.adhd.org.sa-concept/' , loc
     <div className="bg-white border border-slate-200 rounded-xl p-6 shadow-sm">
       <div className="flex flex-col md:flex-row gap-6">
         <div className="md:w-1/4 flex-shrink-0">
-          <img 
-            src={withBase({ basePath = '/res.adhd.org.sa-concept/', locale = 'en' })} 
+          <img
+            src={withBase(basePath, 'images/paper2-thumb.png')}
             alt="Adaptation study thumbnail" 
             className="w-full rounded-lg border border-slate-200"
           />
@@ -120,8 +120,8 @@ const CpgAboutPublicationsPage = ({ basePath = '/res.adhd.org.sa-concept/' , loc
     <div className="bg-white border border-slate-200 rounded-xl p-6 shadow-sm">
       <div className="flex flex-col md:flex-row gap-6">
         <div className="md:w-1/4 flex-shrink-0">
-          <img 
-            src={withBase({ basePath = '/res.adhd.org.sa-concept/', locale = 'en' })} 
+          <img
+            src={withBase(basePath, 'images/journal-pone-thumb.png')}
             alt="Thumbnail of ADHD CPG appraisal paper" 
             className="w-full rounded-lg border border-slate-200"
           />
@@ -161,8 +161,8 @@ const CpgAboutPublicationsPage = ({ basePath = '/res.adhd.org.sa-concept/' , loc
     <div className="bg-white border border-slate-200 rounded-xl p-6 shadow-sm">
       <div className="flex flex-col md:flex-row gap-6">
         <div className="md:w-1/4 flex-shrink-0">
-          <img 
-            src={withBase({ basePath = '/res.adhd.org.sa-concept/', locale = 'en' })} 
+          <img
+            src={withBase(basePath, 'images/prospero-thumb.png')}
             alt="prospero thumbnail" 
             className="w-full rounded-lg border border-slate-200"
           />
