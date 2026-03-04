@@ -1,0 +1,100 @@
+{
+  "id": "doi-10.5455-medarh.2025.79.440-449",
+  "slug": "10.5455-medarh.2025.79.440-449",
+  "doi": "10.5455/medarh.2025.79.440-449",
+  "identifiers": {
+    "doi": "10.5455/medarh.2025.79.440-449"
+  },
+  "title": "Determinants of Pediatricians' Satisfaction With Managing Developmental and Behavioral Disorders in Saudi Arabia",
+  "language": "English",
+  "categories": [
+    "Uncategorized"
+  ],
+  "access": {
+    "status": "open",
+    "licenseUrl": null,
+    "sourceUrl": "https://doi.org/10.5455/medarh.2025.79.440-449",
+    "localPdfUrl": null,
+    "researchGateUrl": null,
+    "license": "cc-by"
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "abstract": "Background: Pediatricians play a crucial role in the management of developmental and behavioral disorders in children. Understanding the factors influencing their satisfaction is essential for improving the quality of care. However, in Saudi Arabia, pediatricians’ satisfaction with their ability to manage developmental and behavioral disorders remains underexplored. Objective: To assess factors influencing pediatricians’ satisfaction when managing developmental and behavioral disorders in Saudi Arabia. Methods: A nationwide cross-sectional study was conducted between August 2021 and July 2022, using a validated questionnaire distributed electronically to all pediatricians registered with the Saudi Commission for Health Specialties. A total of 229 pediatricians participated in this study. Data on sociodemographic characteristics, clinical practice, training, and institutional support were collected and analyzed. Results: Satisfaction levels varied significantly according to nationality, training location, and years of experience. Saudi pediatricians, those trained locally, and those with more professional experience reported a higher satisfaction than others. Institutional support and clinical exposure were key factors that were positively associated with satisfaction. Conclusion: This study highlights the importance of clinical and institutional factors in shaping pediatricians’ satisfaction with the management of developmental and behavioral disorders. These findings suggest that targeted interventions focusing on training and support can enhance the developmental care of pediatricians in Saudi Arabia.",
+  "authors": [
+    {
+      "given": "Faisal",
+      "family": "AlQurashi",
+      "sequence": 1
+    },
+    {
+      "given": "Sarah",
+      "family": "AlShawaf",
+      "sequence": 2
+    },
+    {
+      "given": "Dina",
+      "family": "Abdulghani",
+      "sequence": 3
+    },
+    {
+      "given": "Razan",
+      "family": "AlAttas",
+      "sequence": 4
+    },
+    {
+      "given": "Hussain",
+      "family": "Jama",
+      "sequence": 5
+    },
+    {
+      "given": "Reem",
+      "family": "Alhakeem",
+      "sequence": 6
+    },
+    {
+      "given": "Mohammed",
+      "family": "Almomen",
+      "sequence": 7
+    },
+    {
+      "given": "Bushra",
+      "family": "Alabbas",
+      "sequence": 8
+    },
+    {
+      "given": "Sultan",
+      "family": "AlAli",
+      "sequence": 9
+    },
+    {
+      "given": "Abdulmohsen",
+      "family": "Almulhim",
+      "sequence": 10
+    },
+    {
+      "given": "Ibtisam",
+      "family": "Alkhamis",
+      "sequence": 11
+    },
+    {
+      "given": "Bashair",
+      "family": "Alabkari",
+      "sequence": 12
+    }
+  ],
+  "publication": {
+    "year": 2025
+  },
+  "journal": {
+    "name": "Medical Archives",
+    "issn": "0350-199X",
+    "volume": "79",
+    "issue": "6",
+    "pages": {
+      "start": "440",
+      "end": null
+    }
+  }
+}

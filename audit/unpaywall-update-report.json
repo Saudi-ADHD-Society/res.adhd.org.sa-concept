@@ -1,8 +1,12 @@
 [
   {
-    "slug": "10.3389-fpsyg.2026.1694782",
-    "doi": "10.3389/fpsyg.2026.1694782",
-    "status": "error",
-    "error": "DOI not found in Unpaywall"
+    "slug": "10.5455-medarh.2025.79.440-449",
+    "doi": "10.5455/medarh.2025.79.440-449",
+    "status": "updated",
+    "updatedFields": [
+      "access.status",
+      "access.sourceUrl",
+      "access.license"
+    ]
   }
 ]
