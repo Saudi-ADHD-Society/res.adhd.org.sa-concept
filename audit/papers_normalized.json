@@ -20036,5 +20036,54 @@
       "hidden": false
     },
     "legacy": {}
+  },
+  {
+    "id": "doi-10.57197-jdr-2026-0805",
+    "slug": "10.57197-jdr-2026-0805",
+    "doi": "10.57197/jdr-2026-0805",
+    "identifiers": {
+      "doi": "10.57197/jdr-2026-0805",
+      "url": null,
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "",
+    "abstract": null,
+    "language": "English",
+    "categories": [
+      "Uncategorized"
+    ],
+    "keywords": [],
+    "publication": {
+      "type": null,
+      "publishedDate": null,
+      "year": null
+    },
+    "journal": {
+      "name": null,
+      "abbreviation": null,
+      "issn": null,
+      "volume": null,
+      "issue": null,
+      "pages": {
+        "start": null,
+        "end": null
+      }
+    },
+    "authors": [],
+    "access": {
+      "status": "unknown",
+      "license": null,
+      "source": null,
+      "licenseUrl": null,
+      "sourceUrl": null,
+      "localPdfUrl": null,
+      "researchGateUrl": null
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
   }
 ]
