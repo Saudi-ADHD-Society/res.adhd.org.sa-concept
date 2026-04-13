@@ -196,6 +196,93 @@
     "legacy": {}
   },
   {
+    "id": "doi-10.3390-ijerph23040436",
+    "slug": "10.3390-ijerph23040436",
+    "doi": "10.3390/ijerph23040436",
+    "identifiers": {
+      "doi": "10.3390/ijerph23040436",
+      "url": null,
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "Prevalence of ADHD Among Saudi Children and Adolescents",
+    "abstract": "<jats:p>Attention-deficit hyperactivity disorder (ADHD) is a neurodevelopmental disorder that begins in childhood and may persist into adulthood, characterized by inattention, impulsivity, and hyperactivity leading to functional impairment. The global prevalence in children and adolescents ranges from 5–7%, yet data from the Eastern Province of Saudi Arabia remain limited. This study determined the prevalence of hyperactive/impulsive and inattentive symptoms among children and adolescents aged 4–18 years and identified associated factors. A cross-sectional study was conducted across major cities using validated Arabic versions of the SNAP-IV and NICHQ Vanderbilt Assessment Scale distributed online. The survey assessed ADHD symptoms, oppositional defiant disorder, conduct disorder, anxiety/depression, functional impairment, and prenatal and perinatal risk factors, with DSM-based scoring and multivariable logistic regression to identify predictors. Among 920 participants (mean age 10.7 years; 52.9% boys), 12.7% met criteria for ADHD. The inattentive subtype was most common, followed by combined and hyperactive/impulsive types. Affected children and adolescents showed academic and interpersonal difficulties. Significant predictors included younger age, birth weight &lt;1.5 kg, psychiatric history, previous ADHD diagnosis, and family history of psychiatric or neurological disorders. ADHD symptoms were relatively common and associated with functional impairment and identifiable developmental and familial risk factors.</jats:p>",
+    "language": "English",
+    "categories": [
+      "Uncategorized"
+    ],
+    "keywords": [],
+    "publication": {
+      "type": null,
+      "publishedDate": null,
+      "year": 2026
+    },
+    "journal": {
+      "name": "International Journal of Environmental Research and Public Health",
+      "abbreviation": null,
+      "issn": "1660-4601",
+      "volume": "23",
+      "issue": "4",
+      "pages": {
+        "start": "436",
+        "end": null
+      }
+    },
+    "authors": [
+      {
+        "given": "Faisal O.",
+        "family": "AlQurashi",
+        "orcid": "https://orcid.org/0000-0003-3411-819X",
+        "sequence": 1
+      },
+      {
+        "given": "Renad A.",
+        "family": "Alrasan",
+        "orcid": "https://orcid.org/0009-0008-6739-1858",
+        "sequence": 2
+      },
+      {
+        "given": "Reem N.",
+        "family": "Mohamed",
+        "sequence": 3
+      },
+      {
+        "given": "Nora M.",
+        "family": "Alzahrani",
+        "sequence": 4
+      },
+      {
+        "given": "Alea A.",
+        "family": "Mohammedhussain",
+        "sequence": 5
+      },
+      {
+        "given": "Nersyan N.",
+        "family": "Sharbini",
+        "sequence": 6
+      },
+      {
+        "given": "Bayan M.",
+        "family": "Almanasif",
+        "sequence": 7
+      }
+    ],
+    "access": {
+      "status": "open",
+      "license": "cc-by",
+      "source": null,
+      "licenseUrl": null,
+      "sourceUrl": "https://www.mdpi.com/1660-4601/23/4/436/pdf?version=1774882699",
+      "localPdfUrl": null,
+      "researchGateUrl": null
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
+  },
+  {
     "id": "doi-10.63332-joph.v6i1.3930",
     "slug": "10.63332-joph.v6i1.3930",
     "doi": "10.63332/joph.v6i1.3930",
@@ -20081,11 +20168,11 @@
     "legacy": {}
   },
   {
-    "id": "doi-10.18488-73.v14i2.4858",
-    "slug": "10.18488-73.v14i2.4858",
-    "doi": "10.18488/73.v14i2.4858",
+    "id": "doi-10.1177-00220221251406572",
+    "slug": "10.1177-00220221251406572",
+    "doi": "10.1177/00220221251406572",
     "identifiers": {
-      "doi": "10.18488/73.v14i2.4858",
+      "doi": "10.1177/00220221251406572",
       "url": null,
       "pmid": null,
       "pmcid": null,
@@ -20130,11 +20217,11 @@
     "legacy": {}
   },
   {
-    "id": "doi-10.3390-ijerph23040436",
-    "slug": "10.3390-ijerph23040436",
-    "doi": "10.3390/ijerph23040436",
+    "id": "doi-10.18488-73.v14i2.4858",
+    "slug": "10.18488-73.v14i2.4858",
+    "doi": "10.18488/73.v14i2.4858",
     "identifiers": {
-      "doi": "10.3390/ijerph23040436",
+      "doi": "10.18488/73.v14i2.4858",
       "url": null,
       "pmid": null,
       "pmcid": null,
