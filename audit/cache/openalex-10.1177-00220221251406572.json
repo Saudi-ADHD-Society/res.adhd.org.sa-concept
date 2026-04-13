@@ -1,0 +1,994 @@
+{
+  "id": "https://openalex.org/W7125901132",
+  "doi": "https://doi.org/10.1177/00220221251406572",
+  "title": "A Systematic Review of Mental Health in the Arab Region",
+  "display_name": "A Systematic Review of Mental Health in the Arab Region",
+  "publication_year": 2026,
+  "publication_date": "2026-01-28",
+  "ids": {
+    "openalex": "https://openalex.org/W7125901132",
+    "doi": "https://doi.org/10.1177/00220221251406572"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1177/00220221251406572",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1177/00220221251406572",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S23753256",
+      "display_name": "Journal of Cross-Cultural Psychology",
+      "issn_l": "0022-0221",
+      "issn": [
+        "0022-0221",
+        "1552-5422"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Cross-Cultural Psychology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5090383077",
+        "display_name": "Yusra Alshawwa",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I111088046",
+          "display_name": "Boston University",
+          "ror": "https://ror.org/05qwgg493",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I111088046"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Yusra Alshawwa",
+      "raw_affiliation_strings": [
+        "Boston University, MA, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Boston University, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I111088046"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": null,
+        "display_name": "Catherine Caldwell-Harris",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I111088046",
+          "display_name": "Boston University",
+          "ror": "https://ror.org/05qwgg493",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I111088046"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Catherine Caldwell-Harris",
+      "raw_affiliation_strings": [
+        "Boston University, MA, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Boston University, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I111088046"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5090383077"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I111088046"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 60.7853,
+  "has_fulltext": false,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.99211265,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 99
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10272",
+    "display_name": "Mental Health Treatment and Access",
+    "score": 0.03700000047683716,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3207",
+      "display_name": "Social Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10272",
+      "display_name": "Mental Health Treatment and Access",
+      "score": 0.03700000047683716,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10509",
+      "display_name": "Religion, Spirituality, and Psychology",
+      "score": 0.029200000688433647,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3306",
+        "display_name": "Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11295",
+      "display_name": "Counseling Practices and Supervision",
+      "score": 0.02810000069439411,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/mental-health",
+      "display_name": "Mental health",
+      "score": 0.7138000130653381
+    },
+    {
+      "id": "https://openalex.org/keywords/psychological-intervention",
+      "display_name": "Psychological intervention",
+      "score": 0.6266999840736389
+    },
+    {
+      "id": "https://openalex.org/keywords/spirituality",
+      "display_name": "Spirituality",
+      "score": 0.5766000151634216
+    },
+    {
+      "id": "https://openalex.org/keywords/diversity",
+      "display_name": "Diversity (politics)",
+      "score": 0.5357999801635742
+    },
+    {
+      "id": "https://openalex.org/keywords/theme",
+      "display_name": "Theme (computing)",
+      "score": 0.4966000020503998
+    },
+    {
+      "id": "https://openalex.org/keywords/cultural-diversity",
+      "display_name": "Cultural diversity",
+      "score": 0.41440001130104065
+    },
+    {
+      "id": "https://openalex.org/keywords/global-mental-health",
+      "display_name": "Global mental health",
+      "score": 0.39730000495910645
+    },
+    {
+      "id": "https://openalex.org/keywords/palestine",
+      "display_name": "Palestine",
+      "score": 0.36809998750686646
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C134362201",
+      "wikidata": "https://www.wikidata.org/wiki/Q317309",
+      "display_name": "Mental health",
+      "level": 2,
+      "score": 0.7138000130653381
+    },
+    {
+      "id": "https://openalex.org/C27415008",
+      "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+      "display_name": "Psychological intervention",
+      "level": 2,
+      "score": 0.6266999840736389
+    },
+    {
+      "id": "https://openalex.org/C514793146",
+      "wikidata": "https://www.wikidata.org/wiki/Q168796",
+      "display_name": "Spirituality",
+      "level": 3,
+      "score": 0.5766000151634216
+    },
+    {
+      "id": "https://openalex.org/C2781316041",
+      "wikidata": "https://www.wikidata.org/wiki/Q1230584",
+      "display_name": "Diversity (politics)",
+      "level": 2,
+      "score": 0.5357999801635742
+    },
+    {
+      "id": "https://openalex.org/C33566652",
+      "wikidata": "https://www.wikidata.org/wiki/Q1065927",
+      "display_name": "Theme (computing)",
+      "level": 2,
+      "score": 0.4966000020503998
+    },
+    {
+      "id": "https://openalex.org/C125209646",
+      "wikidata": "https://www.wikidata.org/wiki/Q1338878",
+      "display_name": "Cultural diversity",
+      "level": 2,
+      "score": 0.41440001130104065
+    },
+    {
+      "id": "https://openalex.org/C2779943754",
+      "wikidata": "https://www.wikidata.org/wiki/Q5570863",
+      "display_name": "Global mental health",
+      "level": 3,
+      "score": 0.39730000495910645
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.3785000145435333
+    },
+    {
+      "id": "https://openalex.org/C114362828",
+      "wikidata": "https://www.wikidata.org/wiki/Q23792",
+      "display_name": "Palestine",
+      "level": 2,
+      "score": 0.36809998750686646
+    },
+    {
+      "id": "https://openalex.org/C3651065",
+      "wikidata": "https://www.wikidata.org/wiki/Q7204",
+      "display_name": "Middle East",
+      "level": 2,
+      "score": 0.35910001397132874
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.3353999853134155
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.32589998841285706
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.31949999928474426
+    },
+    {
+      "id": "https://openalex.org/C4445939",
+      "wikidata": "https://www.wikidata.org/wiki/Q432",
+      "display_name": "Islam",
+      "level": 2,
+      "score": 0.3154999911785126
+    },
+    {
+      "id": "https://openalex.org/C3020486378",
+      "wikidata": "https://www.wikidata.org/wiki/Q5188450",
+      "display_name": "Culturally appropriate",
+      "level": 2,
+      "score": 0.31459999084472656
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.31290000677108765
+    },
+    {
+      "id": "https://openalex.org/C2994474205",
+      "wikidata": "https://www.wikidata.org/wiki/Q34394",
+      "display_name": "Belief system",
+      "level": 2,
+      "score": 0.30329999327659607
+    },
+    {
+      "id": "https://openalex.org/C198531522",
+      "wikidata": "https://www.wikidata.org/wiki/Q485146",
+      "display_name": "Sample (material)",
+      "level": 2,
+      "score": 0.29679998755455017
+    },
+    {
+      "id": "https://openalex.org/C3018149544",
+      "wikidata": "https://www.wikidata.org/wiki/Q5188450",
+      "display_name": "Culturally sensitive",
+      "level": 2,
+      "score": 0.2937000095844269
+    },
+    {
+      "id": "https://openalex.org/C109359841",
+      "wikidata": "https://www.wikidata.org/wiki/Q728944",
+      "display_name": "Inclusion (mineral)",
+      "level": 2,
+      "score": 0.26589998602867126
+    },
+    {
+      "id": "https://openalex.org/C2992397558",
+      "wikidata": "https://www.wikidata.org/wiki/Q5188450",
+      "display_name": "Cultural sensitivity",
+      "level": 2,
+      "score": 0.2590999901294708
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.257099986076355
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1177/00220221251406572",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/00220221251406572",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S23753256",
+        "display_name": "Journal of Cross-Cultural Psychology",
+        "issn_l": "0022-0221",
+        "issn": [
+          "0022-0221",
+          "1552-5422"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [
+          "SAGE Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Cross-Cultural Psychology",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 79,
+  "referenced_works": [
+    "https://openalex.org/W117128932",
+    "https://openalex.org/W634618236",
+    "https://openalex.org/W1510661329",
+    "https://openalex.org/W1524061328",
+    "https://openalex.org/W1919494862",
+    "https://openalex.org/W1972106513",
+    "https://openalex.org/W1975764824",
+    "https://openalex.org/W1979290264",
+    "https://openalex.org/W2005114266",
+    "https://openalex.org/W2009805799",
+    "https://openalex.org/W2014394526",
+    "https://openalex.org/W2052515923",
+    "https://openalex.org/W2074400620",
+    "https://openalex.org/W2081400295",
+    "https://openalex.org/W2111871268",
+    "https://openalex.org/W2115375159",
+    "https://openalex.org/W2130836690",
+    "https://openalex.org/W2150152555",
+    "https://openalex.org/W2152678253",
+    "https://openalex.org/W2277780518",
+    "https://openalex.org/W2281954403",
+    "https://openalex.org/W2298176322",
+    "https://openalex.org/W2333074462",
+    "https://openalex.org/W2410469571",
+    "https://openalex.org/W2416205580",
+    "https://openalex.org/W2417136471",
+    "https://openalex.org/W2489987855",
+    "https://openalex.org/W2491231621",
+    "https://openalex.org/W2500328568",
+    "https://openalex.org/W2524621770",
+    "https://openalex.org/W2551047396",
+    "https://openalex.org/W2784033029",
+    "https://openalex.org/W2792196775",
+    "https://openalex.org/W2803346496",
+    "https://openalex.org/W2883170875",
+    "https://openalex.org/W2887470323",
+    "https://openalex.org/W2887765079",
+    "https://openalex.org/W2894486014",
+    "https://openalex.org/W2900737918",
+    "https://openalex.org/W2940691404",
+    "https://openalex.org/W2957537811",
+    "https://openalex.org/W2974849922",
+    "https://openalex.org/W3000291848",
+    "https://openalex.org/W3014028736",
+    "https://openalex.org/W3017085857",
+    "https://openalex.org/W3037059728",
+    "https://openalex.org/W3049466889",
+    "https://openalex.org/W3087793110",
+    "https://openalex.org/W3118615836",
+    "https://openalex.org/W3136616466",
+    "https://openalex.org/W3149815010",
+    "https://openalex.org/W3179514119",
+    "https://openalex.org/W3186592529",
+    "https://openalex.org/W3203632659",
+    "https://openalex.org/W4200081679",
+    "https://openalex.org/W4231544362",
+    "https://openalex.org/W4240152590",
+    "https://openalex.org/W4282943139",
+    "https://openalex.org/W4285603912",
+    "https://openalex.org/W4286001773",
+    "https://openalex.org/W4291144014",
+    "https://openalex.org/W4312079019",
+    "https://openalex.org/W4313549082",
+    "https://openalex.org/W4327850096",
+    "https://openalex.org/W4376115872",
+    "https://openalex.org/W4387964957",
+    "https://openalex.org/W4391689637",
+    "https://openalex.org/W4393861190",
+    "https://openalex.org/W4394685675",
+    "https://openalex.org/W4400363090",
+    "https://openalex.org/W4402200049",
+    "https://openalex.org/W4402684442",
+    "https://openalex.org/W4402871918",
+    "https://openalex.org/W4403635035",
+    "https://openalex.org/W4406369941",
+    "https://openalex.org/W4408299446",
+    "https://openalex.org/W4409511297",
+    "https://openalex.org/W4409695943",
+    "https://openalex.org/W4412487057"
+  ],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "Mental": [
+      0
+    ],
+    "health": [
+      1,
+      145
+    ],
+    "in": [
+      2,
+      94,
+      109,
+      119
+    ],
+    "the": [
+      3,
+      13,
+      37,
+      43,
+      65,
+      137,
+      154,
+      171
+    ],
+    "Arab": [
+      4,
+      38,
+      45,
+      66,
+      111,
+      128
+    ],
+    "region": [
+      5,
+      67
+    ],
+    "is": [
+      6,
+      139
+    ],
+    "explored": [
+      7
+    ],
+    "via": [
+      8
+    ],
+    "a": [
+      9,
+      69,
+      80
+    ],
+    "systematic": [
+      10
+    ],
+    "review": [
+      11
+    ],
+    "of": [
+      12,
+      28,
+      71
+    ],
+    "academic": [
+      14
+    ],
+    "literature,": [
+      15
+    ],
+    "highlighting": [
+      16
+    ],
+    "commonalities": [
+      17
+    ],
+    "across": [
+      18,
+      36,
+      136,
+      170
+    ],
+    "multiple": [
+      19
+    ],
+    "countries": [
+      20,
+      30
+    ],
+    "as": [
+      21,
+      23,
+      104
+    ],
+    "well": [
+      22
+    ],
+    "country-specific": [
+      24
+    ],
+    "differences.": [
+      25
+    ],
+    "A": [
+      26,
+      60
+    ],
+    "sample": [
+      27
+    ],
+    "seven": [
+      29
+    ],
+    "was": [
+      31,
+      55,
+      63
+    ],
+    "selected": [
+      32
+    ],
+    "to": [
+      33,
+      92,
+      122
+    ],
+    "capture": [
+      34
+    ],
+    "diversity": [
+      35
+    ],
+    "region:": [
+      39
+    ],
+    "Kuwait,": [
+      40
+    ],
+    "Saudi": [
+      41
+    ],
+    "Arabia,": [
+      42
+    ],
+    "United": [
+      44
+    ],
+    "Emirates,": [
+      46
+    ],
+    "Palestine,": [
+      47
+    ],
+    "Lebanon,": [
+      48
+    ],
+    "Yemen": [
+      49
+    ],
+    "and": [
+      50,
+      73,
+      87,
+      98,
+      125,
+      135,
+      163,
+      167
+    ],
+    "Egypt.": [
+      51
+    ],
+    "The": [
+      52
+    ],
+    "research": [
+      53
+    ],
+    "literature": [
+      54
+    ],
+    "analyzed": [
+      56
+    ],
+    "for": [
+      57,
+      83,
+      141,
+      157
+    ],
+    "pertinent": [
+      58
+    ],
+    "themes.": [
+      59
+    ],
+    "dominant": [
+      61
+    ],
+    "theme": [
+      62
+    ],
+    "that": [
+      64,
+      76,
+      147,
+      161
+    ],
+    "has": [
+      68
+    ],
+    "myriad": [
+      70
+    ],
+    "cultural": [
+      72
+    ],
+    "religious": [
+      74
+    ],
+    "elements": [
+      75
+    ],
+    "render": [
+      77
+    ],
+    "Western-style": [
+      78
+    ],
+    "psychotherapy": [
+      79
+    ],
+    "limited": [
+      81
+    ],
+    "fit": [
+      82
+    ],
+    "local": [
+      84
+    ],
+    "needs.": [
+      85
+    ],
+    "Family": [
+      86
+    ],
+    "external": [
+      88
+    ],
+    "dynamics": [
+      89
+    ],
+    "are": [
+      90,
+      106,
+      116
+    ],
+    "relevant": [
+      91
+    ],
+    "include": [
+      93
+    ],
+    "therapy.": [
+      95
+    ],
+    "Integrating": [
+      96
+    ],
+    "religion": [
+      97
+    ],
+    "spirituality": [
+      99
+    ],
+    "could": [
+      100
+    ],
+    "also": [
+      101
+    ],
+    "be": [
+      102
+    ],
+    "beneficial,": [
+      103
+    ],
+    "they": [
+      105
+    ],
+    "deeply": [
+      107
+    ],
+    "embedded": [
+      108
+    ],
+    "many": [
+      110
+    ],
+    "beliefs.": [
+      112
+    ],
+    "Notably,": [
+      113
+    ],
+    "trauma-related": [
+      114
+    ],
+    "disorders": [
+      115
+    ],
+    "highly": [
+      117
+    ],
+    "prevalent": [
+      118
+    ],
+    "Palestine": [
+      120
+    ],
+    "due": [
+      121
+    ],
+    "ongoing": [
+      123
+    ],
+    "conflict": [
+      124
+    ],
+    "occupation.": [
+      126
+    ],
+    "Understanding": [
+      127
+    ],
+    "culture,": [
+      129
+    ],
+    "both": [
+      130
+    ],
+    "locally": [
+      131
+    ],
+    "within": [
+      132
+    ],
+    "each": [
+      133
+    ],
+    "country": [
+      134
+    ],
+    "region,": [
+      138
+    ],
+    "crucial": [
+      140
+    ],
+    "designing": [
+      142
+    ],
+    "effective": [
+      143
+    ],
+    "mental": [
+      144
+    ],
+    "approaches": [
+      146
+    ],
+    "enhance": [
+      148
+    ],
+    "psychological": [
+      149
+    ],
+    "outcomes.": [
+      150
+    ],
+    "These": [
+      151
+    ],
+    "findings": [
+      152
+    ],
+    "underscore": [
+      153
+    ],
+    "urgent": [
+      155
+    ],
+    "need": [
+      156
+    ],
+    "culturally": [
+      158
+    ],
+    "adapted": [
+      159
+    ],
+    "interventions": [
+      160
+    ],
+    "consider": [
+      162
+    ],
+    "integrate": [
+      164
+    ],
+    "familial": [
+      165
+    ],
+    "structures": [
+      166
+    ],
+    "belief": [
+      168
+    ],
+    "frameworks": [
+      169
+    ],
+    "region.": [
+      172
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-03-25T23:56:10.502304",
+  "created_date": "2026-01-29T00:00:00"
+}

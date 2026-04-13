@@ -1,14 +1,11 @@
 [
   {
-    "slug": "10.3389-fpsyg.2026.1694782",
-    "doi": "10.3389/fpsyg.2026.1694782",
-    "updates": {
-      "access.sourceUrl": {
-        "source": "publisher",
-        "confidence": 0.75
-      }
-    },
-    "skipped": [],
+    "slug": "10.18488-73.v14i2.4858",
+    "doi": "10.18488/73.v14i2.4858",
+    "updates": {},
+    "skipped": [
+      "grobid - no local PDF"
+    ],
     "errors": []
   }
 ]

@@ -1,0 +1,777 @@
+{
+  "id": "https://openalex.org/W7138902643",
+  "doi": "https://doi.org/10.1080/23279095.2026.2647060",
+  "title": "The mediating role of working memory in the relationship between emotion dysregulation and social functioning in Saudi adults with ADHD",
+  "display_name": "The mediating role of working memory in the relationship between emotion dysregulation and social functioning in Saudi adults with ADHD",
+  "publication_year": 2026,
+  "publication_date": "2026-03-19",
+  "ids": {
+    "openalex": "https://openalex.org/W7138902643",
+    "doi": "https://doi.org/10.1080/23279095.2026.2647060",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/41855555"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1080/23279095.2026.2647060",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1080/23279095.2026.2647060",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210220878",
+      "display_name": "Applied Neuropsychology Adult",
+      "issn_l": "2327-9095",
+      "issn": [
+        "2327-9095",
+        "2327-9109"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320547"
+      ],
+      "host_organization_lineage_names": [
+        "Taylor & Francis"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Applied Neuropsychology: Adult",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5052009551",
+        "display_name": "Suad Mohammed Omar Abuzaid",
+        "orcid": "https://orcid.org/0000-0002-8620-7189"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I23075662",
+          "display_name": "Taibah University",
+          "ror": "https://ror.org/01xv1nn60",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I23075662"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Suad Mohammed Omar Abuzaid",
+      "raw_affiliation_strings": [
+        "College of Education, Special Education, Taibah University, Madinah, Saudi Arabia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Education, Special Education, Taibah University, Madinah, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I23075662"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5052009551"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I23075662"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.92970719,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "1",
+    "last_page": "6"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10537",
+    "display_name": "Attention Deficit Hyperactivity Disorder",
+    "score": 0.6826000213623047,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.6826000213623047,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10316",
+      "display_name": "Sleep and related disorders",
+      "score": 0.012199999764561653,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10042",
+      "display_name": "Neural and Behavioral Psychology Studies",
+      "score": 0.009800000116229057,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/working-memory",
+      "display_name": "Working memory",
+      "score": 0.6054999828338623
+    },
+    {
+      "id": "https://openalex.org/keywords/social-functioning",
+      "display_name": "Social functioning",
+      "score": 0.5157999992370605
+    },
+    {
+      "id": "https://openalex.org/keywords/young-adult",
+      "display_name": "Young adult",
+      "score": 0.2971999943256378
+    },
+    {
+      "id": "https://openalex.org/keywords/association",
+      "display_name": "Association (psychology)",
+      "score": 0.26159998774528503
+    },
+    {
+      "id": "https://openalex.org/keywords/attention-deficit-hyperactivity-disorder",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "score": 0.25360000133514404
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.7705000042915344
+    },
+    {
+      "id": "https://openalex.org/C21963081",
+      "wikidata": "https://www.wikidata.org/wiki/Q11337567",
+      "display_name": "Working memory",
+      "level": 3,
+      "score": 0.6054999828338623
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.5523999929428101
+    },
+    {
+      "id": "https://openalex.org/C2992104508",
+      "wikidata": "https://www.wikidata.org/wiki/Q1413287",
+      "display_name": "Social functioning",
+      "level": 3,
+      "score": 0.5157999992370605
+    },
+    {
+      "id": "https://openalex.org/C180747234",
+      "wikidata": "https://www.wikidata.org/wiki/Q23373",
+      "display_name": "Cognitive psychology",
+      "level": 1,
+      "score": 0.3379000127315521
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.3100000023841858
+    },
+    {
+      "id": "https://openalex.org/C205545832",
+      "wikidata": "https://www.wikidata.org/wiki/Q17156455",
+      "display_name": "Young adult",
+      "level": 2,
+      "score": 0.2971999943256378
+    },
+    {
+      "id": "https://openalex.org/C142853389",
+      "wikidata": "https://www.wikidata.org/wiki/Q744778",
+      "display_name": "Association (psychology)",
+      "level": 2,
+      "score": 0.26159998774528503
+    },
+    {
+      "id": "https://openalex.org/C2780783007",
+      "wikidata": "https://www.wikidata.org/wiki/Q181923",
+      "display_name": "Attention deficit hyperactivity disorder",
+      "level": 2,
+      "score": 0.25360000133514404
+    },
+    {
+      "id": "https://openalex.org/C2987946170",
+      "wikidata": "https://www.wikidata.org/wiki/Q853725",
+      "display_name": "Social relationship",
+      "level": 2,
+      "score": 0.250900000333786
+    },
+    {
+      "id": "https://openalex.org/C86772948",
+      "wikidata": "https://www.wikidata.org/wiki/Q1413287",
+      "display_name": "Social skills",
+      "level": 2,
+      "score": 0.25029999017715454
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1080/23279095.2026.2647060",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1080/23279095.2026.2647060",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210220878",
+        "display_name": "Applied Neuropsychology Adult",
+        "issn_l": "2327-9095",
+        "issn": [
+          "2327-9095",
+          "2327-9109"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547"
+        ],
+        "host_organization_lineage_names": [
+          "Taylor & Francis"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Applied Neuropsychology: Adult",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:41855555",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/41855555",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Applied neuropsychology. Adult",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "display_name": "Reduced inequalities",
+      "score": 0.5349792838096619,
+      "id": "https://metadata.un.org/sdg/10"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 30,
+  "referenced_works": [
+    "https://openalex.org/W1977268475",
+    "https://openalex.org/W1978693046",
+    "https://openalex.org/W1984602997",
+    "https://openalex.org/W2025218992",
+    "https://openalex.org/W2027884941",
+    "https://openalex.org/W2032658084",
+    "https://openalex.org/W2036359025",
+    "https://openalex.org/W2081004787",
+    "https://openalex.org/W2103436500",
+    "https://openalex.org/W2106131177",
+    "https://openalex.org/W2114565884",
+    "https://openalex.org/W2118483696",
+    "https://openalex.org/W2155679196",
+    "https://openalex.org/W2169121996",
+    "https://openalex.org/W2343014594",
+    "https://openalex.org/W2396755452",
+    "https://openalex.org/W2472491529",
+    "https://openalex.org/W2514081324",
+    "https://openalex.org/W2612435869",
+    "https://openalex.org/W2767069029",
+    "https://openalex.org/W2895003671",
+    "https://openalex.org/W2919163679",
+    "https://openalex.org/W2981519511",
+    "https://openalex.org/W3024253954",
+    "https://openalex.org/W3209953139",
+    "https://openalex.org/W4239030433",
+    "https://openalex.org/W4281687410",
+    "https://openalex.org/W4410281305",
+    "https://openalex.org/W4413167767",
+    "https://openalex.org/W4414166784"
+  ],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "4": [
+      76
+    ],
+    "20": [
+      65
+    ],
+    "50": [
+      67
+    ],
+    "88": [
+      46
+    ],
+    "5000": [
+      103
+    ],
+    "The": [
+      0,
+      28,
+      43,
+      69,
+      128
+    ],
+    "aim": [
+      1
+    ],
+    "study": [
+      2,
+      30,
+      44
+    ],
+    "was": [
+      3,
+      81,
+      100,
+      125,
+      148
+    ],
+    "to": [
+      4,
+      66,
+      83,
+      150
+    ],
+    "investigate": [
+      5
+    ],
+    "working": [
+      6,
+      132,
+      146
+    ],
+    "memory": [
+      7,
+      133,
+      147
+    ],
+    "as": [
+      8,
+      57
+    ],
+    "a": [
+      9,
+      32,
+      106
+    ],
+    "mediator": [
+      10
+    ],
+    "on": [
+      11
+    ],
+    "the": [
+      12,
+      60,
+      73,
+      85,
+      111,
+      116,
+      123,
+      135,
+      143
+    ],
+    "relationship": [
+      13,
+      136
+    ],
+    "between": [
+      14,
+      90,
+      137
+    ],
+    "emotional": [
+      15,
+      91
+    ],
+    "dysregulation": [
+      16,
+      92,
+      139
+    ],
+    "and": [
+      17,
+      93,
+      105,
+      140
+    ],
+    "social": [
+      18,
+      94,
+      141,
+      152
+    ],
+    "functioning": [
+      19
+    ],
+    "in": [
+      20,
+      59,
+      79
+    ],
+    "Saudi": [
+      21
+    ],
+    "Arabian": [
+      22
+    ],
+    "adults": [
+      23
+    ],
+    "with": [
+      24,
+      102
+    ],
+    "attention": [
+      25
+    ],
+    "deficit/hyperactivity": [
+      26
+    ],
+    "disorder.": [
+      27
+    ],
+    "present": [
+      29
+    ],
+    "has": [
+      31
+    ],
+    "non-experimental,": [
+      33
+    ],
+    "cross-sectional": [
+      34
+    ],
+    "correlational-causal": [
+      35
+    ],
+    "research": [
+      36
+    ],
+    "design,": [
+      37
+    ],
+    "carried": [
+      38
+    ],
+    "out": [
+      39
+    ],
+    "using": [
+      40
+    ],
+    "convenience": [
+      41
+    ],
+    "sampling.": [
+      42
+    ],
+    "included": [
+      45
+    ],
+    "adult": [
+      47
+    ],
+    "ADHD": [
+      48
+    ],
+    "patients": [
+      49
+    ],
+    "who": [
+      50
+    ],
+    "did": [
+      51,
+      119
+    ],
+    "not": [
+      52,
+      120
+    ],
+    "have": [
+      53
+    ],
+    "any": [
+      54
+    ],
+    "psychiatric": [
+      55
+    ],
+    "illness": [
+      56
+    ],
+    "specified": [
+      58
+    ],
+    "exclusion": [
+      61
+    ],
+    "criteria.": [
+      62
+    ],
+    "They": [
+      63
+    ],
+    "aged": [
+      64
+    ],
+    "years.": [
+      68
+    ],
+    "bootstrap": [
+      70
+    ],
+    "method": [
+      71
+    ],
+    "of": [
+      72,
+      88,
+      145
+    ],
+    "PROCESS": [
+      74
+    ],
+    "model": [
+      75
+    ],
+    "macro": [
+      77
+    ],
+    "program": [
+      78
+    ],
+    "SPSS,": [
+      80
+    ],
+    "used": [
+      82
+    ],
+    "examine": [
+      84
+    ],
+    "mediating": [
+      86,
+      97,
+      117
+    ],
+    "role": [
+      87
+    ],
+    "WM": [
+      89
+    ],
+    "functioning.": [
+      95,
+      153
+    ],
+    "A": [
+      96
+    ],
+    "effect": [
+      98,
+      118,
+      124
+    ],
+    "test": [
+      99
+    ],
+    "run": [
+      101
+    ],
+    "resamples": [
+      104
+    ],
+    "95%": [
+      107,
+      112
+    ],
+    "confident": [
+      108,
+      113
+    ],
+    "interval.": [
+      109
+    ],
+    "If": [
+      110
+    ],
+    "interval": [
+      114
+    ],
+    "for": [
+      115
+    ],
+    "contain": [
+      121
+    ],
+    "0,": [
+      122
+    ],
+    "considered": [
+      126
+    ],
+    "significant.": [
+      127
+    ],
+    "results": [
+      129
+    ],
+    "indicate": [
+      130
+    ],
+    "that": [
+      131
+    ],
+    "mediated": [
+      134
+    ],
+    "emotion": [
+      138
+    ],
+    "functioning:": [
+      142
+    ],
+    "development": [
+      144
+    ],
+    "related": [
+      149
+    ],
+    "improved": [
+      151
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-03-20T20:54:20.808490",
+  "created_date": "2026-03-20T00:00:00"
+}
