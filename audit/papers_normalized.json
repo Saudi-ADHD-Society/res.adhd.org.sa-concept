@@ -1,5 +1,66 @@
 [
   {
+    "id": "doi-10.1177-00220221251406572",
+    "slug": "10.1177-00220221251406572",
+    "doi": "10.1177/00220221251406572",
+    "identifiers": {
+      "doi": "10.1177/00220221251406572",
+      "url": null,
+      "pmid": null,
+      "pmcid": null,
+      "isbn": null
+    },
+    "title": "A Systematic Review of Mental Health in the Arab Region",
+    "abstract": "<jats:p>Mental health in the Arab region is explored via a systematic review of the academic literature, highlighting commonalities across multiple countries as well as country-specific differences. A sample of seven countries was selected to capture diversity across the Arab region: Kuwait, Saudi Arabia, the United Arab Emirates, Palestine, Lebanon, Yemen and Egypt. The research literature was analyzed for pertinent themes. A dominant theme was that the Arab region has a myriad of cultural and religious elements that render Western-style psychotherapy a limited fit for local needs. Family and external dynamics are relevant to include in therapy. Integrating religion and spirituality could also be beneficial, as they are deeply embedded in many Arab beliefs. Notably, trauma-related disorders are highly prevalent in Palestine due to ongoing conflict and occupation. Understanding Arab culture, both locally within each country and across the region, is crucial for designing effective mental health approaches that enhance psychological outcomes. These findings underscore the urgent need for culturally adapted interventions that consider and integrate familial structures and belief frameworks across the region.</jats:p>",
+    "language": "English",
+    "categories": [
+      "Uncategorized"
+    ],
+    "keywords": [],
+    "publication": {
+      "type": null,
+      "publishedDate": null,
+      "year": 2026
+    },
+    "journal": {
+      "name": "Journal of Cross-Cultural Psychology",
+      "abbreviation": null,
+      "issn": "0022-0221",
+      "volume": null,
+      "issue": null,
+      "pages": {
+        "start": null,
+        "end": null
+      }
+    },
+    "authors": [
+      {
+        "given": "Yusra",
+        "family": "Alshawwa",
+        "orcid": "https://orcid.org/0000-0001-9504-8127",
+        "sequence": 1
+      },
+      {
+        "given": "Catherine",
+        "family": "Caldwell-Harris",
+        "sequence": 2
+      }
+    ],
+    "access": {
+      "status": "closed",
+      "license": null,
+      "source": null,
+      "licenseUrl": null,
+      "sourceUrl": null,
+      "localPdfUrl": null,
+      "researchGateUrl": null
+    },
+    "visibility": {
+      "hidden": false
+    },
+    "legacy": {}
+  },
+  {
     "id": "doi-10.1007-s13369-025-10984-3",
     "slug": "10.1007-s13369-025-10984-3",
     "doi": "10.1007/s13369-025-10984-3",
@@ -20168,11 +20229,11 @@
     "legacy": {}
   },
   {
-    "id": "doi-10.1177-00220221251406572",
-    "slug": "10.1177-00220221251406572",
-    "doi": "10.1177/00220221251406572",
+    "id": "doi-10.1080-23279095.2026.2647060",
+    "slug": "10.1080-23279095.2026.2647060",
+    "doi": "10.1080/23279095.2026.2647060",
     "identifiers": {
-      "doi": "10.1177/00220221251406572",
+      "doi": "10.1080/23279095.2026.2647060",
       "url": null,
       "pmid": null,
       "pmcid": null,

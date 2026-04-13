@@ -1,0 +1,42 @@
+{
+  "id": "doi-10.1080-23279095.2026.2647060",
+  "slug": "10.1080-23279095.2026.2647060",
+  "doi": "10.1080/23279095.2026.2647060",
+  "identifiers": {
+    "doi": "10.1080/23279095.2026.2647060"
+  },
+  "title": "The mediating role of working memory in the relationship between emotion dysregulation and social functioning in Saudi adults with ADHD",
+  "language": "English",
+  "categories": [
+    "Uncategorized"
+  ],
+  "access": {
+    "status": "closed",
+    "licenseUrl": null,
+    "sourceUrl": null,
+    "localPdfUrl": null,
+    "researchGateUrl": null
+  },
+  "visibility": {
+    "hidden": false
+  },
+  "authors": [
+    {
+      "given": "Suad",
+      "family": "Mohammed Omar Abuzaid",
+      "orcid": "https://orcid.org/0009-0009-7795-2249",
+      "sequence": 1
+    }
+  ],
+  "publication": {
+    "year": 2026
+  },
+  "journal": {
+    "name": "Applied Neuropsychology: Adult",
+    "issn": "2327-9095",
+    "pages": {
+      "start": "1",
+      "end": "6"
+    }
+  }
+}
