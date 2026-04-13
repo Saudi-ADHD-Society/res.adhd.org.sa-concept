@@ -5,7 +5,7 @@
   "identifiers": {
     "doi": "10.18488/73.v14i2.4858"
   },
-  "title": "",
+  "title": "The impact of Saudi cultural norms on the diagnosis, treatment, and support of children with ADHD",
   "language": "English",
   "categories": [
     "Uncategorized"
@@ -13,11 +13,29 @@
   "access": {
     "status": "unknown",
     "licenseUrl": null,
-    "sourceUrl": null,
-    "localPdfUrl": null,
-    "researchGateUrl": null
+    "sourceUrl": "https://ideas.repec.org//a/pkp/hassle/v14y2026i2p200-214id4858.html",
+    "localPdfUrl": "library/doi__10.18488__73.v14i2.4858.pdf",
+    "researchGateUrl": "https://www.researchgate.net/publication/403583275_The_impact_of_Saudi_cultural_norms_on_the_diagnosis_treatment_and_support_of_children_with_ADHD"
   },
   "visibility": {
     "hidden": false
+  },
+  "abstract": "This study examines the impact of Saudi cultural norms on the diagnosis, treatment, and support of children with Attention-Deficit/Hyperactivity Disorder (ADHD) using a mixed-methods approach with a sequential explanatory design. Quantitative data were collected through a questionnaire completed by 113 parents, while qualitative insights were obtained from semi-structured interviews with three professionals. The data analysis employed techniques such as the mean, standard deviation, and independent samples t-test. The results revealed that cultural norms, fear of stigma, and limited awareness significantly shaped parental attitudes and decisions regarding ADHD care. The overall parental perception score was moderate (M = 1.99). Parents most frequently reported reliance on medication (M = 2.29) and behavioral therapy (M = 2.19), while awareness of ADHD symptoms prior to diagnosis was notably low (M = 1.45). Families often combined medical and behavioral treatments with traditional remedies such as herbal and spiritual healing. Furthermore, support from the broader community was rated low (M = 1.90), which compounded the challenges faced by families. The research underscores the importance of culturally sensitive ADHD management strategies that align with local traditions and values, while emphasizing collaboration between parents, educators, and healthcare providers to create a supportive environment for individuals with ADHD.",
+  "authors": [
+    {
+      "given": "Alnaim",
+      "family": "Mariam",
+      "orcid": "https://orcid.org/0000-0002-1673-5162",
+      "sequence": 1
+    }
+  ],
+  "publication": {
+    "year": 2026
+  },
+  "journal": {
+    "name": "Humanities and Social Sciences Letters",
+    "issn": "2312-5659",
+    "volume": "14",
+    "issue": "2"
   }
 }
