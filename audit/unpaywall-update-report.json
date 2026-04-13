@@ -1,12 +1,8 @@
 [
   {
-    "slug": "10.5455-medarh.2025.79.440-449",
-    "doi": "10.5455/medarh.2025.79.440-449",
-    "status": "updated",
-    "updatedFields": [
-      "access.status",
-      "access.sourceUrl",
-      "access.license"
-    ]
+    "slug": "10.18488-73.v14i2.4858",
+    "doi": "10.18488/73.v14i2.4858",
+    "status": "error",
+    "error": "DOI not found in Unpaywall"
   }
 ]
